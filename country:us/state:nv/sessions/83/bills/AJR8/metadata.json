@@ -1,0 +1,298 @@
+{
+  "legislative_session": "83",
+  "identifier": "AJR8",
+  "title": "Proposes to amend the Nevada Constitution to provide for the establishment of a business court. (BDR\u00a0C-668)",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Proposing to amend the Nevada Constitution to authorize the Legislature, to \nthe extent money is available, to provide by law for the establishment of a business court."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Resolution read. Referred to Committee on Judiciary. To printer.",
+      "date": "2025-02-19T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "From printer. To committee.",
+      "date": "2025-02-20T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Withdrawn from Committee on Judiciary.\rPlaced on Chief Clerk's desk.",
+      "date": "2025-03-25T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Taken from Chief Clerk's desk.\rPlaced on Resolution File.\rResolution read. Amended. (Amend. No. 149.) To printer.",
+      "date": "2025-04-15T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "From printer. To engrossment. Engrossed. First reprint.\rResolution read.\rPassed, as amended.\rTitle approved.\r(Yeas:\u00a040, Nays:\u00a02.)\rTo Senate.",
+      "date": "2025-04-16T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "In Senate.\rResolution read. Referred to Committee on Legislative Operations and Elections. To committee.",
+      "date": "2025-04-17T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "From committee: Amend, and do pass as amended.\rPlaced on Resolution File.\rTaken from Resolution File. Placed on Resolution File for next legislative day.",
+      "date": "2025-05-21T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Taken from Resolution File. Placed on Resolution File for next legislative day.",
+      "date": "2025-05-22T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Resolution read. Amended. (Amend. No. 643.)\rReprinting dispensed with.\rResolution read. Passed, as amended. Title approved, as amended. (Yeas:\u00a017, Nays:\u00a04.)\rTo printer.\rFrom printer. To re-engrossment. Re-engrossed. Second reprint. To Assembly.",
+      "date": "2025-05-23T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "In Assembly.",
+      "date": "2025-05-26T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Senate Amendment No. 643 concurred in. To enrollment.",
+      "date": "2025-05-27T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Enrolled and delivered to Secretary of State.\rFile No. 24.",
+      "date": "2025-05-29T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Joe Dalia",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Joe Dalia\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Shea Backus",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Shea Backus\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/AJR/AJR8.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 149",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/Amendments/A_AJR8_149.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reprint 1",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/AJR/AJR8_R1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 643",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/Amendments/A_AJR8_R1_643.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reprint 2",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/AJR/AJR8_R2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Enrolled",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/AJR/AJR8_EN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "AJR 8_Work Session_H Pepper Sturm_Senior Principal Policy Analyst_ Nevada Legislative Counsel Bureau_Research Division",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=77956&fileDownloadName=AJR8R1WSD.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AJR 8_ Amendment_ Assemblymember Joe Dalia",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=76847&fileDownloadName=AJR8_Amendment_AssemblymemberJoeDalia.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AJR 8 Conceptual Amendment submitted by Assemblymember Joe Dalia",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=72394&fileDownloadName=AJR8_0303_asmdalia_concepamndmnt.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AJR 8 Memo submitted by Assemblymember Joe Dalia and UNLV Prof. Ben Edwards",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=72395&fileDownloadName=AJR8_0303_asmdalia_billmemo.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12307/Overview",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "C-668"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nv/government",
+    "name": "Nevada",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nv"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:14:03Z"
+  }
+}

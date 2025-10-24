@@ -1,0 +1,498 @@
+{
+  "legislative_session": "83",
+  "identifier": "AB278",
+  "title": "Designates the month of July as Muslim American Heritage Month. (BDR\u00a019-924)",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT relating to periods of observance; designating the month of July of each year as \u00e2\u0080\u009cMuslim American Heritage Month\u00e2\u0080\u009d in this State; and providing other matters properly relating thereto."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Read first time. Referred to Committee on Government Affairs. To printer.",
+      "date": "2025-02-24T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "From printer. To committee.",
+      "date": "2025-02-25T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass.",
+      "date": "2025-04-03T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Read second time.",
+      "date": "2025-04-07T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Taken from General File. Placed on General File for next legislative day.",
+      "date": "2025-04-10T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Taken from General File. Placed on General File for next legislative day.",
+      "date": "2025-04-14T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Taken from General File. Placed on General File for next legislative day.",
+      "date": "2025-04-15T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Taken from General File. Placed on General File for next legislative day.",
+      "date": "2025-04-16T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Read third time. Passed. Title approved. Preamble adopted. (Yeas:\u00a028, Nays:\u00a014.) To Senate.",
+      "date": "2025-04-17T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "In Senate.",
+      "date": "2025-04-18T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Read first time. Referred to Committee on Government Affairs. To committee.",
+      "date": "2025-04-23T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass.\rPlaced on Second Reading File.\rRead second time.",
+      "date": "2025-05-19T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Taken from General File. Placed on General File for next legislative day.",
+      "date": "2025-05-20T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Read third time. Passed. Title approved. Preamble adopted. (Yeas:\u00a013, Nays:\u00a08.) To Assembly.",
+      "date": "2025-05-21T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "In Assembly. To enrollment.",
+      "date": "2025-05-22T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Enrolled and delivered to Governor.",
+      "date": "2025-05-27T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "enrolled",
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Vetoed by the Governor.\rReturned to Assembly with Governor's veto message.",
+      "date": "2025-06-02T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "(No further action taken.)",
+      "date": "2025-06-03T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brittney Miller",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Brittney Miller\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hanadi Nadeem",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Hanadi Nadeem\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cecelia Gonz\u00e1lez",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Cecelia Gonz\\u00e1lez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Erica Mosca",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Erica Mosca\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Natha Anderson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Natha Anderson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Venicia Considine",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Venicia Considine\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joe Dalia",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Joe Dalia\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Reuben D'Silva",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Reuben D'Silva\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jovan Jackson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jovan Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Venise Karris",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Venise Karris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Selena La Rue Hatch",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Selena La Rue Hatch\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daniele Monroe-Moreno",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Daniele Monroe-Moreno\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cinthia Zerme\u00f1o Moore",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Cinthia Zerme\\u00f1o Moore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Duy Nguyen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Duy Nguyen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Orentlicher",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"David Orentlicher\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Erica Roth",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Erica Roth\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Howard Watts",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Howard Watts\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/AB/AB278.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Enrolled",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/AB/AB278_EN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "AB278",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=78188&fileDownloadName=AB278.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB278_Opposition Letter_Shelli Shade",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=77522&fileDownloadName=AB278_OppositionLetter_ShelliShade.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB278_Opposition Letter_Ann Sweder",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=77417&fileDownloadName=AB278_OppositionLetter_AnnSweder.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB278_Opposition Letter_J S McElinney III DDS",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=77478&fileDownloadName=AB278_OppositionLetter_JSMcElinneyIIIDDS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB278_Opposition Letter_Cynthia Perine",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=77414&fileDownloadName=AB278_OppositionLetter_CynthiaPerine.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB278_Opposition Letter_Nancy Carlson_Reno Resident",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=77453&fileDownloadName=AB278_OppositionLetter_NancyCarlson_RenoResident.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 278 Work Session document",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=75101&fileDownloadName=0403_AB278_WS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 278 Opposition statement submitted by Susan Ruch",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=73661&fileDownloadName=AB278_0320_Amendment_Ruch.s.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12329/Overview",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "19-924"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nv/government",
+    "name": "Nevada",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nv"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:14:03Z"
+  }
+}

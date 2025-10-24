@@ -1,0 +1,395 @@
+{
+  "legislative_session": "83",
+  "identifier": "SB406",
+  "title": "Revises provisions relating to civil liability. (BDR\u00a03-1022)",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT relating to civil liability; providing immunity from civil liability to the State of Nevada, certain institutions of higher education and certain officers or employees thereof under certain circumstances; and providing other matters properly relating thereto."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Read first time. Referred to Committee on Judiciary. To printer.",
+      "date": "2025-03-20T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "From printer. To committee.",
+      "date": "2025-03-21T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "From committee: Amend, and do pass as amended.\rPlaced on Second Reading File.\rRead second time. Amended. (Amend. No. 143.) To printer.",
+      "date": "2025-04-14T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "From printer. To engrossment. Engrossed. First reprint.\rTaken from General File. Placed on General File for next legislative day.",
+      "date": "2025-04-15T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Read third time. Passed, as amended. Title approved. (Yeas:\u00a017, Nays:\u00a04.) To Assembly.",
+      "date": "2025-04-16T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "In Assembly.\rRead first time. Referred to Committee on Judiciary. To committee.",
+      "date": "2025-04-17T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass.",
+      "date": "2025-05-14T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Read second time.",
+      "date": "2025-05-15T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Taken from General File. Placed on General File for next legislative day.",
+      "date": "2025-05-16T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Taken from General File. Placed on General File for next legislative day.",
+      "date": "2025-05-19T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Taken from General File. Placed on General File for next legislative day.",
+      "date": "2025-05-20T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Read third time. Passed. Title approved. (Yeas:\u00a035, Nays:\u00a07.) To Senate.\rIn Senate.",
+      "date": "2025-05-21T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "To enrollment.",
+      "date": "2025-05-22T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Enrolled and delivered to Governor.",
+      "date": "2025-05-27T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "enrolled",
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.\rChapter 139.",
+      "date": "2025-05-30T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Senate Committee on Judiciary",
+      "classification": "sponsor",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Senate Committee on Judiciary\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/SB/SB406.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 143",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/Amendments/A_SB406_143.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reprint 1",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/SB/SB406_R1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Enrolled",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/SB/SB406_EN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "SB 406 Work Session Document",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=77686&fileDownloadName=SB406_0513_worksession_LCBLegal.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB 406_Work session document_Jered McDonald_Committee Policy Analyst_Research Division_Legislative Counsel Bureau",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=75176&fileDownloadName=SB406_Worksessiondocument_JeredMcDonald_CommitteePolicyAnalyst_ResearchDivision_LegislativeCounselBureau.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB406_Proposed amendment_Alejandro Rodriguez_Nevada System of Higher Education",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=74857&fileDownloadName=SB406_Proposedamendment_AlejandroRodriguez_NevadaSystemofHigherEducation.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB406_Support letter_Kent Ervin_Nevada Faculty Alliance",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=74858&fileDownloadName=SB406_Supportletter_KentErvin_NevadaFacultyAlliance.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB406_Oppostion letter_Janine Hansen_Nevada Families for Freedom",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=75064&fileDownloadName=SB406_Oppostionletter_JanineHansen_NevadaFamiliesforFreedom.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB406_Opposition letter_Jim DeGraffenreid_Nevada Republican National Committee",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=75063&fileDownloadName=SB406_Oppositionletter_JimDeGraffenreid_NevadaRepublicanNationalCommittee.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB406_ 75+ Opposition emails",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=74873&fileDownloadName=SB406_75Oppositionemails.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB406_Opposition letter_Reva Crump",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=74862&fileDownloadName=SB406_Oppositionletter_RevaCrump.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB406_Opposition letter_Paulette Hathaway",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=74861&fileDownloadName=SB406_Oppositionletter_PauletteHathaway.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB406_Opposition letter_Katie Banuelos_Libertarian Party of Nevada",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=74860&fileDownloadName=SB406_Oppositionletter_KatieBanuelos_LibertarianPartyofNevada.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB406_Opposition letter_Ann Sweder",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=74859&fileDownloadName=SB406_Oppositionleltter_AnnSweder.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12729/Overview",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "3-1022"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nv/government",
+    "name": "Nevada",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nv"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:14:03Z"
+  }
+}

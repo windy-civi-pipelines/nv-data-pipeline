@@ -1,0 +1,380 @@
+{
+  "legislative_session": "83",
+  "identifier": "AB237",
+  "title": "Authorizes any county to create the office of registrar of voters. (BDR\u00a020-363)",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT relating to counties; authorizing any county in this State to create the office of registrar of voters; and providing other matters properly relating thereto."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Read first time. Referred to Committee on Legislative Operations and Elections. To printer.",
+      "date": "2025-02-17T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "From printer. To committee.",
+      "date": "2025-02-18T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass.",
+      "date": "2025-03-26T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Read second time.",
+      "date": "2025-03-27T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Taken from General File. Placed on General File for next legislative day.",
+      "date": "2025-03-31T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Taken from General File. Placed on General File for next legislative day.",
+      "date": "2025-04-03T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Taken from General File. Placed on General File for next legislative day.",
+      "date": "2025-04-07T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Taken from General File. Placed on General File for next legislative day.",
+      "date": "2025-04-10T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Taken from General File. Placed on General File for next legislative day.",
+      "date": "2025-04-14T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Taken from General File. Placed on General File for next legislative day.",
+      "date": "2025-04-15T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Read third time. Passed. Title approved. (Yeas:\u00a027, Nays:\u00a015.) To Senate.",
+      "date": "2025-04-16T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "In Senate.\rRead first time. Referred to Committee on Legislative Operations and Elections. To committee.",
+      "date": "2025-04-17T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass.\rPlaced on Second Reading File.\rRead second time.",
+      "date": "2025-05-19T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Taken from General File. Placed on General File for next legislative day.",
+      "date": "2025-05-20T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Read third time. Passed. Title approved. (Yeas:\u00a013, Nays:\u00a08.) To Assembly.",
+      "date": "2025-05-21T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "In Assembly. To enrollment.",
+      "date": "2025-05-22T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Enrolled and delivered to Governor.",
+      "date": "2025-05-27T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "enrolled",
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Vetoed by the Governor.\rReturned to Assembly with Governor's veto message.",
+      "date": "2025-06-02T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "(No further action taken.)",
+      "date": "2025-06-03T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Assembly Committee on Government Affairs",
+      "classification": "sponsor",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Assembly Committee on Government Affairs\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/AB/AB237.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Enrolled",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/AB/AB237_EN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "AB 237_Work Session_H Pepper Sturm_Senior Principal Policy Analyst_Nevada Legislative Counsel Bureau_Research Division",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=77945&fileDownloadName=AB237WSD.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 237_ Opposition_ Amy Burgans_Douglas County Clerk-Treasurer",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=76583&fileDownloadName=AB237_Opposition_AmyBurgans_DouglasCountyClerkTreasurer.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 237_Opposition_Jim Hindle_Storey County Cleark & Treasurer",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=76667&fileDownloadName=AB237_Opposition_JimHindle_StoreyCountyClearkTreasurer.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 237_Opposition_Nancy Carlson",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=76605&fileDownloadName=AB237_Opposition_NancyCarlson.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB237 Work Session Document",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=74011&fileDownloadName=AB237_WS_doc.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "County Election Officials",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=72120&fileDownloadName=AB237_0225_CountyElectionOfficials_doc.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB237 Testimony in Support",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=72271&fileDownloadName=AB237_supltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB237 Testimony in Opposition",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=72310&fileDownloadName=AB237_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12257/Overview",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "20-363"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nv/government",
+    "name": "Nevada",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nv"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:14:03Z"
+  }
+}

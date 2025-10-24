@@ -1,0 +1,612 @@
+{
+  "legislative_session": "83",
+  "identifier": "SB96",
+  "title": "Designates January 27 as \u00e2\u0080\u009cInternational Holocaust Remembrance Day\u00e2\u0080\u009d in the State of Nevada. (BDR\u00a019-604)",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT relating to days of observance; designating January 27 of each year as \u00e2\u0080\u009cInternational Holocaust Remembrance Day\u00e2\u0080\u009d in the State of Nevada; and providing other matters properly relating thereto."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Prefiled. Referred to Committee on Government Affairs. To printer.",
+      "date": "2025-01-14T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "From printer.",
+      "date": "2025-01-16T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Read first time. To committee.",
+      "date": "2025-02-03T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass.",
+      "date": "2025-03-11T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Read second time.",
+      "date": "2025-03-12T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Read third time. Passed. Title approved. (Yeas:\u00a020, Nays:\u00a0None, Excused:\u00a01.) To Assembly.",
+      "date": "2025-03-13T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "In Assembly.\rRead first time. Referred to Committee on Government Affairs. To committee.",
+      "date": "2025-03-17T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "From committee: Amend, and do pass as amended.",
+      "date": "2025-04-10T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Read second time. Amended. (Amend. No. 124.) To printer.",
+      "date": "2025-04-14T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "From printer. To engrossment. Engrossed. First reprint.\rRead third time. Passed, as amended. Title approved. (Yeas:\u00a042, Nays:\u00a0None.) To Senate.\rIn Senate.",
+      "date": "2025-04-15T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Assembly Amendment No. 124 concurred in. To enrollment.",
+      "date": "2025-04-18T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Enrolled and delivered to Governor.",
+      "date": "2025-04-22T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "enrolled",
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2025-04-23T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Chapter 3.",
+      "date": "2025-04-24T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lisa Krasner",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Lisa Krasner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Roberta Lange",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Roberta Lange\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James Ohrenschall",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"James Ohrenschall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Julie Pazina",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Julie Pazina\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeff Stone",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Jeff Stone\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carrie Ann Buck",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Carrie Ann Buck\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nicole Cannizzaro",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicole Cannizzaro\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michelee \"Shelly\" Cruz-Crawford",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Michelee \\\"Shelly\\\" Cruz-Crawford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Skip Daly",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Skip Daly\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Fabian Do\u00f1ate",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Fabian Do\\u00f1ate\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marilyn Dondero Loop",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Marilyn Dondero Loop\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Ellison",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"John Ellison\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Edgar Flores",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Edgar Flores\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dina Neal",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Dina Neal\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rochelle Nguyen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Rochelle Nguyen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lori Rogich",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Lori Rogich\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Melanie Scheible",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Melanie Scheible\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Steinbeck",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"John Steinbeck\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Angela Taylor",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Angela Taylor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robin Titus",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Robin Titus\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Venicia Considine",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Venicia Considine\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rich DeLong",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Rich DeLong\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Reuben D'Silva",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Reuben D'Silva\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rebecca Edgeworth",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Rebecca Edgeworth\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tanya Flanagan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Tanya Flanagan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jovan Jackson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jovan Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Venise Karris",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Venise Karris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Heidi Kasama",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Heidi Kasama\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Duy Nguyen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Duy Nguyen\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/SB/SB96.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 124",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/Amendments/A_SB96_124.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reprint 1",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/SB/SB96_R1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Enrolled",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/SB/SB96_EN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "SB 96 Work Session document",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=75109&fileDownloadName=0403_SB96_WS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB 96 Presentation submitted by Elliot Malin, Esq., Founder & President, Alpine Strategies, LLC",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=74783&fileDownloadName=SB96_0401_Presentation_Malin.Esq_AlpineStrategies.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB 96 Support statement submitted by Annette Magnus representing the Asian Community Development Council",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=74920&fileDownloadName=SB96_0401_SupportStatement_Magnus.a_AsianCommDevCouncil.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB96_Letter of Support_ICAN Israeli-American Civic Action Network",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=73129&fileDownloadName=SB96_LetterofSupport_ICANIsraeliAmericanCivicActionNetwork.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB96_Support Letter_Diane Becker",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=72670&fileDownloadName=SB96_SupportLetter_DianeBecker.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB96_Support Letter_Stavros S Anthony_Nevada Lieutenant Governor",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=72592&fileDownloadName=SB96_SupportLetter_StavrosSAnthony_NevadaLieutenantGovernor.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB96_Support Letter_Sigal Chattah_Nevada Republican Party",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=72546&fileDownloadName=SB96_SupportLetter_SigalChattah_NevadaRepublicanParty.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB96_Remarks_International Holocaust Remembrance Day_Senator Lisa Krasner",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=72537&fileDownloadName=SB96_Remarks_InternationalHolocaustRemembranceDay_SenatorLisaKrasner.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB96_Support Letter_Ann Sweder",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=72465&fileDownloadName=SB96_SupportLetter_AnnSweder.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB96_Presentation_Elliot Malin_Govenors Advisory Council on Education to the Holocaust",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=72529&fileDownloadName=SB96_Presentation_ElliotMalin_GovenorsAdvisoryCouncilonEducationtotheHolocaust.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB96_Support Letter_Esther Toporek Finder_President_Holocaust Survivors Group of Southern Nevada and Generations of Shoah Nevada",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=72482&fileDownloadName=SB96_SupportLetter_EstherToporekFinder_President_HolocaustSurvivorsGroupofSouthernNevadaandGenerationsofShoahNevada.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11986/Overview",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "19-604"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nv/government",
+    "name": "Nevada",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nv"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:14:03Z"
+  }
+}

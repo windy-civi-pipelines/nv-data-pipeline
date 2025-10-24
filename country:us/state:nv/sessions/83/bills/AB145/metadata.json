@@ -1,0 +1,468 @@
+{
+  "legislative_session": "83",
+  "identifier": "AB145",
+  "title": "Revises provisions relating to veterans. (BDR\u00a037-77)",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT relating to veterans; prohibiting, with certain exceptions, a person from providing certain services related to veterans' benefits under certain circumstances; requiring the Division of Human Resource Management of the Department of Administration to develop certain programs for the hiring and mentoring of veterans; requiring the Administrator of the Division to employ a Veterans Coordinator; revising the persons who are eligible to receive, free of charge, an annual permit for entering all state parks and recreational areas to include the family members of certain veterans; providing a penalty; and providing other matters properly relating thereto."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Prefiled. Referred to Committee on Government Affairs. To printer.",
+      "date": "2025-01-29T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:05Z"
+      }
+    },
+    {
+      "description": "From printer.",
+      "date": "2025-01-31T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:05Z"
+      }
+    },
+    {
+      "description": "Read first time. To committee.",
+      "date": "2025-02-04T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:05Z"
+      }
+    },
+    {
+      "description": "Notice of eligibility for exemption.",
+      "date": "2025-02-23T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:05Z"
+      }
+    },
+    {
+      "description": "From committee: Amend, and do pass as amended.",
+      "date": "2025-04-10T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:05Z"
+      }
+    },
+    {
+      "description": "Read second time. Amended. (Amend. No. 70.)\rTaken from General File.\rRereferred to Committee on Ways and Means. Exemption effective.\rTo printer.",
+      "date": "2025-04-14T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:05Z"
+      }
+    },
+    {
+      "description": "From printer. To engrossment. Engrossed. First reprint. To committee.",
+      "date": "2025-04-15T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:05Z"
+      }
+    },
+    {
+      "description": "(No further action taken.)",
+      "date": "2025-06-03T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:05Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Reuben D'Silva",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Reuben D'Silva\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ken Gray",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ken Gray\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michelee \"Shelly\" Cruz-Crawford",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Michelee \\\"Shelly\\\" Cruz-Crawford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Roberta Lange",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Roberta Lange\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Venicia Considine",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Venicia Considine\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jill Dickman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jill Dickman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bert Gurr",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Bert Gurr\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Linda Hunt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Linda Hunt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jovan Jackson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jovan Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Venise Karris",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Venise Karris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Heidi Kasama",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Heidi Kasama\"}",
+      "organization_id": null
+    },
+    {
+      "name": "PK O\u00e2\u0080\u0099Neill",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"PK O\\u00e2\\u0080\\u0099Neill\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Edgar Flores",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Edgar Flores\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lori Rogich",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Lori Rogich\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/AB/AB145.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 70",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/Amendments/A_AB145_70.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reprint 1",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/AB/AB145_R1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "AB 145 Proposed Amendment submitted by Assemblymember D'Silva",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=79085&fileDownloadName=AB145_Proposed_Amendment_DSilvaR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 145 Conceptual Amendment submitted by Brownstein Hyatt Farber Schreck",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=79086&fileDownloadName=AB145_Conceptual_Amendment_Brownstein.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 145 Public Comment submitted by Fred E. Wagar, VFW Southern Nevada State Legislative Chair",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=78563&fileDownloadName=AB145_PubComm_WagarRedacted.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 145 Work Session document",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=74527&fileDownloadName=AB145_0331_WS_document.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 145 Conceptual Amendment submitted by Assemblymember Reuben D'Silva",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=72846&fileDownloadName=AB145_0310_Amendment_DSilva.r.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 145 Support statement submitted by Norman Allen",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=76874&fileDownloadName=AB145_0310_SupportStatement_Allen.n.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 145 VA Claims Insider Elite - Membership Agreement submitted by Norman Allen",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=73055&fileDownloadName=AB145_0310_VAClaimsInsider_MembershipAgreement_Allen.v.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 145 Support statement regarding Claim Shark Agreement submitted by Norman Allen",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=72849&fileDownloadName=AB145_0310_SupportStatement_Allen.n_SharkAgreement.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 145 Background Information submitted by Norman Allen",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=76873&fileDownloadName=AB145_0310_SupportStatement_allen.n_BackgroundInfo.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 145 Support statement submitted by David Sousa, VFW National Council Member",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=72880&fileDownloadName=AB145_0310_SupportStatement_Sousa.d_VFW.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 145 Support statement from Eric Lunda, President and Member, Board of Directors for the Veterans Transition Resource Center, and Support statement of Richard D. Keirn, Chief Executive Officer, Henerson Service Office, submitted by Frank Slaughter, Nevada Silver Haired Legislative Forum",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=73728&fileDownloadName=AB145_0310_SupportStatements_Slaughter.f_NVSilverHairedLegForum.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 145 Support statement submitted by Connie McMullen",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=72902&fileDownloadName=AB145_0310_SupportStatement_McMullen.c.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 145 Support statement submitted by Justin Chavez, Associate State Director, AARP Nevada for Volunteers and Veteran Outreach",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=76840&fileDownloadName=AB145_0310_SupportStatement_Chavez.j_AARP.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 145 Support statements submitted by multiple persons",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=76841&fileDownloadName=AB145_0310_SupportStatements_multiple.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 145 Opposition statements submitted by multiple persons",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=76875&fileDownloadName=AB145_0310_OppositionStatements_Multiple.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 145 Legal Memo submitted Harrison J. Bohn, Brownstein Hyatt Farber Schreck, LLP",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=72831&fileDownloadName=AB145_0310_Brownstein_etal_LegalMemo.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 145 Proposed Amendment submitted by Harrison J. Bohn, Brownstein Hyatt Farber Schreck, LLP, on behalf of Veteran Benefit Guide",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=72833&fileDownloadName=AB145_0310_ProposedAmendment_VeteranBenefitGuide.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12071/Overview",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "37-77"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nv/government",
+    "name": "Nevada",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nv"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:14:05Z"
+  }
+}

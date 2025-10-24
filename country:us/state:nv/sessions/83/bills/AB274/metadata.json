@@ -1,0 +1,308 @@
+{
+  "legislative_session": "83",
+  "identifier": "AB274",
+  "title": "Requires the waiver of certain fees for certain businesses related to veterans. (BDR\u00a07-728)",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT relating to state business licenses; requiring the Secretary of State to waive the fees charged for the issuance and renewal of a state business license for certain businesses related to veterans; and providing other matters properly relating thereto."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Read first time. Referred to Committee on Government Affairs. To printer.",
+      "date": "2025-02-24T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:05Z"
+      }
+    },
+    {
+      "description": "From printer. To committee.",
+      "date": "2025-02-25T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:05Z"
+      }
+    },
+    {
+      "description": "Notice of eligibility for exemption.",
+      "date": "2025-03-04T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:05Z"
+      }
+    },
+    {
+      "description": "From committee: Amend, and do pass as amended.",
+      "date": "2025-04-16T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:05Z"
+      }
+    },
+    {
+      "description": "Read second time. Amended. (Amend. No. 197.)\rTaken from General File.\rRereferred to Committee on Ways and Means. Exemption effective.\rTo printer.",
+      "date": "2025-04-17T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:05Z"
+      }
+    },
+    {
+      "description": "From printer. To engrossment. Engrossed. First reprint. To committee.",
+      "date": "2025-04-22T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:05Z"
+      }
+    },
+    {
+      "description": "(No further action taken.)",
+      "date": "2025-06-03T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:05Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "PK O\u00e2\u0080\u0099Neill",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"PK O\\u00e2\\u0080\\u0099Neill\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ken Gray",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ken Gray\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bert Gurr",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Bert Gurr\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Reuben D'Silva",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Reuben D'Silva\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rebecca Edgeworth",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Rebecca Edgeworth\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lisa Cole",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Lisa Cole\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jill Dickman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jill Dickman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Melissa Hardy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Melissa Hardy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Hibbetts",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Brian Hibbetts\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Heidi Kasama",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Heidi Kasama\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gregory Koenig",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Gregory Koenig\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Toby Yurek",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Toby Yurek\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/AB/AB274.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 197",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/Amendments/A_AB274_197.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reprint 1",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/AB/AB274_R1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "AB 274 Proposed Amendment submitted by Assemblymember O'Neill",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=78497&fileDownloadName=AB274ConceptualAmendment_ONeil.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 274 Work session document",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=75548&fileDownloadName=0408_AB274_WS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 274 Amendment submitted by Assemblymember PK O'Neill",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=73353&fileDownloadName=AB274_0318_Amendment_ONeill.p.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 274 Support statement submitted by Christine Johnson, Owner, Harper Professional Services, representing the City of Caliente",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=73352&fileDownloadName=AB274_0318_SupportStatement_Johnson.c_CityofCaliente.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 274 Support statement submitted by Evelyn Pacheco, President and Army Veteran, Nevada Women in Trades",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=73500&fileDownloadName=AB274_0218_SupportStatement_Pacheco.e.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12324/Overview",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "7-728"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nv/government",
+    "name": "Nevada",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nv"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:14:05Z"
+  }
+}

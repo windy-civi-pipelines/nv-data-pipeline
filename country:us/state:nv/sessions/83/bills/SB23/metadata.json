@@ -1,0 +1,109 @@
+{
+  "legislative_session": "83",
+  "identifier": "SB23",
+  "title": "Revises provisions related to the use of cellular telephones and other handheld wireless communications devices by minors while operating a motor vehicle. (BDR\u00a043-251)",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT relating to traffic laws; revising provisions relating to the use of cellular telephones and other handheld wireless communications devices by persons who are less than 18 years of age while operating a motor vehicle; providing a civil penalty; and providing other matters properly relating thereto."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Prefiled. Referred to Committee on Growth and Infrastructure. To printer.",
+      "date": "2024-11-07T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:04Z"
+      }
+    },
+    {
+      "description": "From printer.",
+      "date": "2024-11-12T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:04Z"
+      }
+    },
+    {
+      "description": "Read first time. To committee.",
+      "date": "2025-02-03T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:04Z"
+      }
+    },
+    {
+      "description": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+      "date": "2025-04-12T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:04Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Senate Committee on Growth and Infrastructure",
+      "classification": "sponsor",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Senate Committee on Growth and Infrastructure\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/SB/SB23.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11781/Overview",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "43-251"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nv/government",
+    "name": "Nevada",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nv"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:14:04Z"
+  }
+}

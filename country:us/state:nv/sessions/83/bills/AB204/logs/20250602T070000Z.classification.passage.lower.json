@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Read third time. Passed, as amended. Title approved, as amended. (Yeas:\u00a012, Nays:\u00a08, Excused:\u00a01.) To Assembly.\rIn Assembly.\rSenate Amendment No. 951 concurred in. To enrollment.",
+    "date": "2025-06-02T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB204"
+}

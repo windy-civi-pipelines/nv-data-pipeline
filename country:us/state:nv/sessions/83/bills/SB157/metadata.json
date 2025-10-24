@@ -1,0 +1,464 @@
+{
+  "legislative_session": "83",
+  "identifier": "SB157",
+  "title": "Revises provisions relating to the testing of cannabis and cannabis products. (BDR\u00a056-962)",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT relating to cannabis; requiring the Cannabis Compliance Board to adopt regulations setting forth requirements for licensees or registrants relating to the testing of cannabis and cannabis products; setting forth various requirements for the contents of those regulations; and providing other matters properly relating thereto."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Prefiled. Referred to Committee on Commerce and Labor.",
+      "date": "2025-02-02T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:02Z"
+      }
+    },
+    {
+      "description": "Read first time. To printer.",
+      "date": "2025-02-03T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:02Z"
+      }
+    },
+    {
+      "description": "From printer. To committee.",
+      "date": "2025-02-04T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:02Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass.",
+      "date": "2025-03-24T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:02Z"
+      }
+    },
+    {
+      "description": "Read second time.",
+      "date": "2025-03-26T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:02Z"
+      }
+    },
+    {
+      "description": "Read third time. Passed. Title approved. (Yeas:\u00a019, Nays:\u00a0None, Excused:\u00a01, Not voting:\u00a01.) To Assembly.",
+      "date": "2025-03-27T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:02Z"
+      }
+    },
+    {
+      "description": "In Assembly.\rRead first time. Referred to Committee on Judiciary. To committee.",
+      "date": "2025-03-31T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:02Z"
+      }
+    },
+    {
+      "description": "Waiver granted effective: May 22, 2025.\rFrom committee: Amend, and do pass as amended.\rPlaced on Second Reading File.\rRead second time. Amended. (Amend. No. 741.)\rTaken from General File.\rPlaced on Chief Clerk's desk.",
+      "date": "2025-05-23T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:02Z"
+      }
+    },
+    {
+      "description": "Taken from Chief Clerk's desk.\rTo printer.\rFrom printer. To engrossment. Engrossed. First reprint.\rTo Chief Clerk's desk.",
+      "date": "2025-05-26T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:02Z"
+      }
+    },
+    {
+      "description": "Taken from Chief Clerk's desk.\rPlaced on General File.\rRead third time. Amended. (Amend. No. 779.) To printer.",
+      "date": "2025-05-27T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:02Z"
+      }
+    },
+    {
+      "description": "From printer. To reengrossment. Reengrossed. Second reprint.\rRead third time. Passed, as amended. Title approved, as amended. (Yeas:\u00a031, Nays:\u00a011.) To Senate.",
+      "date": "2025-05-28T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:02Z"
+      }
+    },
+    {
+      "description": "In Senate.",
+      "date": "2025-05-29T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:02Z"
+      }
+    },
+    {
+      "description": "Assembly Amendment Nos. 741 and 779 concurred in. To enrollment.",
+      "date": "2025-05-30T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:02Z"
+      }
+    },
+    {
+      "description": "Enrolled and delivered to Governor.",
+      "date": "2025-06-01T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "enrolled",
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:02Z"
+      }
+    },
+    {
+      "description": "Approved by the Governor.",
+      "date": "2025-06-05T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:02Z"
+      }
+    },
+    {
+      "description": "Chapter 335.",
+      "date": "2025-06-06T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:02Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Edgar Flores",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Edgar Flores\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/SB/SB157.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 741",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/Amendments/A_SB157_741.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reprint 1",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/SB/SB157_R1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 779",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/Amendments/A_SB157_R1_779.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reprint 2",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/SB/SB157_R2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Enrolled",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/SB/SB157_EN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "SB 157 Work Session Document",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=78079&fileDownloadName=SB157_0516_worksession_LCBLegal.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB 157 Conceptual Amendment submitted by Jennifer Lanahan, Western Public Affairs",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=78434&fileDownloadName=SB157_0516_cncptlamndmnt_LanahanJ_WPA.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB 157 Supplemental Report titled \"Evaluating Lot Size Limits for Cannabis Products and Evidence of Effectively Protecting Public Health and Safety\" submitted by Dr. David Vaillencourt, The GMP Collective",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=76709&fileDownloadName=SB157_0429_lotsizereport_VaillencourtD_NCA.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB 157 Cannabis Lot Size Regulation Meeting History submitted by Will Adler, Principal, Silver State Government Relations",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=76714&fileDownloadName=SB157_0429_lotsizeregmeetings_AdlerW_SSGR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB 157 Batch Size and Consumer Safety Document submitted by Will Adler, Principal, Silver State Government Relations",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=76712&fileDownloadName=SB157_0429_batchcnsmrsaftydoc_AdlerW_SSGR.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB 157 Proposed Lot Size Changes submitted by Eduardo Martinez, Public Affairs Director, Western Public Affairs",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=76773&fileDownloadName=SB157_0429_prpsdlotsizechanges_MartinezE_WPA.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB157_Work Session Document_Patrick Ashton_Committee Policy Analyst",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=73827&fileDownloadName=SB157_WorkSessionDocument_PatrickAshton_CommitteePolicyAnalyst.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB157_Cannabis Lot Size Regulation Meeting History_Will Adler_Silver State Government Relations",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=72640&fileDownloadName=SB157_CannabisLotSizeRegulationMeetingHistory_WillAdler_SilverStateGovernmentRelations.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB157_Support Letter _Dr. Glenn Miller_Emeritus Prof. UNR Natural Resources and Environmental Science",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=72623&fileDownloadName=SB157_SupportLetter_Dr.GlennMiller_EmeritusProf.UNRNaturalResourcesandEnvironmentalScience.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB157_Support Letter_Tiffany Newbern-Johnson_Green Thumb Industries",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=72622&fileDownloadName=SB157_SupportLetter_TiffanyNewbernJohnson_GreenThumbIndustries.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB157_Batch Size and Consumer Safety Document_Will Adler_Silver State Governament Relations",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=72625&fileDownloadName=SB157_BatchSizeandConsumerSafetyDocument_WillAdler_SilverStateGovernamentRelations.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB157_Support Letter_Jamie Dickson_CLS Holdings USA Inc",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=72645&fileDownloadName=SB157_SupportLetter_JamieDickson_CLSHoldingsUSAInc.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB157-Support Letter_Neal Karkhanis_Verano",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=72643&fileDownloadName=SB157SupportLetter_NealKarkhanis_Verano.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB157_Written Testimony_Dave Vaillencourt_The GMP Collective",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=73117&fileDownloadName=SB157_WrittenTestimony_DaveVaillencourt_TheGMPCollective.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12138/Overview",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "56-962"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nv/government",
+    "name": "Nevada",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nv"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:14:02Z"
+  }
+}

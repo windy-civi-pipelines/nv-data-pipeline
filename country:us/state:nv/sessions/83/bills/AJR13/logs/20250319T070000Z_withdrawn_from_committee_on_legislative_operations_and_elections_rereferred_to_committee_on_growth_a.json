@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Withdrawn from Committee on Legislative Operations and Elections.\rRereferred to Committee on Growth and Infrastructure. To committee.",
+    "date": "2025-03-19T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AJR13"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Resolution read and adopted.\rPreamble adopted.\rTo Assembly.",
+    "date": "2025-05-22T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SCR6"
+}

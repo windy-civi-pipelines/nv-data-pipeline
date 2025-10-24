@@ -1,0 +1,75 @@
+{
+  "legislative_session": "83",
+  "identifier": "AB246-82",
+  "title": "Revises provisions governing elections. (BDR\u00a024-821)",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT relating to elections; requiring, under certain circumstances, the Secretary of State, county clerks and city clerks to ensure that voting materials and certain other elections information are posted on certain Internet websites and made available in certain languages; requiring the Secretary of State to establish a toll-free telephone number which may be used for a person to receive language interpretation or translation assistance relating to an election; requiring such telephone number to be posted at each polling place and on certain Internet websites and included on sample ballots; requiring the Secretary of State to include certain information related to a registered voter's preferred language on an application to register to vote; requiring county and city clerks to make a good faith effort to appoint election board officers who are bilingual; revising the information relating to registered voters that is required to be included on the statewide voter registration list; requiring, under certain circumstances, a mechanical voting system to list offices, candidates and ballot measures in a voter's preferred language; creating and setting forth the membership and duties of the Language Access Advisory Committee; making an appropriation to the Office of the Secretary of State for certain expenses relating to language access and the establishment of a toll-free telephone number; and providing other matters properly relating thereto."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Returned from Secretary of State.\rMade Special Order of Business for Thursday, February 6, 2025, at 12 p.m.",
+      "date": "2025-02-03T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Bill read. No further consideration.",
+      "date": "2025-02-06T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/AB/AB246_82.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11915/Overview",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "24-821"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nv/government",
+    "name": "Nevada",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nv"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:14:03Z"
+  }
+}

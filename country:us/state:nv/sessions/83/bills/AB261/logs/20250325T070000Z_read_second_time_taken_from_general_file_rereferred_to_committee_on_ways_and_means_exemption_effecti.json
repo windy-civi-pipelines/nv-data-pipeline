@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Read second time.\rTaken from General File.\rRereferred to Committee on Ways and Means. Exemption effective. To committee.",
+    "date": "2025-03-25T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-2",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB261"
+}

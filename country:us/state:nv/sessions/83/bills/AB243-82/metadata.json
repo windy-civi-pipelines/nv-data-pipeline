@@ -1,0 +1,75 @@
+{
+  "legislative_session": "83",
+  "identifier": "AB243-82",
+  "title": "Revises provisions relating to legislative affairs. (BDR\u00a017-366)",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT relating to legislative affairs; making various changes relating to legislative interim committees and presiding officers of those committees; revising provisions relating to Joint Interim Standing Committees; revising the deadline to submit an application to the Joint Interim Standing Committee on Education to serve on the Nevada State Teacher Recruitment and Retention Advisory Task Force; repealing the requirement that the Joint Interim Standing Committee on Health and Human Services review certain regulations; revising provisions relating to legislative committee members and staff regulated by the Nevada Lobbying Disclosure and Regulation Act and Nevada Financial Disclosure Act; and providing other matters properly relating thereto."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Returned from Secretary of State.\rMade Special Order of Business for Thursday, February 6, 2025, at 12 p.m.",
+      "date": "2025-02-03T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Bill read. No further consideration.",
+      "date": "2025-02-06T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/AB/AB243_82.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11914/Overview",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "17-366"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nv/government",
+    "name": "Nevada",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nv"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:14:03Z"
+  }
+}

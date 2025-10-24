@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Read third time. Passed, as amended. Title approved. (Yeas:\u00a029, Nays:\u00a013.) To Senate.",
+    "date": "2025-04-16T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB96"
+}

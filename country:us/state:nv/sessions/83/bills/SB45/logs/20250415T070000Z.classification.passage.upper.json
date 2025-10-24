@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "From printer. To engrossment. Engrossed. First reprint.\rRead third time. Passed, as amended. Title approved, as amended. (Yeas:\u00a021, Nays:\u00a0None.) To Assembly.",
+    "date": "2025-04-15T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB45"
+}

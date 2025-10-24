@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Approved by the Governor. Chapter 200.",
+    "date": "2025-05-31T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB330"
+}

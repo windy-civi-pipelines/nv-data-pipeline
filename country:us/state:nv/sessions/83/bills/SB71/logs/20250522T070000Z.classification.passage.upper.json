@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "From printer. To reengrossment. Reengrossed. Second reprint.\rRead third time. Passed, as amended. Title approved, as amended. (Yeas:\u00a033, Nays:\u00a09.) To Senate.\rIn Senate.",
+    "date": "2025-05-22T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB71"
+}

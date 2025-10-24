@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Taken from Resolution File. Placed on Resolution File for next legislative day.",
+    "date": "2025-05-22T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "AJR8"
+}

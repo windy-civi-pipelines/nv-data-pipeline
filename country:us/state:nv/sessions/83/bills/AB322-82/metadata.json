@@ -1,0 +1,75 @@
+{
+  "legislative_session": "83",
+  "identifier": "AB322-82",
+  "title": "Revises provisions relating to kratom products. (BDR\u00a052-763)",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT relating to public health; prohibiting a person from selling or offering to sell a kratom product to an end user unless the kratom product has been registered with the Division of Public and Behavioral Health of the Department of Health and Human Services; setting forth requirements for the registration of a kratom product with the Division; requiring a person who registers a kratom product to pay certain expenses and report certain information relating to the kratom product to the Division; authorizing the Division to adopt certain regulations governing kratom products; revising provisions establishing certain prohibited acts relating to kratom products; exempting a person who engages in certain acts relating to kratom products from certain criminal or legal penalties if certain substances in those products are designated as controlled substances; providing penalties; making an appropriation; and providing other matters properly relating thereto."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Returned from Secretary of State.\rMade Special Order of Business for Thursday, February 6, 2025, at 12 p.m.",
+      "date": "2025-02-03T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:04Z"
+      }
+    },
+    {
+      "description": "Bill read. No further consideration.",
+      "date": "2025-02-06T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:04Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/AB/AB322_82.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11920/Overview",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "52-763"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nv/government",
+    "name": "Nevada",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nv"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:14:04Z"
+  }
+}

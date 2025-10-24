@@ -1,0 +1,75 @@
+{
+  "legislative_session": "83",
+  "identifier": "SB246-82",
+  "title": "Revises provisions relating to governmental administration. (BDR\u00a0S-1028)",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT relating to governmental administration; requiring the City Councils of the City of Las Vegas and the City of North Las Vegas to establish a workforce development program; requiring the City Councils to receive updates on the programs and post information about the programs; requiring every public utility which is owned or operated by the City of Las Vegas or the City of North Las Vegas to include certain information in utility bills; requiring that certain information be posted in each building owned by the City of Las Vegas or the City of North Las Vegas; requiring the City Councils to submit an annual report to the Director of the Department of Employment, Training and Rehabilitation and the Director of the Legislative Counsel Bureau relating to the workforce development program; revising provisions relating to the Charter Committee, City Clerk and City Manager of the City of North Las Vegas; providing penalties; and providing other matters properly relating thereto."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Returned from Secretary of State.\rMade Special Order of Business for Tuesday, February 11, 2025, at 11:15 a.m..",
+      "date": "2025-02-03T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:05Z"
+      }
+    },
+    {
+      "description": "Bill read. No further consideration.",
+      "date": "2025-02-11T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:05Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/SB/SB246_82.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11934/Overview",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "S-1028"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nv/government",
+    "name": "Nevada",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nv"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:14:05Z"
+  }
+}

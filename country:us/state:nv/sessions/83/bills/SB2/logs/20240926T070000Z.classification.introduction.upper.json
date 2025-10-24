@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Prefiled. Referred to Committee on Government Affairs.",
+    "date": "2024-09-26T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB2"
+}

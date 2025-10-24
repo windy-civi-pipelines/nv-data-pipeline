@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "From committee: Do pass.\rPlaced on General File.",
+    "date": "2025-05-20T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB432"
+}

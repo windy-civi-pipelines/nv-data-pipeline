@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "From printer. To engrossment. Engrossed. First reprint.\rTo Senate.\rIn Senate.\rRead first time. Referred to Committee on Legislative Operations and Elections. To committee.",
+    "date": "2025-04-23T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB367"
+}

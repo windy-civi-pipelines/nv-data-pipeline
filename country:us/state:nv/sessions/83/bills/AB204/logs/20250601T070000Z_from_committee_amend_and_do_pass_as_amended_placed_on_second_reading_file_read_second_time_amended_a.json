@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "From committee: Amend, and do pass as amended.\rPlaced on Second Reading File.\rRead second time. Amended. (Amend. No. 951.) To printer.\rFrom printer. To re-engrossment. Re-engrossed. Fourth reprint.",
+    "date": "2025-06-01T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage",
+      "reading-2"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB204"
+}

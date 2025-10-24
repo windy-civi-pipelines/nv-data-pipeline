@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Taken from General File. Placed on Secretary's desk.\rTaken from Secretary's desk. Placed on General File.\rRead third time. Amended. (Amend. No. 942.)\rReprinting dispensed with.\rRead third time. Passed, as amended. Title approved, as amended. (Yeas:\u00a013, Nays:\u00a08.) To printer.\rFrom printer. To engrossment. Engrossed. First reprint. To Assembly.",
+    "date": "2025-06-02T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB495"
+}

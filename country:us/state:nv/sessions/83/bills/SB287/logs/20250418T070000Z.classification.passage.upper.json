@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Read third time. Passed, as amended. Title approved, as amended. (Yeas:\u00a013, Nays:\u00a07, Absent:\u00a01.) To printer.",
+    "date": "2025-04-18T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB287"
+}

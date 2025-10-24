@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "From printer. To engrossment. Engrossed. First reprint.\rTo Assembly.\rIn Assembly.\rRead first time. Referred to Committee on Government Affairs. To committee.",
+    "date": "2025-05-20T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB161"
+}

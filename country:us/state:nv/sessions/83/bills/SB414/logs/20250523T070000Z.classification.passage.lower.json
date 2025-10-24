@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Taken from Chief Clerk's desk.\rPlaced on General File.\rRead third time. Amended. (Amend. No. 777.)\rDispensed with reprinting.\rRead third time. Passed, as amended. Title approved, as amended. (Yeas:\u00a027, Nays:\u00a015.)\rTo printer.\rFrom printer. To engrossment. Engrossed. First reprint.\rTo Senate.\rIn Senate.",
+    "date": "2025-05-23T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB414"
+}

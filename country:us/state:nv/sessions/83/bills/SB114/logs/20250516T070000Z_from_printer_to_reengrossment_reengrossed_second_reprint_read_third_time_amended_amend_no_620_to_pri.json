@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "From printer. To reengrossment. Reengrossed. Second reprint.\rRead third time. Amended. (Amend. No. 620.) To printer.",
+    "date": "2025-05-16T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB114"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Resolution read and adopted. To printer.\rFrom printer. To Assembly.\rIn Assembly.\rResolution read and adopted. To Senate.",
+    "date": "2025-06-02T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SCR8"
+}

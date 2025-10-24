@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "To printer.\rFrom printer. To reengrossment. Reengrossed. Third reprint.\rTo enrollment.",
+    "date": "2025-06-03T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB301"
+}

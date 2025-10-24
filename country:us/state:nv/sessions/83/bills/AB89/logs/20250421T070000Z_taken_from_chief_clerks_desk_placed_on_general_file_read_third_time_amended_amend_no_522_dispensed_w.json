@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Taken from Chief Clerk's desk.\rPlaced on General File.\rRead third time. Amended. (Amend. No. 522.)\rDispensed with reprinting.",
+    "date": "2025-04-21T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB89"
+}

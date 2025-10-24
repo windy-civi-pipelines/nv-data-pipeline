@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Read first time. To committee.",
+    "date": "2025-02-03T08:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-1"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB85"
+}

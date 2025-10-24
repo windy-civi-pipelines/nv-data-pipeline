@@ -1,0 +1,197 @@
+{
+  "legislative_session": "83",
+  "identifier": "SB461",
+  "title": "Revises provisions relating to economic development. (BDR\u00a032-1070)",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT relating to economic development; revising provisions governing abatements of certain taxes and transferable tax credits for certain businesses; authorizing the Office of Economic Development to approve a partial deduction of certain taxes for a person who intends to locate or expand a high-impact business in this State; authorizing the Board of Economic Development to deny an application for an abatement, deduction or transferable tax credits under certain circumstances; authorizing the Office to issue transferable tax credits for the location or expansion of a child care facility in this State; creating the Community Infrastructure Grant Program; revising provisions governing the State Plan for Economic Development; revising provisions governing programs of workforce recruitment, assessment and training; requiring the Office of Economic Development and the Department of Employment, Training and Rehabilitation to establish a program to reimburse certain expenses of certain students of the Nevada System of Higher Education; providing for the establishment of a program to provide stipends to certain employers whose employees teach in programs of career and technical education; revising provisions governing programs of career and technical education; authorizing businesses that recycle certain materials or produce certain fuels from recycled materials to apply to the Office for a partial abatement of certain taxes; and providing other matters properly relating thereto."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Read first time. Referred to Committee on Revenue and Economic Development.\rWaiver granted effective: April 30, 2025.\rTo printer.",
+      "date": "2025-04-30T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "From printer. To committee.",
+      "date": "2025-05-01T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "(No further action taken.)",
+      "date": "2025-06-03T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Senate Committee on Revenue and Economic Development",
+      "classification": "sponsor",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Senate Committee on Revenue and Economic Development\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/SB/SB461.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "SB461_Letter of Support_Noelle Hardt_Vice President, Government Affairs_Boys & Girls Club Nevada Alliance",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=78714&fileDownloadName=SB461LetterofSupportBGC.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB461_Letter of Support_Peter Guzman_President and Chief Executive Officer_Latin Chamber of Commerce Nevada Inc.",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=78446&fileDownloadName=LatinChamberofCommerceSupportLetterSB461.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB461_Virginia Business Ready Sites Program Overview",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=78430&fileDownloadName=VirginiaBusinessReadySitesProgramVBRSPVirginiaEconomicDevelopmentPartnership.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB461_Statement_Michael Brown_Lincy Institute",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=78429&fileDownloadName=StatementonSB461TheLincyInstitute.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB461_Letter of Support_Justin Lichter_IRG Industrial Realty Group, LLC",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=78425&fileDownloadName=SB461Lettercopy1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB461_Conceptual Amendment_ Office of the Governor",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=78421&fileDownloadName=Amendments5.21.25DSMA.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB461_Letter of Support_Jordan Sommaggio_President and Chief Executive Officer_ YMCA of Southern Nevada",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=78418&fileDownloadName=YMCALetterofSupportforSB461.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB461_Letter of Support_Peter Zierhut_Vice President_Haas Automation",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=78396&fileDownloadName=HAAS.WrittenTestimony.5.10.2025v2002.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB461_Letter of Support_NevadaRDA",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=78395&fileDownloadName=SB461.NevadaRDASupportLetter.5.21.2025.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12864/Overview",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "32-1070"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nv/government",
+    "name": "Nevada",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nv"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:14:03Z"
+  }
+}

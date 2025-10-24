@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Approved by the Governor. Chapter 449.",
+    "date": "2025-06-09T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB358"
+}

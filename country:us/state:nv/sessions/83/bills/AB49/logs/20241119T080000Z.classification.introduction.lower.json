@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Prefiled. Referred to Committee on Education. To printer.",
+    "date": "2024-11-19T08:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB49"
+}

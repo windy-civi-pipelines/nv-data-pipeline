@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "From committee: Re-refer to Committee on Finance.\rNotice of eligibility for exemption.",
+    "date": "2025-03-24T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB108"
+}

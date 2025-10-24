@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "From committee: Do pass.",
+    "date": "2025-05-14T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB17"
+}

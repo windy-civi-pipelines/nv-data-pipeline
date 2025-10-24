@@ -1,0 +1,15 @@
+{
+  "action": {
+    "description": "From printer. To engrossment. Engrossed. First reprint.\rRead third time. Passed, as amended. Title approved. (Yeas:\u00a042, Nays:\u00a0None.) To Senate.\rIn Senate.\rRead first time. Referred to Committee on Government Affairs. To committee.",
+    "date": "2025-05-27T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage",
+      "reading-1",
+      "reading-3",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB554"
+}

@@ -1,0 +1,297 @@
+{
+  "identifier": "",
+  "motion_text": "Assembly (1st Reprint)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-23T07:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "83",
+  "bill": "93a58aee-b122-11f0-9705-327e6e3db4c0",
+  "bill_action": null,
+  "bill_identifier": "SB161",
+  "votes": [
+    {
+      "option": "no",
+      "voter_name": "Anderson, Natha",
+      "voter_id": "~{\"name\": \"Anderson, Natha\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Backus, Shea",
+      "voter_id": "~{\"name\": \"Backus, Shea\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brown-May, Tracy",
+      "voter_id": "~{\"name\": \"Brown-May, Tracy\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Carter, Max",
+      "voter_id": "~{\"name\": \"Carter, Max\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Cole, Lisa",
+      "voter_id": "~{\"name\": \"Cole, Lisa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Considine, Venicia",
+      "voter_id": "~{\"name\": \"Considine, Venicia\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dalia, Joe",
+      "voter_id": "~{\"name\": \"Dalia, Joe\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "DeLong, Rich",
+      "voter_id": "~{\"name\": \"DeLong, Rich\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Dickman, Jill",
+      "voter_id": "~{\"name\": \"Dickman, Jill\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "D'Silva, Reuben",
+      "voter_id": "~{\"name\": \"D'Silva, Reuben\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Edgeworth, Rebecca",
+      "voter_id": "~{\"name\": \"Edgeworth, Rebecca\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Flanagan, Tanya",
+      "voter_id": "~{\"name\": \"Flanagan, Tanya\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gallant, Danielle",
+      "voter_id": "~{\"name\": \"Gallant, Danielle\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gonz\u00e1lez, Cecelia",
+      "voter_id": "~{\"name\": \"Gonz\\u00e1lez, Cecelia\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Goulding, Heather",
+      "voter_id": "~{\"name\": \"Goulding, Heather\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Gray, Ken",
+      "voter_id": "~{\"name\": \"Gray, Ken\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Gurr, Bert",
+      "voter_id": "~{\"name\": \"Gurr, Bert\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hafen, Gregory",
+      "voter_id": "~{\"name\": \"Hafen, Gregory\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hansen, Alexis",
+      "voter_id": "~{\"name\": \"Hansen, Alexis\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hardy, Melissa",
+      "voter_id": "~{\"name\": \"Hardy, Melissa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hibbetts, Brian",
+      "voter_id": "~{\"name\": \"Hibbetts, Brian\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hunt, Linda",
+      "voter_id": "~{\"name\": \"Hunt, Linda\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jackson, Jovan",
+      "voter_id": "~{\"name\": \"Jackson, Jovan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jauregui, Sandra",
+      "voter_id": "~{\"name\": \"Jauregui, Sandra\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Karris, Venise",
+      "voter_id": "~{\"name\": \"Karris, Venise\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kasama, Heidi",
+      "voter_id": "~{\"name\": \"Kasama, Heidi\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Koenig, Gregory",
+      "voter_id": "~{\"name\": \"Koenig, Gregory\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "La Rue Hatch, Selena",
+      "voter_id": "~{\"name\": \"La Rue Hatch, Selena\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marzola, Elaine",
+      "voter_id": "~{\"name\": \"Marzola, Elaine\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Miller, Brittney",
+      "voter_id": "~{\"name\": \"Miller, Brittney\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Monroe-Moreno, Daniele",
+      "voter_id": "~{\"name\": \"Monroe-Moreno, Daniele\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Moore, Cinthia Zerme\u00f1o",
+      "voter_id": "~{\"name\": \"Moore, Cinthia Zerme\\u00f1o\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mosca, Erica",
+      "voter_id": "~{\"name\": \"Mosca, Erica\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nadeem, Hanadi",
+      "voter_id": "~{\"name\": \"Nadeem, Hanadi\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nguyen, Duy",
+      "voter_id": "~{\"name\": \"Nguyen, Duy\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "O\u00e2\u0080\u0099Neill, PK",
+      "voter_id": "~{\"name\": \"O\\u00e2\\u0080\\u0099Neill, PK\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Orentlicher, David",
+      "voter_id": "~{\"name\": \"Orentlicher, David\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Roth, Erica",
+      "voter_id": "~{\"name\": \"Roth, Erica\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Torres-Fossett, Selena",
+      "voter_id": "~{\"name\": \"Torres-Fossett, Selena\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Watts, Howard",
+      "voter_id": "~{\"name\": \"Watts, Howard\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Yeager, Steve",
+      "voter_id": "~{\"name\": \"Yeager, Steve\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Yurek, Toby",
+      "voter_id": "~{\"name\": \"Yurek, Toby\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 33
+    },
+    {
+      "option": "no",
+      "value": 9
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/FillSelectedBillTab?selectedTab=Votes&billKey=12179&_=1761342249.7393198",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

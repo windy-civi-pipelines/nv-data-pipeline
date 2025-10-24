@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "In Assembly. To enrollment.",
+    "date": "2025-05-31T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB105"
+}

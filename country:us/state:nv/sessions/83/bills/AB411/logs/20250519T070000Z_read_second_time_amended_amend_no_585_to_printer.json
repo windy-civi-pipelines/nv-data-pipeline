@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Read second time. Amended. (Amend. No. 585.) To printer.",
+    "date": "2025-05-19T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-2"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB411"
+}

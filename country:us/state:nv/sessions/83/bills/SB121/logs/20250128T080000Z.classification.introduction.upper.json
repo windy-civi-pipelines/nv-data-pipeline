@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Prefiled. Referred to Committee on Judiciary. To printer.",
+    "date": "2025-01-28T08:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB121"
+}

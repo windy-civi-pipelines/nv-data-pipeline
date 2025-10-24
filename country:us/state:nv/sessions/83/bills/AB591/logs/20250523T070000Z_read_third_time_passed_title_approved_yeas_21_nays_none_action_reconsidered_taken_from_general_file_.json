@@ -1,0 +1,15 @@
+{
+  "action": {
+    "description": "Read third time. Passed. Title approved. (Yeas:\u00a021, Nays:\u00a0None.)\rAction reconsidered.\rTaken from General File. Placed on Secretary's desk.\rTaken from Secretary's desk. Placed on General File.\rRead third time. Passed. Title approved. (Yeas:\u00a020, Nays:\u00a0None, Excused:\u00a01.) To Assembly.\rIn Assembly. To enrollment.\rEnrolled and delivered to Governor.",
+    "date": "2025-05-23T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "enrolled",
+      "executive-receipt",
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB591"
+}

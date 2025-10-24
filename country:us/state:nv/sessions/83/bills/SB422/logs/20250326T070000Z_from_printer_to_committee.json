@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "From printer. To committee.",
+    "date": "2025-03-26T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB422"
+}

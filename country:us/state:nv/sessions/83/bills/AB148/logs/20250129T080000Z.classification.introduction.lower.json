@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Prefiled. Referred to Committee on Legislative Operations and Elections. To printer.",
+    "date": "2025-01-29T08:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB148"
+}

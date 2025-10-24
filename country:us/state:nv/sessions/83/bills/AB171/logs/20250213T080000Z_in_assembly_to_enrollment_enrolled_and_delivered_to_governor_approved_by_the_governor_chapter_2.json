@@ -1,0 +1,15 @@
+{
+  "action": {
+    "description": "In Assembly. To enrollment.\rEnrolled and delivered to Governor.\rApproved by the Governor. Chapter 2.",
+    "date": "2025-02-13T08:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "enrolled",
+      "executive-receipt",
+      "executive-signature",
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB171"
+}

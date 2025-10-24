@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Resolution read. Passed. Title approved. Preamble adopted. (Yeas:\u00a021, Nays:\u00a0None.) To Assembly.",
+    "date": "2025-04-15T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SJR8"
+}

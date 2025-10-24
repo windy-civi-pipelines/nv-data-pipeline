@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Read third time.\rTaken from General File. Placed on General File for next legislative day.",
+    "date": "2025-05-19T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB35"
+}

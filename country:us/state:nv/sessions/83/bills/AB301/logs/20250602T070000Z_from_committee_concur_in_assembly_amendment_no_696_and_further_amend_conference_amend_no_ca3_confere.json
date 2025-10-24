@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "From committee: Concur in Assembly Amendment No. 696 and further amend. (Conference Amend. No. CA3.) Conference report adopted by Senate.\rConference report adopted by Assembly.",
+    "date": "2025-06-02T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB301"
+}

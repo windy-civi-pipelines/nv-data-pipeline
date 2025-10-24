@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Read third time. Passed. Title approved. (Yeas:\u00a013, Nays:\u00a07, Excused:\u00a01.)\rTo Assembly.",
+    "date": "2025-06-02T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB328"
+}

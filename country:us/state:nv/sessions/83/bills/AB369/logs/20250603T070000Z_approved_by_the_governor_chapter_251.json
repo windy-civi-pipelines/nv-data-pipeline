@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Approved by the Governor.\rChapter 251.",
+    "date": "2025-06-03T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB369"
+}

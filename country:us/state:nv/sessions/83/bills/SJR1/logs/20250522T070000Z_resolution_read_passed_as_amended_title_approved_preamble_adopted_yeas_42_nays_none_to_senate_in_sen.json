@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Resolution read. Passed, as amended. Title approved. Preamble adopted. (Yeas:\u00a042, Nays:\u00a0None.) To Senate.\rIn Senate.",
+    "date": "2025-05-22T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SJR1"
+}

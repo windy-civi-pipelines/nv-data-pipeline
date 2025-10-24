@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "In Senate.",
+    "date": "2025-06-01T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB329"
+}

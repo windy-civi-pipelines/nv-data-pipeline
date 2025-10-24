@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "From committee: Amend, and do pass as amended.\rPlaced on Second Reading File.\rRead second time. Amended. (Amend. No. 926.)\rRereferred to Committee on Ways and Means.\rTo printer.\rFrom printer. To reengrossment. Reengrossed. Third reprint.\rTo committee.",
+    "date": "2025-05-31T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage",
+      "reading-2",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB74"
+}

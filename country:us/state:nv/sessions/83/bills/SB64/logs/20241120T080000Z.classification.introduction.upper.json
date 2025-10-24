@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Prefiled. Referred to Committee on Health and Human Services. To printer.",
+    "date": "2024-11-20T08:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB64"
+}

@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "In Assembly.\rRead first time. Referred to Committee on Revenue. To committee.",
+    "date": "2025-04-21T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB196"
+}

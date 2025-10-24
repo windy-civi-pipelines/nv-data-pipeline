@@ -1,0 +1,241 @@
+{
+  "legislative_session": "83",
+  "identifier": "SB415",
+  "title": "Authorizes the installation and use of an automated traffic enforcement system under certain circumstances. (BDR\u00a043-422)",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT relating to public safety; authorizing the installation and use of an automated traffic enforcement system by a governmental entity under certain circumstances; setting forth the requirements for the installation and use of an automated traffic enforcement system; establishing provisions governing the issuance of a civil infraction citation based on evidence detected by an automated traffic enforcement system; requiring the Department of Transportation to adopt certain regulations; requiring the Advisory Committee on Traffic Safety to provide certain recommendations to the Department; prohibiting an insurer from increasing rates for motor vehicle insurance under certain circumstances; and providing other matters properly relating thereto."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Read first time. Referred to Committee on Growth and Infrastructure. To printer.",
+      "date": "2025-03-20T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "From printer. To committee.",
+      "date": "2025-03-21T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+      "date": "2025-04-12T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Senate Committee on Growth and Infrastructure",
+      "classification": "sponsor",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Senate Committee on Growth and Infrastructure\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/SB/SB415.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "SB415_Opposition Letter_Ashley Dodson_CEO, Anchored Perspectives_NAACP",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=74816&fileDownloadName=SB415_OppositionLetter_AshleyDodson_CEOAnchoredPerspectives_NAACP.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB415_Support Letter_Amy Cohen_Founder and President_Families for Safe Streets",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=74797&fileDownloadName=SB415_SupportLetter_AmyCohen_FounderandPresident_FamiliesforSafeStreets.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB415_A Primer on Red Light Running Summary_Jay Beeber_Executive Director of Policy_National Motorists Association",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=74580&fileDownloadName=SB415_APrimeronRedLightRunningSummary_JayBeeber_ExecutiveDirectorofPolicy_NationalMotoristsAssociation.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB415_A Primer on Red Light Running_Jay Beeber_Executive Director of Policy_National Motorists Association",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=74579&fileDownloadName=SB415_APrimeronRedLightRunning_JayBeeber_ExecutiveDirectorofPolicy_NationalMotoristsAssociation.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB415_Conceptual Amendment_Andrew Bennett_Chair_NVACTS",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=74540&fileDownloadName=SB415_ConceptualAmendment_AndrewBennett_Chair_NVACTS.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB415_Opposition Letter_Yesenia Moya_Constituent",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=74820&fileDownloadName=SB415_OppositionLetter_YeseniaMoya_Constituent.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB415_ATE Information Document_Nick Shepack_NV State Director_FFJC",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=74578&fileDownloadName=SB415_ATEInformationDocument_NickShepack_NVStateDirector_FFJC.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB415_Fair Warning Guidence on ATE_Nick Shepack_NV State Director_FFJC",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=74577&fileDownloadName=SB415_FairWarningGuidenceonATE_NickShepack_NVStateDirector_FFJC.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB415_FFJC Report on ATE_Nick Shepack_NV State Director_FFJC",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=74576&fileDownloadName=SB415_FFJCReportonATE_NickShepack_NVStateDirector_FFJC.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB415_How Automated Ticketing Porgrams Burden Low Income and Minority Communities_Jay Beeber_Executive Director of Policy_National Motorists Association",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=74575&fileDownloadName=SB415_HowAutomatedTicketingPorgramsBurdenLowIncomeandMinorityCommunities_JayBeeber_ExecutiveDirectorofPolicy_NationalMotoristsAssociation.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB415_Opposition Letter_Jay Beeber_Executive Director of Policy_National Motorists Association",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=74574&fileDownloadName=SB415_OppositionLetter_JayBeeber_ExecutiveDirectorofPolicy_NationalMotoristsAssociation.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB415_Opposition Presentation_Nick Shepack, Athar Haseebullah, Paloma Guerrero_NV State Director, ED, Deputy Public Defender_Fines and Fees Justice Center, ACLU of NV, Clark County Public Defenders Office",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=74573&fileDownloadName=SB415_OppositionPresentation_NickShepackAtharHaseebullahPalomaGuerrero_NVStateDirectorEDDeputyPublicDefender_FinesandFeesJusticeCenterACLUofNVClarkCountyPublicDefendersOffice.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB415_Support Letter_Thomas Chapman_Board Member_Natioal Transportation Safety Board",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/ExhibitDocument/OpenExhibitDocument?exhibitId=74539&fileDownloadName=SB415_SupportLetter_ThomasChapman_BoardMember_NatioalTransportationSafetyBoard.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12749/Overview",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "43-422"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nv/government",
+    "name": "Nevada",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nv"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:14:03Z"
+  }
+}

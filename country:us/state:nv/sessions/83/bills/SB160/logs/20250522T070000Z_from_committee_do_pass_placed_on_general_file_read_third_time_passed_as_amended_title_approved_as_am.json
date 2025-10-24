@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "From committee: Do pass.\rPlaced on General File.\rRead third time. Passed, as amended. Title approved, as amended. (Yeas:\u00a013, Nays:\u00a08.) To Assembly.",
+    "date": "2025-05-22T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage",
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB160"
+}

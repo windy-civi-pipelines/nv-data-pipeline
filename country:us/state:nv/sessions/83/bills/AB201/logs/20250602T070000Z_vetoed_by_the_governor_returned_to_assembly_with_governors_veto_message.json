@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Vetoed by the Governor.\rReturned to Assembly with Governor's veto message.",
+    "date": "2025-06-02T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "executive-veto"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB201"
+}

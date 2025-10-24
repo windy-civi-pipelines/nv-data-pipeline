@@ -1,0 +1,85 @@
+{
+  "legislative_session": "83",
+  "identifier": "AB218-82",
+  "title": "Revises provisions governing landlords and tenants. (BDR\u00a010-136)",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT relating to real property; requiring a landlord or his or her agent to provide a tenant at least one method of paying rent or any other fee or charge that meets certain requirements; authorizing a tenant to bring a civil action against a landlord who has committed certain violations; prohibiting a landlord from charging a tenant a fee to make a payment through an Internet website or online portal that exceeds the amount of any fee charged by the operator of the Internet website or online portal for the use of such service; requiring a written rental agreement to separately identify such a fee under certain circumstances; requiring a landlord or his or her agent to provide, upon request, a copy of a written rental agreement to a prospective tenant; requiring certain references to the amount of rent due under a rental agreement to be set forth in a certain manner; and providing other matters properly relating thereto."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Returned from Secretary of State.\rMade Special Order of Business for Thursday, February 6, 2025, at 12 p.m.",
+      "date": "2025-02-03T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:04Z"
+      }
+    },
+    {
+      "description": "Bill read. Placed on Chief Clerk's desk.",
+      "date": "2025-02-06T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:04Z"
+      }
+    },
+    {
+      "description": "(No further action taken.)",
+      "date": "2025-06-03T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:04Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/AB/AB218_82.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11911/Overview",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "10-136"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nv/government",
+    "name": "Nevada",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nv"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:14:04Z"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "action": {
+    "description": "From printer. To engrossment. Engrossed. First reprint.\rTo Senate.\rIn Senate.\rRead first time. Referred to Committee on Legislative Operations and Elections. To committee.\rFrom committee: Do pass.\rPlaced on Second Reading File.\rRead second time.",
+    "date": "2025-05-31T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage",
+      "reading-1",
+      "reading-2",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB597"
+}

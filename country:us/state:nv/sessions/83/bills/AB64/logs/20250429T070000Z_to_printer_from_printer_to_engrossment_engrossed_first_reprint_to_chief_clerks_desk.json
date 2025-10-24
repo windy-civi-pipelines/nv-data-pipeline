@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "To printer.\rFrom printer. To engrossment. Engrossed. First reprint.\rTo Chief Clerk's desk.",
+    "date": "2025-04-29T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "AB64"
+}

@@ -1,0 +1,171 @@
+{
+  "identifier": "",
+  "motion_text": "Senate (1st Reprint)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-29T07:00:00+00:00",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "83",
+  "bill": "4c3cc120-b11a-11f0-9705-327e6e3db4c0",
+  "bill_action": null,
+  "bill_identifier": "AB560",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Buck, Carrie Ann",
+      "voter_id": "~{\"name\": \"Buck, Carrie Ann\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cannizzaro, Nicole",
+      "voter_id": "~{\"name\": \"Cannizzaro, Nicole\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cruz-Crawford, Michelee \"Shelly\"",
+      "voter_id": "~{\"name\": \"Cruz-Crawford, Michelee \\\"Shelly\\\"\"}",
+      "note": ""
+    },
+    {
+      "option": "excused",
+      "voter_name": "Daly, Skip",
+      "voter_id": "~{\"name\": \"Daly, Skip\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Do\u00f1ate, Fabian",
+      "voter_id": "~{\"name\": \"Do\\u00f1ate, Fabian\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dondero Loop, Marilyn",
+      "voter_id": "~{\"name\": \"Dondero Loop, Marilyn\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ellison, John",
+      "voter_id": "~{\"name\": \"Ellison, John\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Flores, Edgar",
+      "voter_id": "~{\"name\": \"Flores, Edgar\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hansen, Ira",
+      "voter_id": "~{\"name\": \"Hansen, Ira\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Krasner, Lisa",
+      "voter_id": "~{\"name\": \"Krasner, Lisa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lange, Roberta",
+      "voter_id": "~{\"name\": \"Lange, Roberta\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Neal, Dina",
+      "voter_id": "~{\"name\": \"Neal, Dina\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nguyen, Rochelle",
+      "voter_id": "~{\"name\": \"Nguyen, Rochelle\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ohrenschall, James",
+      "voter_id": "~{\"name\": \"Ohrenschall, James\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pazina, Julie",
+      "voter_id": "~{\"name\": \"Pazina, Julie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rogich, Lori",
+      "voter_id": "~{\"name\": \"Rogich, Lori\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Scheible, Melanie",
+      "voter_id": "~{\"name\": \"Scheible, Melanie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Steinbeck, John",
+      "voter_id": "~{\"name\": \"Steinbeck, John\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stone, Jeff",
+      "voter_id": "~{\"name\": \"Stone, Jeff\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Taylor, Angela",
+      "voter_id": "~{\"name\": \"Taylor, Angela\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Titus, Robin",
+      "voter_id": "~{\"name\": \"Titus, Robin\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 20
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 1
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/FillSelectedBillTab?selectedTab=Votes&billKey=12883&_=1761338693.2305005",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

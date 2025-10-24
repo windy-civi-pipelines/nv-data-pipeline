@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Enrolled and delivered to Governor.",
+    "date": "2025-05-29T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "enrolled",
+      "executive-receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB486"
+}

@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "From committee: Amend, and do pass as amended.\rPlaced on Second Reading File.\rTaken from Second Reading File.\rPlaced on Chief Clerk's desk.\rTaken from Chief Clerk's desk.\rPlaced on Second Reading File.\rRead second time. Amended. (Amend. No. 385.)\rDispensed with reprinting.",
+    "date": "2025-04-21T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage",
+      "reading-2"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB497"
+}

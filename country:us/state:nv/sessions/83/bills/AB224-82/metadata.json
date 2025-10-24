@@ -1,0 +1,75 @@
+{
+  "legislative_session": "83",
+  "identifier": "AB224-82",
+  "title": "Revises provisions governing collective bargaining. (BDR\u00a023-155)",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT relating to collective bargaining; authorizing collective bargaining for certain state employees; providing for the recognition of professional organizations; providing for the establishment of bargaining units and the designation of exclusive representatives; establishing certain rights for professional organizations and professional employees; establishing procedures for collective bargaining and for making collective bargaining agreements; authorizing the Government Employee-Management Relations Board to collect certain fees; prohibiting certain practices relating to collective bargaining; authorizing a state professional employer to use the services of the Division of Human Resource Management of the Department of Administration and the Attorney General for certain purposes; authorizing the Board of Regents of the University of Nevada to conduct collective bargaining negotiations and enter into collective bargaining agreements with certain employees; providing a civil penalty; making appropriations; and providing other matters properly relating thereto."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Returned from Secretary of State.\rMade Special Order of Business for Thursday, February 6, 2025, at 12 p.m.",
+      "date": "2025-02-03T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    },
+    {
+      "description": "Bill read. No further consideration.",
+      "date": "2025-02-06T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-24T23:14:03Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/83rd2025/Bills/AB/AB224_82.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11912/Overview",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "23-155"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nv/government",
+    "name": "Nevada",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nv"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T23:14:03Z"
+  }
+}

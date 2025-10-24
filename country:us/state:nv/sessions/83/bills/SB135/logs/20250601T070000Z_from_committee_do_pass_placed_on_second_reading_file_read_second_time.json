@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "From committee: Do pass.\rPlaced on Second Reading File.\rRead second time.",
+    "date": "2025-06-01T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage",
+      "reading-2"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB135"
+}

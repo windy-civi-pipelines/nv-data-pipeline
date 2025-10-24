@@ -1,0 +1,16 @@
+{
+  "action": {
+    "description": "From committee: Do pass, as amended.\rPlaced on General File.\rRead third time. Passed, as amended. Title approved. (Yeas:\u00a040, Nays:\u00a01, Excused:\u00a01.) To Senate.\rIn Senate.\rRead first time. Referred to Committee on Health and Human Services. To committee.",
+    "date": "2025-05-26T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage",
+      "passage",
+      "reading-1",
+      "reading-3",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB474"
+}

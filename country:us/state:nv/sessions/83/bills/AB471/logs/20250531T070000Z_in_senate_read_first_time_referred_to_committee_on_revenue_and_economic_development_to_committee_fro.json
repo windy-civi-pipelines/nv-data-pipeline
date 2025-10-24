@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "In Senate.\rRead first time. Referred to Committee on Revenue and Economic Development. To committee.\rFrom committee: Do pass.",
+    "date": "2025-05-31T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage",
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB471"
+}

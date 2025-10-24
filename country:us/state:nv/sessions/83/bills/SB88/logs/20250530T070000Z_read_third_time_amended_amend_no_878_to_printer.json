@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Read third time. Amended. (Amend. No. 878.) To printer.",
+    "date": "2025-05-30T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB88"
+}

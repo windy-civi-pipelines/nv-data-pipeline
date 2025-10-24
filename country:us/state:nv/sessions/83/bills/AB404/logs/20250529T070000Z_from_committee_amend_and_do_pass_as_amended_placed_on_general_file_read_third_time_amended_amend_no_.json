@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "From committee: Amend, and do pass as amended.\rPlaced on General File.\rRead third time. Amended. (Amend. No. 859.) To printer.",
+    "date": "2025-05-29T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB404"
+}

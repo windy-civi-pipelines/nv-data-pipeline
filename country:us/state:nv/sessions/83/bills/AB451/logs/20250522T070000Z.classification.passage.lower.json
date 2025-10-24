@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Read third time. Passed, as amended. Title approved. Preamble adopted. (Yeas:\u00a016, Nays:\u00a05.)\rAction of passage reconsidered.\rRead third time. Passed, as amended. Title approved. Preamble adopted. (Yeas:\u00a015, Nays:\u00a06.) To printer.",
+    "date": "2025-05-22T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB451"
+}

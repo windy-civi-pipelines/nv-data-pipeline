@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "From committee: Amend, and do pass as amended.\rPlaced on Second Reading File.\rAmendment No. 440 withdrawn.\rRead second time.\rTaken from General File.\rRereferred to Committee on Ways and Means. Exemption effective. To committee.",
+    "date": "2025-04-22T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage",
+      "reading-2",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB376"
+}
