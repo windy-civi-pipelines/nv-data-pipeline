@@ -1,0 +1,1213 @@
+Title: ASSEMBLY BILL NO. 432–ASSEMBLYMEMBER YUREK
+Official Title: ASSEMBLY BILL NO. 432–ASSEMBLYMEMBER YUREK
+Number of Sections: 2
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+A.B. 432
+MARCH 13, 2025
+____________
+Referred to Committee on Government Affairs
+SUMMARY—Revises provisions relating to governmental
+administration. (BDR 19-551)
+FISCAL NOTE: Effect on Local Government: May have Fiscal Impact.
+Effect on the State: Yes.
+~
+EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+AN ACT relating to governmental administration; creating and
+setting forth the duties of the Security Operations Center
+within the Office of the Chief Information Officer within
+the Office of the Governor; authorizing the Chief
+Information Officer to apply for and accept federal grants
+for purposes of supporting the Security Operations
+Center; requiring the Security Operations Center to
+prepare an annual report that assesses the effectiveness of
+the Security Operations Center; establishing the
+Cybersecurity Talent Pipeline Program; revising the
+purpose of the Office; authorizing the board of trustees of
+a school district to use the services and equipment of the
+Office; making various other changes relating to the
+cybersecurity of governmental entities; and providing
+other matters properly relating thereto.
+Legislative Counsel’s Digest:
+1 Existing law provides that the Office of the Chief Information Officer within
+2 the Office of the Governor is composed of: (1) the Administration Unit; (2) the
+3 Client Services Unit; (3) the Computing Services Unit; (4) the Network Services
+4 Unit, including a Network Transportation Services Group and a
+5 Telecommunications Group; (5) the Office of Information Security; and (6) certain
+6 other units, groups, divisions or departments deemed necessary by the Chief
+7 Information Officer. (NRS 242.080) Section 12 of this bill creates the Security
+8 Operations Center in the Office of the Chief Information Officer.
+9 Existing law: (1) requires the Office to provide certain state agencies and
+10 elected officers with all their required design of information systems; (2) authorizes
+11 certain other state agencies to negotiate with the Office for its services or the use of
+12 its equipment; and (3) authorizes, upon request, the Office to provide certain
+-
+*AB432*
+– 2 –
+13 services to state agencies not under the control of the Governor and local
+14 governmental agencies. (NRS 242.131, 242.141) Section 15 of this bill requires the
+15 Security Operations Center to provide certain state agencies and elected officers
+16 with cybersecurity services, including real-time monitoring of cyberinfrastructure,
+17 threat mitigation, incident response and cybersecurity enforcement. Sections 15
+18 and 24 of this bill reorganize provisions that authorize certain state agencies and
+19 local governmental agencies to use the equipment and services of the Office.
+20 Section 9 of this bill revises the definition of “local governmental agency” to
+21 include the board of trustees of a school district, which has the effect of authorizing
+22 the board of trustees of a school district to use the services of the Office pursuant to
+23 section 15. Section 10 of this bill amends the definition of “using agency” so that
+24 the term includes any state agency, state officer or local governmental agency that
+25 uses the services and equipment of the Office.
+26 Section 2 of this bill requires the Security Operations Center to develop certain
+27 policies and procedures to: (1) combat the increasing threats to using agencies
+28 posed by cybercriminals; (2) protect sensitive data in the possession of a using
+29 agency; and (3) ensure a coordinated and rapid response to any cybersecurity
+30 incident that affects a using agency.
+31 Section 3 of this bill provides that if a using agency does not comply with the
+32 cybersecurity policies and protocols developed by the Security Operations Center,
+33 the Chief may: (1) impose additional oversight or audit requirements on the using
+34 agency relating to cybersecurity; (2) restrict the using agency’s access to the
+35 equipment of the Office until the using agency is back in compliance; or (3) charge
+36 the using agency an additional amount for the using agency’s continued use of the
+37 equipment and services of the Office.
+38 Section 4 of this bill authorizes the Chief to apply for and accept federal grants
+39 for purposes of supporting and carrying out the duties of the Security Operations
+40 Center.
+41 Section 5 of this bill requires the Security Operations Center to collaborate
+42 with the Nevada Office of Cyber Defense Coordination to enhance communication
+43 and coordination of incident responses to cyber threats or cyberattacks on
+44 information systems.
+45 Section 6 of this bill requires the Security Operations Center to submit an
+46 annual report to the Governor, Attorney General and the Director of the Legislative
+47 Counsel Bureau for transmission to the Legislature that includes certain
+48 information relating to the duties of the Security Operations Center.
+49 Section 7 of this bill requires the Security Operations Center, in collaboration
+50 with the Nevada System of Higher Education, to develop the Cybersecurity Talent
+51 Pipeline Program.
+52 Section 8 of this bill amends the definition of “information service,” as
+53 provided by the Office to a using agency, to include the real-time monitoring of
+54 cyberinfrastructure, threat mitigation, incident response and cybersecurity
+55 enforcement.
+56 Existing law makes certain legislative determinations and declarations relating
+57 to the creation and purpose of the Office. (NRS 242.071) Section 11 of this bill
+58 revises these determinations and declarations to include performing information
+59 services for using agencies and to eliminate the limitation on the Office providing
+60 administrative control of the informational systems of using agencies.
+61 Existing law provides that certain documents relating to homeland security that
+62 are assembled, maintained, overseen or prepared by the Office to mitigate, prevent
+63 or respond to acts of terrorism are confidential. (NRS 242.105) Section 13 of this
+64 bill provides that certain documents relating to the cybersecurity of a using agency
+65 are also confidential.
+66 Existing law requires the Chief to adopt certain regulations relating to
+67 information systems of certain state agencies. (NRS 242.111) Section 14 of this bill
+-
+*AB432*
+– 3 –
+68 instead requires the Chief to adopt certain regulations relating to information
+69 systems of using agencies.
+70 Existing law requires the Chief to advise using agencies regarding the policy
+71 for information services of the Executive Branch of Government. (NRS 242.151)
+72 Section 16 of this bill instead requires the Chief to advise the using agencies of the
+73 policy for information services of the Office.
+74 Existing law provides that all equipment of an agency or elected state officer
+75 which is owned or leased by the State must be under the managerial control of the
+76 Office. (NRS 242.161) Section 17 of this bill provides instead that all equipment of
+77 a using agency which is owned or leased by the State must be under the managerial
+78 control of the Office.
+79 Section 18 of this bill provides that the Office is responsible for any application
+80 of an information system which it furnishes to using agencies.
+81 Section 19 of this bill requires: (1) any using agency which uses the equipment
+82 or services of the Office to adhere to the regulations, standards, practices, policies
+83 and conventions of the Office; and (2) each using agency to report certain suspected
+84 incidents to the Security Operations Center.
+85 Existing law requires the Chief to investigate and resolve any breach of an
+86 information system of a state agency or elected officer that uses the equipment or
+87 services of the Office. (NRS 242.183) Section 20 of this bill requires instead that
+88 the Chief, in consultation with the Security Operations Center, investigate and
+89 resolve any breach of an information system of using agency.
+90 Existing law provides that the amount receivable from a state agency or officer
+91 or local governmental agency which uses the service of the Office must be
+92 determined by the Chief. (NRS 242.191) Section 21 of this bill provides instead
+93 that the amount receivable from a using agency which uses the services or
+94 equipment of the Office must be determined by the Chief and that the amount will
+95 include the annual expenses of the cybersecurity services provided by the Security
+96 Operations Center.
+97 Section 22 of this bill requires each using agency using the services and
+98 equipment of the Office to pay a fee to the Fund for Information Services.
+THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN
+SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:
+1 Section 1. Chapter 242 of NRS is hereby amended by adding
+2 thereto the provisions set forth as sections 2 to 7, inclusive, of this
+3 act.
+4 Sec. 2. 1. The Security Operations Center shall develop
+5 policies and procedures to:
+6 (a) Combat the increasing threats to using agencies posed by
+7 cybercriminals;
+8 (b) Protect sensitive data in the possession of a using agency;
+9 and
+10 (c) Ensure a coordinated and rapid response to any
+11 cybersecurity incident that affects a using agency.
+12 2. The policies and procedures developed pursuant to
+13 subsection 1 must include, without limitation:
+14 (a) A requirement that a using agency notify the Security
+15 Operations Center of any specific or immediate threat to the
+-
+*AB432*
+– 4 –
+1 cybersecurity of an information system operated or maintained by
+2 the using agency;
+3 (b) A requirement that the Security Operations Center notify
+4 the appropriate law enforcement agency and prosecuting attorney
+5 and any other appropriate public or private entity of any specific
+6 threat to the cybersecurity of an information system of which the
+7 Security Operations Center has been notified;
+8 (c) A strategy for developing ongoing programs for
+9 professional development in cybersecurity for the employees of a
+10 using agency; and
+11 (d) The use of security orchestration automation and response
+12 systems to automate repetitive tasks, enhance operational
+13 efficiency and standardize procedures and responses for the
+14 various information technology support of using agencies.
+15 Sec. 3. If a using agency does not comply with the
+16 cybersecurity policies and protocols developed by the Security
+17 Operations Center, the Chief may do one or more of the following:
+18 1. Impose additional oversight or audit requirements on the
+19 using agency relating to cybersecurity.
+20 2. Restrict the using agency’s access to the equipment of the
+21 Office until the using agency is back in compliance.
+22 3. Charge the using agency an additional amount for the
+23 using agency’s continued use of the equipment and services of the
+24 Office.
+25 Sec. 4. The Chief may apply for and accept federal grants for
+26 purposes of supporting and carrying out the duties of the Security
+27 Operations Center.
+28 Sec. 5. The Security Operations Center shall collaborate with
+29 the Nevada Office of Cyber Defense Coordination created by NRS
+30 480.920 to enhance communication and coordination of incident
+31 responses to cyber threats or cyberattacks on information systems
+32 and to provide each using agency information relating to
+33 emerging cyber threats and best practices for cybersecurity.
+34 Sec. 6. 1. On or before January 1 of each year, the Security
+35 Operations Center shall prepare a report assessing the
+36 effectiveness of the Security Operations Center relating to its
+37 duties. The report must include, without limitation:
+38 (a) A summary of the progress made by the Security
+39 Operations Center during the previous year in performing its
+40 duties and exercising such powers as are conferred upon it;
+41 (b) A general description of any threats or attacks responded to
+42 by the Security Operations Center during the previous year, and a
+43 summary of the response to the threat;
+44 (c) A summary of the goals and objectives of the Security
+45 Operations Center for the upcoming year;
+-
+*AB432*
+– 5 –
+1 (d) A summary of any issues presenting challenges to the
+2 Security Operations Center; and
+3 (e) Any other information that the Chief determines is
+4 appropriate to include in the report.
+5 2. The report required pursuant to subsection 1 must be
+6 submitted not later than July 1 of each year to the Governor,
+7 Attorney General and Director of the Legislative Counsel Bureau
+8 for transmission to the Legislature.
+9 Sec. 7. 1. The Security Operations Center shall, in
+10 collaboration with the Nevada System of Higher Education,
+11 develop the Cybersecurity Talent Pipeline Program. The Program
+12 must, without limitation, develop a system for the career
+13 development of students in the field of computer science or
+14 cybersecurity.
+15 2. The Program must, without limitation, provide
+16 opportunities for students within the Nevada System of Higher
+17 Education who are majoring in a field related to cybersecurity to
+18 obtain working experience in the Security Operations Center.
+19 Sec. 8. NRS 242.055 is hereby amended to read as follows:
+20 242.055 “Information service” means any service relating to
+21 the creation, maintenance, operation, security validation, testing,
+22 continuous monitoring or use of an information system. The term
+23 includes, without limitation, the real-time monitoring of
+24 cyberinfrastructure, threat mitigation, incident response and
+25 cybersecurity enforcement.
+26 Sec. 9. NRS 242.061 is hereby amended to read as follows:
+27 242.061 “Local governmental agency” means any [branch,] :
+28 1. Branch, agency, bureau, board, commission, department or
+29 division of a county, incorporated city or town in this State [.] ; or
+30 2. The board of trustees of a school district.
+31 Sec. 10. NRS 242.068 is hereby amended to read as follows:
+32 242.068 “Using agency” means [an agency of the State which
+33 has a function requiring the use of information technology,
+34 information services or an information system.] :
+35 1. A state agency or elected state officer who is required to
+36 use the services and equipment of the Office pursuant to
+37 subsection 1 of NRS 242.131.
+38 2. Any other state agency or local governmental agency that
+39 has negotiated with the Office for its services and equipment
+40 pursuant to subsection 2 of NRS 242.131.
+41 Sec. 11. NRS 242.071 is hereby amended to read as follows:
+42 242.071 1. The Legislature hereby determines and declares
+43 that the creation of the Office of the Chief Information Officer
+44 within the Office of the Governor is necessary for the secure,
+45 coordinated, orderly and economical processing of data and
+-
+*AB432*
+– 6 –
+1 information in State Government, to ensure the secure and
+2 economical use of information systems and to prevent the
+3 unnecessary proliferation of equipment and personnel among the
+4 various state agencies.
+5 2. The purposes of the Office are:
+6 (a) To perform information services for [state] using agencies.
+7 (b) To provide technical advice [but not administrative control]
+8 of the information systems within the [state] using agencies . [and,
+9 as authorized, of local governmental agencies.]
+10 Sec. 12. NRS 242.080 is hereby amended to read as follows:
+11 242.080 1. The Office of the Chief Information Officer is
+12 hereby created within the Office of the Governor.
+13 2. The Office consists of the Chief and:
+14 (a) The Administration Unit. The Chief is the head of the
+15 Administration Unit.
+16 (b) The Client Services Unit.
+17 (c) The Computing Services Unit.
+18 (d) The Network Services Unit.
+19 (e) The Office of Information Security.
+20 (f) The Security Operations Center.
+21 (g) Other units, groups, divisions or departments deemed
+22 necessary by the Chief to the extent such functions are supported by
+23 the appropriations allocated to the functions of the Office.
+24 3. A Network Transport Services Group and a
+25 Telecommunications Group are hereby created within the Network
+26 Services Unit of the Office.
+27 Sec. 13. NRS 242.105 is hereby amended to read as follows:
+28 242.105 1. Except as otherwise provided in subsection 3,
+29 records and portions of records that are assembled, maintained,
+30 overseen or prepared by the Office to mitigate, prevent or respond to
+31 cybersecurity incidents or acts of terrorism, the public disclosure of
+32 which would, in the determination of the Chief, create a substantial
+33 likelihood of threatening the cybersecurity of a using agency or the
+34 safety of the general public are confidential and not subject to
+35 inspection by the general public to the extent that such records and
+36 portions of records consist of or include:
+37 (a) Information regarding the infrastructure and security of
+38 information systems, including, without limitation:
+39 (1) Access codes, passwords and programs used to ensure the
+40 security of an information system;
+41 (2) Access codes used to ensure the security of software
+42 applications;
+43 (3) Procedures and processes used to ensure the security of
+44 an information system; and
+-
+*AB432*
+– 7 –
+1 (4) Plans used to re-establish security and service with
+2 respect to an information system after security has been breached or
+3 service has been interrupted.
+4 (b) Assessments and plans that relate specifically and uniquely
+5 to the vulnerability of an information system or to the measures
+6 which will be taken to respond to such vulnerability, including,
+7 without limitation, any compiled underlying data necessary to
+8 prepare such assessments and plans.
+9 (c) The results of tests of the security of an information system,
+10 insofar as those results reveal specific vulnerabilities relative to the
+11 information system.
+12 2. The Chief shall maintain or cause to be maintained a list of
+13 each record or portion of a record that the Chief has determined to
+14 be confidential pursuant to subsection 1. The list described in this
+15 subsection must be prepared and maintained so as to recognize the
+16 existence of each such record or portion of a record without
+17 revealing the contents thereof.
+18 3. At least once each biennium, the Chief shall review the list
+19 described in subsection 2 and shall, with respect to each record or
+20 portion of a record that the Chief has determined to be confidential
+21 pursuant to subsection 1:
+22 (a) Determine that the record or portion of a record remains
+23 confidential in accordance with the criteria set forth in subsection 1;
+24 (b) Determine that the record or portion of a record is no longer
+25 confidential in accordance with the criteria set forth in subsection 1;
+26 or
+27 (c) If the Chief determines that the record or portion of a record
+28 is obsolete, cause the record or portion of a record to be disposed of
+29 in the manner described in NRS 239.073 to 239.125, inclusive.
+30 4. On or before February 15 of each year, the Chief shall:
+31 (a) Prepare a report setting forth a detailed description of each
+32 record or portion of a record determined to be confidential pursuant
+33 to this section, if any, accompanied by an explanation of why each
+34 such record or portion of a record was determined to be confidential;
+35 and
+36 (b) Submit a copy of the report to the Director of the Legislative
+37 Counsel Bureau for transmittal to:
+38 (1) If the Legislature is in session, the standing committees
+39 of the Legislature which have jurisdiction of the subject matter; or
+40 (2) If the Legislature is not in session, the Legislative
+41 Commission.
+42 5. As used in this section, “act of terrorism” has the meaning
+43 ascribed to it in NRS 239C.030.
+-
+*AB432*
+– 8 –
+1 Sec. 14. NRS 242.111 is hereby amended to read as follows:
+2 242.111 The Chief shall adopt regulations necessary for the
+3 administration of this chapter, including:
+4 1. The policy for the information systems of [the Executive
+5 Branch of Government, excluding the Nevada System of Higher
+6 Education and the Nevada Criminal Justice Information System,]
+7 using agencies, as that policy relates, but is not limited, to such
+8 items as standards for systems and programming and criteria for
+9 selection, location and use of information systems to meet the
+10 requirements of [state] using agencies and officers at the least cost
+11 to the State;
+12 2. The procedures of the Office in providing information
+13 services, which may include provision for the performance, by [an]
+14 using agency which uses the services or equipment of the Office, of
+15 preliminary procedures, such as data recording and verification,
+16 within the using agency;
+17 3. The effective administration of the Office, including,
+18 without limitation, security to prevent unauthorized access to
+19 information systems and plans for the recovery of systems and
+20 applications after they have been disrupted;
+21 4. The development of standards to ensure the security of the
+22 information systems of the [Executive Branch of Government;]
+23 using agencies; and
+24 5. Specifications and standards for the employment of all
+25 personnel of the Office.
+26 Sec. 15. NRS 242.131 is hereby amended to read as follows:
+27 242.131 1. The Office shall provide state agencies and
+28 elected state officers with all their required design of information
+29 systems. Additionally, the Security Operations Center shall
+30 provide each state agency and elected state officer with
+31 cybersecurity services, including, without limitation, real-time
+32 monitoring of cyberinfrastructure, threat mitigation, incident
+33 response and cybersecurity enforcement. All agencies and officers
+34 must use those services and equipment, except as otherwise
+35 provided in subsection 2.
+36 2. The following agencies may negotiate with the Office for its
+37 services , including, without limitation, cybersecurity services,
+38 including, without limitation, real-time monitoring of
+39 cyberinfrastructure, threat mitigation, incident response and
+40 cybersecurity enforcement or the use of its equipment, subject to
+41 the provisions of this chapter, and the Office shall provide those
+42 services and the use of that equipment as may be mutually agreed:
+43 (a) The Court Administrator;
+44 (b) The Department of Motor Vehicles;
+45 (c) The Department of Public Safety;
+-
+*AB432*
+– 9 –
+1 (d) The Department of Transportation;
+2 (e) The Employment Security Division of the Department of
+3 Employment, Training and Rehabilitation;
+4 (f) The Department of Wildlife;
+5 (g) The Housing Division of the Department of Business and
+6 Industry;
+7 (h) The Legislative Counsel Bureau;
+8 (i) The State Controller;
+9 (j) The Nevada Gaming Control Board and Nevada Gaming
+10 Commission; [and]
+11 (k) The Nevada System of Higher Education [.] ;
+12 (l) Any other state agency; and
+13 (m) Any local governmental agency.
+14 3. Any state agency or elected state officer who uses the
+15 services of the Office and desires to withdraw substantially from
+16 that use must apply to the Chief for approval. The application must
+17 set forth justification for the withdrawal. If the Chief denies the
+18 application, the agency or officer must:
+19 (a) If the Legislature is in regular or special session, obtain the
+20 approval of the Legislature by concurrent resolution.
+21 (b) If the Legislature is not in regular or special session, obtain
+22 the approval of the Interim Finance Committee. The Chief shall,
+23 within 45 days after receipt of the application, forward the
+24 application together with his or her recommendation for approval or
+25 denial to the Interim Finance Committee. The Interim Finance
+26 Committee has 45 days after the application and recommendation
+27 are submitted to its Secretary within which to consider the
+28 application. Any application which is not considered by the
+29 Committee within the 45-day period shall be deemed approved.
+30 4. If the demand for services or use of equipment exceeds the
+31 capability of the Office to provide them, the Office may contract
+32 with other agencies or independent contractors to furnish the
+33 required services or use of equipment and is responsible for the
+34 administration of the contracts.
+35 Sec. 16. NRS 242.151 is hereby amended to read as follows:
+36 242.151 The Chief shall advise the using agencies regarding:
+37 1. The policy for information services of the [Executive Branch
+38 of Government,] Office as that policy relates, but is not limited, to
+39 such items as standards for systems and programming and criteria
+40 for the selection, location and use of information systems in order
+41 that the requirements of [state agencies and officers] using agencies
+42 may be met at the least cost ; [to the State;]
+43 2. The procedures in performing information services; and
+44 3. The effective administration and use of the computer
+45 facility, including security to prevent unauthorized access to data,
+-
+*AB432*
+– 10 –
+1 information and plans for the recovery of systems and applications
+2 after they have been disrupted.
+3 Sec. 17. NRS 242.161 is hereby amended to read as follows:
+4 242.161 1. All equipment of [an agency or elected state
+5 officer] a using agency which is owned or leased by the State must
+6 be under the managerial control of the Office, except the equipment
+7 of the agencies and officers specified in subsection 2 of
+8 NRS 242.131.
+9 2. The Office may permit [an] a using agency which is
+10 required to use such equipment to operate it on the using agency’s
+11 premises.
+12 Sec. 18. NRS 242.171 is hereby amended to read as follows:
+13 242.171 1. The Office is responsible for:
+14 (a) The applications of information systems;
+15 (b) Designing and placing those information systems in
+16 operation;
+17 (c) Any application of an information system which it furnishes
+18 to [state] using agencies [and officers] after negotiation; and
+19 (d) The security validation, testing, including, without
+20 limitation, penetration testing, and continuous monitoring of
+21 information systems,
+22  for using agencies . [and for state agencies and officers which use
+23 the equipment or services of the Office pursuant to subsection 2 of
+24 NRS 242.131.]
+25 2. The Chief shall review and approve or disapprove, pursuant
+26 to standards for justifying cost, any application of an information
+27 system having an estimated developmental cost of $50,000 or more.
+28 No using agency may commence development work on any such
+29 applications until approval and authorization have been obtained
+30 from the Chief.
+31 3. As used in this section, “penetration testing” means a
+32 method of evaluating the security of an information system or
+33 application of an information system by simulating unauthorized
+34 access to the information system or application.
+35 Sec. 19. NRS 242.181 is hereby amended to read as follows:
+36 242.181 1. Any [state agency or elected state officer] using
+37 agency which uses the equipment or services of the Office shall
+38 adhere to the regulations, standards, practices, policies and
+39 conventions of the Office.
+40 2. Each [state] using agency [or elected state officer described
+41 in subsection 1] shall report any suspected incident of:
+42 (a) Unauthorized access to an information system or application
+43 of an information system of the Office used by the [state] using
+44 agency ; [or elected state officer;] and
+-
+*AB432*
+– 11 –
+1 (b) Noncompliance with the regulations, standards, practices,
+2 policies and conventions of the Office that is identified by the Office
+3 as security-related,
+4  to the Office of Information Security of the Office and Security
+5 Operations Center within 24 hours after discovery of the suspected
+6 incident. If the Office of Information Security , in consultation with
+7 the Security Operations Center, determines that an incident of
+8 unauthorized access or noncompliance occurred, it shall
+9 immediately report the incident to the Chief. The Chief shall assist
+10 in the investigation and resolution of any such incident.
+11 3. The Office shall provide services to each [state] using
+12 agency [and elected state officer described in subsection 1]
+13 uniformly with respect to degree of service, priority of service,
+14 availability of service and cost of service.
+15 Sec. 20. NRS 242.183 is hereby amended to read as follows:
+16 242.183 1. The Chief of the Office of Information Security ,
+17 in consultation with the Security Operations Center, shall
+18 investigate and resolve any breach of an information system of a
+19 [state] using agency [or elected officer that uses the equipment or
+20 services of the Office of the Chief Information Officer] or an
+21 application of such an information system or unauthorized
+22 acquisition of computerized data that materially compromises the
+23 security, confidentiality or integrity of such an information system.
+24 2. The Chief Information Officer or Chief of the Office of
+25 Information Security, at his or her discretion, may inform members
+26 of the Technological Crime Advisory Board created by NRS
+27 205A.040, the Nevada Commission on Homeland Security created
+28 by NRS 239C.120 and the Information Technology Advisory Board
+29 created by NRS 242.122 of any breach of an information system of
+30 a [state] using agency [or elected officer] or application of such an
+31 information system or unauthorized acquisition of computerized
+32 data or information that materially compromises the security,
+33 confidentiality or integrity of such an information system.
+34 Sec. 21. NRS 242.191 is hereby amended to read as follows:
+35 242.191 1. Except as otherwise provided in subsection 3, the
+36 amount receivable from a [state] using agency [or officer or local
+37 governmental agency] which uses the services and equipment of the
+38 Office must be determined by the Chief in each case and include:
+39 (a) The annual expense, including depreciation, of operating and
+40 maintaining the Network Services Unit, distributed among the
+41 agencies in proportion to the services performed for each agency.
+42 (b) The annual expense of the cybersecurity services provided
+43 by the Security Operations Center, including, without limitation,
+44 real-time monitoring, incident response and security enforcement.
+-
+*AB432*
+– 12 –
+1 (c) A service charge in an amount determined by distributing the
+2 monthly installment for the construction costs of the computer
+3 facility among the agencies in proportion to the services performed
+4 for each agency.
+5 2. The Chief shall prepare and submit monthly to the [state
+6 agencies and officers and local governmental] using agencies for
+7 which services of the Office have been performed an itemized
+8 statement of the amount receivable from each [state] using agency .
+9 [or officer or local governmental agency.]
+10 3. The Chief may authorize, if in his or her judgment the
+11 circumstances warrant, a fixed cost billing, including a factor for
+12 depreciation, for services rendered to a [state] using agency . [or
+13 officer or local governmental agency.]
+14 Sec. 22. NRS 242.211 is hereby amended to read as follows:
+15 242.211 1. The Fund for Information Services is hereby
+16 created as an internal service fund. Money from the Fund must be
+17 paid out on claims as other claims against the State are paid. The
+18 claims must be made in accordance with budget allotments and are
+19 subject to postaudit examination and approval.
+20 2. All operating, maintenance, rental, repair and replacement
+21 costs of equipment and all salaries of personnel assigned to the
+22 Office must be paid from the Fund.
+23 3. Each using agency using the services or equipment of the
+24 Office shall pay a fee for that use to the Fund, which must be set by
+25 the Chief in an amount sufficient to reimburse the Office for the
+26 entire cost of providing those services, including overhead. Each
+27 using agency shall budget for those services. All fees, proceeds from
+28 the sale of equipment and any other money received by the Office
+29 must be deposited with the State Treasurer for credit to the Fund.
+30 Sec. 23. The provisions of NRS 218D.380 do not apply to any
+31 provision of this act which adds or revises a requirement to submit a
+32 report to the Legislature.
+33 Sec. 24. NRS 242.141 is hereby repealed.
+TEXT OF REPEALED SECTION
+
+Section 2:
+242.141 Services provided for agencies not under
+Governor’s control and local governmental agencies. To
+facilitate the economical processing of data or information
+throughout the State Government, the Office may provide service
+for agencies not under the control of the Governor, upon the request
+of any such agency. The Office may provide services, including,
+-
+*AB432*
+– 13 –
+without limitation, purchasing services, to a local governmental
+agency upon request, if provision of such services will result in
+reduced costs to the State for equipment and services.
+H
+-
+*AB432*
+[DELETED: BN.4AY I O S U1,2  p r t g ( EE A r t g a c a O o t G a t C p o s t S O r t S O C t S O C e t T P P r t m v o c r t t o g e a pE i a N T S G a a u g d o d d n b t CE l ( r t O t p c s a a e a ( a u r t O t p c]
+[DELETED: – t s a n u t c o t G a l g a t u t e a s o t O 9 o t b r t d o “ g a tS a ( e a c a r r t a cS r t c ( r t u a a t tSS c o i r t c t o c oS B f t t t L t i cSS 8 o t b a t d o “ s a t m i r a cEEE l r t C t a c r r t]
+[DELETED: – r t C t a c r r t iEESSE C i c w t S O C i aE l g a w u t s o t O m b t a r f a u a w u t s oS 2 o t b r e u a u t s aS 1  CS 2  1  T S O C s d( C( P( E a c a r r t a2  T p a p d p t( A r t a u a n t S C o a s o i t t t]
+[DELETED: –( A( A s f d o p f( T t a r t e o a s p a r f tS 3  I a u a d n c w t p a p d b t S1  I2  R3  C t u a a a a f tS 4  TS 5  T t p e u a i r tS 6  1  O C s p a r a t o t S O C r t i( A s o t p m b t S C d t p y i p i( A( A s o t g a o o t S]
+[DELETED: –( A s o a i p c t t( A o i t t C d i2  T r r p t s 1 m b n l t J 1 o e y t t GS 7  1  T S O C s i w t N S o H E w l d a s f t c o s i t f o c s o2  T P m w l p f s w t N S o HS 8  N2  “ s m a s r t c m o s v t w l t r m o t m i r aS 9  N2  “1  B2  TS 1  N2  “ a f r t u o i t1  A t s a e o t O p t2  A n w t O f i s a eS 1  N2  1  T L h d a d t c o t O o t C I O t O o t G i n f t s o a e p o d a]
+[DELETED: – i S G t e t s a u o i s a t p t p o e a p a t2  T( T( TS 1  N2  1  T O o t C I O i2  T( T A U T C i t h o t( T( T( T( T( T( O u g d o d d3  A N T S G a aS 1  N2  1  E a o p i s 3 a p o r t a a m o t g p a c a n s t( I r t i a s o ( A ( A c u t e t s o s ( P]
+[DELETED: – ( P u t r s a s w( A t v o a i s o t t m w b t t r t s v i l a c u d n t( T2  T o e s r o p o a r w3  A( D t t r o p o a r r( D( I4  O( P( S ( I ( I t L i n i s t L5  A]
+[DELETED: –S 1  N2  T C s a r n f t1  T p f t i s o [ E o G e t N S o H a t N C J I S a a p r b i n l t s a s f s a p a c f l a u o i s t m t2  T p o t O i p i p s a d r a v3  T e a o t O i l s t p u a t s a p f t r o s a4  T s o t [ B o G5  S a s f t e o aS 1  N2  1  T O s p s a a A t S O C s e s a a e s o w s i w l r o c t m i u t s a e e a o2  T , i w l c s w l r m o t m i r a p o t c a t O s t( T( T( T]
+[DELETED: –( T( T E S D o t D o( T( T H D o t D o B a( T( T( T N G C B a N G( T( A( A3  A s a o e s o w u t o t O a d t w f f j f t w I t C d t( I( I a o t I F C T C s 4 d a r o t a f t t t I F C T I F s t i S w w t c t A a w i n c b t4  I o a o i c t f t s o u o e a i r f tS 1  N2  T1  T2  T3  T e a a u o t c]
+[DELETED: –S 1  N2  1  A e o [ a o e s t a a o s i s 2 o2  T O m p [ a u a w iS 1  N2  1  T( T( D a p t i s i( A( T s v t i w p t a c m o2  T u a a a h b o3  A u i t s “ t m a o e t s o a i s o o a i s b s uS 1  N2  1  A w u t e o s o t O s t t r s p p a2  E( U a s o t O b t [ u]
+[DELETED: –( N w t r s p S O C d t a i o a o n o i s3  T O s p s t e [ u [ e s o d i s 1 w r t d o s p o sS 2  N2  1  T c w t S O C s o t O o t C I O o a o s a i s o u o c d t m c t2  T C I O o C o t O o t T C A B c b N s o u a o c o i t m c t sS 2  N2  1  E( T t N S U d a t( T]
+[DELETED: –( A i f t c c o t c2  T C s p a s m t t [ a a g u a f s o t O h b p a i3  T C m a i i h o h j t [S 2  N2  1  T F f I S i h2  A o m r r a r o e a a s o p a t t3  E c o p t s i o ES 2  TS 2  N2  S p f a n u c a l g a  T t e p o d o i a s a T m p s i]
+[DELETED: – l p s t a l g u r i p o s s w r i]
+
+
+================================================================================
+
+Raw Text:
+A.B. 432
+ASSEMBLY BILL NO. 432–ASSEMBLYMEMBER YUREK
+MARCH 13, 2025
+____________
+Referred to Committee on Government Affairs
+SUMMARY—Revises provisions relating to governmental
+administration. (BDR 19-551)
+FISCAL NOTE: Effect on Local Government: May have Fiscal Impact.
+Effect on the State: Yes.
+~
+EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+AN ACT relating to governmental administration; creating and
+setting forth the duties of the Security Operations Center
+within the Office of the Chief Information Officer within
+the Office of the Governor; authorizing the Chief
+Information Officer to apply for and accept federal grants
+for purposes of supporting the Security Operations
+Center; requiring the Security Operations Center to
+prepare an annual report that assesses the effectiveness of
+the Security Operations Center; establishing the
+Cybersecurity Talent Pipeline Program; revising the
+purpose of the Office; authorizing the board of trustees of
+a school district to use the services and equipment of the
+Office; making various other changes relating to the
+cybersecurity of governmental entities; and providing
+other matters properly relating thereto.
+Legislative Counsel’s Digest:
+1 Existing law provides that the Office of the Chief Information Officer within
+2 the Office of the Governor is composed of: (1) the Administration Unit; (2) the
+3 Client Services Unit; (3) the Computing Services Unit; (4) the Network Services
+4 Unit, including a Network Transportation Services Group and a
+5 Telecommunications Group; (5) the Office of Information Security; and (6) certain
+6 other units, groups, divisions or departments deemed necessary by the Chief
+7 Information Officer. (NRS 242.080) Section 12 of this bill creates the Security
+8 Operations Center in the Office of the Chief Information Officer.
+9 Existing law: (1) requires the Office to provide certain state agencies and
+10 elected officers with all their required design of information systems; (2) authorizes
+11 certain other state agencies to negotiate with the Office for its services or the use of
+12 its equipment; and (3) authorizes, upon request, the Office to provide certain
+-
+*AB432*
+
+– 2 –
+13 services to state agencies not under the control of the Governor and local
+14 governmental agencies. (NRS 242.131, 242.141) Section 15 of this bill requires the
+15 Security Operations Center to provide certain state agencies and elected officers
+16 with cybersecurity services, including real-time monitoring of cyberinfrastructure,
+17 threat mitigation, incident response and cybersecurity enforcement. Sections 15
+18 and 24 of this bill reorganize provisions that authorize certain state agencies and
+19 local governmental agencies to use the equipment and services of the Office.
+20 Section 9 of this bill revises the definition of “local governmental agency” to
+21 include the board of trustees of a school district, which has the effect of authorizing
+22 the board of trustees of a school district to use the services of the Office pursuant to
+23 section 15. Section 10 of this bill amends the definition of “using agency” so that
+24 the term includes any state agency, state officer or local governmental agency that
+25 uses the services and equipment of the Office.
+26 Section 2 of this bill requires the Security Operations Center to develop certain
+27 policies and procedures to: (1) combat the increasing threats to using agencies
+28 posed by cybercriminals; (2) protect sensitive data in the possession of a using
+29 agency; and (3) ensure a coordinated and rapid response to any cybersecurity
+30 incident that affects a using agency.
+31 Section 3 of this bill provides that if a using agency does not comply with the
+32 cybersecurity policies and protocols developed by the Security Operations Center,
+33 the Chief may: (1) impose additional oversight or audit requirements on the using
+34 agency relating to cybersecurity; (2) restrict the using agency’s access to the
+35 equipment of the Office until the using agency is back in compliance; or (3) charge
+36 the using agency an additional amount for the using agency’s continued use of the
+37 equipment and services of the Office.
+38 Section 4 of this bill authorizes the Chief to apply for and accept federal grants
+39 for purposes of supporting and carrying out the duties of the Security Operations
+40 Center.
+41 Section 5 of this bill requires the Security Operations Center to collaborate
+42 with the Nevada Office of Cyber Defense Coordination to enhance communication
+43 and coordination of incident responses to cyber threats or cyberattacks on
+44 information systems.
+45 Section 6 of this bill requires the Security Operations Center to submit an
+46 annual report to the Governor, Attorney General and the Director of the Legislative
+47 Counsel Bureau for transmission to the Legislature that includes certain
+48 information relating to the duties of the Security Operations Center.
+49 Section 7 of this bill requires the Security Operations Center, in collaboration
+50 with the Nevada System of Higher Education, to develop the Cybersecurity Talent
+51 Pipeline Program.
+52 Section 8 of this bill amends the definition of “information service,” as
+53 provided by the Office to a using agency, to include the real-time monitoring of
+54 cyberinfrastructure, threat mitigation, incident response and cybersecurity
+55 enforcement.
+56 Existing law makes certain legislative determinations and declarations relating
+57 to the creation and purpose of the Office. (NRS 242.071) Section 11 of this bill
+58 revises these determinations and declarations to include performing information
+59 services for using agencies and to eliminate the limitation on the Office providing
+60 administrative control of the informational systems of using agencies.
+61 Existing law provides that certain documents relating to homeland security that
+62 are assembled, maintained, overseen or prepared by the Office to mitigate, prevent
+63 or respond to acts of terrorism are confidential. (NRS 242.105) Section 13 of this
+64 bill provides that certain documents relating to the cybersecurity of a using agency
+65 are also confidential.
+66 Existing law requires the Chief to adopt certain regulations relating to
+67 information systems of certain state agencies. (NRS 242.111) Section 14 of this bill
+-
+*AB432*
+
+– 3 –
+68 instead requires the Chief to adopt certain regulations relating to information
+69 systems of using agencies.
+70 Existing law requires the Chief to advise using agencies regarding the policy
+71 for information services of the Executive Branch of Government. (NRS 242.151)
+72 Section 16 of this bill instead requires the Chief to advise the using agencies of the
+73 policy for information services of the Office.
+74 Existing law provides that all equipment of an agency or elected state officer
+75 which is owned or leased by the State must be under the managerial control of the
+76 Office. (NRS 242.161) Section 17 of this bill provides instead that all equipment of
+77 a using agency which is owned or leased by the State must be under the managerial
+78 control of the Office.
+79 Section 18 of this bill provides that the Office is responsible for any application
+80 of an information system which it furnishes to using agencies.
+81 Section 19 of this bill requires: (1) any using agency which uses the equipment
+82 or services of the Office to adhere to the regulations, standards, practices, policies
+83 and conventions of the Office; and (2) each using agency to report certain suspected
+84 incidents to the Security Operations Center.
+85 Existing law requires the Chief to investigate and resolve any breach of an
+86 information system of a state agency or elected officer that uses the equipment or
+87 services of the Office. (NRS 242.183) Section 20 of this bill requires instead that
+88 the Chief, in consultation with the Security Operations Center, investigate and
+89 resolve any breach of an information system of using agency.
+90 Existing law provides that the amount receivable from a state agency or officer
+91 or local governmental agency which uses the service of the Office must be
+92 determined by the Chief. (NRS 242.191) Section 21 of this bill provides instead
+93 that the amount receivable from a using agency which uses the services or
+94 equipment of the Office must be determined by the Chief and that the amount will
+95 include the annual expenses of the cybersecurity services provided by the Security
+96 Operations Center.
+97 Section 22 of this bill requires each using agency using the services and
+98 equipment of the Office to pay a fee to the Fund for Information Services.
+THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN
+SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:
+1 Section 1. Chapter 242 of NRS is hereby amended by adding
+2 thereto the provisions set forth as sections 2 to 7, inclusive, of this
+3 act.
+4 Sec. 2. 1. The Security Operations Center shall develop
+5 policies and procedures to:
+6 (a) Combat the increasing threats to using agencies posed by
+7 cybercriminals;
+8 (b) Protect sensitive data in the possession of a using agency;
+9 and
+10 (c) Ensure a coordinated and rapid response to any
+11 cybersecurity incident that affects a using agency.
+12 2. The policies and procedures developed pursuant to
+13 subsection 1 must include, without limitation:
+14 (a) A requirement that a using agency notify the Security
+15 Operations Center of any specific or immediate threat to the
+-
+*AB432*
+
+– 4 –
+1 cybersecurity of an information system operated or maintained by
+2 the using agency;
+3 (b) A requirement that the Security Operations Center notify
+4 the appropriate law enforcement agency and prosecuting attorney
+5 and any other appropriate public or private entity of any specific
+6 threat to the cybersecurity of an information system of which the
+7 Security Operations Center has been notified;
+8 (c) A strategy for developing ongoing programs for
+9 professional development in cybersecurity for the employees of a
+10 using agency; and
+11 (d) The use of security orchestration automation and response
+12 systems to automate repetitive tasks, enhance operational
+13 efficiency and standardize procedures and responses for the
+14 various information technology support of using agencies.
+15 Sec. 3. If a using agency does not comply with the
+16 cybersecurity policies and protocols developed by the Security
+17 Operations Center, the Chief may do one or more of the following:
+18 1. Impose additional oversight or audit requirements on the
+19 using agency relating to cybersecurity.
+20 2. Restrict the using agency’s access to the equipment of the
+21 Office until the using agency is back in compliance.
+22 3. Charge the using agency an additional amount for the
+23 using agency’s continued use of the equipment and services of the
+24 Office.
+25 Sec. 4. The Chief may apply for and accept federal grants for
+26 purposes of supporting and carrying out the duties of the Security
+27 Operations Center.
+28 Sec. 5. The Security Operations Center shall collaborate with
+29 the Nevada Office of Cyber Defense Coordination created by NRS
+30 480.920 to enhance communication and coordination of incident
+31 responses to cyber threats or cyberattacks on information systems
+32 and to provide each using agency information relating to
+33 emerging cyber threats and best practices for cybersecurity.
+34 Sec. 6. 1. On or before January 1 of each year, the Security
+35 Operations Center shall prepare a report assessing the
+36 effectiveness of the Security Operations Center relating to its
+37 duties. The report must include, without limitation:
+38 (a) A summary of the progress made by the Security
+39 Operations Center during the previous year in performing its
+40 duties and exercising such powers as are conferred upon it;
+41 (b) A general description of any threats or attacks responded to
+42 by the Security Operations Center during the previous year, and a
+43 summary of the response to the threat;
+44 (c) A summary of the goals and objectives of the Security
+45 Operations Center for the upcoming year;
+-
+*AB432*
+
+– 5 –
+1 (d) A summary of any issues presenting challenges to the
+2 Security Operations Center; and
+3 (e) Any other information that the Chief determines is
+4 appropriate to include in the report.
+5 2. The report required pursuant to subsection 1 must be
+6 submitted not later than July 1 of each year to the Governor,
+7 Attorney General and Director of the Legislative Counsel Bureau
+8 for transmission to the Legislature.
+9 Sec. 7. 1. The Security Operations Center shall, in
+10 collaboration with the Nevada System of Higher Education,
+11 develop the Cybersecurity Talent Pipeline Program. The Program
+12 must, without limitation, develop a system for the career
+13 development of students in the field of computer science or
+14 cybersecurity.
+15 2. The Program must, without limitation, provide
+16 opportunities for students within the Nevada System of Higher
+17 Education who are majoring in a field related to cybersecurity to
+18 obtain working experience in the Security Operations Center.
+19 Sec. 8. NRS 242.055 is hereby amended to read as follows:
+20 242.055 “Information service” means any service relating to
+21 the creation, maintenance, operation, security validation, testing,
+22 continuous monitoring or use of an information system. The term
+23 includes, without limitation, the real-time monitoring of
+24 cyberinfrastructure, threat mitigation, incident response and
+25 cybersecurity enforcement.
+26 Sec. 9. NRS 242.061 is hereby amended to read as follows:
+27 242.061 “Local governmental agency” means any [branch,] :
+28 1. Branch, agency, bureau, board, commission, department or
+29 division of a county, incorporated city or town in this State [.] ; or
+30 2. The board of trustees of a school district.
+31 Sec. 10. NRS 242.068 is hereby amended to read as follows:
+32 242.068 “Using agency” means [an agency of the State which
+33 has a function requiring the use of information technology,
+34 information services or an information system.] :
+35 1. A state agency or elected state officer who is required to
+36 use the services and equipment of the Office pursuant to
+37 subsection 1 of NRS 242.131.
+38 2. Any other state agency or local governmental agency that
+39 has negotiated with the Office for its services and equipment
+40 pursuant to subsection 2 of NRS 242.131.
+41 Sec. 11. NRS 242.071 is hereby amended to read as follows:
+42 242.071 1. The Legislature hereby determines and declares
+43 that the creation of the Office of the Chief Information Officer
+44 within the Office of the Governor is necessary for the secure,
+45 coordinated, orderly and economical processing of data and
+-
+*AB432*
+
+– 6 –
+1 information in State Government, to ensure the secure and
+2 economical use of information systems and to prevent the
+3 unnecessary proliferation of equipment and personnel among the
+4 various state agencies.
+5 2. The purposes of the Office are:
+6 (a) To perform information services for [state] using agencies.
+7 (b) To provide technical advice [but not administrative control]
+8 of the information systems within the [state] using agencies . [and,
+9 as authorized, of local governmental agencies.]
+10 Sec. 12. NRS 242.080 is hereby amended to read as follows:
+11 242.080 1. The Office of the Chief Information Officer is
+12 hereby created within the Office of the Governor.
+13 2. The Office consists of the Chief and:
+14 (a) The Administration Unit. The Chief is the head of the
+15 Administration Unit.
+16 (b) The Client Services Unit.
+17 (c) The Computing Services Unit.
+18 (d) The Network Services Unit.
+19 (e) The Office of Information Security.
+20 (f) The Security Operations Center.
+21 (g) Other units, groups, divisions or departments deemed
+22 necessary by the Chief to the extent such functions are supported by
+23 the appropriations allocated to the functions of the Office.
+24 3. A Network Transport Services Group and a
+25 Telecommunications Group are hereby created within the Network
+26 Services Unit of the Office.
+27 Sec. 13. NRS 242.105 is hereby amended to read as follows:
+28 242.105 1. Except as otherwise provided in subsection 3,
+29 records and portions of records that are assembled, maintained,
+30 overseen or prepared by the Office to mitigate, prevent or respond to
+31 cybersecurity incidents or acts of terrorism, the public disclosure of
+32 which would, in the determination of the Chief, create a substantial
+33 likelihood of threatening the cybersecurity of a using agency or the
+34 safety of the general public are confidential and not subject to
+35 inspection by the general public to the extent that such records and
+36 portions of records consist of or include:
+37 (a) Information regarding the infrastructure and security of
+38 information systems, including, without limitation:
+39 (1) Access codes, passwords and programs used to ensure the
+40 security of an information system;
+41 (2) Access codes used to ensure the security of software
+42 applications;
+43 (3) Procedures and processes used to ensure the security of
+44 an information system; and
+-
+*AB432*
+
+– 7 –
+1 (4) Plans used to re-establish security and service with
+2 respect to an information system after security has been breached or
+3 service has been interrupted.
+4 (b) Assessments and plans that relate specifically and uniquely
+5 to the vulnerability of an information system or to the measures
+6 which will be taken to respond to such vulnerability, including,
+7 without limitation, any compiled underlying data necessary to
+8 prepare such assessments and plans.
+9 (c) The results of tests of the security of an information system,
+10 insofar as those results reveal specific vulnerabilities relative to the
+11 information system.
+12 2. The Chief shall maintain or cause to be maintained a list of
+13 each record or portion of a record that the Chief has determined to
+14 be confidential pursuant to subsection 1. The list described in this
+15 subsection must be prepared and maintained so as to recognize the
+16 existence of each such record or portion of a record without
+17 revealing the contents thereof.
+18 3. At least once each biennium, the Chief shall review the list
+19 described in subsection 2 and shall, with respect to each record or
+20 portion of a record that the Chief has determined to be confidential
+21 pursuant to subsection 1:
+22 (a) Determine that the record or portion of a record remains
+23 confidential in accordance with the criteria set forth in subsection 1;
+24 (b) Determine that the record or portion of a record is no longer
+25 confidential in accordance with the criteria set forth in subsection 1;
+26 or
+27 (c) If the Chief determines that the record or portion of a record
+28 is obsolete, cause the record or portion of a record to be disposed of
+29 in the manner described in NRS 239.073 to 239.125, inclusive.
+30 4. On or before February 15 of each year, the Chief shall:
+31 (a) Prepare a report setting forth a detailed description of each
+32 record or portion of a record determined to be confidential pursuant
+33 to this section, if any, accompanied by an explanation of why each
+34 such record or portion of a record was determined to be confidential;
+35 and
+36 (b) Submit a copy of the report to the Director of the Legislative
+37 Counsel Bureau for transmittal to:
+38 (1) If the Legislature is in session, the standing committees
+39 of the Legislature which have jurisdiction of the subject matter; or
+40 (2) If the Legislature is not in session, the Legislative
+41 Commission.
+42 5. As used in this section, “act of terrorism” has the meaning
+43 ascribed to it in NRS 239C.030.
+-
+*AB432*
+
+– 8 –
+1 Sec. 14. NRS 242.111 is hereby amended to read as follows:
+2 242.111 The Chief shall adopt regulations necessary for the
+3 administration of this chapter, including:
+4 1. The policy for the information systems of [the Executive
+5 Branch of Government, excluding the Nevada System of Higher
+6 Education and the Nevada Criminal Justice Information System,]
+7 using agencies, as that policy relates, but is not limited, to such
+8 items as standards for systems and programming and criteria for
+9 selection, location and use of information systems to meet the
+10 requirements of [state] using agencies and officers at the least cost
+11 to the State;
+12 2. The procedures of the Office in providing information
+13 services, which may include provision for the performance, by [an]
+14 using agency which uses the services or equipment of the Office, of
+15 preliminary procedures, such as data recording and verification,
+16 within the using agency;
+17 3. The effective administration of the Office, including,
+18 without limitation, security to prevent unauthorized access to
+19 information systems and plans for the recovery of systems and
+20 applications after they have been disrupted;
+21 4. The development of standards to ensure the security of the
+22 information systems of the [Executive Branch of Government;]
+23 using agencies; and
+24 5. Specifications and standards for the employment of all
+25 personnel of the Office.
+26 Sec. 15. NRS 242.131 is hereby amended to read as follows:
+27 242.131 1. The Office shall provide state agencies and
+28 elected state officers with all their required design of information
+29 systems. Additionally, the Security Operations Center shall
+30 provide each state agency and elected state officer with
+31 cybersecurity services, including, without limitation, real-time
+32 monitoring of cyberinfrastructure, threat mitigation, incident
+33 response and cybersecurity enforcement. All agencies and officers
+34 must use those services and equipment, except as otherwise
+35 provided in subsection 2.
+36 2. The following agencies may negotiate with the Office for its
+37 services , including, without limitation, cybersecurity services,
+38 including, without limitation, real-time monitoring of
+39 cyberinfrastructure, threat mitigation, incident response and
+40 cybersecurity enforcement or the use of its equipment, subject to
+41 the provisions of this chapter, and the Office shall provide those
+42 services and the use of that equipment as may be mutually agreed:
+43 (a) The Court Administrator;
+44 (b) The Department of Motor Vehicles;
+45 (c) The Department of Public Safety;
+-
+*AB432*
+
+– 9 –
+1 (d) The Department of Transportation;
+2 (e) The Employment Security Division of the Department of
+3 Employment, Training and Rehabilitation;
+4 (f) The Department of Wildlife;
+5 (g) The Housing Division of the Department of Business and
+6 Industry;
+7 (h) The Legislative Counsel Bureau;
+8 (i) The State Controller;
+9 (j) The Nevada Gaming Control Board and Nevada Gaming
+10 Commission; [and]
+11 (k) The Nevada System of Higher Education [.] ;
+12 (l) Any other state agency; and
+13 (m) Any local governmental agency.
+14 3. Any state agency or elected state officer who uses the
+15 services of the Office and desires to withdraw substantially from
+16 that use must apply to the Chief for approval. The application must
+17 set forth justification for the withdrawal. If the Chief denies the
+18 application, the agency or officer must:
+19 (a) If the Legislature is in regular or special session, obtain the
+20 approval of the Legislature by concurrent resolution.
+21 (b) If the Legislature is not in regular or special session, obtain
+22 the approval of the Interim Finance Committee. The Chief shall,
+23 within 45 days after receipt of the application, forward the
+24 application together with his or her recommendation for approval or
+25 denial to the Interim Finance Committee. The Interim Finance
+26 Committee has 45 days after the application and recommendation
+27 are submitted to its Secretary within which to consider the
+28 application. Any application which is not considered by the
+29 Committee within the 45-day period shall be deemed approved.
+30 4. If the demand for services or use of equipment exceeds the
+31 capability of the Office to provide them, the Office may contract
+32 with other agencies or independent contractors to furnish the
+33 required services or use of equipment and is responsible for the
+34 administration of the contracts.
+35 Sec. 16. NRS 242.151 is hereby amended to read as follows:
+36 242.151 The Chief shall advise the using agencies regarding:
+37 1. The policy for information services of the [Executive Branch
+38 of Government,] Office as that policy relates, but is not limited, to
+39 such items as standards for systems and programming and criteria
+40 for the selection, location and use of information systems in order
+41 that the requirements of [state agencies and officers] using agencies
+42 may be met at the least cost ; [to the State;]
+43 2. The procedures in performing information services; and
+44 3. The effective administration and use of the computer
+45 facility, including security to prevent unauthorized access to data,
+-
+*AB432*
+
+– 10 –
+1 information and plans for the recovery of systems and applications
+2 after they have been disrupted.
+3 Sec. 17. NRS 242.161 is hereby amended to read as follows:
+4 242.161 1. All equipment of [an agency or elected state
+5 officer] a using agency which is owned or leased by the State must
+6 be under the managerial control of the Office, except the equipment
+7 of the agencies and officers specified in subsection 2 of
+8 NRS 242.131.
+9 2. The Office may permit [an] a using agency which is
+10 required to use such equipment to operate it on the using agency’s
+11 premises.
+12 Sec. 18. NRS 242.171 is hereby amended to read as follows:
+13 242.171 1. The Office is responsible for:
+14 (a) The applications of information systems;
+15 (b) Designing and placing those information systems in
+16 operation;
+17 (c) Any application of an information system which it furnishes
+18 to [state] using agencies [and officers] after negotiation; and
+19 (d) The security validation, testing, including, without
+20 limitation, penetration testing, and continuous monitoring of
+21 information systems,
+22  for using agencies . [and for state agencies and officers which use
+23 the equipment or services of the Office pursuant to subsection 2 of
+24 NRS 242.131.]
+25 2. The Chief shall review and approve or disapprove, pursuant
+26 to standards for justifying cost, any application of an information
+27 system having an estimated developmental cost of $50,000 or more.
+28 No using agency may commence development work on any such
+29 applications until approval and authorization have been obtained
+30 from the Chief.
+31 3. As used in this section, “penetration testing” means a
+32 method of evaluating the security of an information system or
+33 application of an information system by simulating unauthorized
+34 access to the information system or application.
+35 Sec. 19. NRS 242.181 is hereby amended to read as follows:
+36 242.181 1. Any [state agency or elected state officer] using
+37 agency which uses the equipment or services of the Office shall
+38 adhere to the regulations, standards, practices, policies and
+39 conventions of the Office.
+40 2. Each [state] using agency [or elected state officer described
+41 in subsection 1] shall report any suspected incident of:
+42 (a) Unauthorized access to an information system or application
+43 of an information system of the Office used by the [state] using
+44 agency ; [or elected state officer;] and
+-
+*AB432*
+
+– 11 –
+1 (b) Noncompliance with the regulations, standards, practices,
+2 policies and conventions of the Office that is identified by the Office
+3 as security-related,
+4  to the Office of Information Security of the Office and Security
+5 Operations Center within 24 hours after discovery of the suspected
+6 incident. If the Office of Information Security , in consultation with
+7 the Security Operations Center, determines that an incident of
+8 unauthorized access or noncompliance occurred, it shall
+9 immediately report the incident to the Chief. The Chief shall assist
+10 in the investigation and resolution of any such incident.
+11 3. The Office shall provide services to each [state] using
+12 agency [and elected state officer described in subsection 1]
+13 uniformly with respect to degree of service, priority of service,
+14 availability of service and cost of service.
+15 Sec. 20. NRS 242.183 is hereby amended to read as follows:
+16 242.183 1. The Chief of the Office of Information Security ,
+17 in consultation with the Security Operations Center, shall
+18 investigate and resolve any breach of an information system of a
+19 [state] using agency [or elected officer that uses the equipment or
+20 services of the Office of the Chief Information Officer] or an
+21 application of such an information system or unauthorized
+22 acquisition of computerized data that materially compromises the
+23 security, confidentiality or integrity of such an information system.
+24 2. The Chief Information Officer or Chief of the Office of
+25 Information Security, at his or her discretion, may inform members
+26 of the Technological Crime Advisory Board created by NRS
+27 205A.040, the Nevada Commission on Homeland Security created
+28 by NRS 239C.120 and the Information Technology Advisory Board
+29 created by NRS 242.122 of any breach of an information system of
+30 a [state] using agency [or elected officer] or application of such an
+31 information system or unauthorized acquisition of computerized
+32 data or information that materially compromises the security,
+33 confidentiality or integrity of such an information system.
+34 Sec. 21. NRS 242.191 is hereby amended to read as follows:
+35 242.191 1. Except as otherwise provided in subsection 3, the
+36 amount receivable from a [state] using agency [or officer or local
+37 governmental agency] which uses the services and equipment of the
+38 Office must be determined by the Chief in each case and include:
+39 (a) The annual expense, including depreciation, of operating and
+40 maintaining the Network Services Unit, distributed among the
+41 agencies in proportion to the services performed for each agency.
+42 (b) The annual expense of the cybersecurity services provided
+43 by the Security Operations Center, including, without limitation,
+44 real-time monitoring, incident response and security enforcement.
+-
+*AB432*
+
+– 12 –
+1 (c) A service charge in an amount determined by distributing the
+2 monthly installment for the construction costs of the computer
+3 facility among the agencies in proportion to the services performed
+4 for each agency.
+5 2. The Chief shall prepare and submit monthly to the [state
+6 agencies and officers and local governmental] using agencies for
+7 which services of the Office have been performed an itemized
+8 statement of the amount receivable from each [state] using agency .
+9 [or officer or local governmental agency.]
+10 3. The Chief may authorize, if in his or her judgment the
+11 circumstances warrant, a fixed cost billing, including a factor for
+12 depreciation, for services rendered to a [state] using agency . [or
+13 officer or local governmental agency.]
+14 Sec. 22. NRS 242.211 is hereby amended to read as follows:
+15 242.211 1. The Fund for Information Services is hereby
+16 created as an internal service fund. Money from the Fund must be
+17 paid out on claims as other claims against the State are paid. The
+18 claims must be made in accordance with budget allotments and are
+19 subject to postaudit examination and approval.
+20 2. All operating, maintenance, rental, repair and replacement
+21 costs of equipment and all salaries of personnel assigned to the
+22 Office must be paid from the Fund.
+23 3. Each using agency using the services or equipment of the
+24 Office shall pay a fee for that use to the Fund, which must be set by
+25 the Chief in an amount sufficient to reimburse the Office for the
+26 entire cost of providing those services, including overhead. Each
+27 using agency shall budget for those services. All fees, proceeds from
+28 the sale of equipment and any other money received by the Office
+29 must be deposited with the State Treasurer for credit to the Fund.
+30 Sec. 23. The provisions of NRS 218D.380 do not apply to any
+31 provision of this act which adds or revises a requirement to submit a
+32 report to the Legislature.
+33 Sec. 24. NRS 242.141 is hereby repealed.
+TEXT OF REPEALED SECTION
+242.141 Services provided for agencies not under
+Governor’s control and local governmental agencies. To
+facilitate the economical processing of data or information
+throughout the State Government, the Office may provide service
+for agencies not under the control of the Governor, upon the request
+of any such agency. The Office may provide services, including,
+-
+*AB432*
+
+– 13 –
+without limitation, purchasing services, to a local governmental
+agency upon request, if provision of such services will result in
+reduced costs to the State for equipment and services.
+H
+-
+*AB432*
+
+[DELETED: BN.4AY I O S U1,2  p r t g ( EE A r t g a c a O o t G a t C p o s t S O r t S O C t S O C e t T P P r t m v o c r t t o g e a pE i a N T S G a a u g d o d d n b t CE l ( r t O t p c s a a e a ( a u r t O t p c]
+[DELETED: – t s a n u t c o t G a l g a t u t e a s o t O 9 o t b r t d o “ g a tS a ( e a c a r r t a cS r t c ( r t u a a t tSS c o i r t c t o c oS B f t t t L t i cSS 8 o t b a t d o “ s a t m i r a cEEE l r t C t a c r r t]
+[DELETED: – r t C t a c r r t iEESSE C i c w t S O C i aE l g a w u t s o t O m b t a r f a u a w u t s oS 2 o t b r e u a u t s aS 1  CS 2  1  T S O C s d( C( P( E a c a r r t a2  T p a p d p t( A r t a u a n t S C o a s o i t t t]
+[DELETED: –( A( A s f d o p f( T t a r t e o a s p a r f tS 3  I a u a d n c w t p a p d b t S1  I2  R3  C t u a a a a f tS 4  TS 5  T t p e u a i r tS 6  1  O C s p a r a t o t S O C r t i( A s o t p m b t S C d t p y i p i( A( A s o t g a o o t S]
+[DELETED: –( A s o a i p c t t( A o i t t C d i2  T r r p t s 1 m b n l t J 1 o e y t t GS 7  1  T S O C s i w t N S o H E w l d a s f t c o s i t f o c s o2  T P m w l p f s w t N S o HS 8  N2  “ s m a s r t c m o s v t w l t r m o t m i r aS 9  N2  “1  B2  TS 1  N2  “ a f r t u o i t1  A t s a e o t O p t2  A n w t O f i s a eS 1  N2  1  T L h d a d t c o t O o t C I O t O o t G i n f t s o a e p o d a]
+[DELETED: – i S G t e t s a u o i s a t p t p o e a p a t2  T( T( TS 1  N2  1  T O o t C I O i2  T( T A U T C i t h o t( T( T( T( T( T( O u g d o d d3  A N T S G a aS 1  N2  1  E a o p i s 3 a p o r t a a m o t g p a c a n s t( I r t i a s o ( A ( A c u t e t s o s ( P]
+[DELETED: – ( P u t r s a s w( A t v o a i s o t t m w b t t r t s v i l a c u d n t( T2  T o e s r o p o a r w3  A( D t t r o p o a r r( D( I4  O( P( S ( I ( I t L i n i s t L5  A]
+[DELETED: –S 1  N2  T C s a r n f t1  T p f t i s o [ E o G e t N S o H a t N C J I S a a p r b i n l t s a s f s a p a c f l a u o i s t m t2  T p o t O i p i p s a d r a v3  T e a o t O i l s t p u a t s a p f t r o s a4  T s o t [ B o G5  S a s f t e o aS 1  N2  1  T O s p s a a A t S O C s e s a a e s o w s i w l r o c t m i u t s a e e a o2  T , i w l c s w l r m o t m i r a p o t c a t O s t( T( T( T]
+[DELETED: –( T( T E S D o t D o( T( T H D o t D o B a( T( T( T N G C B a N G( T( A( A3  A s a o e s o w u t o t O a d t w f f j f t w I t C d t( I( I a o t I F C T C s 4 d a r o t a f t t t I F C T I F s t i S w w t c t A a w i n c b t4  I o a o i c t f t s o u o e a i r f tS 1  N2  T1  T2  T3  T e a a u o t c]
+[DELETED: –S 1  N2  1  A e o [ a o e s t a a o s i s 2 o2  T O m p [ a u a w iS 1  N2  1  T( T( D a p t i s i( A( T s v t i w p t a c m o2  T u a a a h b o3  A u i t s “ t m a o e t s o a i s o o a i s b s uS 1  N2  1  A w u t e o s o t O s t t r s p p a2  E( U a s o t O b t [ u]
+[DELETED: –( N w t r s p S O C d t a i o a o n o i s3  T O s p s t e [ u [ e s o d i s 1 w r t d o s p o sS 2  N2  1  T c w t S O C s o t O o t C I O o a o s a i s o u o c d t m c t2  T C I O o C o t O o t T C A B c b N s o u a o c o i t m c t sS 2  N2  1  E( T t N S U d a t( T]
+[DELETED: –( A i f t c c o t c2  T C s p a s m t t [ a a g u a f s o t O h b p a i3  T C m a i i h o h j t [S 2  N2  1  T F f I S i h2  A o m r r a r o e a a s o p a t t3  E c o p t s i o ES 2  TS 2  N2  S p f a n u c a l g a  T t e p o d o i a s a T m p s i]
+[DELETED: – l p s t a l g u r i p o s s w r i]

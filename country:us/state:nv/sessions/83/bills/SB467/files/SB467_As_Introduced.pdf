@@ -1,0 +1,1225 @@
+EXEMPT
+S.B. 467
+SENATE BILL NO. 467–COMMITTEE ON FINANCE
+(ON BEHALF OF THE OFFICE OF FINANCE
+IN THE OFFICE OF THE GOVERNOR)
+MAY 15, 2025
+____________
+Referred to Committee on Government Affairs
+SUMMARY—Revises provisions relating to cybersecurity.
+(BDR 19-1149)
+FISCAL NOTE: Effect on Local Government: May have Fiscal Impact.
+Effect on the State: Yes.
+CONTAINS UNFUNDED MANDATE (§ 15)
+(NOT REQUESTED BY AFFECTED LOCAL GOVERNMENT)
+~
+EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+AN ACT relating to governmental administration; transferring the
+Nevada Office of Cyber Defense Coordination of the
+Department of Public Safety to the Office of the Chief
+Information Officer within the Office of the Governor;
+merging the Nevada Office of Cyber Defense
+Coordination with the Office of Information Security in
+the Office of the Chief Information Officer; setting forth
+the duties of the Office of Information Security and Cyber
+Defense; providing certain records are confidential;
+repealing provisions relating to the Nevada Office of
+Cyber Defense Coordination; and providing other matters
+properly relating thereto.
+Legislative Counsel’s Digest:
+1 Existing law creates the Nevada Office of Cyber Defense Coordination within
+2 the Department of Public Safety, which is headed by an Administrator appointed by
+3 the Director of the Department of Public Safety. (NRS 480.920) Existing law sets
+4 forth the duties of the Office of Cyber Defense Coordination which include: (1)
+5 various duties relating to the security of information systems of state agencies; (2)
+6 establishing partnerships with local governments, the Nevada System of Higher
+7 Education, private entities and the Federal Government relating to the security of
+8 information systems; (3) to prepare and maintain a statewide strategic plan
+9 regarding the security of information systems in this State; (4) submitting certain
+-
+*SB467*
+
+– 2 –
+10 quarterly and annual reports relating to cybersecurity and the progress of the
+11 Office; and (5) maintaining certain cybersecurity incident response plans filed by a
+12 political subdivision. (NRS 480.924-480.935)
+13 Existing law creates the Office of the Chief Information Officer within the
+14 Office of the Governor, consisting of certain units, offices and other units, groups,
+15 divisions or departments, including the Office of Information Security. (NRS
+16 242.080) Sections 2, 3, 5-16, 26 and 27 of this bill move the Nevada Office of
+17 Cyber Defense Coordination to the Office of the Chief Information Officer. Section
+18 17 of this bill merges the Nevada Office of Cyber Defense Coordination and the
+19 Office of Information Security and renames the offices the Office of Information
+20 Security and Cyber Defense. Sections 20-22, 28 and 29 of this bill make
+21 conforming changes by applying various provisions of existing law relating to the
+22 Office of Information Security to the Office of Information Security and Cyber
+23 Defense.
+24 Existing law requires the Chief Information Officer to appoint a Deputy Chief
+25 of the Office of Information Security who is in the classified service of this State.
+26 (NRS 242.101) Section 18 renames the position of Deputy Chief of the Office of
+27 Information Security the Deputy Director of the Office of Information Security and
+28 Cyber Defense and places the Deputy Director of the Office in the unclassified
+29 service of this State. Section 31 of this bill provides that the person who is in the
+30 position of Deputy Chief of the Office of Information Security on July 1, 2025, is in
+31 the classified service and must remain in the classified service until he or she
+32 vacates that position.
+33 Existing law requires the Chief Information Officer to adopt regulations
+34 necessary for the administration of laws relating to information services for state
+35 agencies, elected state officers and, under certain circumstances, agencies not under
+36 the control of the Governor and local governmental agencies. (NRS 242.111)
+37 Section 19 of this bill requires the Chief Information Officer to adopt by regulation
+38 the policies and procedures necessary to coordinate the cybersecurity activities of
+39 state agencies and local governments.
+40 Existing law provides that certain plans and records of a state agency or local
+41 government relating to a threat or attack on the security of an information system is
+42 not a public record. (NRS 480.935, 480.940) Sections 1, 15 and 16 of this bill
+43 similarly provide that such plans and records are not public records and may be
+44 disclosed only by the Deputy Director only under certain circumstances.
+45 Section 35 of this bill repeals the provisions of law creating and providing for
+46 the powers and duties of the Nevada Office of Cyber Defense Coordination within
+47 the Department of Public Safety. Sections 23-25 of this bill make conforming
+48 changes to revise references to provisions that are repealed by section 35.
+THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN
+SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:
+1 Section 1. NRS 239.010 is hereby amended to read as follows:
+2 239.010 1. Except as otherwise provided in this section and
+3 NRS 1.4683, 1.4687, 1A.110, 3.2203, 41.0397, 41.071, 49.095,
+4 49.293, 62D.420, 62D.440, 62E.516, 62E.620, 62H.025, 62H.030,
+5 62H.170, 62H.220, 62H.320, 75A.100, 75A.150, 76.160, 78.152,
+6 80.113, 81.850, 82.183, 86.246, 86.54615, 87.515, 87.5413,
+7 87A.200, 87A.580, 87A.640, 88.3355, 88.5927, 88.6067, 88A.345,
+8 88A.7345, 89.045, 89.251, 90.730, 91.160, 116.757, 116A.270,
+-
+*SB467*
+
+– 3 –
+1 116B.880, 118B.026, 119.260, 119.265, 119.267, 119.280,
+2 119A.280, 119A.653, 119A.677, 119B.370, 119B.382, 120A.640,
+3 120A.690, 125.130, 125B.140, 126.141, 126.161, 126.163, 126.730,
+4 127.007, 127.057, 127.130, 127.140, 127.2817, 128.090, 130.312,
+5 130.712, 136.050, 159.044, 159A.044, 164.041, 172.075, 172.245,
+6 176.01334, 176.01385, 176.015, 176.0625, 176.09129, 176.156,
+7 176A.630, 178.39801, 178.4715, 178.5691, 178.5717, 179.495,
+8 179A.070, 179A.165, 179D.160, 180.600, 200.3771, 200.3772,
+9 200.5095, 200.604, 202.3662, 205.4651, 209.392, 209.3923,
+10 209.3925, 209.419, 209.429, 209.521, 211A.140, 213.010, 213.040,
+11 213.095, 213.131, 217.105, 217.110, 217.464, 217.475, 218A.350,
+12 218E.625, 218F.150, 218G.130, 218G.240, 218G.350, 218G.615,
+13 224.240, 226.462, 226.796, 228.270, 228.450, 228.495, 228.570,
+14 231.069, 231.1285, 231.1473, 232.1369, 233.190, 237.300,
+15 239.0105, 239.0113, 239.014, 239B.026, 239B.030, 239B.040,
+16 239B.050, 239C.140, 239C.210, 239C.230, 239C.250, 239C.270,
+17 239C.420, 240.007, 241.020, 241.030, 241.039, 242.105, 244.264,
+18 244.335, 247.540, 247.545, 247.550, 247.560, 250.087, 250.130,
+19 250.140, 250.145, 250.150, 268.095, 268.0978, 268.490, 268.910,
+20 269.174, 271A.105, 281.195, 281.805, 281A.350, 281A.680,
+21 281A.685, 281A.750, 281A.755, 281A.780, 284.4068, 284.4086,
+22 286.110, 286.118, 287.0438, 289.025, 289.080, 289.387, 289.830,
+23 293.4855, 293.5002, 293.503, 293.504, 293.558, 293.5757, 293.870,
+24 293.906, 293.908, 293.909, 293.910, 293B.135, 293D.510, 331.110,
+25 332.061, 332.351, 333.333, 333.335, 338.070, 338.1379, 338.1593,
+26 338.1725, 338.1727, 348.420, 349.597, 349.775, 353.205,
+27 353A.049, 353A.085, 353A.100, 353C.240, 353D.250, 360.240,
+28 360.247, 360.255, 360.755, 361.044, 361.2242, 361.610, 365.138,
+29 366.160, 368A.180, 370.257, 370.327, 372A.080, 378.290, 378.300,
+30 379.0075, 379.008, 379.1495, 385A.830, 385B.100, 387.626,
+31 387.631, 388.1455, 388.259, 388.501, 388.503, 388.513, 388.750,
+32 388A.247, 388A.249, 391.033, 391.035, 391.0365, 391.120,
+33 391.925, 392.029, 392.147, 392.264, 392.271, 392.315, 392.317,
+34 392.325, 392.327, 392.335, 392.850, 393.045, 394.167, 394.16975,
+35 394.1698, 394.447, 394.460, 394.465, 396.1415, 396.1425, 396.143,
+36 396.159, 396.3295, 396.405, 396.525, 396.535, 396.9685,
+37 398A.115, 408.3885, 408.3886, 408.3888, 408.5484, 412.153,
+38 414.280, 416.070, 422.2749, 422.305, 422A.342, 422A.350,
+39 425.400, 427A.1236, 427A.872, 427A.940, 432.028, 432.205,
+40 432B.175, 432B.280, 432B.290, 432B.4018, 432B.407, 432B.430,
+41 432B.560, 432B.5902, 432C.140, 432C.150, 433.534, 433A.360,
+42 439.4941, 439.4988, 439.5282, 439.840, 439.914, 439A.116,
+43 439A.124, 439B.420, 439B.754, 439B.760, 439B.845, 440.170,
+44 441A.195, 441A.220, 441A.230, 442.330, 442.395, 442.735,
+45 442.774, 445A.665, 445B.570, 445B.7773, 449.209, 449.245,
+-
+*SB467*
+
+– 4 –
+1 449.4315, 449A.112, 450.140, 450B.188, 450B.805, 453.164,
+2 453.720, 458.055, 458.280, 459.050, 459.3866, 459.555, 459.7056,
+3 459.846, 463.120, 463.15993, 463.240, 463.3403, 463.3407,
+4 463.790, 467.1005, 480.535, 480.545, [480.935, 480.940,] 481.063,
+5 481.091, 481.093, 482.170, 482.368, 482.5536, 483.340, 483.363,
+6 483.575, 483.659, 483.800, 484A.469, 484B.830, 484B.833,
+7 484E.070, 485.316, 501.344, 503.452, 522.040, 534A.031, 561.285,
+8 571.160, 584.655, 587.877, 598.0964, 598.098, 598A.110,
+9 598A.420, 599B.090, 603.070, 603A.210, 604A.303, 604A.710,
+10 604D.500, 604D.600, 612.265, 616B.012, 616B.015, 616B.315,
+11 616B.350, 618.341, 618.425, 622.238, 622.310, 623.131, 623A.137,
+12 624.110, 624.265, 624.327, 625.425, 625A.185, 628.418, 628B.230,
+13 628B.760, 629.043, 629.047, 629.069, 630.133, 630.2671,
+14 630.2672, 630.2673, 630.2687, 630.30665, 630.336, 630A.327,
+15 630A.555, 631.332, 631.368, 632.121, 632.125, 632.3415,
+16 632.3423, 632.405, 633.283, 633.301, 633.427, 633.4715, 633.4716,
+17 633.4717, 633.524, 634.055, 634.1303, 634.214, 634A.169,
+18 634A.185, 634B.730, 635.111, 635.158, 636.262, 636.342, 637.085,
+19 637.145, 637B.192, 637B.288, 638.087, 638.089, 639.183,
+20 639.2485, 639.570, 640.075, 640.152, 640A.185, 640A.220,
+21 640B.405, 640B.730, 640C.580, 640C.600, 640C.620, 640C.745,
+22 640C.760, 640D.135, 640D.190, 640E.225, 640E.340, 641.090,
+23 641.221, 641.2215, 641A.191, 641A.217, 641A.262, 641B.170,
+24 641B.281, 641B.282, 641C.455, 641C.760, 641D.260, 641D.320,
+25 642.524, 643.189, 644A.870, 645.180, 645.625, 645A.050,
+26 645A.082, 645B.060, 645B.092, 645C.220, 645C.225, 645D.130,
+27 645D.135, 645G.510, 645H.320, 645H.330, 647.0945, 647.0947,
+28 648.033, 648.197, 649.065, 649.067, 652.126, 652.228, 653.900,
+29 654.110, 656.105, 657A.510, 661.115, 665.130, 665.133, 669.275,
+30 669.285, 669A.310, 670B.680, 671.365, 671.415, 673.450, 673.480,
+31 675.380, 676A.340, 676A.370, 677.243, 678A.470, 678C.710,
+32 678C.800, 679B.122, 679B.124, 679B.152, 679B.159, 679B.190,
+33 679B.285, 679B.690, 680A.270, 681A.440, 681B.260, 681B.410,
+34 681B.540, 683A.0873, 685A.077, 686A.289, 686B.170, 686C.306,
+35 687A.060, 687A.115, 687B.404, 687C.010, 688C.230, 688C.480,
+36 688C.490, 689A.696, 692A.117, 692C.190, 692C.3507, 692C.3536,
+37 692C.3538, 692C.354, 692C.420, 693A.480, 693A.615, 696B.550,
+38 696C.120, 703.196, 704B.325, 706.1725, 706A.230, 710.159,
+39 711.600, and sections 15 and 16 of this act, sections 35, 38 and 41
+40 of chapter 478, Statutes of Nevada 2011 and section 2 of chapter
+41 391, Statutes of Nevada 2013 and unless otherwise declared by law
+42 to be confidential, all public books and public records of a
+43 governmental entity must be open at all times during office hours to
+44 inspection by any person, and may be fully copied or an abstract or
+45 memorandum may be prepared from those public books and public
+-
+*SB467*
+
+– 5 –
+1 records. Any such copies, abstracts or memoranda may be used to
+2 supply the general public with copies, abstracts or memoranda of the
+3 records or may be used in any other way to the advantage of the
+4 governmental entity or of the general public. This section does not
+5 supersede or in any manner affect the federal laws governing
+6 copyrights or enlarge, diminish or affect in any other manner the
+7 rights of a person in any written book or record which is
+8 copyrighted pursuant to federal law.
+9 2. A governmental entity may not reject a book or record
+10 which is copyrighted solely because it is copyrighted.
+11 3. A governmental entity that has legal custody or control of a
+12 public book or record shall not deny a request made pursuant to
+13 subsection 1 to inspect or copy or receive a copy of a public book or
+14 record on the basis that the requested public book or record contains
+15 information that is confidential if the governmental entity can
+16 redact, delete, conceal or separate, including, without limitation,
+17 electronically, the confidential information from the information
+18 included in the public book or record that is not otherwise
+19 confidential.
+20 4. If requested, a governmental entity shall provide a copy of a
+21 public record in an electronic format by means of an electronic
+22 medium. Nothing in this subsection requires a governmental entity
+23 to provide a copy of a public record in an electronic format or by
+24 means of an electronic medium if:
+25 (a) The public record:
+26 (1) Was not created or prepared in an electronic format; and
+27 (2) Is not available in an electronic format; or
+28 (b) Providing the public record in an electronic format or by
+29 means of an electronic medium would:
+30 (1) Give access to proprietary software; or
+31 (2) Require the production of information that is confidential
+32 and that cannot be redacted, deleted, concealed or separated from
+33 information that is not otherwise confidential.
+34 5. An officer, employee or agent of a governmental entity who
+35 has legal custody or control of a public record:
+36 (a) Shall not refuse to provide a copy of that public record in the
+37 medium that is requested because the officer, employee or agent has
+38 already prepared or would prefer to provide the copy in a different
+39 medium.
+40 (b) Except as otherwise provided in NRS 239.030, shall, upon
+41 request, prepare the copy of the public record and shall not require
+42 the person who has requested the copy to prepare the copy himself
+43 or herself.
+-
+*SB467*
+
+– 6 –
+1 Sec. 2. NRS 239C.120 is hereby amended to read as follows:
+2 239C.120 1. The Nevada Commission on Homeland Security
+3 is hereby created.
+4 2. The Governor shall appoint to the Commission 16 voting
+5 members that the Governor determines to be appropriate and who
+6 serve at the Governor’s pleasure, which must include at least:
+7 (a) The sheriff of each county whose population is 100,000 or
+8 more.
+9 (b) The chief of the county fire department in each county
+10 whose population is 100,000 or more.
+11 (c) A member of the medical community in a county whose
+12 population is 700,000 or more.
+13 (d) An employee of the largest incorporated city in each county
+14 whose population is 700,000 or more.
+15 (e) A representative recommended by the Inter-Tribal Council
+16 of Nevada, Inc., or its successor organization, to represent tribal
+17 governments in Nevada.
+18 (f) The Director of the Department of Public Safety or his or her
+19 designee.
+20 3. The Governor shall appoint the President and CEO, or his or
+21 her designee, of the Nevada Broadcasters Association, or its
+22 successor organization, to serve as an ex officio voting member of
+23 the Commission.
+24 4. The Governor shall appoint:
+25 (a) An officer of the United States Department of Homeland
+26 Security whom the Department of Homeland Security has
+27 designated for this State;
+28 (b) The agent in charge of the office of the Federal Bureau of
+29 Investigation in this State;
+30 (c) The Chief of the Division; and
+31 (d) The [Administrator] Deputy Director of the [Nevada] Office
+32 of Information Security and Cyber Defense [Coordination]
+33 appointed pursuant to NRS [480.920,] 242.101,
+34  as nonvoting members of the Commission.
+35 5. The Senate Majority Leader shall appoint one member of the
+36 Senate as a nonvoting member of the Commission.
+37 6. The Speaker of the Assembly shall appoint one member of
+38 the Assembly as a nonvoting member of the Commission.
+39 7. The term of office of each member of the Commission who
+40 is a Legislator is 2 years.
+41 8. The Governor or his or her designee shall:
+42 (a) Serve as Chair of the Commission; and
+43 (b) Appoint a member of the Commission to serve as Vice Chair
+44 of the Commission.
+-
+*SB467*
+
+– 7 –
+1 Sec. 3. NRS 239C.160 is hereby amended to read as follows:
+2 239C.160 The Commission shall, within the limits of available
+3 money:
+4 1. Make recommendations to the Governor, the Legislature,
+5 agencies of this State, political subdivisions, tribal governments,
+6 businesses located within this State and private persons who reside
+7 in this State with respect to actions and measures that may be taken
+8 to protect residents of this State and visitors to this State from
+9 potential acts of terrorism and related emergencies.
+10 2. Upon consideration of the most recent statewide strategic
+11 plan prepared by the [Nevada] Office of Information Security and
+12 Cyber Defense [Coordination] pursuant to [NRS 480.930,] section
+13 13 of this act, make recommendations to the Governor, through the
+14 Division, on the use of money received by the State from any
+15 homeland security grant or related program, including, without
+16 limitation, the State Homeland Security Grant Program and Urban
+17 Area Security Initiative, in accordance with the following:
+18 (a) The Division shall provide the Commission with program
+19 guidance and briefings;
+20 (b) The Commission must be provided briefings on existing and
+21 proposed projects, and shall consider statewide readiness
+22 capabilities and priorities for the use of money, administered by the
+23 Division, from any homeland security grant or related program;
+24 (c) The Commission shall serve as the public body which
+25 reviews and makes recommendations for the State’s applications to
+26 the Federal Government for homeland security grants or related
+27 programs, as administered by the Division; and
+28 (d) The Commission shall serve as the public body which
+29 recommends, subject to approval by the Governor, the distribution
+30 of money from any homeland security grant or related program for
+31 use by state, local and tribal government agencies and private sector
+32 organizations.
+33 3. Propose goals and programs that may be set and carried out,
+34 respectively, to counteract or prevent potential acts of terrorism and
+35 related emergencies before such acts of terrorism and related
+36 emergencies can harm or otherwise threaten residents of this State
+37 and visitors to this State.
+38 4. With respect to buildings, facilities, geographic features and
+39 infrastructure that must be protected from acts of terrorism and
+40 related emergencies to ensure the safety of the residents of this State
+41 and visitors to this State, including, without limitation, airports other
+42 than international airports, the Capitol Complex, dams, gaming
+43 establishments, governmental buildings, highways, hotels,
+44 information technology infrastructure, lakes, places of worship,
+-
+*SB467*
+
+– 8 –
+1 power lines, public buildings, public utilities, reservoirs, rivers and
+2 their tributaries, and water facilities:
+3 (a) Identify and categorize such buildings, facilities, geographic
+4 features and infrastructure according to their susceptibility to and
+5 need for protection from acts of terrorism and related emergencies;
+6 and
+7 (b) Study and assess the security of such buildings, facilities,
+8 geographic features and infrastructure from acts of terrorism and
+9 related emergencies.
+10 5. Examine the use, deployment and coordination of response
+11 agencies within this State to ensure that those agencies are
+12 adequately prepared to protect residents of this State and visitors to
+13 this State from acts of terrorism and related emergencies.
+14 6. Assess, examine and review the use of information systems
+15 and systems of communication used by response agencies within
+16 this State to determine the degree to which such systems are
+17 compatible and interoperable. After conducting the assessment,
+18 examination and review, the Commission shall:
+19 (a) Establish a state plan setting forth criteria and standards for
+20 the compatibility and interoperability of those systems when used by
+21 response agencies within this State; and
+22 (b) Advise and make recommendations to the Governor relative
+23 to the compatibility and interoperability of those systems when used
+24 by response agencies within this State, with particular emphasis
+25 upon the compatibility and interoperability of public safety radio
+26 systems.
+27 7. Assess, examine and review the operation and efficacy of
+28 telephone systems and related systems used to provide emergency
+29 911 service.
+30 8. To the extent practicable, cooperate and coordinate with the
+31 Division to avoid duplication of effort in developing policies and
+32 programs for preventing and responding to acts of terrorism and
+33 related emergencies.
+34 9. Submit an annual briefing to the Governor assessing the
+35 preparedness of the State to counteract, prevent and respond to
+36 potential acts of terrorism and related emergencies, including, but
+37 not limited to, an assessment of response plans and vulnerability
+38 assessments of utilities, public entities and private business in this
+39 State. The briefing must be based on information and documents
+40 reasonably available to the Commission and must be compiled with
+41 the advice of the Division after all utilities, public entities and
+42 private businesses assessed have a reasonable opportunity to review
+43 and comment on the Commission’s findings.
+-
+*SB467*
+
+– 9 –
+1 10. Perform any other acts related to their duties set forth in
+2 subsections 1 to 9, inclusive, that the Commission determines are
+3 necessary to protect or enhance:
+4 (a) The safety and security of the State of Nevada;
+5 (b) The safety of residents of the State of Nevada; and
+6 (c) The safety of visitors to the State of Nevada.
+7 Sec. 4. Chapter 242 of NRS is hereby amended by adding
+8 thereto the provisions set forth as sections 5 to 16, inclusive, of this
+9 act.
+10 Sec. 5. The Legislature hereby finds and declares that:
+11 1. The protection and security of information systems, and
+12 the coordination of efforts to promote the protection and security
+13 of information systems, are essential to protecting the health,
+14 safety and welfare of the people of this State.
+15 2. The continued development of technologies relating to
+16 information systems and the expanding and diverse applications of
+17 those technologies pose significant implications for the
+18 functioning of any infrastructure in this State that is critical to the
+19 health, safety and welfare of the people of this State, particularly
+20 in the areas of transportation, health care, energy, education, law
+21 enforcement and commercial enterprises.
+22 3. Information systems and the application of information
+23 systems relating to the operation of the State Government and
+24 local governments make up a statewide cyberinfrastructure that is
+25 integral to the delivery of essential services to the people of this
+26 State and the essential functions of government that ensure the
+27 protection of the health, safety and welfare of the people of this
+28 State.
+29 4. Protecting and securing the statewide cyberinfrastructure
+30 requires the identification of the areas in which information
+31 systems may be vulnerable to attack, unauthorized use or misuse
+32 or other dangerous, harmful or destructive acts.
+33 5. Protecting and securing the statewide cyberinfrastructure
+34 requires an ability to identify and eliminate threats to information
+35 systems in both the public and private sectors.
+36 6. Protecting and securing the statewide cyberinfrastructure
+37 requires a strategic statewide plan for responding to incidents in
+38 which information systems are compromised, breached or
+39 damaged, including, without limitation, actions taken to:
+40 (a) Minimize the harmful impacts of such incidents on the
+41 health, safety and welfare of the people of this State;
+42 (b) Minimize the disruptive effects of such incidents on the
+43 delivery of essential services to the people of this State and on the
+44 essential functions of government that ensure the protection of
+45 the health, safety and welfare of the people of this State; and
+-
+*SB467*
+
+– 10 –
+1 (c) Ensure the uninterrupted and continuous delivery of
+2 essential services to the people of this State and the uninterrupted
+3 and continuous operations of the essential functions of
+4 government that ensure the protection of the health, safety and
+5 welfare of the people of this State.
+6 7. Protecting and securing the statewide cyberinfrastructure
+7 depends on collaboration and cooperation, including the sharing
+8 of information and analysis regarding cybersecurity threats,
+9 among local, state and federal agencies and across a broad
+10 spectrum of the public and private sectors.
+11 8. Institutions of higher education play a critical role in
+12 protecting and securing statewide cyberinfrastructure by
+13 developing programs that support a skilled workforce, promote
+14 innovation and contribute to a more secure statewide
+15 cyberinfrastructure.
+16 9. It is therefore in the public interest that the Legislature
+17 enact provisions to enable the State to prepare for and mitigate
+18 risks to, and otherwise protect, information systems and statewide
+19 cyberinfrastructure.
+20 Sec. 6. As used in sections 5 to 16, inclusive, of this act,
+21 unless the context otherwise requires, the words and terms defined
+22 in sections 7, 8 and 9 of this act have the meanings ascribed to
+23 them in those sections.
+24 Sec. 7. “Deputy Director” means the Deputy Director of the
+25 Office of Information Security and Cyber Defense appointed by
+26 the Chief pursuant to NRS 242.101.
+27 Sec. 8. “Security of an information system” includes, without
+28 limitation, the security of:
+29 1. The physical infrastructure of an information system; and
+30 2. Information, including, without limitation, personal
+31 information, that is stored on, transmitted to, from or through or
+32 generated by an information system.
+33 Sec. 9. “State agency” means every public agency, bureau,
+34 board, commission, department or division of the Executive
+35 Branch of the State Government.
+36 Sec. 10. The Office of Information Security and Cyber
+37 Defense shall:
+38 1. Develop procedures for risk-based assessments that
+39 identify vulnerabilities in the information systems that are
+40 operated or maintained by state agencies and any potential threats
+41 that may exploit such vulnerabilities;
+42 2. Based on the results of risk-based assessments, identify
+43 risks to the security of information systems that are operated or
+44 maintained by state agencies; and
+-
+*SB467*
+
+– 11 –
+1 3. Develop best practices for preparing for and mitigating
+2 risks to, and otherwise protecting, the security of information
+3 systems that are operated or maintained by state agencies.
+4 Sec. 11. The Office of Information Security and Cyber
+5 Defense shall:
+6 1. Establish partnerships with:
+7 (a) Local governments;
+8 (b) The Nevada System of Higher Education; and
+9 (c) Private entities, to the extent practicable,
+10  to encourage the development of strategies to prepare for and
+11 mitigate risks to, and otherwise protect, the security of information
+12 systems that are operated or maintained by a public or private
+13 entity in this State.
+14 2. Establish partnerships to assist and receive assistance from
+15 local governments and appropriate agencies of the Federal
+16 Government regarding the development of strategies to prepare for
+17 and mitigate risks to, and otherwise protect, the security of
+18 information systems.
+19 3. Consult with the Division of Emergency Management of
+20 the Office of the Military regarding the development of strategies
+21 to prepare for and mitigate risks to, and otherwise protect, the
+22 security of information systems.
+23 4. Coordinate with the Investigation Division of the
+24 Department of Public Safety regarding gathering intelligence on
+25 and initiating investigations of cyber threats and incidents.
+26 Sec. 12. 1. The Office of Information Security and Cyber
+27 Defense shall establish policies and procedures for:
+28 (a) A state agency to notify the Office of any specific threat to
+29 the security of an information system operated or maintained by
+30 the state agency;
+31 (b) Any other public or private entity to voluntarily notify the
+32 Office of any specific threat to the security of an information
+33 system;
+34 (c) The Office to notify state agencies, appropriate law
+35 enforcement and prosecuting authorities and any other
+36 appropriate public or private entity of any specific threat to the
+37 security of an information system of which the Office has been
+38 notified; and
+39 (d) The Deputy Director to convene a cybersecurity incident
+40 response team appointed pursuant to subsection 2 upon
+41 notification of the Office of a specific threat to the security of an
+42 information system.
+43 2. In consultation with appropriate state agencies, local
+44 governments and agencies of the Federal Government, the Deputy
+45 Director shall appoint a cybersecurity incident response team or
+-
+*SB467*
+
+– 12 –
+1 teams. Such a team may include, without limitation, an
+2 investigator employed by the Investigation Division of the
+3 Department of Public Safety.
+4 3. A cybersecurity incident response team appointed pursuant
+5 to subsection 2 shall convene at the call of the Deputy Director
+6 and, subject to the direction of the Deputy Director, shall assist the
+7 Office of Information Security and Cyber Defense and any
+8 appropriate state agencies, local governments or agencies of the
+9 Federal Government in responding to a threat to the security of an
+10 information system.
+11 4. A private entity may, in its discretion, use the services of a
+12 cybersecurity incident response team appointed pursuant to
+13 subsection 2.
+14 Sec. 13. 1. The Office of Information Security and Cyber
+15 Defense shall prepare and make publicly available a statewide
+16 strategic plan that outlines policies, procedures, best practices and
+17 recommendations for preparing for and mitigating risks to, and
+18 otherwise protecting, the security of information systems in this
+19 State and for recovering from and otherwise responding to threats
+20 to or attacks on the security of information systems in this State.
+21 The statewide strategic plan prepared and made available
+22 pursuant to this subsection must not identify or include
+23 information which allows for the identification of specific
+24 vulnerabilities in the information systems in this State.
+25 2. The statewide strategic plan must include, without
+26 limitation, policies, procedures, best practices and
+27 recommendations for:
+28 (a) Identifying, preventing and responding to threats to and
+29 attacks on the security of information systems in this State;
+30 (b) Ensuring the safety of, and the continued delivery of
+31 essential services to, the people of this State in the event of a threat
+32 to or attack on the security of an information system in this State;
+33 (c) Protecting the confidentiality of personal information that
+34 is stored on, transmitted to, from or through or generated by an
+35 information system in this State;
+36 (d) Investing in technologies, infrastructure and personnel for
+37 protecting the security of information systems; and
+38 (e) Enhancing the voluntary sharing of information and any
+39 other collaboration among state agencies, local governments,
+40 agencies of the Federal Government and appropriate private
+41 entities regarding protecting the security of information systems.
+42 3. The statewide strategic plan prepared pursuant to this
+43 section must be updated at least every 2 years.
+44 4. A private entity may, in its discretion, make use of the
+45 information set forth in the statewide strategic plan.
+-
+*SB467*
+
+– 13 –
+1 5. Each agency of the State Government that has adopted a
+2 cybersecurity policy shall test the adherence of its employees to
+3 that policy on a periodic basis. Such an agency shall submit the
+4 results of the testing to the Office of Information Security and
+5 Cyber Defense annually for consideration in the update of the
+6 statewide strategic plan.
+7 Sec. 14. 1. The Office of Information Security and Cyber
+8 Defense shall quarterly prepare and submit to the Governor a
+9 report assessing the preparedness of the State, as of the date of the
+10 report, to counteract, prevent and respond to potential
+11 cybersecurity threats. The report must be based on information
+12 and documents readily available to the Office.
+13 2. Not later than July 1 of each year, the Office of
+14 Information Security and Cyber Defense shall prepare and submit
+15 to the Governor and the Nevada Commission on Homeland
+16 Security created by NRS 239C.120 a report that includes, without
+17 limitation:
+18 (a) A summary of the progress made by the Office during the
+19 immediately preceding year in executing, administering and
+20 enforcing the provisions of sections 5 to 16, inclusive, of this act
+21 and performing such duties and exercising such powers as are
+22 conferred upon it pursuant to sections 5 to 16, inclusive, of this act
+23 and any other specific statute;
+24 (b) A general description of any threat during the immediately
+25 preceding year to the security of an information system that
+26 prompted the Deputy Director to convene a cybersecurity incident
+27 response team pursuant to section 12 of this act, and a summary
+28 of the response to the threat;
+29 (c) A summary of the goals and objectives of the Office for the
+30 upcoming year;
+31 (d) A summary of any issues presenting challenges to the
+32 Office; and
+33 (e) Any other information that the Deputy Director determines
+34 is appropriate to include in the report.
+35 Sec. 15. 1. Each political subdivision shall adopt and
+36 maintain a cybersecurity incident response plan. Each new or
+37 revised plan must be filed within 10 days after adoption or revision
+38 with the Office of Information Security and Cyber Defense.
+39 2. The Chief shall, by regulation, prescribe the contents of a
+40 cybersecurity incident response plan, which must include, without
+41 limitation, a plan:
+42 (a) To prepare for a cybersecurity threat;
+43 (b) To detect and analyze a cybersecurity threat;
+44 (c) To contain, eradicate and recover from a cybersecurity
+45 incident; and
+-
+*SB467*
+
+– 14 –
+1 (d) For postincident activity that includes a discussion
+2 regarding information learned and any analytics associated with
+3 the cybersecurity incident.
+4 3. Each political subdivision shall review its cybersecurity
+5 incident response plan at least once each year and, as soon as
+6 practicable after the review is completed but not later than
+7 December 31 of each year, file with the Office of Information
+8 Security and Cyber Defense:
+9 (a) Any revised cybersecurity incident response plan resulting
+10 from the review; or
+11 (b) A written certification that the most recent cybersecurity
+12 incident response plan filed pursuant to subsection 1 is the current
+13 cybersecurity incident response plan for the political subdivision.
+14 4. Except as otherwise provided in NRS 239.0115, a
+15 cybersecurity incident response plan filed pursuant to the
+16 requirements of this section, including any revisions adopted
+17 thereto, is confidential and must be securely maintained by the
+18 Office of Information Security and Cyber Defense. An officer,
+19 employee or other person to whom the plan is entrusted by the
+20 Office shall not disclose the contents of such a plan except:
+21 (a) Upon the lawful order of a court of competent jurisdiction;
+22 (b) As is reasonably necessary in the case of an act of
+23 terrorism or related emergency; or
+24 (c) Pursuant to the provisions of NRS 239.0115.
+25 5. As used in this section, “political subdivision” means a city
+26 or county of this State.
+27 Sec. 16. 1. Any record of a state agency, including, without
+28 limitation, a record of the Office of Information Security and
+29 Cyber Defense or local government or a record obtained from a
+30 private entity which identifies the detection or investigation of or a
+31 response to a suspected or confirmed threat to or attack on the
+32 security of an information system is not a public record and may
+33 be disclosed by the Deputy Director only to another state agency,
+34 local government, a cybersecurity incident response team
+35 convened pursuant to section 12 of this act and appropriate law
+36 enforcement or prosecuting authorities and only for the purposes
+37 of preparing for and mitigating risks to, and otherwise protecting,
+38 the security of an information system or as part of a criminal
+39 investigation.
+40 2. The Office of Information Security and Cyber Defense
+41 shall not require any private entity to provide any information or
+42 data that, in the sole discretion of the private entity, would
+43 compromise any information system operated or maintained by the
+44 private entity if such information or data were made public.
+-
+*SB467*
+
+– 15 –
+1 Sec. 17. NRS 242.080 is hereby amended to read as follows:
+2 242.080 1. The Office of the Chief Information Officer is
+3 hereby created within the Office of the Governor.
+4 2. The Office consists of the Chief and:
+5 (a) The Administration Unit. The Chief is the head of the
+6 Administration Unit.
+7 (b) The Client Services Unit.
+8 (c) The Computing Services Unit.
+9 (d) The Network Services Unit.
+10 (e) The Office of Information Security [.] and Cyber Defense.
+11 (f) Other units, groups, divisions or departments deemed
+12 necessary by the Chief to the extent such functions are supported by
+13 the appropriations allocated to the functions of the Office.
+14 3. A Network Transport Services Group and a
+15 Telecommunications Group are hereby created within the Network
+16 Services Unit of the Office.
+17 Sec. 18. NRS 242.101 is hereby amended to read as follows:
+18 242.101 1. The Chief Information Officer shall:
+19 (a) Appoint a Deputy [Chief] Director of the Office of
+20 Information Security and Cyber Defense who is in the [classified]
+21 unclassified service of the State;
+22 (b) Administer the provisions of this chapter and other
+23 provisions of law relating to the duties of the Office of the Chief
+24 Information Officer;
+25 (c) Employ, within the limits of the approved budget of the
+26 Office, such other staff as is necessary for the performance of the
+27 duties of the Office; and
+28 (d) Carry out other duties and exercise other powers specified by
+29 law.
+30 2. The Chief may form committees to establish standards and
+31 determine criteria for evaluation of policies relating to informational
+32 services.
+33 Sec. 19. NRS 242.111 is hereby amended to read as follows:
+34 242.111 The Chief shall adopt regulations necessary for the
+35 administration of this chapter, including:
+36 1. The policy for the information systems of the Executive
+37 Branch of Government, excluding the Nevada System of Higher
+38 Education and the Nevada Criminal Justice Information System, as
+39 that policy relates, but is not limited, to such items as standards for
+40 systems and programming and criteria for selection, location and
+41 use of information systems to meet the requirements of state
+42 agencies and officers at the least cost to the State;
+43 2. The procedures of the Office in providing information
+44 services, which may include provision for the performance, by an
+45 agency which uses the services or equipment of the Office, of
+-
+*SB467*
+
+– 16 –
+1 preliminary procedures, such as data recording and verification,
+2 within the agency;
+3 3. The effective administration of the Office, including,
+4 without limitation, security to prevent unauthorized access to
+5 information systems and plans for the recovery of systems and
+6 applications after they have been disrupted;
+7 4. The development of standards to ensure the security of the
+8 information systems of the Executive Branch of Government; [and]
+9 5. Specifications and standards for the employment of all
+10 personnel of the Office [.] ; and
+11 6. The policies and procedures necessary to coordinate the
+12 cybersecurity activities of state agencies and local governments.
+13 Sec. 20. NRS 242.181 is hereby amended to read as follows:
+14 242.181 1. Any state agency or elected state officer which
+15 uses the equipment or services of the Office shall adhere to the
+16 regulations, standards, practices, policies and conventions of the
+17 Office.
+18 2. Each state agency or elected state officer described in
+19 subsection 1 shall report any suspected incident of:
+20 (a) Unauthorized access to an information system or application
+21 of an information system of the Office used by the state agency or
+22 elected state officer; and
+23 (b) Noncompliance with the regulations, standards, practices,
+24 policies and conventions of the Office that is identified by the Office
+25 as security-related,
+26  to the Office of Information Security and Cyber Defense of the
+27 Office within 24 hours after discovery of the suspected incident. If
+28 the Office of Information Security and Cyber Defense determines
+29 that an incident of unauthorized access or noncompliance occurred,
+30 it shall immediately report the incident to the Chief. The Chief shall
+31 assist in the investigation and resolution of any such incident.
+32 3. The Office shall provide services to each state agency and
+33 elected state officer described in subsection 1 uniformly with respect
+34 to degree of service, priority of service, availability of service and
+35 cost of service.
+36 Sec. 21. NRS 242.183 is hereby amended to read as follows:
+37 242.183 1. The [Chief] Deputy Director of the Office of
+38 Information Security and Cyber Defense shall investigate and
+39 resolve any breach of an information system of a state agency or
+40 elected officer that uses the equipment or services of the Office of
+41 the Chief Information Officer or an application of such an
+42 information system or unauthorized acquisition of computerized
+43 data that materially compromises the security, confidentiality or
+44 integrity of such an information system.
+-
+*SB467*
+
+– 17 –
+1 2. The Chief Information Officer or [Chief] Deputy Director of
+2 the Office of Information Security [,] and Cyber Defense, at his or
+3 her discretion, may inform members of the Technological Crime
+4 Advisory Board created by NRS 205A.040, the Nevada
+5 Commission on Homeland Security created by NRS 239C.120 and
+6 the Information Technology Advisory Board created by NRS
+7 242.122 of any breach of an information system of a state agency or
+8 elected officer or application of such an information system or
+9 unauthorized acquisition of computerized data or information that
+10 materially compromises the security, confidentiality or integrity of
+11 such an information system.
+12 Sec. 22. NRS 205.4765 is hereby amended to read as follows:
+13 205.4765 1. Except as otherwise provided in subsection 6, a
+14 person who knowingly, willfully and without authorization:
+15 (a) Modifies;
+16 (b) Damages;
+17 (c) Destroys;
+18 (d) Discloses;
+19 (e) Uses;
+20 (f) Transfers;
+21 (g) Conceals;
+22 (h) Takes;
+23 (i) Retains possession of;
+24 (j) Copies;
+25 (k) Obtains or attempts to obtain access to, permits access to or
+26 causes to be accessed; or
+27 (l) Enters,
+28  data, a program or any supporting documents which exist inside
+29 or outside a computer, system or network is guilty of a
+30 misdemeanor.
+31 2. Except as otherwise provided in subsection 6, a person who
+32 knowingly, willfully and without authorization:
+33 (a) Modifies;
+34 (b) Destroys;
+35 (c) Uses;
+36 (d) Takes;
+37 (e) Damages;
+38 (f) Transfers;
+39 (g) Conceals;
+40 (h) Copies;
+41 (i) Retains possession of; or
+42 (j) Obtains or attempts to obtain access to, permits access to or
+43 causes to be accessed,
+44  equipment or supplies that are used or intended to be used in a
+45 computer, system or network is guilty of a misdemeanor.
+-
+*SB467*
+
+– 18 –
+1 3. Except as otherwise provided in subsection 6, a person who
+2 knowingly, willfully and without authorization:
+3 (a) Destroys;
+4 (b) Damages;
+5 (c) Takes;
+6 (d) Alters;
+7 (e) Transfers;
+8 (f) Discloses;
+9 (g) Conceals;
+10 (h) Copies;
+11 (i) Uses;
+12 (j) Retains possession of; or
+13 (k) Obtains or attempts to obtain access to, permits access to or
+14 causes to be accessed,
+15  a computer, system or network is guilty of a misdemeanor.
+16 4. Except as otherwise provided in subsection 6, a person who
+17 knowingly, willfully and without authorization:
+18 (a) Obtains and discloses;
+19 (b) Publishes;
+20 (c) Transfers; or
+21 (d) Uses,
+22  a device used to access a computer, network or data is guilty of a
+23 misdemeanor.
+24 5. Except as otherwise provided in subsection 6, a person who
+25 knowingly, willfully and without authorization introduces, causes to
+26 be introduced or attempts to introduce a computer contaminant into
+27 a computer, system or network is guilty of a misdemeanor.
+28 6. If the violation of any provision of this section:
+29 (a) Was committed to devise or execute a scheme to defraud or
+30 illegally obtain property;
+31 (b) Caused response costs, loss, injury or other damage in excess
+32 of $500; or
+33 (c) Caused an interruption or impairment of a public service,
+34 including, without limitation, a governmental operation, a system of
+35 public communication or transportation or a supply of water, gas or
+36 electricity,
+37  the person is guilty of a category C felony and shall be punished
+38 as provided in NRS 193.130, and may be further punished by a fine
+39 of not more than $100,000. In addition to any other penalty, the
+40 court shall order the person to pay restitution.
+41 7. The provisions of this section do not apply to a person
+42 performing any testing, including, without limitation, penetration
+43 testing, of an information system of an agency that uses the
+44 equipment or services of the Office of the Chief Information Officer
+45 within the Office of the Governor that is authorized by the Chief of
+-
+*SB467*
+
+– 19 –
+1 that Office or the [head] Deputy Director of the Office of
+2 Information Security and Cyber Defense of the Office of the Chief
+3 Information Officer. As used in this subsection:
+4 (a) “Information system” has the meaning ascribed to it in
+5 NRS 242.057.
+6 (b) “Penetration testing” has the meaning ascribed to it in
+7 NRS 242.171.
+8 Sec. 23. NRS 293.0635 is hereby amended to read as follows:
+9 293.0635 “Information system” has the meaning ascribed to it
+10 in NRS [480.906.] 242.057.
+11 Sec. 24. NRS 293.104 is hereby amended to read as follows:
+12 293.104 “Security of an information system” has the meaning
+13 ascribed to it in [NRS 480.910.] section 8 of this act.
+14 Sec. 25. NRS 293.870 is hereby amended to read as follows:
+15 293.870 1. Any records of the Secretary of State or a county
+16 or city clerk that relate to the security of an information system used
+17 for elections are confidential and are not public records pursuant to
+18 chapter 239 of NRS. Such records include, without limitation:
+19 (a) Risk assessments;
+20 (b) Vulnerability assessments; and
+21 (c) Any other information that identifies the preparation for or
+22 prevention of a threat or attack on an information system used for
+23 elections.
+24 2. The Secretary of State or a county or city clerk shall not
+25 disclose any records that are confidential pursuant to this section,
+26 except that such records may be provided confidentially to:
+27 (a) Any state agency or local government;
+28 (b) A cybersecurity incident response team [appointed]
+29 convened pursuant to [NRS 480.928;] section 12 of this act; or
+30 (c) Appropriate law enforcement officers or prosecuting
+31 attorneys,
+32  but only for the purpose of preparing for and mitigating risks to
+33 or otherwise protecting the security of elections or as part of a
+34 criminal investigation.
+35 Sec. 26. NRS 480.130 is hereby amended to read as follows:
+36 480.130 The Department consists of:
+37 1. An Investigation Division;
+38 2. A Nevada Highway Patrol Division;
+39 3. A State Fire Marshal Division;
+40 4. A Division of Parole and Probation;
+41 5. A Capitol Police Division;
+42 6. [A Nevada Office of Cyber Defense Coordination;
+43 7.] A Training Division; and
+44 [8.] 7. A Records, Communications and Compliance Division.
+-
+*SB467*
+
+– 20 –
+1 Sec. 27. NRS 480.140 is hereby amended to read as follows:
+2 480.140 The primary functions and responsibilities of the
+3 divisions of the Department are as follows:
+4 1. The Investigation Division shall:
+5 (a) Execute, administer and enforce the provisions of chapter
+6 453 of NRS relating to controlled substances and chapter 454 of
+7 NRS relating to dangerous drugs;
+8 (b) Investigate technological crime, as defined in NRS
+9 205A.030, and enforce the provisions of the law of this State
+10 relating to technological crime, as defined in NRS 205A.030;
+11 (c) Provide investigative services to the divisions of the
+12 Department as determined by the Director;
+13 (d) Assist the Secretary of State in carrying out an investigation
+14 pursuant to NRS 293.124;
+15 (e) Upon request, assist:
+16 (1) The Department of Taxation in carrying out a criminal
+17 investigation relating to cannabis pursuant to NRS 372A.200 to
+18 372A.380, inclusive, and chapter 678A of NRS;
+19 (2) The Division of Public and Behavioral Health of the
+20 Department of Health and Human Services in carrying out a
+21 criminal investigation relating to cannabis pursuant to chapter 678C
+22 of NRS; and
+23 (3) The Cannabis Compliance Board in carrying out a
+24 criminal investigation pursuant to title 56 of NRS; and
+25 (f) Perform such duties and exercise such powers as may be
+26 conferred upon it pursuant to this chapter and any other specific
+27 statute.
+28 2. The Nevada Highway Patrol Division shall, in conjunction
+29 with the Department of Motor Vehicles, execute, administer and
+30 enforce the provisions of chapters 484A to 484E, inclusive, of NRS
+31 and perform such duties and exercise such powers as may be
+32 conferred upon it pursuant to NRS 480.360 and any other specific
+33 statute.
+34 3. The State Fire Marshal Division shall execute, administer
+35 and enforce the provisions of chapter 477 of NRS and perform such
+36 duties and exercise such powers as may be conferred upon it
+37 pursuant to chapter 477 of NRS and any other specific statute.
+38 4. The Division of Parole and Probation shall execute,
+39 administer and enforce the provisions of chapters 176A and 213 of
+40 NRS relating to parole and probation and perform such duties and
+41 exercise such powers as may be conferred upon it pursuant to those
+42 chapters and any other specific statute.
+43 5. The Capitol Police Division shall assist in the enforcement
+44 of subsection 1 of NRS 331.140.
+45 6. [The Nevada Office of Cyber Defense Coordination shall:
+-
+*SB467*
+
+– 21 –
+1 (a) Serve as the strategic planning, facilitating and coordinating
+2 office for cybersecurity policy and planning in this State; and
+3 (b) Execute, administer and enforce the provisions of NRS
+4 480.900 to 480.950, inclusive, and perform such duties and exercise
+5 such powers as may be conferred upon it pursuant to NRS 480.900
+6 to 480.950, inclusive, and any other specific statute.
+7 7.] The Training Division shall provide training to the
+8 employees of the Department.
+9 [8.] 7. The Records, Communications and Compliance
+10 Division shall:
+11 (a) Execute, administer and enforce the provisions of chapter
+12 179A of NRS and perform such duties and exercise such powers as
+13 may be conferred upon it pursuant to chapter 179A of NRS and any
+14 other specific statute;
+15 (b) Provide dispatch services for the Department and other
+16 agencies as determined by the Director;
+17 (c) Maintain records of the Department as determined by the
+18 Director; and
+19 (d) Provide support services to the Director, the divisions of the
+20 Department and the Nevada Criminal Justice Information System as
+21 may be imposed by the Director.
+22 Sec. 28. NRS 603A.210 is hereby amended to read as follows:
+23 603A.210 1. A data collector that maintains records which
+24 contain personal information of a resident of this State shall
+25 implement and maintain reasonable security measures to protect
+26 those records from unauthorized access, acquisition, destruction,
+27 use, modification or disclosure.
+28 2. If a data collector is a governmental agency and maintains
+29 records which contain personal information of a resident of this
+30 State, the data collector shall, to the extent practicable, with respect
+31 to the collection, dissemination and maintenance of those records,
+32 comply with the current version of the CIS Controls as published by
+33 the Center for Internet Security, Inc. or its successor organization, or
+34 corresponding standards adopted by the National Institute of
+35 Standards and Technology of the United States Department of
+36 Commerce.
+37 3. A contract for the disclosure of the personal information of a
+38 resident of this State which is maintained by a data collector must
+39 include a provision requiring the person to whom the information is
+40 disclosed to implement and maintain reasonable security measures
+41 to protect those records from unauthorized access, acquisition,
+42 destruction, use, modification or disclosure.
+43 4. If a state or federal law requires a data collector to provide
+44 greater protection to records that contain personal information of a
+45 resident of this State which are maintained by the data collector and
+-
+*SB467*
+
+– 22 –
+1 the data collector is in compliance with the provisions of that state
+2 or federal law, the data collector shall be deemed to be in
+3 compliance with the provisions of this section.
+4 5. The Office of Information Security and Cyber Defense of
+5 the Office of the Chief Information Officer within the Office of the
+6 Governor shall create, maintain and make available to the public a
+7 list of controls and standards with which the State is required to
+8 comply pursuant to any federal law, regulation or framework that
+9 also satisfy the controls and standards set forth in subsection 2.
+10 Sec. 29. NRS 603A.215 is hereby amended to read as follows:
+11 603A.215 1. If a data collector doing business in this State
+12 accepts a payment card in connection with a sale of goods or
+13 services, the data collector shall comply with the current version of
+14 the Payment Card Industry (PCI) Data Security Standard, as adopted
+15 by the PCI Security Standards Council or its successor organization,
+16 with respect to those transactions, not later than the date for
+17 compliance set forth in the Payment Card Industry (PCI) Data
+18 Security Standard or by the PCI Security Standards Council or its
+19 successor organization.
+20 2. A data collector doing business in this State to whom
+21 subsection 1 does not apply shall not:
+22 (a) Transfer any personal information through an electronic,
+23 nonvoice transmission other than a facsimile to a person outside of
+24 the secure system of the data collector unless the data collector uses
+25 encryption to ensure the security of electronic transmission; or
+26 (b) Move any data storage device containing personal
+27 information beyond the logical or physical controls of the data
+28 collector, its data storage contractor or, if the data storage device is
+29 used by or is a component of a multifunctional device, a person who
+30 assumes the obligation of the data collector to protect personal
+31 information, unless the data collector uses encryption to ensure the
+32 security of the information.
+33 3. A data collector shall not be liable for damages for a breach
+34 of the security of the system data if:
+35 (a) The data collector is in compliance with this section; and
+36 (b) The breach is not caused by the gross negligence or
+37 intentional misconduct of the data collector, its officers, employees
+38 or agents.
+39 4. The requirements of this section do not apply to:
+40 (a) A telecommunication provider acting solely in the role of
+41 conveying the communications of other persons, regardless of the
+42 mode of conveyance used, including, without limitation:
+43 (1) Optical, wire line and wireless facilities;
+44 (2) Analog transmission; and
+-
+*SB467*
+
+– 23 –
+1 (3) Digital subscriber line transmission, voice over Internet
+2 protocol and other digital transmission technology.
+3 (b) Data transmission over a secure, private communication
+4 channel for:
+5 (1) Approval or processing of negotiable instruments,
+6 electronic fund transfers or similar payment methods; or
+7 (2) Issuance of reports regarding account closures due to
+8 fraud, substantial overdrafts, abuse of automatic teller machines or
+9 related information regarding a customer.
+10 5. As used in this section:
+11 (a) “Data storage device” means any device that stores
+12 information or data from any electronic or optical medium,
+13 including, but not limited to, computers, cellular telephones,
+14 magnetic tape, electronic computer drives and optical computer
+15 drives, and the medium itself.
+16 (b) “Encryption” means the protection of data in electronic or
+17 optical form, in storage or in transit, using:
+18 (1) An encryption technology that has been adopted by an
+19 established standards setting body, including, but not limited to, the
+20 Federal Information Processing Standards issued by the National
+21 Institute of Standards and Technology, which renders such data
+22 indecipherable in the absence of associated cryptographic keys
+23 necessary to enable decryption of such data;
+24 (2) Appropriate management and safeguards of
+25 cryptographic keys to protect the integrity of the encryption using
+26 guidelines promulgated by an established standards setting body,
+27 including, but not limited to, the National Institute of Standards and
+28 Technology; and
+29 (3) Any other technology or method identified by the Office
+30 of Information Security and Cyber Defense of the Office of the
+31 Chief Information Officer within the Office of the Governor in
+32 regulations adopted pursuant to NRS 603A.217.
+33 (c) “Facsimile” means an electronic transmission between two
+34 dedicated fax machines using Group 3 or Group 4 digital formats
+35 that conform to the International [Telecommunications]
+36 Telecommunication Union T.4 or T.38 standards or computer
+37 modems that conform to the International [Telecommunications]
+38 Telecommunication Union T.31 or T.32 standards. The term does
+39 not include onward transmission to a third device after protocol
+40 conversion, including, but not limited to, any data storage device.
+41 (d) “Multifunctional device” means a machine that incorporates
+42 the functionality of devices, which may include, without limitation,
+43 a printer, copier, scanner, facsimile machine or electronic mail
+44 terminal, to provide for the centralized management, distribution or
+45 production of documents.
+-
+*SB467*
+
+– 24 –
+1 (e) “Payment card” has the meaning ascribed to it in
+2 NRS 205.602.
+3 (f) “Telecommunication provider” has the meaning ascribed to it
+4 in NRS 704.027.
+5 Sec. 30. The Office of Information Security and Cyber
+6 Defense shall prepare and make available to the public the statewide
+7 strategic plan required by section 13 of this act not later than
+8 January 1, 2026.
+9 Sec. 31. Notwithstanding any provision of law to the contrary,
+10 a person who has been appointed to or is otherwise incumbent in the
+11 position of Deputy Chief of the Office of Information Security as of
+12 July 1, 2025, is in the classified service of the State and must remain
+13 in the classified service of the State until he or she vacates the
+14 position.
+15 Sec. 32. The Legislative Counsel shall, in preparing
+16 supplements to the Nevada Administrative Code, appropriately
+17 change any references to an officer, agency or other entity whose
+18 name is changed or whose responsibilities are transferred pursuant
+19 to the provisions of this act to refer to the appropriate officer,
+20 agency or other entity.
+21 Sec. 33. 1. Any administrative regulations adopted by an
+22 officer or an agency whose name has been changed or whose
+23 responsibilities have been transferred pursuant to the provisions of
+24 this act to another officer or agency remain in force until amended
+25 by the officer or agency to which the responsibility for the adoption
+26 of the regulations has been transferred.
+27 2. Any contracts or other agreements entered into by an officer
+28 or agency whose name has been changed or whose responsibilities
+29 have been transferred pursuant to the provisions of this act to
+30 another officer or agency are binding upon the officer or agency to
+31 which the responsibility for the administration of the provisions of
+32 the contract or other agreement has been transferred. Such contracts
+33 and other agreements may be enforced by the officer or agency to
+34 which the responsibility for the enforcement of the provisions of the
+35 contract or other agreement has been transferred.
+36 3. Any action taken by an officer or agency whose name has
+37 been changed or whose responsibilities have been transferred
+38 pursuant to the provisions of this act to another officer or agency
+39 remains in effect as if taken by the officer or agency to which the
+40 responsibility for the enforcement of such actions has been
+41 transferred.
+42 Sec. 34. The provisions of NRS 354.599 do not apply to any
+43 additional expenses of a local government that are related to the
+44 provisions of this act.
+-
+*SB467*
+
+– 25 –
+1 Sec. 35. NRS 480.900, 480.902, 480.904, 480.906, 480.908,
+2 480.910, 480.912, 480.920, 480.924, 480.926, 480.928, 480.930,
+3 480.932, 480.935, 480.940 and 480.950 are hereby repealed.
+4 Sec. 36. This act becomes effective on July 1, 2025.
+LEADLINES OF REPEALED SECTIONS
+480.900 Legislative findings and declarations regarding
+security of information systems.
+480.902 Definitions.
+480.904 “Administrator” defined.
+480.906 “Information system” defined.
+480.908 “Office” defined.
+480.910 “Security of an information system” defined.
+480.912 “State agency” defined.
+480.920 Nevada Office of Cyber Defense Coordination:
+Creation; composition.
+480.924 Duties of Office.
+480.926 Office to establish partnerships, consult and
+coordinate with various entities and agencies.
+480.928 Office to establish policies and procedures;
+Administrator to appoint cybersecurity incident response
+teams; duties of cybersecurity incident response teams; private
+entity authorized to use cybersecurity incident response team.
+480.930 Office to prepare and update statewide strategic
+plan regarding security of information systems; use of
+information by private entity; state agencies with cybersecurity
+policy required to test adherence to policy by employees and
+submit results to Office.
+480.932 Office to prepare and submit quarterly and annual
+reports.
+480.935 Political subdivisions required to adopt and
+maintain cybersecurity incident response plan; plan to be filed
+with Office; requirements for plan; confidentiality; exceptions;
+regulations.
+480.940 Confidentiality of certain records.
+480.950 Regulations.
+H
+-
+*SB467*
+
+[DELETED: EBN.4CF I O O IOBOF E F I F OG)1,2  p r t c EE  NRALG) E F O O O o C D C o t o P S t O C O w t O o t G t N O o C D p c r a c p r t t N O oE s ( t p a m a s s p]
+[DELETED: – a a r r t c a t p o tE o d i t O o I S ( a C D S 2 2 a 2 o t b mE mE l r t C I O t a r c o t G a l g a ( 2ES D o P S S 2 t cS 1  N2  1  E 1 1 1 3 4 4 4 6 6 7 7 7 7 8 8 8 8 8 8 8 8 9 9 1 1]
+[DELETED: – 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: – 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 b c a p b a p r o a]
+[DELETED: – o i a m a t f l g o a p i a w b o r w i2  A g e m n r a b o r3  A b o r s n d a r m p t t i c i t g e c d c o s i w l t c i f t i i t p b o r t i n o4  I r i a e f b m o a e( T ( W ( I( P t p r i a e f o b ( G ( R5  A( S( E]
+[DELETED: –S 2  N2  1  T2  T G s a t t C 1 v( T( T c o t c f d i e c( A m o t m c i a c w( A( A I N I o i s o t r t( T3  T d o t N B A o i4  T( A o o t U S D o H w t D o H S h( T( T( T I S a C D [5  T6  T7  T8  T( S( A]
+[DELETED: –S 3  N2  T1  M r t t G t L o t S p s t g p r o t S a v t t S f2  U c o t m r s s o t u o m r b t S f a s g o r p i w( T D s p t C w p( T p a s c s r( T C s s a t p b w F G f h s g o r( T C s s a t p b w3  P e b s a o t a r4  W t m b p f a o t a i a t C C d g g b h h t i l p o w]
+[DELETED: –( I( S a a t s o s b f f a i f a o t a5  E w t S t e t t a a6  A s o c u b r a w S t d t d t w s s a a i A c t a( E( A r a w t S w p e t c a i o p s r7  A e a o a o8  T f p a r t a o t a9  S a a b t t G a t o t S t c p a r t l t a a o r p a v b m b b o a d a o t D a a u p e a]
+[DELETED: –1  P( T( T( TS 4  C 2 o N i h a b aS 5  T1  T p a s o i s a i s a e t p t h2  T c d o t r t t p s i f t3  I s a t a o i r t t o o t S G a4  P t i o t a i w i5  P6  P i s a c b o( M t h i o s i o t( M t d e o s i o t f o g t e t p o]
+[DELETED: –( E t u a c d o c o o t e f o e t p o h s a7  P i a a r c t l s a f a a a a b8  I o h e p a c r i a s s c b p t s a s w p a c t a m s s9  I i t i t p i t t LS 6  A u i s 5 t 1 i o t aS 7  “S 8  “1  T2  I i w l pS 9  “ e a b c d o d o t ES 1  T O o I S a C1  D p f r a t v i t i s t a2  B o t r o r a i]
+[DELETED: –3  D b p f p f a m t a o p t s o iS 1  T O o I S a C1  E( L( T( P t a o o m b a p o p2  E g a a a o t F m r t a o p t s o3  C p f a m r t a o p t4  C w t I D o tS 1  1  T( A( A o a s t t t s o a i( T O t n s a a l a p a a a o( T D D t c a c i t a p t s 2 u2  I c w a s a l]
+[DELETED: – S a t m i w l a e b t I D o t3  A o I S a C D a a4  A i r t a p tS 1  1  T s p a m p a a s s s p p a m a t t s m n i o i w a f t i o s2  T s s p m i w p p b p a( I p a r t t t a( E t s o a t c d o( P( I( E c a s a l g o t F G a a p3  T s s p p p t t4  A p e m i i d m u o t]
+[DELETED: –5  E p t t a o i e o t t t t O o I S a D a f c i t u o tS 1  1  T s q p a s t t G a t c p a r t p t T r m b b o i2  N l t J 1 o e y t O o t G a t N C o H( A p y i e a a p s d a e s p a a( A y t t s o a i s t( A( A s o a i p c t t( AS 1  1  E p s s a a a c i r p E n o2  T( T( T( T c e a r f a c]
+[DELETED: –( F p a t i a d3  E p s s r i c r p a l o e y a a s a a t r i c b n l t 3 o e y f w t O o I( A( A w c t t m r c4  E a o p i N 2 a i r p f p t t o t s i a r a i c a m b s m b t o I S a C D A o o o p t w t p e b( U( A i r n i t c o a a o( P5  AS 1  1  A a r o t O o I S a g a c i r t s o a i s o a p o a c2  T O o I S a C D t i t s d o t p e w]
+[DELETED: –S 1  N2  1  T O o t C I O i2  T( T A U T C i t h o t( T( T( T( T( O u g d o d d3  A N T S G a aS 1  N2  1  T( A a D [ D o t O o( A t p o t c a o( E w t l o t a b o t( C2  TS 1  N2  T C s a r n f t1  T p f t i s o t E o G e t N S o H a p a c f s l a o i s t m t r o s2  T p o t O i p i w u t s o e o t O o]
+[DELETED: – p s a d r a v3  T e a o t O i l s t p u a t s a p f t r o s a4  T5  S a s f t e o a6  T p a p n t c tS 2  N2  1  A s a o e s o w t e o s o t O s a t t s p p a c o t2  E s a o e s o d i( U( N w t r s p3  TS 2  N2  1  T [ D D o t O o S a C D s i a C I O o a a o s a s o u a o c t m c t s c o]
+[DELETED: –2  T d m i m o t T C B c b N 2 t N I T A B c b N o o a o s a i s oS 2  N2  1  E( M( D( D( D( U( T( C( T( R( C( O( E o a c s o n i g o a2  E( M( D( U( T( D( T( C( C( R( O]
+[DELETED: –3  E( D( D( T( A( T( D( C( C( U( R( O4  E( O( P( T( U5  E6  I( W( C( C a i o i o a p s n m t $ I a t a o p t7  T p o t s d n a t a p a t i w l p o a i s o a a t u t]
+[DELETED: – O o t [ D D o t O o( “ s h t m a t i i( “ t h t m a t i iS 2  N2  “S 2  N2  “S 2  N2  1  A( R( V( A2  T S o S o a c o c c s n( A( A c i r t [( A l e o o p o p t s o e o a p o aS 2  N4  T1  A2  A3  A4  A5  A6  [7  A[ 7  A]
+[DELETED: –S 2  N4  T p f a r o t1  T( E a a e t p o c o N r t c s a c 4( I t c a d i N a e t p o t l o t S( P i s t t d o t( A( U ( T r t c p t N 3 t ( T D o P a B H o t o H a H S i c o a ( T C C B i c o a( P s d a e s p a m b u i p t t c a a o s2  T t D o M V e a a p s d a e s p a m b3  T S F M D s e a a e s p a m b c u i4  T D o P a P s e5  T6  []
+[DELETED: –( S( E a a e t p o N7  T T D s p t t t[ 7  T R C a C( E a a e t p o c( P d s f t D a o( M r o t D a d b t( PS 2  N6  1  A d c t m r w p i o a r o t S s a m r s m t p r f u a a d2  I w c p i o a r o t s a b t N I o a T o t U S D o3  A p t r f u a a4  I]
+[DELETED: – f l t d c s b d t b i5  T o a s w w t S r tS 2  N6  1  I a p c i c w a s o g o r t t t n l t t d f s f i t P C I ( D2  A d c d b i t S t w( T a p i t a e( M a d s d c p b t l o p c o t d t o o t d c t p p3  A( T( T b i n c b t g n o4  T( A t p a s i t r o ( O ( A]
+[DELETED: – ( D( D t o a s p c ( A o p o n i ( I o r r a c d t5  A( “ s d m a d t s o d f a e o o m b n l t c c t t e c d a o c( “ ( A t t h b a b a I P S i b t N o S a T w r s d i t a o a c k ( A m a s o p b a e s s b ( A I S a C D o t O o t I O w t O o t G i( “ c t t I [ U T o T s o c t c t t I [ i o t t a t d a p( “ p c s f m o e m]
+[DELETED: –( “ c h t m a t i i( “S 3  T O o I S a C p r b s 1 o t a n l tS 3  N t c s o t S u h o s v tS 3  T L C s i p t t N A C a t p o t a t r t t a oS 3  1  A a r a b a o a a w n h b c o w2  A b t p t t p o t a t3  A c o w r h b t f t e o s a h bS 3  T e o a l g t a r t t]
+[DELETED: –S 3  N 4 4 4 4 4 4 4 4 4 4 4S 3  T4  L f a d r4  D4  “4  “4  “4  “4  “4  N O o C D C4  D4  O t e p c a4  O t e p a p t a c i r4  O t p a u s s r s o i s u o r t t a t p b e a4  O4  P s r t a a4  C4  R]
