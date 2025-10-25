@@ -1,0 +1,1067 @@
+Title: SENATE BILL NO. 361–SENATOR HANSEN
+Official Title: SENATE BILL NO. 361–SENATOR HANSEN
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+S.B. 361
+MARCH 17, 2025
+____________
+Referred to Committee on Judiciary
+SUMMARY—Revises provisions relating to criminal procedure.
+(BDR 14-341)
+FISCAL NOTE: Effect on Local Government: No.
+Effect on the State: No.
+~
+EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+AN ACT relating to criminal procedure; defining certain terms,
+including the term “tracking warrant”; prohibiting, with
+certain exceptions, a governmental entity from obtaining
+certain location information except when authorized by a
+tracking warrant; establishing provisions relating to the
+disclosure, application, issuance and execution of tracking
+warrants; establishing provisions relating to the disclosure
+and admissibility of location information in certain
+circumstances; and providing other matters properly
+relating thereto.
+Legislative Counsel’s Digest:
+1 Existing law authorizes the issuance of a search warrant to search a place or a
+2 person for any property: (1) that is stolen or embezzled; (2) that is designed or
+3 intended to be used or has been used as the means of committing a criminal
+4 offense; or (3) when the property consists of any item or constitutes any evidence
+5 which tends to show that a criminal offense has been committed or that a particular
+6 person has committed a criminal offense. (NRS 179.035) Section 14 of this bill
+7 prohibits, with certain exceptions, a governmental entity from obtaining certain
+8 location information of an electronic device or unique identifier without a tracking
+9 warrant under certain circumstances. Section 14 prohibits any location information
+10 obtained in violation of the provisions of section 14, or evidence derived therefrom,
+11 from being admitted in any administrative, civil, criminal or other proceeding in
+12 this State except to prove a violation of section 14.
+13 Section 15 of this bill authorizes a magistrate to grant a tracking warrant if a
+14 complete application is supported by probable cause to believe that: (1) the person
+15 who owns or who is using an electronic device or who is using a unique identifier is
+16 committing, has committed or is about to commit an offense; and (2) the location
+17 information sought to be collected by the tracking warrant will produce evidence of
+18 the offense. Section 15 sets forth the requirements for an application for a tracking
+-
+*SB361*
+– 2 –
+19 warrant and for the extension of a tracking warrant. Section 15 requires the
+20 magistrate to whom an application is made or who issues a tracking warrant or
+21 extension to seal any such application, warrant or extension and sets forth the
+22 circumstances under which such information may be disclosed.
+23 Section 16 of this bill sets forth requirements for the contents of a tracking
+24 warrant and authorizes the applicant to request that certain provisions be included
+25 in the tracking warrant. Section 16 also: (1) establishes certain limitations on the
+26 period for which a tracking warrant may authorize the collection of location
+27 information; and (2) authorizes the magistrate to extend such periods in certain
+28 circumstances.
+29 Section 17 prohibits, with certain exceptions, any location information, or
+30 evidence derived therefrom, from being received into evidence or otherwise
+31 disclosed in court unless a copy of the tracking warrant, its application and any
+32 location information collected pursuant to the tracking warrant is transmitted to
+33 certain persons not less than 10 days before any trial, hearing or other proceeding.
+34 Section 18 of this bill sets forth a procedure by which a person who is
+35 aggrieved by an alleged unlawful search and seizure of his or her location
+36 information may move a court for the suppression of its use as evidence.
+37 Section 19 of this bill requires a magistrate who issued a tracking warrant to
+38 serve certain persons with a notice containing certain information not later than 90
+39 days after the date of expiration of the period of time, or any extension thereof, for
+40 which the tracking warrant authorized the collection of location information.
+41 Sections 19 and 20 of this bill make certain information confidential and set forth
+42 the circumstances under which such information and documentation may be
+43 disclosed.
+44 Sections 3-13, of this bill define certain terms, including “tracking warrant,”
+45 “location information,” “electronic device” and “unique identifier,” for the
+46 purposes of sections 2-19 of this bill.
+THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN
+SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:
+1 Section 1. Chapter 179 of NRS is hereby amended by adding
+2 thereto the provisions set forth as sections 2 to 19, inclusive, of this
+3 act.
+4 Sec. 2. As used in sections 2 to 19, inclusive, of this act,
+5 unless the context otherwise requires, the words and terms defined
+6 in sections 3 to 13, inclusive, of this act have the meanings
+7 ascribed to them in those sections.
+8 Sec. 3. “Electronic communication service” means a service
+9 that provides to users of the service the ability to send or receive
+10 radio frequency, wire or electronic communications.
+11 Sec. 4. “Electronic communication service provider” means
+12 a person who operates an electronic communication service.
+13 Sec. 5. “Electronic device” means a device that enables
+14 access to or use of an electronic communication service, remote
+15 computing service or location information service.
+16 Sec. 6. “Governmental entity” means a state or local
+17 governmental agency, including, without limitation, a law
+-
+*SB361*
+– 3 –
+1 enforcement agency or other investigative entity, agency,
+2 department, division, bureau, board or commission or person
+3 acting or purporting to act for or on behalf of a state or local
+4 governmental agency.
+5 Sec. 7. “Location information” means information
+6 concerning the location of an electronic device or unique
+7 identifier that, in whole or in part, is generated or derived from or
+8 obtained by the operation of an electronic device or unique
+9 identifier.
+10 Sec. 8. “Location information service” means the provision
+11 of global positioning service or other mapping, locational or
+12 directional information service.
+13 Sec. 9. “Location information service provider” means a
+14 person who operates a location information service.
+15 Sec. 10. “Remote computing service” means the provision to
+16 the public of computer storage or processing services by means of
+17 an electronic communication system.
+18 Sec. 11. “Remote computing service provider” means a
+19 person who operates a remote computing service.
+20 Sec. 12. “Tracking warrant” means a warrant that grants a
+21 peace officer access to location information of an electronic device
+22 or a unique identifier.
+23 Sec. 13. “Unique identifier” means any numeric or
+24 alphanumeric string that is associated with a single entity or
+25 account within a given electronic communication service.
+26 Sec. 14. 1. Except as provided in subsection 2, a
+27 governmental entity shall not obtain the location information of
+28 an electronic device or unique identifier without a tracking
+29 warrant.
+30 2. A governmental entity may obtain location information of
+31 an electronic device or unique identifier without a tracking
+32 warrant in the following circumstances:
+33 (a) If the electronic device is reported lost or stolen by the
+34 owner or user.
+35 (b) To respond to a call or request for emergency services by
+36 the owner or user pursuant to NRS 707.630.
+37 (c) If the owner or user of the electronic device or the user of a
+38 unique identifier gives the governmental entity informed, written
+39 consent.
+40 (d) With the informed, written consent of the legal guardian or
+41 next of kin:
+42 (1) If the owner or user of an electronic device or user of a
+43 unique identifier is believed to be deceased or reported missing
+44 and unable to be contacted; or
+-
+*SB361*
+– 4 –
+1 (2) If the owner or user of an electronic device or user of a
+2 unique identifier is a child who is less than 18 years of age.
+3 (e) If a peace officer has probable cause to believe that:
+4 (1) There is an emergency situation that poses an
+5 immediate threat of death or serious injury to the owner or user of
+6 the electronic device or the user of the unique identifier;
+7 (2) The location information is necessary to prevent or
+8 avoid the immediate threat to the owner or user of the electronic
+9 device or the user of the unique identifier; and
+10 (3) Exigent circumstances make obtaining a warrant
+11 impractical.
+12 3. A peace officer who obtains location information without a
+13 tracking warrant in the manner described in paragraph (d) of
+14 subsection 2 shall, not later than 48 hours after obtaining the
+15 location information, apply for a tracking warrant that meets the
+16 requirements under section 15 of this act. If the application is
+17 denied, any location information, or evidence derived therefrom, is
+18 inadmissible in any trial, hearing or other proceeding before any
+19 court, department, officer, agency or other authority of this State,
+20 or political subdivision thereof, except to prove a violation of this
+21 section.
+22 4. Any location information obtained in violation of the
+23 provisions of this section, or evidence derived therefrom, is
+24 inadmissible in any trial, hearing or other proceeding before any
+25 court, department, officer, agency or other authority of this State,
+26 or political subdivision thereof, except to prove a violation of this
+27 section.
+28 5. As used in this section, “owner” includes the lessee of an
+29 electronic device. The term does not include an electronic
+30 communication service provider, location information service
+31 provider, remote computing service provider or other commercial
+32 or business entity that is the lessor of an electronic device during
+33 the term of the lease.
+34 Sec. 15. 1. An application for a tracking warrant, or
+35 extension thereof, may only be granted:
+36 (a) On affidavit or affidavits sworn to before a magistrate that
+37 establish the grounds for issuing a tracking warrant; and
+38 (b) If the magistrate finds the application is complete and
+39 supported by probable cause to believe that:
+40 (1) The person who owns or is using an electronic device or
+41 who is using a unique identifier is committing, has committed or is
+42 about to commit an offense; and
+43 (2) The location information of the electronic device or
+44 unique identifier will produce evidence of the offense described in
+45 subparagraph (1).
+-
+*SB361*
+– 5 –
+1 2. Each application for a tracking warrant, or extension
+2 thereof, must be made in writing upon oath or affirmation and
+3 must include:
+4 (a) The identity of the peace officer making the application,
+5 and the magistrate authorizing the application;
+6 (b) A full and complete statement of the facts and
+7 circumstances relied upon by the peace officer to justify his or her
+8 belief that a tracking warrant should be issued by the magistrate,
+9 including, without limitation:
+10 (1) Details as to the particular offense that has been, is
+11 being or is about to be committed;
+12 (2) The identity of the person, if known, committing the
+13 offense whose location information is to be obtained;
+14 (3) A particular description of the nature of the electronic
+15 device or unique identifier for which location information is to be
+16 obtained;
+17 (4) A statement of the period for which the location
+18 information is sought to be collected; and
+19 (5) A statement of the objective that collecting location
+20 information will achieve.
+21 (c) If the application is for the extension of the period specified
+22 in the original tracking warrant, a statement setting forth:
+23 (1) The results thus far obtained from the collection of
+24 location information or a reasonable explanation of the failure to
+25 obtain such results;
+26 (2) How the granting of the extension will aid in achieving
+27 the objective stated in the original application;
+28 (3) The identity, if learned or known, of the owner and the
+29 user of the electronic device or the user of the unique identifier;
+30 and
+31 (4) If location information was obtained, the identity of the
+32 electronic communication service provider, location information
+33 service provider or remote computing service provider from which
+34 the location information was obtained.
+35 3. The magistrate may require the peace officer making the
+36 application to furnish additional testimony or documentary
+37 evidence under oath or affirmation in support of the application.
+38 Oral testimony must be reduced to writing.
+39 4. The magistrate may accept a facsimile or electronic copy of
+40 the signature of any person required to give an oath or
+41 affirmation, as part of an application submitted pursuant to this
+42 section, as an original signature to the application.
+43 5. Applications made for and tracking warrants and any
+44 extensions thereof issued under this section must be sealed by the
+45 magistrate and must not be disclosed except in the following cases:
+-
+*SB361*
+– 6 –
+1 (a) Upon a showing of good cause before a court of competent
+2 jurisdiction.
+3 (b) To the extent necessary to execute the tracking warrant.
+4 (c) To comply with section 17 or 19 of this act.
+5 Sec. 16. 1. Each tracking warrant, or extension thereof,
+6 issued pursuant to section 15 of this act must:
+7 (a) Specify the identity of the peace officer authorized to
+8 collect the location information of the electronic device or unique
+9 identifier, and the magistrate authorizing the application;
+10 (b) State the grounds or probable cause for its issuance and
+11 the name of any person whose affidavit has been taken in support
+12 thereof or incorporate by reference the affidavit or statement upon
+13 which it is based;
+14 (c) Identify the electronic device or unique identifier for which
+15 the peace officer identified in paragraph (a) is authorized to
+16 collect location information;
+17 (d) Specify the period for which the location information is
+18 authorized to be collected, including a statement as to whether or
+19 not the authorization will automatically terminate when the
+20 objective described in the application is achieved;
+21 (e) State the identity of the person, if known, whose location
+22 information is to be obtained;
+23 (f) Designate the magistrate to whom the tracking warrant is to
+24 be returned;
+25 (g) Direct that the tracking warrant be returned with an
+26 inventory of the location information collected not later than 10
+27 days after the date of expiration of the period specified in the
+28 tracking warrant or any extension thereof, whichever is later; and
+29 (h) Contain a provision stating that the authorization to access
+30 and collect location data for the period specified in the tracking
+31 warrant and any extension thereof will terminate upon
+32 achievement of the objective stated in the original application, or
+33 in any event in not later than 30 days after issuance.
+34 2. A tracking warrant must, upon request of the applicant,
+35 direct an electronic communication service provider, location
+36 information service provider or remote computing service provider
+37 to furnish the peace officer forthwith all information and
+38 technical assistance necessary to accomplish the collection of
+39 location information unobtrusively and with a minimum of
+40 interference with services. Any electronic communication service
+41 provider, location information service provider or remote
+42 computing service provider or other person furnishing such
+43 information or technical assistance must be compensated by the
+44 applicant at the prevailing rates.
+-
+*SB361*
+– 7 –
+1 3. Whenever a tracking warrant is issued, the tracking
+2 warrant may require the applicant to make reports to the
+3 magistrate who issued the tracking warrant showing what
+4 progress has been made toward achievement of the objective stated
+5 in the original application and the need for continued collection.
+6 Such reports must be made at such intervals as the magistrate may
+7 require.
+8 4. A tracking warrant must not authorize access and
+9 collection of location information for any period longer than is
+10 necessary to achieve the objective given in the application for the
+11 tracking warrant, and except as otherwise provided in subsection
+12 5, in no event more than 30 days.
+13 5. Extensions of the period specified in a tracking warrant
+14 may be granted only upon application for an extension made in
+15 the manner prescribed in section 15 of this act. The period of
+16 extension must not be longer than the magistrate who issues the
+17 extension deems necessary to achieve the objective for which it
+18 was granted and in no event for more than 30 days.
+19 Sec. 17. Any location information obtained pursuant to a
+20 tracking warrant or evidence derived therefrom must not be
+21 received in evidence or otherwise disclosed in any trial, hearing or
+22 other proceeding unless each party, not less than 10 days before
+23 the date on which the trial, hearing or other proceeding is
+24 scheduled to begin, has been furnished with the tracking warrant,
+25 the accompanying application, any location information collected
+26 pursuant to the tracking warrant and any evidence derived
+27 therefrom. The court may waive this requirement if the court finds
+28 that:
+29 1. It was not practicable to furnish a party with the required
+30 information 10 days before the date on which the trial, hearing or
+31 other proceeding is scheduled to begin; and
+32 2. Any party will not be prejudiced by such a waiver.
+33 Sec. 18. 1. Any aggrieved person in any trial, hearing or
+34 proceeding in or before any court, department, officer, agency or
+35 other authority of this State, or a political subdivision thereof, may
+36 move to suppress the contents of any collected location
+37 information, or evidence derived therefrom, on the grounds that:
+38 (a) The location information was obtained in violation of
+39 section 14 of this act or was otherwise unlawfully obtained;
+40 (b) The tracking warrant is insufficient on its face;
+41 (c) There was not probable cause for believing the existence of
+42 the grounds on which the tracking warrant was issued;
+43 (d) The collection was not made in conformity with the
+44 authorization given by the tracking warrant or was otherwise
+45 unlawfully executed; or
+-
+*SB361*
+– 8 –
+1 (e) The period specified in the order or any extension had
+2 expired.
+3 2. A judge shall receive evidence on any issue of fact
+4 necessary to the decision of a motion filed pursuant to this section.
+5 3. A motion made pursuant to this section must be made
+6 before the trial, hearing or proceeding unless there was no
+7 opportunity to make such a motion or the person was not aware of
+8 the grounds of the motion. If the motion is granted, the collected
+9 location information, or evidence derived therefrom, must be
+10 treated in accordance with section 17 of this act as having been
+11 obtained in violation of section 14 of this act.
+12 Sec. 19. 1. Within a reasonable time but not later than 90
+13 days after the date of expiration of the period specified in a
+14 tracking warrant or any extension thereof, whichever is later, the
+15 magistrate who issued the tracking warrant shall cause to be
+16 served on the person identified in the tracking warrant or any
+17 extension thereof, notice of:
+18 (a) The fact of the issuance of the tracking warrant or
+19 application;
+20 (b) The period requested or authorized for the collection of
+21 location information; and
+22 (c) The fact that during the period location information was or
+23 was not collected.
+24 2. Except as otherwise provided in NRS 239.0115, the notice
+25 given pursuant to this section is confidential and must not be
+26 released for inspection unless subpoenaed by a court of competent
+27 jurisdiction.
+28 Sec. 20. NRS 239.010 is hereby amended to read as follows:
+29 239.010 1. Except as otherwise provided in this section and
+30 NRS 1.4683, 1.4687, 1A.110, 3.2203, 41.0397, 41.071, 49.095,
+31 49.293, 62D.420, 62D.440, 62E.516, 62E.620, 62H.025, 62H.030,
+32 62H.170, 62H.220, 62H.320, 75A.100, 75A.150, 76.160, 78.152,
+33 80.113, 81.850, 82.183, 86.246, 86.54615, 87.515, 87.5413,
+34 87A.200, 87A.580, 87A.640, 88.3355, 88.5927, 88.6067, 88A.345,
+35 88A.7345, 89.045, 89.251, 90.730, 91.160, 116.757, 116A.270,
+36 116B.880, 118B.026, 119.260, 119.265, 119.267, 119.280,
+37 119A.280, 119A.653, 119A.677, 119B.370, 119B.382, 120A.640,
+38 120A.690, 125.130, 125B.140, 126.141, 126.161, 126.163, 126.730,
+39 127.007, 127.057, 127.130, 127.140, 127.2817, 128.090, 130.312,
+40 130.712, 136.050, 159.044, 159A.044, 164.041, 172.075, 172.245,
+41 176.01334, 176.01385, 176.015, 176.0625, 176.09129, 176.156,
+42 176A.630, 178.39801, 178.4715, 178.5691, 178.5717, 179.495,
+43 179A.070, 179A.165, 179D.160, 180.600, 200.3771, 200.3772,
+44 200.5095, 200.604, 202.3662, 205.4651, 209.392, 209.3923,
+45 209.3925, 209.419, 209.429, 209.521, 211A.140, 213.010, 213.040,
+-
+*SB361*
+– 9 –
+1 213.095, 213.131, 217.105, 217.110, 217.464, 217.475, 218A.350,
+2 218E.625, 218F.150, 218G.130, 218G.240, 218G.350, 218G.615,
+3 224.240, 226.462, 226.796, 228.270, 228.450, 228.495, 228.570,
+4 231.069, 231.1285, 231.1473, 232.1369, 233.190, 237.300,
+5 239.0105, 239.0113, 239.014, 239B.026, 239B.030, 239B.040,
+6 239B.050, 239C.140, 239C.210, 239C.230, 239C.250, 239C.270,
+7 239C.420, 240.007, 241.020, 241.030, 241.039, 242.105, 244.264,
+8 244.335, 247.540, 247.545, 247.550, 247.560, 250.087, 250.130,
+9 250.140, 250.145, 250.150, 268.095, 268.0978, 268.490, 268.910,
+10 269.174, 271A.105, 281.195, 281.805, 281A.350, 281A.680,
+11 281A.685, 281A.750, 281A.755, 281A.780, 284.4068, 284.4086,
+12 286.110, 286.118, 287.0438, 289.025, 289.080, 289.387, 289.830,
+13 293.4855, 293.5002, 293.503, 293.504, 293.558, 293.5757, 293.870,
+14 293.906, 293.908, 293.909, 293.910, 293B.135, 293D.510, 331.110,
+15 332.061, 332.351, 333.333, 333.335, 338.070, 338.1379, 338.1593,
+16 338.1725, 338.1727, 348.420, 349.597, 349.775, 353.205,
+17 353A.049, 353A.085, 353A.100, 353C.240, 353D.250, 360.240,
+18 360.247, 360.255, 360.755, 361.044, 361.2242, 361.610, 365.138,
+19 366.160, 368A.180, 370.257, 370.327, 372A.080, 378.290, 378.300,
+20 379.0075, 379.008, 379.1495, 385A.830, 385B.100, 387.626,
+21 387.631, 388.1455, 388.259, 388.501, 388.503, 388.513, 388.750,
+22 388A.247, 388A.249, 391.033, 391.035, 391.0365, 391.120,
+23 391.925, 392.029, 392.147, 392.264, 392.271, 392.315, 392.317,
+24 392.325, 392.327, 392.335, 392.850, 393.045, 394.167, 394.16975,
+25 394.1698, 394.447, 394.460, 394.465, 396.1415, 396.1425, 396.143,
+26 396.159, 396.3295, 396.405, 396.525, 396.535, 396.9685,
+27 398A.115, 408.3885, 408.3886, 408.3888, 408.5484, 412.153,
+28 414.280, 416.070, 422.2749, 422.305, 422A.342, 422A.350,
+29 425.400, 427A.1236, 427A.872, 427A.940, 432.028, 432.205,
+30 432B.175, 432B.280, 432B.290, 432B.4018, 432B.407, 432B.430,
+31 432B.560, 432B.5902, 432C.140, 432C.150, 433.534, 433A.360,
+32 439.4941, 439.4988, 439.5282, 439.840, 439.914, 439A.116,
+33 439A.124, 439B.420, 439B.754, 439B.760, 439B.845, 440.170,
+34 441A.195, 441A.220, 441A.230, 442.330, 442.395, 442.735,
+35 442.774, 445A.665, 445B.570, 445B.7773, 449.209, 449.245,
+36 449.4315, 449A.112, 450.140, 450B.188, 450B.805, 453.164,
+37 453.720, 458.055, 458.280, 459.050, 459.3866, 459.555, 459.7056,
+38 459.846, 463.120, 463.15993, 463.240, 463.3403, 463.3407,
+39 463.790, 467.1005, 480.535, 480.545, 480.935, 480.940, 481.063,
+40 481.091, 481.093, 482.170, 482.368, 482.5536, 483.340, 483.363,
+41 483.575, 483.659, 483.800, 484A.469, 484B.830, 484B.833,
+42 484E.070, 485.316, 501.344, 503.452, 522.040, 534A.031, 561.285,
+43 571.160, 584.655, 587.877, 598.0964, 598.098, 598A.110,
+44 598A.420, 599B.090, 603.070, 603A.210, 604A.303, 604A.710,
+45 604D.500, 604D.600, 612.265, 616B.012, 616B.015, 616B.315,
+-
+*SB361*
+– 10 –
+1 616B.350, 618.341, 618.425, 622.238, 622.310, 623.131, 623A.137,
+2 624.110, 624.265, 624.327, 625.425, 625A.185, 628.418, 628B.230,
+3 628B.760, 629.043, 629.047, 629.069, 630.133, 630.2671,
+4 630.2672, 630.2673, 630.2687, 630.30665, 630.336, 630A.327,
+5 630A.555, 631.332, 631.368, 632.121, 632.125, 632.3415,
+6 632.3423, 632.405, 633.283, 633.301, 633.427, 633.4715, 633.4716,
+7 633.4717, 633.524, 634.055, 634.1303, 634.214, 634A.169,
+8 634A.185, 634B.730, 635.111, 635.158, 636.262, 636.342, 637.085,
+9 637.145, 637B.192, 637B.288, 638.087, 638.089, 639.183,
+10 639.2485, 639.570, 640.075, 640.152, 640A.185, 640A.220,
+11 640B.405, 640B.730, 640C.580, 640C.600, 640C.620, 640C.745,
+12 640C.760, 640D.135, 640D.190, 640E.225, 640E.340, 641.090,
+13 641.221, 641.2215, 641A.191, 641A.217, 641A.262, 641B.170,
+14 641B.281, 641B.282, 641C.455, 641C.760, 641D.260, 641D.320,
+15 642.524, 643.189, 644A.870, 645.180, 645.625, 645A.050,
+16 645A.082, 645B.060, 645B.092, 645C.220, 645C.225, 645D.130,
+17 645D.135, 645G.510, 645H.320, 645H.330, 647.0945, 647.0947,
+18 648.033, 648.197, 649.065, 649.067, 652.126, 652.228, 653.900,
+19 654.110, 656.105, 657A.510, 661.115, 665.130, 665.133, 669.275,
+20 669.285, 669A.310, 670B.680, 671.365, 671.415, 673.450, 673.480,
+21 675.380, 676A.340, 676A.370, 677.243, 678A.470, 678C.710,
+22 678C.800, 679B.122, 679B.124, 679B.152, 679B.159, 679B.190,
+23 679B.285, 679B.690, 680A.270, 681A.440, 681B.260, 681B.410,
+24 681B.540, 683A.0873, 685A.077, 686A.289, 686B.170, 686C.306,
+25 687A.060, 687A.115, 687B.404, 687C.010, 688C.230, 688C.480,
+26 688C.490, 689A.696, 692A.117, 692C.190, 692C.3507, 692C.3536,
+27 692C.3538, 692C.354, 692C.420, 693A.480, 693A.615, 696B.550,
+28 696C.120, 703.196, 704B.325, 706.1725, 706A.230, 710.159,
+29 711.600, and section 19 of this act, sections 35, 38 and 41 of
+30 chapter 478, Statutes of Nevada 2011 and section 2 of chapter 391,
+31 Statutes of Nevada 2013 and unless otherwise declared by law to be
+32 confidential, all public books and public records of a governmental
+33 entity must be open at all times during office hours to inspection by
+34 any person, and may be fully copied or an abstract or memorandum
+35 may be prepared from those public books and public records. Any
+36 such copies, abstracts or memoranda may be used to supply the
+37 general public with copies, abstracts or memoranda of the records or
+38 may be used in any other way to the advantage of the governmental
+39 entity or of the general public. This section does not supersede or in
+40 any manner affect the federal laws governing copyrights or enlarge,
+41 diminish or affect in any other manner the rights of a person in any
+42 written book or record which is copyrighted pursuant to federal law.
+43 2. A governmental entity may not reject a book or record
+44 which is copyrighted solely because it is copyrighted.
+-
+*SB361*
+– 11 –
+1 3. A governmental entity that has legal custody or control of a
+2 public book or record shall not deny a request made pursuant to
+3 subsection 1 to inspect or copy or receive a copy of a public book or
+4 record on the basis that the requested public book or record contains
+5 information that is confidential if the governmental entity can
+6 redact, delete, conceal or separate, including, without limitation,
+7 electronically, the confidential information from the information
+8 included in the public book or record that is not otherwise
+9 confidential.
+10 4. If requested, a governmental entity shall provide a copy of a
+11 public record in an electronic format by means of an electronic
+12 medium. Nothing in this subsection requires a governmental entity
+13 to provide a copy of a public record in an electronic format or by
+14 means of an electronic medium if:
+15 (a) The public record:
+16 (1) Was not created or prepared in an electronic format; and
+17 (2) Is not available in an electronic format; or
+18 (b) Providing the public record in an electronic format or by
+19 means of an electronic medium would:
+20 (1) Give access to proprietary software; or
+21 (2) Require the production of information that is confidential
+22 and that cannot be redacted, deleted, concealed or separated from
+23 information that is not otherwise confidential.
+24 5. An officer, employee or agent of a governmental entity who
+25 has legal custody or control of a public record:
+26 (a) Shall not refuse to provide a copy of that public record in the
+27 medium that is requested because the officer, employee or agent has
+28 already prepared or would prefer to provide the copy in a different
+29 medium.
+30 (b) Except as otherwise provided in NRS 239.030, shall, upon
+31 request, prepare the copy of the public record and shall not require
+32 the person who has requested the copy to prepare the copy himself
+33 or herself.
+H
+-
+*SB361*
+[DELETED: BN.3SH I O E A1,2  p r t c p EE A r t c p d c t t “ w p w e p r t t a o l i i c a p o m pE t b u o h b u a t m o c a c fS]
+[DELETED: – a f t e o a t w S 1 r t t s a s a w o e a s f tS f w a t w m a t c o lS 1 p w c e a l i o d t f b r i e o oS 1 o t b s f a p b w a p w i b a a u s a s o h o h lS t t w a t c o l i c u w s i a d m bS i “ d a “ i f tS 1  CS 2  A u i s 2 t 1 i o t a s 3 t 1 i o t a h t mS 3  “S 4  “S 5  “ d m a d t eS 6  “ e m a s o l a i w l a l]
+[DELETED: – a o o i e a d b b o c o p o p t a f o o b o a s o lS 7  “ i m i t l o a e d o u b t o o a e d o uS 8  “ g p s o o m l oS 9  “ i s p m aS 1  “S 1  “ c s p m aS 1  “S 1  “ i m a n o s t i a w a s e oS 1  1  E a p i s 2 a e d o u i w a t2  A e d o u i w a t( I t e d i r l o s b t( T( I( W ( I i i b t b d o r m]
+[DELETED: – ( I( I ( T i a e s t p a ( T l i i n t p o ( E c m o a w3  A w i t m d i p ( o 2 s n l t 4 h a o t u s 1 o t a I t a i4  A l i o i v o t o t s o e d t i5  A d T t d n i a e s p l i sS 1  1  A a f a t w o( O( I t m f t a i c a ( T ( T l i o t e d o]
+[DELETED: –2  E a f a t w o e( T i o t p o t a( A f a c s o t f a ( D a t t p o t h b i ( T i o t p i k c t ( A ( A s o t p f w t l ( A s o t o t c l( I ( T r t f o f t c o ( H ( T ( I c s p l i3  T t f a t o d4  T s o a p r t g a o o5  A m f a t w a a]
+[DELETED: –( U( T( TS 1  1  E t w o e t( S t i o t p o a t( S( I p o i i p ( i a t( S t p f w t l i i t a w a t w t( S( D( D t t t w b r w a a t d o e o t p s i t( C a a e t w t u2  A t w m u r o t a a e c s p l f t p o f a i a a n t a t c o i u a w a m o l i s p o r s p o o p f s]
+[DELETED: –3  W a t w i i t t m r t a t m r t t w i t t w s w4  A t w m n a a a5  E o t p s i a t w m p i s 1 o t a T p o d n t a t o f w iS 1  A l i o p t a w o e d t m n b d o w t t h o o p i t t t w a a e d1  I2  AS 1  1  A a p i a t h o t s t c o a c l( T l i w o i v o( T( T( T c w n m i c w t g b t t w o w o]
+[DELETED: –( T p s i t o o a e h2  A j s r e o a i o f3  A m m p t t s m b m t t h o p u t w n i o e d t m bS 1  1  W a t d o e o t p s i a w i t t w s c t b o t p i i t t w o a( T f o t i o t t w o( T p r o a f t c o( T2  E p t t s i c a m n bS 2  N2  1  E 1 1 1 3 4 4 4 6 6 7 7 7 7 8 8 8 8 8 8 8 8 9 9 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2]
+[DELETED: – 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6]
+[DELETED: – 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 a s 1 o t a s 3 3 a 4 o c a o m m b u t s t2  A g e m n r a b o r]
+[DELETED: –3  A b o r s n d a r m p t t i c i t g e c d c o s i w l t c i f t i i t p b o r t i n o4  I r i a e f b m o a e( T ( W ( I( P t p r i a e f o b ( G ( R5  A( S( E]
+
+
+================================================================================
+
+Raw Text:
+S.B. 361
+SENATE BILL NO. 361–SENATOR HANSEN
+MARCH 17, 2025
+____________
+Referred to Committee on Judiciary
+SUMMARY—Revises provisions relating to criminal procedure.
+(BDR 14-341)
+FISCAL NOTE: Effect on Local Government: No.
+Effect on the State: No.
+~
+EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+AN ACT relating to criminal procedure; defining certain terms,
+including the term “tracking warrant”; prohibiting, with
+certain exceptions, a governmental entity from obtaining
+certain location information except when authorized by a
+tracking warrant; establishing provisions relating to the
+disclosure, application, issuance and execution of tracking
+warrants; establishing provisions relating to the disclosure
+and admissibility of location information in certain
+circumstances; and providing other matters properly
+relating thereto.
+Legislative Counsel’s Digest:
+1 Existing law authorizes the issuance of a search warrant to search a place or a
+2 person for any property: (1) that is stolen or embezzled; (2) that is designed or
+3 intended to be used or has been used as the means of committing a criminal
+4 offense; or (3) when the property consists of any item or constitutes any evidence
+5 which tends to show that a criminal offense has been committed or that a particular
+6 person has committed a criminal offense. (NRS 179.035) Section 14 of this bill
+7 prohibits, with certain exceptions, a governmental entity from obtaining certain
+8 location information of an electronic device or unique identifier without a tracking
+9 warrant under certain circumstances. Section 14 prohibits any location information
+10 obtained in violation of the provisions of section 14, or evidence derived therefrom,
+11 from being admitted in any administrative, civil, criminal or other proceeding in
+12 this State except to prove a violation of section 14.
+13 Section 15 of this bill authorizes a magistrate to grant a tracking warrant if a
+14 complete application is supported by probable cause to believe that: (1) the person
+15 who owns or who is using an electronic device or who is using a unique identifier is
+16 committing, has committed or is about to commit an offense; and (2) the location
+17 information sought to be collected by the tracking warrant will produce evidence of
+18 the offense. Section 15 sets forth the requirements for an application for a tracking
+-
+*SB361*
+
+– 2 –
+19 warrant and for the extension of a tracking warrant. Section 15 requires the
+20 magistrate to whom an application is made or who issues a tracking warrant or
+21 extension to seal any such application, warrant or extension and sets forth the
+22 circumstances under which such information may be disclosed.
+23 Section 16 of this bill sets forth requirements for the contents of a tracking
+24 warrant and authorizes the applicant to request that certain provisions be included
+25 in the tracking warrant. Section 16 also: (1) establishes certain limitations on the
+26 period for which a tracking warrant may authorize the collection of location
+27 information; and (2) authorizes the magistrate to extend such periods in certain
+28 circumstances.
+29 Section 17 prohibits, with certain exceptions, any location information, or
+30 evidence derived therefrom, from being received into evidence or otherwise
+31 disclosed in court unless a copy of the tracking warrant, its application and any
+32 location information collected pursuant to the tracking warrant is transmitted to
+33 certain persons not less than 10 days before any trial, hearing or other proceeding.
+34 Section 18 of this bill sets forth a procedure by which a person who is
+35 aggrieved by an alleged unlawful search and seizure of his or her location
+36 information may move a court for the suppression of its use as evidence.
+37 Section 19 of this bill requires a magistrate who issued a tracking warrant to
+38 serve certain persons with a notice containing certain information not later than 90
+39 days after the date of expiration of the period of time, or any extension thereof, for
+40 which the tracking warrant authorized the collection of location information.
+41 Sections 19 and 20 of this bill make certain information confidential and set forth
+42 the circumstances under which such information and documentation may be
+43 disclosed.
+44 Sections 3-13, of this bill define certain terms, including “tracking warrant,”
+45 “location information,” “electronic device” and “unique identifier,” for the
+46 purposes of sections 2-19 of this bill.
+THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN
+SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:
+1 Section 1. Chapter 179 of NRS is hereby amended by adding
+2 thereto the provisions set forth as sections 2 to 19, inclusive, of this
+3 act.
+4 Sec. 2. As used in sections 2 to 19, inclusive, of this act,
+5 unless the context otherwise requires, the words and terms defined
+6 in sections 3 to 13, inclusive, of this act have the meanings
+7 ascribed to them in those sections.
+8 Sec. 3. “Electronic communication service” means a service
+9 that provides to users of the service the ability to send or receive
+10 radio frequency, wire or electronic communications.
+11 Sec. 4. “Electronic communication service provider” means
+12 a person who operates an electronic communication service.
+13 Sec. 5. “Electronic device” means a device that enables
+14 access to or use of an electronic communication service, remote
+15 computing service or location information service.
+16 Sec. 6. “Governmental entity” means a state or local
+17 governmental agency, including, without limitation, a law
+-
+*SB361*
+
+– 3 –
+1 enforcement agency or other investigative entity, agency,
+2 department, division, bureau, board or commission or person
+3 acting or purporting to act for or on behalf of a state or local
+4 governmental agency.
+5 Sec. 7. “Location information” means information
+6 concerning the location of an electronic device or unique
+7 identifier that, in whole or in part, is generated or derived from or
+8 obtained by the operation of an electronic device or unique
+9 identifier.
+10 Sec. 8. “Location information service” means the provision
+11 of global positioning service or other mapping, locational or
+12 directional information service.
+13 Sec. 9. “Location information service provider” means a
+14 person who operates a location information service.
+15 Sec. 10. “Remote computing service” means the provision to
+16 the public of computer storage or processing services by means of
+17 an electronic communication system.
+18 Sec. 11. “Remote computing service provider” means a
+19 person who operates a remote computing service.
+20 Sec. 12. “Tracking warrant” means a warrant that grants a
+21 peace officer access to location information of an electronic device
+22 or a unique identifier.
+23 Sec. 13. “Unique identifier” means any numeric or
+24 alphanumeric string that is associated with a single entity or
+25 account within a given electronic communication service.
+26 Sec. 14. 1. Except as provided in subsection 2, a
+27 governmental entity shall not obtain the location information of
+28 an electronic device or unique identifier without a tracking
+29 warrant.
+30 2. A governmental entity may obtain location information of
+31 an electronic device or unique identifier without a tracking
+32 warrant in the following circumstances:
+33 (a) If the electronic device is reported lost or stolen by the
+34 owner or user.
+35 (b) To respond to a call or request for emergency services by
+36 the owner or user pursuant to NRS 707.630.
+37 (c) If the owner or user of the electronic device or the user of a
+38 unique identifier gives the governmental entity informed, written
+39 consent.
+40 (d) With the informed, written consent of the legal guardian or
+41 next of kin:
+42 (1) If the owner or user of an electronic device or user of a
+43 unique identifier is believed to be deceased or reported missing
+44 and unable to be contacted; or
+-
+*SB361*
+
+– 4 –
+1 (2) If the owner or user of an electronic device or user of a
+2 unique identifier is a child who is less than 18 years of age.
+3 (e) If a peace officer has probable cause to believe that:
+4 (1) There is an emergency situation that poses an
+5 immediate threat of death or serious injury to the owner or user of
+6 the electronic device or the user of the unique identifier;
+7 (2) The location information is necessary to prevent or
+8 avoid the immediate threat to the owner or user of the electronic
+9 device or the user of the unique identifier; and
+10 (3) Exigent circumstances make obtaining a warrant
+11 impractical.
+12 3. A peace officer who obtains location information without a
+13 tracking warrant in the manner described in paragraph (d) of
+14 subsection 2 shall, not later than 48 hours after obtaining the
+15 location information, apply for a tracking warrant that meets the
+16 requirements under section 15 of this act. If the application is
+17 denied, any location information, or evidence derived therefrom, is
+18 inadmissible in any trial, hearing or other proceeding before any
+19 court, department, officer, agency or other authority of this State,
+20 or political subdivision thereof, except to prove a violation of this
+21 section.
+22 4. Any location information obtained in violation of the
+23 provisions of this section, or evidence derived therefrom, is
+24 inadmissible in any trial, hearing or other proceeding before any
+25 court, department, officer, agency or other authority of this State,
+26 or political subdivision thereof, except to prove a violation of this
+27 section.
+28 5. As used in this section, “owner” includes the lessee of an
+29 electronic device. The term does not include an electronic
+30 communication service provider, location information service
+31 provider, remote computing service provider or other commercial
+32 or business entity that is the lessor of an electronic device during
+33 the term of the lease.
+34 Sec. 15. 1. An application for a tracking warrant, or
+35 extension thereof, may only be granted:
+36 (a) On affidavit or affidavits sworn to before a magistrate that
+37 establish the grounds for issuing a tracking warrant; and
+38 (b) If the magistrate finds the application is complete and
+39 supported by probable cause to believe that:
+40 (1) The person who owns or is using an electronic device or
+41 who is using a unique identifier is committing, has committed or is
+42 about to commit an offense; and
+43 (2) The location information of the electronic device or
+44 unique identifier will produce evidence of the offense described in
+45 subparagraph (1).
+-
+*SB361*
+
+– 5 –
+1 2. Each application for a tracking warrant, or extension
+2 thereof, must be made in writing upon oath or affirmation and
+3 must include:
+4 (a) The identity of the peace officer making the application,
+5 and the magistrate authorizing the application;
+6 (b) A full and complete statement of the facts and
+7 circumstances relied upon by the peace officer to justify his or her
+8 belief that a tracking warrant should be issued by the magistrate,
+9 including, without limitation:
+10 (1) Details as to the particular offense that has been, is
+11 being or is about to be committed;
+12 (2) The identity of the person, if known, committing the
+13 offense whose location information is to be obtained;
+14 (3) A particular description of the nature of the electronic
+15 device or unique identifier for which location information is to be
+16 obtained;
+17 (4) A statement of the period for which the location
+18 information is sought to be collected; and
+19 (5) A statement of the objective that collecting location
+20 information will achieve.
+21 (c) If the application is for the extension of the period specified
+22 in the original tracking warrant, a statement setting forth:
+23 (1) The results thus far obtained from the collection of
+24 location information or a reasonable explanation of the failure to
+25 obtain such results;
+26 (2) How the granting of the extension will aid in achieving
+27 the objective stated in the original application;
+28 (3) The identity, if learned or known, of the owner and the
+29 user of the electronic device or the user of the unique identifier;
+30 and
+31 (4) If location information was obtained, the identity of the
+32 electronic communication service provider, location information
+33 service provider or remote computing service provider from which
+34 the location information was obtained.
+35 3. The magistrate may require the peace officer making the
+36 application to furnish additional testimony or documentary
+37 evidence under oath or affirmation in support of the application.
+38 Oral testimony must be reduced to writing.
+39 4. The magistrate may accept a facsimile or electronic copy of
+40 the signature of any person required to give an oath or
+41 affirmation, as part of an application submitted pursuant to this
+42 section, as an original signature to the application.
+43 5. Applications made for and tracking warrants and any
+44 extensions thereof issued under this section must be sealed by the
+45 magistrate and must not be disclosed except in the following cases:
+-
+*SB361*
+
+– 6 –
+1 (a) Upon a showing of good cause before a court of competent
+2 jurisdiction.
+3 (b) To the extent necessary to execute the tracking warrant.
+4 (c) To comply with section 17 or 19 of this act.
+5 Sec. 16. 1. Each tracking warrant, or extension thereof,
+6 issued pursuant to section 15 of this act must:
+7 (a) Specify the identity of the peace officer authorized to
+8 collect the location information of the electronic device or unique
+9 identifier, and the magistrate authorizing the application;
+10 (b) State the grounds or probable cause for its issuance and
+11 the name of any person whose affidavit has been taken in support
+12 thereof or incorporate by reference the affidavit or statement upon
+13 which it is based;
+14 (c) Identify the electronic device or unique identifier for which
+15 the peace officer identified in paragraph (a) is authorized to
+16 collect location information;
+17 (d) Specify the period for which the location information is
+18 authorized to be collected, including a statement as to whether or
+19 not the authorization will automatically terminate when the
+20 objective described in the application is achieved;
+21 (e) State the identity of the person, if known, whose location
+22 information is to be obtained;
+23 (f) Designate the magistrate to whom the tracking warrant is to
+24 be returned;
+25 (g) Direct that the tracking warrant be returned with an
+26 inventory of the location information collected not later than 10
+27 days after the date of expiration of the period specified in the
+28 tracking warrant or any extension thereof, whichever is later; and
+29 (h) Contain a provision stating that the authorization to access
+30 and collect location data for the period specified in the tracking
+31 warrant and any extension thereof will terminate upon
+32 achievement of the objective stated in the original application, or
+33 in any event in not later than 30 days after issuance.
+34 2. A tracking warrant must, upon request of the applicant,
+35 direct an electronic communication service provider, location
+36 information service provider or remote computing service provider
+37 to furnish the peace officer forthwith all information and
+38 technical assistance necessary to accomplish the collection of
+39 location information unobtrusively and with a minimum of
+40 interference with services. Any electronic communication service
+41 provider, location information service provider or remote
+42 computing service provider or other person furnishing such
+43 information or technical assistance must be compensated by the
+44 applicant at the prevailing rates.
+-
+*SB361*
+
+– 7 –
+1 3. Whenever a tracking warrant is issued, the tracking
+2 warrant may require the applicant to make reports to the
+3 magistrate who issued the tracking warrant showing what
+4 progress has been made toward achievement of the objective stated
+5 in the original application and the need for continued collection.
+6 Such reports must be made at such intervals as the magistrate may
+7 require.
+8 4. A tracking warrant must not authorize access and
+9 collection of location information for any period longer than is
+10 necessary to achieve the objective given in the application for the
+11 tracking warrant, and except as otherwise provided in subsection
+12 5, in no event more than 30 days.
+13 5. Extensions of the period specified in a tracking warrant
+14 may be granted only upon application for an extension made in
+15 the manner prescribed in section 15 of this act. The period of
+16 extension must not be longer than the magistrate who issues the
+17 extension deems necessary to achieve the objective for which it
+18 was granted and in no event for more than 30 days.
+19 Sec. 17. Any location information obtained pursuant to a
+20 tracking warrant or evidence derived therefrom must not be
+21 received in evidence or otherwise disclosed in any trial, hearing or
+22 other proceeding unless each party, not less than 10 days before
+23 the date on which the trial, hearing or other proceeding is
+24 scheduled to begin, has been furnished with the tracking warrant,
+25 the accompanying application, any location information collected
+26 pursuant to the tracking warrant and any evidence derived
+27 therefrom. The court may waive this requirement if the court finds
+28 that:
+29 1. It was not practicable to furnish a party with the required
+30 information 10 days before the date on which the trial, hearing or
+31 other proceeding is scheduled to begin; and
+32 2. Any party will not be prejudiced by such a waiver.
+33 Sec. 18. 1. Any aggrieved person in any trial, hearing or
+34 proceeding in or before any court, department, officer, agency or
+35 other authority of this State, or a political subdivision thereof, may
+36 move to suppress the contents of any collected location
+37 information, or evidence derived therefrom, on the grounds that:
+38 (a) The location information was obtained in violation of
+39 section 14 of this act or was otherwise unlawfully obtained;
+40 (b) The tracking warrant is insufficient on its face;
+41 (c) There was not probable cause for believing the existence of
+42 the grounds on which the tracking warrant was issued;
+43 (d) The collection was not made in conformity with the
+44 authorization given by the tracking warrant or was otherwise
+45 unlawfully executed; or
+-
+*SB361*
+
+– 8 –
+1 (e) The period specified in the order or any extension had
+2 expired.
+3 2. A judge shall receive evidence on any issue of fact
+4 necessary to the decision of a motion filed pursuant to this section.
+5 3. A motion made pursuant to this section must be made
+6 before the trial, hearing or proceeding unless there was no
+7 opportunity to make such a motion or the person was not aware of
+8 the grounds of the motion. If the motion is granted, the collected
+9 location information, or evidence derived therefrom, must be
+10 treated in accordance with section 17 of this act as having been
+11 obtained in violation of section 14 of this act.
+12 Sec. 19. 1. Within a reasonable time but not later than 90
+13 days after the date of expiration of the period specified in a
+14 tracking warrant or any extension thereof, whichever is later, the
+15 magistrate who issued the tracking warrant shall cause to be
+16 served on the person identified in the tracking warrant or any
+17 extension thereof, notice of:
+18 (a) The fact of the issuance of the tracking warrant or
+19 application;
+20 (b) The period requested or authorized for the collection of
+21 location information; and
+22 (c) The fact that during the period location information was or
+23 was not collected.
+24 2. Except as otherwise provided in NRS 239.0115, the notice
+25 given pursuant to this section is confidential and must not be
+26 released for inspection unless subpoenaed by a court of competent
+27 jurisdiction.
+28 Sec. 20. NRS 239.010 is hereby amended to read as follows:
+29 239.010 1. Except as otherwise provided in this section and
+30 NRS 1.4683, 1.4687, 1A.110, 3.2203, 41.0397, 41.071, 49.095,
+31 49.293, 62D.420, 62D.440, 62E.516, 62E.620, 62H.025, 62H.030,
+32 62H.170, 62H.220, 62H.320, 75A.100, 75A.150, 76.160, 78.152,
+33 80.113, 81.850, 82.183, 86.246, 86.54615, 87.515, 87.5413,
+34 87A.200, 87A.580, 87A.640, 88.3355, 88.5927, 88.6067, 88A.345,
+35 88A.7345, 89.045, 89.251, 90.730, 91.160, 116.757, 116A.270,
+36 116B.880, 118B.026, 119.260, 119.265, 119.267, 119.280,
+37 119A.280, 119A.653, 119A.677, 119B.370, 119B.382, 120A.640,
+38 120A.690, 125.130, 125B.140, 126.141, 126.161, 126.163, 126.730,
+39 127.007, 127.057, 127.130, 127.140, 127.2817, 128.090, 130.312,
+40 130.712, 136.050, 159.044, 159A.044, 164.041, 172.075, 172.245,
+41 176.01334, 176.01385, 176.015, 176.0625, 176.09129, 176.156,
+42 176A.630, 178.39801, 178.4715, 178.5691, 178.5717, 179.495,
+43 179A.070, 179A.165, 179D.160, 180.600, 200.3771, 200.3772,
+44 200.5095, 200.604, 202.3662, 205.4651, 209.392, 209.3923,
+45 209.3925, 209.419, 209.429, 209.521, 211A.140, 213.010, 213.040,
+-
+*SB361*
+
+– 9 –
+1 213.095, 213.131, 217.105, 217.110, 217.464, 217.475, 218A.350,
+2 218E.625, 218F.150, 218G.130, 218G.240, 218G.350, 218G.615,
+3 224.240, 226.462, 226.796, 228.270, 228.450, 228.495, 228.570,
+4 231.069, 231.1285, 231.1473, 232.1369, 233.190, 237.300,
+5 239.0105, 239.0113, 239.014, 239B.026, 239B.030, 239B.040,
+6 239B.050, 239C.140, 239C.210, 239C.230, 239C.250, 239C.270,
+7 239C.420, 240.007, 241.020, 241.030, 241.039, 242.105, 244.264,
+8 244.335, 247.540, 247.545, 247.550, 247.560, 250.087, 250.130,
+9 250.140, 250.145, 250.150, 268.095, 268.0978, 268.490, 268.910,
+10 269.174, 271A.105, 281.195, 281.805, 281A.350, 281A.680,
+11 281A.685, 281A.750, 281A.755, 281A.780, 284.4068, 284.4086,
+12 286.110, 286.118, 287.0438, 289.025, 289.080, 289.387, 289.830,
+13 293.4855, 293.5002, 293.503, 293.504, 293.558, 293.5757, 293.870,
+14 293.906, 293.908, 293.909, 293.910, 293B.135, 293D.510, 331.110,
+15 332.061, 332.351, 333.333, 333.335, 338.070, 338.1379, 338.1593,
+16 338.1725, 338.1727, 348.420, 349.597, 349.775, 353.205,
+17 353A.049, 353A.085, 353A.100, 353C.240, 353D.250, 360.240,
+18 360.247, 360.255, 360.755, 361.044, 361.2242, 361.610, 365.138,
+19 366.160, 368A.180, 370.257, 370.327, 372A.080, 378.290, 378.300,
+20 379.0075, 379.008, 379.1495, 385A.830, 385B.100, 387.626,
+21 387.631, 388.1455, 388.259, 388.501, 388.503, 388.513, 388.750,
+22 388A.247, 388A.249, 391.033, 391.035, 391.0365, 391.120,
+23 391.925, 392.029, 392.147, 392.264, 392.271, 392.315, 392.317,
+24 392.325, 392.327, 392.335, 392.850, 393.045, 394.167, 394.16975,
+25 394.1698, 394.447, 394.460, 394.465, 396.1415, 396.1425, 396.143,
+26 396.159, 396.3295, 396.405, 396.525, 396.535, 396.9685,
+27 398A.115, 408.3885, 408.3886, 408.3888, 408.5484, 412.153,
+28 414.280, 416.070, 422.2749, 422.305, 422A.342, 422A.350,
+29 425.400, 427A.1236, 427A.872, 427A.940, 432.028, 432.205,
+30 432B.175, 432B.280, 432B.290, 432B.4018, 432B.407, 432B.430,
+31 432B.560, 432B.5902, 432C.140, 432C.150, 433.534, 433A.360,
+32 439.4941, 439.4988, 439.5282, 439.840, 439.914, 439A.116,
+33 439A.124, 439B.420, 439B.754, 439B.760, 439B.845, 440.170,
+34 441A.195, 441A.220, 441A.230, 442.330, 442.395, 442.735,
+35 442.774, 445A.665, 445B.570, 445B.7773, 449.209, 449.245,
+36 449.4315, 449A.112, 450.140, 450B.188, 450B.805, 453.164,
+37 453.720, 458.055, 458.280, 459.050, 459.3866, 459.555, 459.7056,
+38 459.846, 463.120, 463.15993, 463.240, 463.3403, 463.3407,
+39 463.790, 467.1005, 480.535, 480.545, 480.935, 480.940, 481.063,
+40 481.091, 481.093, 482.170, 482.368, 482.5536, 483.340, 483.363,
+41 483.575, 483.659, 483.800, 484A.469, 484B.830, 484B.833,
+42 484E.070, 485.316, 501.344, 503.452, 522.040, 534A.031, 561.285,
+43 571.160, 584.655, 587.877, 598.0964, 598.098, 598A.110,
+44 598A.420, 599B.090, 603.070, 603A.210, 604A.303, 604A.710,
+45 604D.500, 604D.600, 612.265, 616B.012, 616B.015, 616B.315,
+-
+*SB361*
+
+– 10 –
+1 616B.350, 618.341, 618.425, 622.238, 622.310, 623.131, 623A.137,
+2 624.110, 624.265, 624.327, 625.425, 625A.185, 628.418, 628B.230,
+3 628B.760, 629.043, 629.047, 629.069, 630.133, 630.2671,
+4 630.2672, 630.2673, 630.2687, 630.30665, 630.336, 630A.327,
+5 630A.555, 631.332, 631.368, 632.121, 632.125, 632.3415,
+6 632.3423, 632.405, 633.283, 633.301, 633.427, 633.4715, 633.4716,
+7 633.4717, 633.524, 634.055, 634.1303, 634.214, 634A.169,
+8 634A.185, 634B.730, 635.111, 635.158, 636.262, 636.342, 637.085,
+9 637.145, 637B.192, 637B.288, 638.087, 638.089, 639.183,
+10 639.2485, 639.570, 640.075, 640.152, 640A.185, 640A.220,
+11 640B.405, 640B.730, 640C.580, 640C.600, 640C.620, 640C.745,
+12 640C.760, 640D.135, 640D.190, 640E.225, 640E.340, 641.090,
+13 641.221, 641.2215, 641A.191, 641A.217, 641A.262, 641B.170,
+14 641B.281, 641B.282, 641C.455, 641C.760, 641D.260, 641D.320,
+15 642.524, 643.189, 644A.870, 645.180, 645.625, 645A.050,
+16 645A.082, 645B.060, 645B.092, 645C.220, 645C.225, 645D.130,
+17 645D.135, 645G.510, 645H.320, 645H.330, 647.0945, 647.0947,
+18 648.033, 648.197, 649.065, 649.067, 652.126, 652.228, 653.900,
+19 654.110, 656.105, 657A.510, 661.115, 665.130, 665.133, 669.275,
+20 669.285, 669A.310, 670B.680, 671.365, 671.415, 673.450, 673.480,
+21 675.380, 676A.340, 676A.370, 677.243, 678A.470, 678C.710,
+22 678C.800, 679B.122, 679B.124, 679B.152, 679B.159, 679B.190,
+23 679B.285, 679B.690, 680A.270, 681A.440, 681B.260, 681B.410,
+24 681B.540, 683A.0873, 685A.077, 686A.289, 686B.170, 686C.306,
+25 687A.060, 687A.115, 687B.404, 687C.010, 688C.230, 688C.480,
+26 688C.490, 689A.696, 692A.117, 692C.190, 692C.3507, 692C.3536,
+27 692C.3538, 692C.354, 692C.420, 693A.480, 693A.615, 696B.550,
+28 696C.120, 703.196, 704B.325, 706.1725, 706A.230, 710.159,
+29 711.600, and section 19 of this act, sections 35, 38 and 41 of
+30 chapter 478, Statutes of Nevada 2011 and section 2 of chapter 391,
+31 Statutes of Nevada 2013 and unless otherwise declared by law to be
+32 confidential, all public books and public records of a governmental
+33 entity must be open at all times during office hours to inspection by
+34 any person, and may be fully copied or an abstract or memorandum
+35 may be prepared from those public books and public records. Any
+36 such copies, abstracts or memoranda may be used to supply the
+37 general public with copies, abstracts or memoranda of the records or
+38 may be used in any other way to the advantage of the governmental
+39 entity or of the general public. This section does not supersede or in
+40 any manner affect the federal laws governing copyrights or enlarge,
+41 diminish or affect in any other manner the rights of a person in any
+42 written book or record which is copyrighted pursuant to federal law.
+43 2. A governmental entity may not reject a book or record
+44 which is copyrighted solely because it is copyrighted.
+-
+*SB361*
+
+– 11 –
+1 3. A governmental entity that has legal custody or control of a
+2 public book or record shall not deny a request made pursuant to
+3 subsection 1 to inspect or copy or receive a copy of a public book or
+4 record on the basis that the requested public book or record contains
+5 information that is confidential if the governmental entity can
+6 redact, delete, conceal or separate, including, without limitation,
+7 electronically, the confidential information from the information
+8 included in the public book or record that is not otherwise
+9 confidential.
+10 4. If requested, a governmental entity shall provide a copy of a
+11 public record in an electronic format by means of an electronic
+12 medium. Nothing in this subsection requires a governmental entity
+13 to provide a copy of a public record in an electronic format or by
+14 means of an electronic medium if:
+15 (a) The public record:
+16 (1) Was not created or prepared in an electronic format; and
+17 (2) Is not available in an electronic format; or
+18 (b) Providing the public record in an electronic format or by
+19 means of an electronic medium would:
+20 (1) Give access to proprietary software; or
+21 (2) Require the production of information that is confidential
+22 and that cannot be redacted, deleted, concealed or separated from
+23 information that is not otherwise confidential.
+24 5. An officer, employee or agent of a governmental entity who
+25 has legal custody or control of a public record:
+26 (a) Shall not refuse to provide a copy of that public record in the
+27 medium that is requested because the officer, employee or agent has
+28 already prepared or would prefer to provide the copy in a different
+29 medium.
+30 (b) Except as otherwise provided in NRS 239.030, shall, upon
+31 request, prepare the copy of the public record and shall not require
+32 the person who has requested the copy to prepare the copy himself
+33 or herself.
+H
+-
+*SB361*
+
+[DELETED: BN.3SH I O E A1,2  p r t c p EE A r t c p d c t t “ w p w e p r t t a o l i i c a p o m pE t b u o h b u a t m o c a c fS]
+[DELETED: – a f t e o a t w S 1 r t t s a s a w o e a s f tS f w a t w m a t c o lS 1 p w c e a l i o d t f b r i e o oS 1 o t b s f a p b w a p w i b a a u s a s o h o h lS t t w a t c o l i c u w s i a d m bS i “ d a “ i f tS 1  CS 2  A u i s 2 t 1 i o t a s 3 t 1 i o t a h t mS 3  “S 4  “S 5  “ d m a d t eS 6  “ e m a s o l a i w l a l]
+[DELETED: – a o o i e a d b b o c o p o p t a f o o b o a s o lS 7  “ i m i t l o a e d o u b t o o a e d o uS 8  “ g p s o o m l oS 9  “ i s p m aS 1  “S 1  “ c s p m aS 1  “S 1  “ i m a n o s t i a w a s e oS 1  1  E a p i s 2 a e d o u i w a t2  A e d o u i w a t( I t e d i r l o s b t( T( I( W ( I i i b t b d o r m]
+[DELETED: – ( I( I ( T i a e s t p a ( T l i i n t p o ( E c m o a w3  A w i t m d i p ( o 2 s n l t 4 h a o t u s 1 o t a I t a i4  A l i o i v o t o t s o e d t i5  A d T t d n i a e s p l i sS 1  1  A a f a t w o( O( I t m f t a i c a ( T ( T l i o t e d o]
+[DELETED: –2  E a f a t w o e( T i o t p o t a( A f a c s o t f a ( D a t t p o t h b i ( T i o t p i k c t ( A ( A s o t p f w t l ( A s o t o t c l( I ( T r t f o f t c o ( H ( T ( I c s p l i3  T t f a t o d4  T s o a p r t g a o o5  A m f a t w a a]
+[DELETED: –( U( T( TS 1  1  E t w o e t( S t i o t p o a t( S( I p o i i p ( i a t( S t p f w t l i i t a w a t w t( S( D( D t t t w b r w a a t d o e o t p s i t( C a a e t w t u2  A t w m u r o t a a e c s p l f t p o f a i a a n t a t c o i u a w a m o l i s p o r s p o o p f s]
+[DELETED: –3  W a t w i i t t m r t a t m r t t w i t t w s w4  A t w m n a a a5  E o t p s i a t w m p i s 1 o t a T p o d n t a t o f w iS 1  A l i o p t a w o e d t m n b d o w t t h o o p i t t t w a a e d1  I2  AS 1  1  A a p i a t h o t s t c o a c l( T l i w o i v o( T( T( T c w n m i c w t g b t t w o w o]
+[DELETED: –( T p s i t o o a e h2  A j s r e o a i o f3  A m m p t t s m b m t t h o p u t w n i o e d t m bS 1  1  W a t d o e o t p s i a w i t t w s c t b o t p i i t t w o a( T f o t i o t t w o( T p r o a f t c o( T2  E p t t s i c a m n bS 2  N2  1  E 1 1 1 3 4 4 4 6 6 7 7 7 7 8 8 8 8 8 8 8 8 9 9 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2]
+[DELETED: – 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6]
+[DELETED: – 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 a s 1 o t a s 3 3 a 4 o c a o m m b u t s t2  A g e m n r a b o r]
+[DELETED: –3  A b o r s n d a r m p t t i c i t g e c d c o s i w l t c i f t i i t p b o r t i n o4  I r i a e f b m o a e( T ( W ( I( P t p r i a e f o b ( G ( R5  A( S( E]

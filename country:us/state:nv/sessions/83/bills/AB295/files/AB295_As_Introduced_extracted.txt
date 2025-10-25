@@ -1,0 +1,1732 @@
+Title: ASSEMBLY BILL NO. 295–ASSEMBLYMEMBERS YUREK,
+Official Title: ASSEMBLY BILL NO. 295–ASSEMBLYMEMBERS YUREK,
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+A.B. 295
+EDGEWORTH; AND BROWN-MAY
+FEBRUARY 25, 2025
+____________
+Referred to Committee on Commerce and Labor
+SUMMARY—Revises provisions relating to health insurance.
+(BDR 57-238)
+FISCAL NOTE: Effect on Local Government: May have Fiscal Impact.
+Effect on the State: Yes.
+CONTAINS UNFUNDED MANDATE (§ 12)
+(NOT REQUESTED BY AFFECTED LOCAL GOVERNMENT)
+~
+EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+AN ACT relating to insurance; imposing requirements relating to
+prior authorization; prescribing certain requirements
+relating to the use of artificial intelligence by health
+insurers; requiring the compilation and publication of
+certain reports relating to prior authorization; providing
+for the investigation and adjudication of certain
+violations; providing for the imposition of civil and
+administrative penalties for such violations; and providing
+other matters properly relating thereto.
+Legislative Counsel’s Digest:
+1 Existing law authorizes certain health insurers to require prior authorization
+2 before an insured may receive coverage for health and dental care in certain
+3 circumstances. If an insurer requires prior authorization, existing law requires the
+4 insurer to respond to a request for prior authorization within 20 days of the
+5 receiving the request. (NRS 687B.225) Sections 9 and 17 of this bill require an
+6 insurer, including Medicaid and the Children’s Health Insurance Program, to
+7 approve or make an adverse determination on a request for prior authorization, or
+8 request additional, medically relevant information within: (1) five days after
+9 receiving the request, for medical or dental care that is not urgent; or (2) forty-eight
+10 hours after receiving the request, for care that is urgent. Sections 9 and 17 require
+11 an insurer to transmit certain information to an insured and his or her provider of
+12 health care after making an adverse determination on a request for prior
+13 authorization pertaining to the insured. Sections 9 and 17 also provide that a
+14 request for prior authorization that has been approved by the insurer for a
+-
+*AB295*
+– 2 –
+15 continuous course of treatment relating to a chronic or long-term condition remains
+16 valid for 12 months, with certain exceptions.
+17 Sections 6 and 18 of this bill require an insurer that employs or utilizes an
+18 artificial intelligence system or automated decision tool and, if such a system or
+19 tool is used under Medicaid or the Children’s Health Insurance Program, the
+20 Department of Health and Human Services to process requests for prior
+21 authorization to transmit a notice to each of its insureds that: (1) discloses the
+22 insurer’s use of the system or tool to process requests for prior authorization; and
+23 (2) describes certain aspects of the system or tool. Section 6 and 18 prohibit an
+24 insurer from using an artificial intelligence system or automated decision tool to
+25 make an adverse determination on a request for prior authorization, or to terminate,
+26 reduce or modify a previously approved request for prior authorization, unless that
+27 action is independently reviewed by a physician or dentist, as applicable, who
+28 possesses certain qualifications.
+29 Section 7 of this bill requires certain insurers to annually compile and submit a
+30 report to the Commissioner of Insurance and the Director of the Department of
+31 Health and Human Services that contains certain information relating to the
+32 requests for prior authorization for care provided to insureds in this State during the
+33 immediately preceding year. Section 7 requires the Director and the Commissioner
+34 to publish the reports submitted by insurers to on their respective Internet websites.
+35 Section 19 of this bill requires the Department to annually compile and publish a
+36 similar report containing information relating to requests for prior authorization for
+37 care provided to recipients of Medicaid during the immediately preceding calendar
+38 year.
+39 Section 8 of this bill prescribes procedures for investigating and imposing
+40 penalties against a private sector insurer that: (1) fails to submit a report required by
+41 section 7; or (2) fails to comply with the requirements for making determinations
+42 on requests for prior authorization during the periods of time established by section
+43 9. Section 8 also prescribes the amount of the civil penalty that the Commissioner
+44 must impose for such violations and authorizes the Commissioner to adopt
+45 regulations prescribing additional sanctions for repeated noncompliance.
+46 Sections 3-5 and 16 of this bill define certain terms, and section 2 of this bill
+47 establishes the applicability of the definitions set forth in sections 3-5. Section 10
+48 of this bill makes sections 2-8 applicable to nonprofit medical or dental service
+49 corporations. Section 11 of this bill makes a conforming change to require the
+50 Director of the Department of Health and Human Services to administer the
+51 provisions of sections 15-19 in the same manner as other provisions governing
+52 Medicaid. Sections 12, 13 and 21 of this bill require plans of self-insurance for
+53 employees of local governments, the Public Employees’ Benefits Program and
+54 plans of self-insurance for private employers, respectively, to comply with certain
+55 requirements of sections 6 and 9, to the extent applicable. Section 15 of this bill
+56 provides that managed care organizations that provide services to recipients of
+57 Medicaid or the Children’s Health Insurance Program are exempt from sections 16-
+58 19, which govern prior authorization under Medicaid and the Children’s Health
+59 Insurance Program provided directly by the Department, but such managed care
+60 organizations must comply with sections 3-9, which govern prior authorization
+61 required by private sector health insurers. Section 20 of this bill requires any policy
+62 or procedure established for prescription drug coverage under Medicaid relating to
+63 prior authorization to comply with the provisions of sections 16-19.
+-
+*AB295*
+– 3 –
+THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN
+SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:
+1 Section 1. Chapter 687B of NRS is hereby amended by adding
+2 thereto the provisions set forth as sections 2 to 8, inclusive, of this
+3 act.
+4 Sec. 2. As used in NRS 687B.225 and sections 2 to 8,
+5 inclusive, of this act, unless the context otherwise requires, the
+6 words and terms defined in sections 3, 4 and 5 of this act have the
+7 meanings ascribed to them in those sections.
+8 Sec. 3. “Adverse determination” means a determination by a
+9 health carrier that an admission, availability of care, continued
+10 stay or other health care service that is a covered benefit has been
+11 reviewed and, based on the information provided, does not meet
+12 the health carrier’s requirements for medical necessity,
+13 appropriateness, health care setting, level of care or effectiveness,
+14 and the requested service or payment for the service is therefore
+15 denied, reduced or terminated.
+16 Sec. 4. “Health carrier” has the meaning ascribed to it in
+17 NRS 695G.024, and includes, without limitation, an organization
+18 for dental care.
+19 Sec. 5. “Insured” means a policyholder, subscriber, enrollee
+20 or other person covered by a health carrier.
+21 Sec. 6. 1. If a health carrier utilizes an artificial
+22 intelligence system or an automated decision tool to process
+23 requests for prior authorization, the health carrier shall transmit
+24 to each of its insureds, in writing:
+25 (a) A statement that the health carrier utilizes an artificial
+26 intelligence system or automated decision tool to process requests
+27 for prior authorization;
+28 (b) A general description of how the artificial intelligence
+29 system or automated decision tool works; and
+30 (c) A description of the specific types of information or data
+31 utilized by the artificial intelligence system or automated decision
+32 tool to enable the system or tool to generate an outcome.
+33 2. Except as otherwise provided in subsection 3, a health
+34 carrier shall not utilize or employ an artificial intelligence system
+35 or automated decision tool to:
+36 (a) Make an adverse determination on a request for prior
+37 authorization; or
+38 (b) Terminate, reduce or modify coverage for medical or
+39 dental care that was previously approved by the health carrier.
+40 3. A health carrier may utilize or employ an artificial
+41 intelligence system or automated decision tool for a purpose
+42 described in subsection 2 if, when the artificial intelligence system
+-
+*AB295*
+– 4 –
+1 or automated decision tool generates an outcome on a request for
+2 prior authorization described in subsection 2, the request for prior
+3 authorization is independently reviewed by a physician or, for a
+4 request for dental care, a dentist, who:
+5 (a) Holds an unrestricted license to practice medicine or
+6 dentistry, as applicable, in any state or territory of the United
+7 States;
+8 (b) Holds a current certification by a specialty board of the
+9 American Board of Medical Specialties or, if a dentist, a certifying
+10 board approved by the Commission on Dental Accreditation of the
+11 American Dental Association, in the area or areas appropriate to
+12 the subject of the request; and
+13 (c) Possesses the education, training and expertise to evaluate
+14 the specific clinical issues involved in the request.
+15 4. As used in this section:
+16 (a) “Artificial intelligence system” means a machine-based
+17 system that can, for a given set of human-defined objectives, make
+18 predictions, recommendations or decisions influencing real or
+19 virtual environments.
+20 (b) “Automated decision tool” means an automated or
+21 computerized system that is specifically developed or modified to
+22 make, or to be a controlling factor in making, consequential
+23 decisions.
+24 Sec. 7. 1. On or before March 1 of each calendar year, a
+25 health carrier shall compile and transmit to the Commissioner and
+26 to the Director of the Department of Health and Human Services
+27 a report containing the following information for the immediately
+28 preceding calendar year:
+29 (a) The total number of requests for prior authorization for
+30 care provided in this State that were received by the health carrier.
+31 (b) The average time that elapsed between the health carrier
+32 receiving a request described in paragraph (a) and the health
+33 carrier approving or making an adverse determination on the
+34 request.
+35 (c) The percentage and total number of requests for prior
+36 authorization described in paragraph (a) that were approved upon
+37 initial review.
+38 (d) The percentage and total number of requests for prior
+39 authorization described in paragraph (a) that resulted in an
+40 adverse determination upon initial review.
+41 (e) The percentage and total number of the adverse
+42 determinations described in paragraph (d) that were appealed.
+43 (f) The percentage and total number of appeals described in
+44 paragraph (e) that resulted in the reversal of an adverse
+45 determination.
+-
+*AB295*
+– 5 –
+1 2. The report compiled pursuant to subsection 1 must present
+2 the information described in that subsection:
+3 (a) In aggregated form; and
+4 (b) Disaggregated by the types of care at issue in the requests
+5 for prior authorization, which may include, without limitation,
+6 mental health, chronic care, preventive services and dental care.
+7 3. On or before April 1 of each calendar year, the Director of
+8 the Department of Health and Human Services and the
+9 Commissioner of Insurance shall publish the reports submitted
+10 pursuant to subsection 1 for that calendar year on an Internet
+11 website maintained by the Department or the Commissioner, as
+12 applicable.
+13 Sec. 8. 1. The Commissioner, in consultation with the
+14 Director of the Department of Health and Human Services, shall
+15 adopt any regulations that are necessary to carry out the
+16 provisions of NRS 687B.225 and sections 2 to 8, inclusive, of this
+17 act.
+18 2. The Commissioner may delegate to the Director of the
+19 Department of Health and Human Services his or her authority
+20 under this chapter to audit or investigate the compliance of a
+21 health carrier with the provisions of NRS 687B.225 and sections 2
+22 to 8, inclusive, of this act.
+23 3. If an audit or investigation of a health carrier conducted
+24 by the Director of the Department of Health and Human Services
+25 causes the Director to believe that a health carrier has potentially
+26 violated the provisions of NRS 687B.225 or sections 2 to 8,
+27 inclusive, of this act, the Director shall immediately notify the
+28 Commissioner of the potential violation and transmit to the
+29 Commissioner any information collected as a part of the audit or
+30 investigation.
+31 4. If the Commissioner determines, after conducting a
+32 hearing in accordance with NRS 679B.310 to 679B.370, inclusive,
+33 that a health carrier has violated paragraph (b) or (c) of
+34 subsection 2 of NRS 687B.225 or section 7 of this act, the
+35 Commissioner shall assess the civil penalty described in subsection
+36 5 for each such violation.
+37 5. A civil penalty assessed against a health carrier pursuant
+38 to subsection 4 must be equivalent to 5 percent of the gross income
+39 that the health carrier earned from conducting business in this
+40 State during the quarter during which a violation described in
+41 subsection 4 is determined to have occurred.
+42 6. The Commissioner may examine the books and records of
+43 a health carrier in order to determine the amount of the civil
+44 penalty that must be assessed against the health carrier pursuant
+45 to subsection 5.
+-
+*AB295*
+– 6 –
+1 7. The Commissioner shall deposit any money recovered as a
+2 civil penalty pursuant to subsection 4 into the Fund for Hospital
+3 Care to Indigent Persons created by NRS 428.175.
+4 8. The Commissioner may establish by regulation additional
+5 sanctions that may be imposed against a health carrier that is
+6 determined to have committed five or more violations of
+7 paragraph (b) or (c) of subsection 2 of NRS 687B.225 or section 7
+8 of this act within any 18-month period.
+9 Sec. 9. NRS 687B.225 is hereby amended to read as follows:
+10 687B.225 1. Except as otherwise provided in NRS
+11 689A.0405, 689A.0412, 689A.0413, 689A.0418, 689A.0437,
+12 689A.044, 689A.0445, 689A.0459, 689B.031, 689B.0312,
+13 689B.0313, 689B.0315, 689B.0317, 689B.0319, 689B.0374,
+14 689B.0378, 689C.1665, 689C.1671, 689C.1675, 689C.1676,
+15 695A.1843, 695A.1856, 695A.1865, 695A.1874, 695B.1912,
+16 695B.1913, 695B.1914, 695B.1919, 695B.19197, 695B.1924,
+17 695B.1925, 695B.1942, 695C.1696, 695C.1699, 695C.1713,
+18 695C.1735, 695C.1737, 695C.1743, 695C.1745, 695C.1751,
+19 695G.170, 695G.1705, 695G.171, 695G.1714, 695G.1715,
+20 695G.1719 and 695G.177, any contract [for group, blanket or
+21 individual] or policy of health insurance [or any contract by a
+22 nonprofit hospital, medical or dental service corporation or
+23 organization for dental care] issued by a health carrier which
+24 provides for payment of a certain part of medical or dental care may
+25 require the insured [or member] to obtain prior authorization for that
+26 care from the [insurer or organization. The insurer or organization]
+27 health carrier in a manner consistent with this section and
+28 sections 2 to 8, inclusive, of this act.
+29 2. A health carrier that requires an insured to obtain prior
+30 authorization shall:
+31 (a) File its procedure for obtaining approval of care pursuant to
+32 this section for approval by the Commissioner . [; and]
+33 (b) Unless a shorter time period is prescribed by a specific
+34 statute, including, without limitation, NRS 689A.0446, 689B.0361,
+35 689C.1688, 695A.1859, 695B.19087, 695C.16932 and 695G.1703,
+36 [respond to] and except as otherwise provided by paragraph (c),
+37 approve or make an adverse determination on any request for
+38 approval by the insured [or member] pursuant to this section [within
+39 20 days after it receives the request.] and notify the insured and his
+40 or her provider of health care of the approval or adverse
+41 determination:
+42 (1) For non-urgent medical or dental care, within 5 days
+43 after the request is received; or
+44 (2) For urgent health care, within 48 hours after the
+45 request is received.
+-
+*AB295*
+– 7 –
+1 (c) If the health carrier requires from an insured or a provider
+2 of health care additional, medically relevant information or
+3 documentation in order to adequately evaluate a request for prior
+4 authorization:
+5 (1) Notify the insured and the provider of health care who
+6 submitted the request within the applicable amount of time
+7 described in paragraph (b) that additional information is required
+8 to evaluate the request;
+9 (2) Include within the notification sent pursuant to
+10 subparagraph (1) a description, with reasonable specificity, of the
+11 information that is required by the health carrier; and
+12 (3) Approve or make an adverse determination on the
+13 request:
+14 (I) For non-urgent medical or dental care, within 5 days
+15 after receiving the information.
+16 (II) For urgent health care, within 48 hours after
+17 receiving the information.
+18 [2.] 3. The procedure for prior authorization may not
+19 discriminate among persons licensed to provide the covered care.
+20 4. If a health carrier makes an adverse determination on a
+21 request for prior authorization, the health carrier shall
+22 immediately transmit to the insured to which the request pertains
+23 and his or her provider of health care a written notice that
+24 contains:
+25 (a) A specific description of all reasons that the health carrier
+26 made the adverse determination;
+27 (b) The specific clinical criteria and medical evidence that the
+28 health carrier relied upon to make the adverse determination; and
+29 (c) A description of any mechanism available for the insured
+30 to appeal or challenge the adverse determination, which may
+31 include, without limitation:
+32 (1) An internal appeals process established by the health
+33 carrier, if applicable; or
+34 (2) Options for independent or external review, which may
+35 include, without limitation, the external review process established
+36 pursuant to NRS 695G.241 to 695G.310, inclusive, where
+37 applicable.
+38 5. Except as otherwise provided in this subsection, if a health
+39 carrier approves a request for prior authorization for a continuous
+40 course of treatment that relates to a chronic or long-term
+41 condition which is specifically identified in the request for prior
+42 authorization, the approval remains valid for 12 months from the
+43 date on which the health carrier approved the request. A health
+44 carrier may require additional prior authorization for medical or
+45 dental care that represents a substantial deviation from the course
+-
+*AB295*
+– 8 –
+1 of treatment indicated in the previous request for prior
+2 authorization that was approved by the health carrier.
+3 6. As used in this section:
+4 (a) “Clinical criteria” means any written screening procedure,
+5 decision abstract, clinical protocol or practice guideline used by a
+6 health carrier to determine the necessity and appropriateness of
+7 medical or dental care.
+8 (b) “Provider of health care” has the meaning ascribed to it in
+9 NRS 695G.070.
+10 (c) “Urgent health care” means health care that, in the
+11 opinion of a provider of health care with knowledge of the medical
+12 condition of a patient, if not rendered to the patient within 48
+13 hours could:
+14 (1) Seriously jeopardize the life or health of the patient or
+15 the ability of the patient to regain maximum function; or
+16 (2) Subject the patient to severe pain that cannot be
+17 adequately managed without receiving such care.
+18 Sec. 10. NRS 695B.320 is hereby amended to read as follows:
+19 695B.320 1. Nonprofit hospital and medical or dental service
+20 corporations are subject to the provisions of this chapter, and to the
+21 provisions of chapters 679A and 679B of NRS, subsections 2, 4, 17,
+22 18 and 30 of NRS 680B.010, NRS 680B.025 to 680B.060,
+23 inclusive, chapter 681B of NRS, NRS 686A.010 to 686A.315,
+24 inclusive, 686B.010 to 686B.175, inclusive, 687B.010 to
+25 687B.040, inclusive, 687B.070 to 687B.140, inclusive, 687B.150,
+26 687B.160, 687B.180, 687B.200 to 687B.255, inclusive, and
+27 sections 2 to 8, inclusive, of this act, 687B.270, 687B.310 to
+28 687B.380, inclusive, 687B.410, 687B.420, 687B.430, 687B.500 and
+29 chapters 692B, 692C, 693A and 696B of NRS, to the extent
+30 applicable and not in conflict with the express provisions of this
+31 chapter.
+32 2. For the purposes of this section and the provisions set forth
+33 in subsection 1, a nonprofit hospital and medical or dental service
+34 corporation is included in the meaning of the term “insurer.”
+35 Sec. 11. NRS 232.320 is hereby amended to read as follows:
+36 232.320 1. The Director:
+37 (a) Shall appoint, with the consent of the Governor,
+38 administrators of the divisions of the Department, who are
+39 respectively designated as follows:
+40 (1) The Administrator of the Aging and Disability Services
+41 Division;
+42 (2) The Administrator of the Division of Welfare and
+43 Supportive Services;
+44 (3) The Administrator of the Division of Child and Family
+45 Services;
+-
+*AB295*
+– 9 –
+1 (4) The Administrator of the Division of Health Care
+2 Financing and Policy; and
+3 (5) The Administrator of the Division of Public and
+4 Behavioral Health.
+5 (b) Shall administer, through the divisions of the Department,
+6 the provisions of chapters 63, 424, 425, 427A, 432A to 442,
+7 inclusive, 446 to 450, inclusive, 458A and 656A of NRS, NRS
+8 127.220 to 127.310, inclusive, 422.001 to 422.410, inclusive, and
+9 sections 15 to 19, inclusive, of this act, 422.580, 432.010 to
+10 432.133, inclusive, 432B.6201 to 432B.626, inclusive, 444.002 to
+11 444.430, inclusive, and 445A.010 to 445A.055, inclusive, and all
+12 other provisions of law relating to the functions of the divisions of
+13 the Department, but is not responsible for the clinical activities of
+14 the Division of Public and Behavioral Health or the professional line
+15 activities of the other divisions.
+16 (c) Shall administer any state program for persons with
+17 developmental disabilities established pursuant to the
+18 Developmental Disabilities Assistance and Bill of Rights Act of
+19 2000, 42 U.S.C. §§ 15001 et seq.
+20 (d) Shall, after considering advice from agencies of local
+21 governments and nonprofit organizations which provide social
+22 services, adopt a master plan for the provision of human services in
+23 this State. The Director shall revise the plan biennially and deliver a
+24 copy of the plan to the Governor and the Legislature at the
+25 beginning of each regular session. The plan must:
+26 (1) Identify and assess the plans and programs of the
+27 Department for the provision of human services, and any
+28 duplication of those services by federal, state and local agencies;
+29 (2) Set forth priorities for the provision of those services;
+30 (3) Provide for communication and the coordination of those
+31 services among nonprofit organizations, agencies of local
+32 government, the State and the Federal Government;
+33 (4) Identify the sources of funding for services provided by
+34 the Department and the allocation of that funding;
+35 (5) Set forth sufficient information to assist the Department
+36 in providing those services and in the planning and budgeting for the
+37 future provision of those services; and
+38 (6) Contain any other information necessary for the
+39 Department to communicate effectively with the Federal
+40 Government concerning demographic trends, formulas for the
+41 distribution of federal money and any need for the modification of
+42 programs administered by the Department.
+43 (e) May, by regulation, require nonprofit organizations and state
+44 and local governmental agencies to provide information regarding
+45 the programs of those organizations and agencies, excluding
+-
+*AB295*
+– 10 –
+1 detailed information relating to their budgets and payrolls, which the
+2 Director deems necessary for the performance of the duties imposed
+3 upon him or her pursuant to this section.
+4 (f) Has such other powers and duties as are provided by law.
+5 2. Notwithstanding any other provision of law, the Director, or
+6 the Director’s designee, is responsible for appointing and removing
+7 subordinate officers and employees of the Department.
+8 Sec. 12. NRS 287.010 is hereby amended to read as follows:
+9 287.010 1. The governing body of any county, school
+10 district, municipal corporation, political subdivision, public
+11 corporation or other local governmental agency of the State of
+12 Nevada may:
+13 (a) Adopt and carry into effect a system of group life, accident
+14 or health insurance, or any combination thereof, for the benefit of its
+15 officers and employees, and the dependents of officers and
+16 employees who elect to accept the insurance and who, where
+17 necessary, have authorized the governing body to make deductions
+18 from their compensation for the payment of premiums on the
+19 insurance.
+20 (b) Purchase group policies of life, accident or health insurance,
+21 or any combination thereof, for the benefit of such officers and
+22 employees, and the dependents of such officers and employees, as
+23 have authorized the purchase, from insurance companies authorized
+24 to transact the business of such insurance in the State of Nevada,
+25 and, where necessary, deduct from the compensation of officers and
+26 employees the premiums upon insurance and pay the deductions
+27 upon the premiums.
+28 (c) Provide group life, accident or health coverage through a
+29 self-insurance reserve fund and, where necessary, deduct
+30 contributions to the maintenance of the fund from the compensation
+31 of officers and employees and pay the deductions into the fund. The
+32 money accumulated for this purpose through deductions from the
+33 compensation of officers and employees and contributions of the
+34 governing body must be maintained as an internal service fund as
+35 defined by NRS 354.543. The money must be deposited in a state or
+36 national bank or credit union authorized to transact business in the
+37 State of Nevada. Any independent administrator of a fund created
+38 under this section is subject to the licensing requirements of chapter
+39 683A of NRS, and must be a resident of this State. Any contract
+40 with an independent administrator must be approved by the
+41 Commissioner of Insurance as to the reasonableness of
+42 administrative charges in relation to contributions collected and
+43 benefits provided. The provisions of NRS 439.581 to 439.597,
+44 inclusive, 686A.135, paragraphs (b) and (c) of subsection 2 and
+45 subsections 4 and 5 of NRS 687B.225, 687B.352, 687B.408,
+-
+*AB295*
+– 11 –
+1 687B.692, 687B.723, 687B.725, 687B.805, 689B.030 to
+2 689B.0317, inclusive, paragraphs (b) and (c) of subsection 1 of NRS
+3 689B.0319, subsections 2, 4, 6 and 7 of NRS 689B.0319, 689B.033
+4 to 689B.0369, inclusive, 689B.0375 to 689B.050, inclusive,
+5 689B.0675, 689B.265, 689B.287 and 689B.500 and section 6 of
+6 this act apply to coverage provided pursuant to this paragraph,
+7 except that the provisions of NRS 689B.0378, 689B.03785 and
+8 689B.500 only apply to coverage for active officers and employees
+9 of the governing body, or the dependents of such officers and
+10 employees.
+11 (d) Defray part or all of the cost of maintenance of a self-
+12 insurance fund or of the premiums upon insurance. The money for
+13 contributions must be budgeted for in accordance with the laws
+14 governing the county, school district, municipal corporation,
+15 political subdivision, public corporation or other local governmental
+16 agency of the State of Nevada.
+17 2. If a school district offers group insurance to its officers and
+18 employees pursuant to this section, members of the board of trustees
+19 of the school district must not be excluded from participating in the
+20 group insurance. If the amount of the deductions from compensation
+21 required to pay for the group insurance exceeds the compensation to
+22 which a trustee is entitled, the difference must be paid by the trustee.
+23 3. In any county in which a legal services organization exists,
+24 the governing body of the county, or of any school district,
+25 municipal corporation, political subdivision, public corporation or
+26 other local governmental agency of the State of Nevada in the
+27 county, may enter into a contract with the legal services
+28 organization pursuant to which the officers and employees of the
+29 legal services organization, and the dependents of those officers and
+30 employees, are eligible for any life, accident or health insurance
+31 provided pursuant to this section to the officers and employees, and
+32 the dependents of the officers and employees, of the county, school
+33 district, municipal corporation, political subdivision, public
+34 corporation or other local governmental agency.
+35 4. If a contract is entered into pursuant to subsection 3, the
+36 officers and employees of the legal services organization:
+37 (a) Shall be deemed, solely for the purposes of this section, to be
+38 officers and employees of the county, school district, municipal
+39 corporation, political subdivision, public corporation or other local
+40 governmental agency with which the legal services organization has
+41 contracted; and
+42 (b) Must be required by the contract to pay the premiums or
+43 contributions for all insurance which they elect to accept or of which
+44 they authorize the purchase.
+45 5. A contract that is entered into pursuant to subsection 3:
+-
+*AB295*
+– 12 –
+1 (a) Must be submitted to the Commissioner of Insurance for
+2 approval not less than 30 days before the date on which the contract
+3 is to become effective.
+4 (b) Does not become effective unless approved by the
+5 Commissioner.
+6 (c) Shall be deemed to be approved if not disapproved by the
+7 Commissioner within 30 days after its submission.
+8 6. As used in this section, “legal services organization” means
+9 an organization that operates a program for legal aid and receives
+10 money pursuant to NRS 19.031.
+11 Sec. 13. NRS 287.04335 is hereby amended to read as
+12 follows:
+13 287.04335 If the Board provides health insurance through a
+14 plan of self-insurance, it shall comply with the provisions of NRS
+15 439.581 to 439.597, inclusive, 686A.135, paragraphs (b) and (c) of
+16 subsection 2 and subsections 4 and 5 of NRS 687B.225, 687B.352,
+17 687B.409, 687B.692, 687B.723, 687B.725, 687B.805, 689B.0353,
+18 689B.255, 695C.1723, 695G.150, 695G.155, 695G.160, 695G.162,
+19 695G.1635, 695G.164, 695G.1645, 695G.1665, 695G.167,
+20 695G.1675, 695G.170 to 695G.1712, inclusive, 695G.1714 to
+21 695G.174, inclusive, 695G.176, 695G.177, 695G.200 to 695G.230,
+22 inclusive, 695G.241 to 695G.310, inclusive, 695G.405 and
+23 695G.415, and section 6 of this act in the same manner as an
+24 insurer that is licensed pursuant to title 57 of NRS is required to
+25 comply with those provisions.
+26 Sec. 14. Chapter 422 of NRS is hereby amended by adding
+27 thereto the provisions set forth as sections 15 to 19, inclusive, of this
+28 act.
+29 Sec. 15. 1. The provisions of sections 16 to 19, inclusive, of
+30 this act and any policies developed pursuant thereto do not apply
+31 to the delivery of services to recipients of Medicaid or the
+32 Children’s Health Insurance Program through managed care in
+33 accordance with NRS 422.273.
+34 2. A health maintenance organization or other managed care
+35 organization that enters into a contract with the Department or the
+36 Division pursuant to NRS 422.273 to provide health care services
+37 to recipients of Medicaid under the State Plan for Medicaid or the
+38 Children’s Health Insurance Program shall comply with NRS
+39 687B.225 and sections 2 to 8, inclusive, of this act.
+40 Sec. 16. As used in sections 15 to 19, inclusive, of this act,
+41 unless the context otherwise requires, “adverse determination”
+42 means a determination by the Department that an admission,
+43 availability of care, continued stay or other medical care or dental
+44 care that is a covered benefit has been reviewed and, based upon
+45 the information provided, does not meet the Department’s
+-
+*AB295*
+– 13 –
+1 requirements for medical necessity, appropriateness, health care
+2 setting, level of care or effectiveness, and the requested care or
+3 service or payment for the care or service is therefore denied,
+4 reduced or terminated.
+5 Sec. 17. 1. Unless a shorter time period is prescribed by a
+6 specific statute, and except as otherwise provided in subsection 2,
+7 the Department, with respect to Medicaid and the Children’s
+8 Health Insurance Program, shall approve or make an adverse
+9 determination on a request for prior authorization submitted by or
+10 on behalf of a recipient of Medicaid or the Children’s Health
+11 Insurance Program, as applicable, and notify the recipient and his
+12 or her provider of health care of the approval or adverse
+13 determination:
+14 (a) For non-urgent medical or dental care, within 5 days after
+15 receiving the request.
+16 (b) For urgent health care, within 48 hours after receiving the
+17 request.
+18 2. If the Department requires from a recipient or a provider
+19 of health care additional, medically relevant information or
+20 documentation in order to adequately evaluate a request for prior
+21 authorization, the Department shall:
+22 (a) Notify the recipient and the provider of health care who
+23 submitted the request within the applicable amount of time
+24 described in subsection 1 that additional information is required to
+25 evaluate the request;
+26 (b) Include within the notification sent pursuant to paragraph
+27 (a) a description, with reasonable specificity, of the information
+28 that is required by the Department; and
+29 (c) Approve or make an adverse determination on the request:
+30 (1) For non-urgent medical or dental care, within 5 days
+31 after receiving the information.
+32 (2) For urgent health care, within 48 hours after receiving
+33 the information.
+34 3. If the Department makes an adverse determination on a
+35 request for prior authorization, the Department shall immediately
+36 transmit to the recipient of Medicaid or insurance provided
+37 pursuant to the Children’s Health Insurance Program, as
+38 applicable, to which the request pertains a written notice that
+39 contains:
+40 (a) A specific description of all reasons that the Department
+41 made the adverse determination;
+42 (b) The specific clinical criteria and medical evidence that the
+43 Department relied upon to make the adverse determination; and
+44 (c) A description of any mechanism available for the recipient
+45 to appeal or challenge the adverse determination.
+-
+*AB295*
+– 14 –
+1 4. Except as otherwise provided in this subsection, if the
+2 Department approves a request for prior authorization for a
+3 continuous course of treatment that relates to a chronic or long-
+4 term condition which is specifically identified in the request for
+5 prior authorization, the approval remains valid for 12 months
+6 from the date on which the Department approved the request. The
+7 Department may require additional prior authorization for
+8 medical or dental care that represents a substantial deviation from
+9 the course of treatment indicated in the previous request for prior
+10 authorization that was approved by the Department.
+11 5. As used in this section:
+12 (a) “Clinical criteria” means any written screening procedure,
+13 decision abstract, clinical protocol or practice guideline used by
+14 the Department to determine the necessity and appropriateness of
+15 medical or dental care.
+16 (b) “Provider of health care” has the meaning ascribed to it in
+17 NRS 695G.070.
+18 (c) “Urgent health care” means health care that, in the
+19 opinion of a provider of health care with knowledge of the medical
+20 condition of a patient, if not rendered to the patient within 48
+21 hours could:
+22 (1) Seriously jeopardize the life or health of the patient or
+23 the ability of the patient to regain maximum function; or
+24 (2) Subject the patient to severe pain that cannot be
+25 adequately managed without receiving such care.
+26 Sec. 18. 1. If the Department utilizes an artificial
+27 intelligence system or automated decision tool to process requests
+28 for prior authorization, the Department shall transmit to each
+29 recipient of Medicaid or insurance pursuant to the Children’s
+30 Health Insurance Program, in writing:
+31 (a) A statement that the Department utilizes an artificial
+32 intelligence system or automated decision tool to process requests
+33 for prior authorization;
+34 (b) A general description of how the artificial intelligence
+35 system or automated decision tool works; and
+36 (c) A description of the specific types of information or data
+37 utilized by the artificial intelligence system or automated decision
+38 tool which enables the system or tool to generate an outcome.
+39 2. Except as otherwise provided in subsection 3, the
+40 Department shall not utilize or employ an artificial intelligence
+41 system or automated decision tool to:
+42 (a) Make an adverse determination on a request for prior
+43 authorization; or
+44 (b) Terminate, reduce or modify coverage for medical or
+45 dental care that was previously approved by the Department.
+-
+*AB295*
+– 15 –
+1 3. The Department may utilize or employ an artificial
+2 intelligence system or automated decision tool for the purposes
+3 described in subsection 2 if, when the artificial intelligence system
+4 or automated decision tool generates an outcome on a request for
+5 prior authorization described in subsection 2, the request for prior
+6 authorization is independently reviewed by a physician or, for a
+7 request for dental care, a dentist, who:
+8 (a) Holds an unrestricted license to practice medicine or
+9 dentistry, as applicable, in any state or territory of the United
+10 States;
+11 (b) Holds a current certification by a specialty board of the
+12 American Board of Medical Specialties or, if a dentist, a certifying
+13 board approved by the Commission on Dental Accreditation of the
+14 American Dental Association, in the area or areas appropriate to
+15 the subject of the request; and
+16 (c) Possesses the education, training and expertise to evaluate
+17 the specific clinical issues involved in the request.
+18 4. As used in this section:
+19 (a) “Artificial intelligence system” means a machine-based
+20 system that can, for a given set of human-defined objectives, make
+21 predictions, recommendations or decisions influencing real or
+22 virtual environments.
+23 (b) “Automated decision tool” means an automated or
+24 computerized system that is specifically developed or modified to
+25 make, or to be a controlling factor in making, consequential
+26 decisions.
+27 Sec. 19. 1. On or before March 1 of each calendar year, the
+28 Department shall compile and publish on an Internet website
+29 maintained by the Department a report containing the following
+30 information for the immediately preceding calendar year:
+31 (a) The total number of requests for prior authorization for
+32 care provided to recipients of Medicaid and recipients of
+33 insurance pursuant to the Children’s Health Insurance Program
+34 that were received by the Department.
+35 (b) The average time that elapsed between the Department
+36 receiving a request described in paragraph (a) and the Department
+37 approving or making an adverse determination on the request.
+38 (c) The percentage and total number of requests for prior
+39 authorization described in paragraph (a) that were approved upon
+40 initial review.
+41 (d) The percentage and total number of requests for prior
+42 authorization described in paragraph (a) that resulted in an
+43 adverse determination upon initial review.
+44 (e) The percentage and total number of the adverse
+45 determinations described in paragraph (d) that were appealed.
+-
+*AB295*
+– 16 –
+1 (f) The percentage and total number of appeals described in
+2 paragraph (e) that resulted in the reversal of an adverse
+3 determination.
+4 2. The report compiled pursuant to subsection 1 must present
+5 the information described in that subsection:
+6 (a) In aggregated form; and
+7 (b) Disaggregated by the types of health or dental care at issue
+8 in the requests for prior authorization, which may include, without
+9 limitation, mental health, chronic care, preventive services and
+10 dental care.
+11 Sec. 20. NRS 422.403 is hereby amended to read as follows:
+12 422.403 1. The Department shall, by regulation, establish and
+13 manage the use by the Medicaid program of step therapy and prior
+14 authorization for prescription drugs.
+15 2. The Drug Use Review Board shall:
+16 (a) Advise the Department concerning the use by the Medicaid
+17 program of step therapy and prior authorization for prescription
+18 drugs;
+19 (b) Develop step therapy protocols and prior authorization
+20 policies and procedures in a manner consistent with sections 16 to
+21 19, inclusive, of this act for use by the Medicaid program for
+22 prescription drugs; and
+23 (c) Review and approve, based on clinical evidence and best
+24 clinical practice guidelines and without consideration of the cost of
+25 the prescription drugs being considered, step therapy protocols used
+26 by the Medicaid program for prescription drugs.
+27 3. The step therapy protocol established pursuant to this section
+28 must not apply to a drug approved by the Food and Drug
+29 Administration that is prescribed to treat a psychiatric condition of a
+30 recipient of Medicaid, if:
+31 (a) The drug has been approved by the Food and Drug
+32 Administration with indications for the psychiatric condition of the
+33 insured or the use of the drug to treat that psychiatric condition is
+34 otherwise supported by medical or scientific evidence;
+35 (b) The drug is prescribed by:
+36 (1) A psychiatrist;
+37 (2) A physician assistant under the supervision of a
+38 psychiatrist;
+39 (3) An advanced practice registered nurse who has the
+40 psychiatric training and experience prescribed by the State Board of
+41 Nursing pursuant to NRS 632.120; or
+42 (4) A primary care provider that is providing care to an
+43 insured in consultation with a practitioner listed in subparagraph (1),
+44 (2) or (3), if the closest practitioner listed in subparagraph (1), (2) or
+-
+*AB295*
+– 17 –
+1 (3) who participates in Medicaid is located 60 miles or more from
+2 the residence of the recipient; and
+3 (c) The practitioner listed in paragraph (b) who prescribed the
+4 drug knows, based on the medical history of the recipient, or
+5 reasonably expects each alternative drug that is required to be used
+6 earlier in the step therapy protocol to be ineffective at treating the
+7 psychiatric condition.
+8 4. The Department shall not require the Drug Use Review
+9 Board to develop, review or approve prior authorization policies or
+10 procedures necessary for the operation of the list of preferred
+11 prescription drugs developed pursuant to NRS 422.4025.
+12 5. The Department shall accept recommendations from the
+13 Drug Use Review Board as the basis for developing or revising step
+14 therapy protocols and prior authorization policies and procedures
+15 used by the Medicaid program for prescription drugs.
+16 6. As used in this section:
+17 (a) “Medical or scientific evidence” has the meaning ascribed to
+18 it in NRS 695G.053.
+19 (b) “Step therapy protocol” means a procedure that requires a
+20 recipient of Medicaid to use a prescription drug or sequence of
+21 prescription drugs other than a drug that a practitioner recommends
+22 for treatment of a psychiatric condition of the recipient before
+23 Medicaid provides coverage for the recommended drug.
+24 Sec. 21. NRS 608.1555 is hereby amended to read as follows:
+25 608.1555 Any employer who provides benefits for health care
+26 to his or her employees shall provide the same benefits and pay
+27 providers of health care in the same manner as a policy of insurance
+28 pursuant to chapters 689A and 689B of NRS, including, without
+29 limitation, as required by paragraphs (b) and (c) of subsection 2
+30 and subsections 4 and 5 of NRS 687B.225, NRS 687B.409,
+31 687B.723 and 687B.725 [.] and section 6 of this act.
+32 Sec. 22. 1. The amendatory provisions of this act do not
+33 apply to a request for prior authorization submitted:
+34 (a) Under any contract or policy of health insurance issued by a
+35 health carrier before January 1, 2026, but apply to any request for
+36 prior authorization submitted under any renewal of such a contract
+37 or policy; or
+38 (b) To the Department of Health and Human Services before
+39 January 1, 2026, for dental or medical care provided to a recipient of
+40 Medicaid or insurance pursuant to the Children’s Health Insurance
+41 Program, as applicable.
+42 2. A health carrier must, in order to continue requiring prior
+43 authorization in contracts or policies of health insurance issued or
+44 renewed on or after January 1, 2026:
+-
+*AB295*
+– 18 –
+1 (a) Develop a procedure for obtaining prior authorization that
+2 complies with NRS 687B.225, as amended by section 9 of this act,
+3 and section 6 of this act; and
+4 (b) Obtain the approval of the Commissioner of Insurance
+5 pursuant to NRS 687B.225, as amended by section 9 of this act, for
+6 the procedure developed pursuant to paragraph (a).
+7 3. As used in this section, “health carrier” has the meaning
+8 ascribed to it in section 4 of this act.
+9 Sec. 23. The provisions of NRS 354.599 do not apply to any
+10 additional expenses of a local government that are related to the
+11 provisions of this act.
+12 Sec. 24. 1. This section and section 22 of this act become
+13 effective upon passage and approval.
+14 2. Sections 1 to 21, inclusive, and 23 of this act become
+15 effective:
+16 (a) Upon passage and approval for the purpose of adopting any
+17 regulations and performing any other preparatory administrative
+18 tasks that are necessary to carry out the provisions of this act; and
+19 (b) On January 1, 2026, for all other purposes.
+H
+-
+*AB295*
+[DELETED: BN.2AY I O S UK;B-MH  RNA2,2  p r t h i EE  NRALG) E F O O a p c r t t u o a i b h r t c a p o r r t p a p t i a a o c p f t i o c aE a i m r c f h a d c i c t r t a r f p a w 2 d o t i M a t C H I P t a m r i w ( f d a c a m a a d o a r f p p t t i S 9 a 1 a p t a f p a t h b a b t i f a]
+[DELETED: –S i u u M o t C H I P t o H a H S t p r f p i i r b a p o d a a wS a H S t c c i r t tS 8 o t b p p f i a i i f s v a a t C t aS o t D o H a H S t a t o l g t P E B P a t m c o t s t r o w s]
+[DELETED: –S 1  CS 2  A u i N 6 a s 2 t 8 o t a u t c o r tS 3  “ c a a o c c h c r f m nS 4  “ c h t m a t i iS 5  “S 6  1  I a h c u a a s o a a d t t p( A s t t h c u a a( A g d o h t a i( A2  E a o p i s 3 a h( M a a d o a r f p( T r o m c f m o3  A h c m u o e a a s o a d t f a p]
+[DELETED: –( H a u l t p m o a a i a s o t o t U( H a c c b a s b o t( P4  A( “ i s m a m r o d i r o( “ d t m a a o o t b a c f i m cS 7  1  O( T t n o r f p a f( T a r d i p ( a t h a o m a a d o t( T p a t n o r f p( T p a t n o r f p d i p ( t r i a( T p a t n o t a( T ( t r i t r o a a]
+[DELETED: –2  T( I( D p a w m i w l3  O D o H a H S a t o I s p t r s t s 1 f t c y o a I b t D o t C aS 8  1  T C i c w t a r t a n t c o t2  T C m d t t D o t t c t a o i t c o a3  I t p o N 6 o s 2 t 8 o t a t D s i n t o t p v a t t t4  I t C d a c a a h c h v p ( o ( o 2 o N 6 o s 7 o t a t5  A e f c b t d t q d w a v d i6  T h c i o t d t a o t c]
+[DELETED: –7  T8  T t m b i a a h c t i t h c f o m v oS 9  N6  1  E a o p i N 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 a 6 a c [ g b o o p o h i [ a c b a h m o d s c o f d c i b a h c w c i a m c w t s a2  A( F( U a s t p i p b a s o m a a d o a r f h p o h c o t a o a ( F ( F u h c w 4 h a t]
+[DELETED: –( I h c a m r i o ( N t r w t a a o t ( I w t n s p t ( A o m a a d o t  ( F  ( F u h c w 4 h a[ 3  T p f p a m n4  I f p a t h c s h o h p o h c a w n t( A( T( A a o c t a d w m ( A i a p e b t h ( O t N 6 t 6 i w5  E o t t r t a c o l]
+[DELETED: – t i i t p r f p6  A( “( “( “ h c m h c t i t o a p i n r t t p w 4 ( S ( S t p t s p t c bS 1  N6  1  N a 3 o N 6 N 6 t 6 c 6 o N N 6 t 6 6 t 6 i 6 t 6 t 6 i 6 6 6 t 6 i a 2 t 8 i o t a 6 6 t 6 6 6 a 6 o N t t e a n i c w t e p o t2  FS 1  N2  1  T( S a w t c o t G o t d o t D w a ( T ( T A o t D o W a ( T]
+[DELETED: – ( T A o t D o H C ( T A o t D o P a( S a t d p o c 6 4 4 4 4 t 4 4 t 4 i 4 a 6 o N N 1 t 1 i o t a 4 4 t i 4 4 i a( S a a s p f p w d e p t t D A a B o R A o( S a c a f a o l a n o w p s o t p t t G a t L a t ( I a a t p a p o t f t p o h s a a ( S ( P a n o a o l ( I ( S ( C a o i n f t t c e w t F c d t f f t( M p o t o a a e]
+[DELETED: –( H2  NS 1  N2  1  T g b o a c s m c p s p o o l g a o t S o( A a e a t d o o a w e t a t i a w w t c f t p o p o t( P a c t f t b o s o a t p u i a p t d( P g l a o h c t a r f a w n d o o a e a c o t a i a m b a b t o I a t t r o c i r t c c a p T p o N 4 t 4 4 a 5 o N 6 6 6]
+[DELETED: – 6 6 6 6 t 6 i 6 t 6 i 6 6 a 6 a s 6 o a a t c p p t t p t t p o N 6 6 a t g b o t d o s o a( D p o a o t c o m o a s m b b f i a w t l t c s d m c2  I3  I g b o t c o o a s d c p p o l g a o t S o N i t m e i a c w t l s a e f a l a o h i m c p s p4  I a c i e i p t s 3 t( S a e o t c s d m( M b r b t c t p t p o5  A]
+[DELETED: –( M b s t t C o I f( D n b e u a b t( S6  AS 1  N 2 i h a t r a2  I t B p h i t a 6 6 6 6 6 t 6 i 6 t 6 t 6 i 6 a a s 6 o t a i t s m a aS 1  C 4 o N i h a b aS 1  1  T t d o s t r o M o t2  A H I P s c w NS 1  A t c o r “ d a d b t D t a a i p d n m t D]
+[DELETED: – o p f t c o s i t dS 1  1  U D w r t M a t C I P s a o m a a b o a r o M o t C H h p o h c o t a o a( F( F2  I h c a m r i o( N t r a t p o h c w t r w t a a o t( I( A ( F ( F3  I t D a a d o a t t r o M o i p t t C H I P a t w t r p a w n t( A( T( A]
+[DELETED: –4  E a o p i t s i t a a r f p a f a a t a r v f 1 m m r a p a f5  A( “( “( “ h c m h c t i t o a p i n r t t p w 4 ( S ( S t p t s p t c bS 1  1  I t D u a a p a t D s t t e o M o i p t t C( A s t t D u a a( A g d o h t a i( A2  E a o p i s 3 t s n u o e a a i( M a a d o a r f p( T r o m c f m o]
+[DELETED: –3  T D m u o e a a s o a d t f t p( H a u l t p m o a a i a s o t o t U( H a c c b a s b o t( P4  A( “ i s m a m r o d i r o( “ d t m a a o o t b a c f i m cS 1  1  O s c a p o a I w( T t n o r f p a f p t r o M a r o( T a t t e b t D( T p a t n o r f p( T p a t n o r f p d i p ( t r i a( T p a t n o t a]
+[DELETED: –( T d ( t r i t r o a a2  T( I( D m h c c p s aS 2  N4  1  T2  T( A o s t a p a f p( D s t p a p a i o t a f u b t M p f( R a a b o c e a b3  T n a t a d a b t F a D( T d h b a b t F a D( T ( A ( A p a u t s o a ( A a p r n w h t ( A p c p t i p c t a]
+[DELETED: –( T k b o t m h o t r o4  T D s n r t D U R n f t o o t l o p5  T D s a r f t p a p a p a p6  A( “( “ o M t u a p d o s o t o a p c o t r bS 2  N6  A h o h e s p t s b a p t c 6 a 6 o N i w s 4 a 5 o N 6 N 6S 2  1  T a p o t a d n( U( T t D o H a H S b2  A]
+[DELETED: –( D a p f o p a t( O t a o t C o I3  A u i t s “ c h t mS 2  T e o a l g t a r t tS 2  1  T s a s 2 o t a b2  S 1 t 2 i a 2 o t a b( U a p a o p a( O]
+
+
+================================================================================
+
+Raw Text:
+A.B. 295
+ASSEMBLY BILL NO. 295–ASSEMBLYMEMBERS YUREK,
+EDGEWORTH; AND BROWN-MAY
+FEBRUARY 25, 2025
+____________
+Referred to Committee on Commerce and Labor
+SUMMARY—Revises provisions relating to health insurance.
+(BDR 57-238)
+FISCAL NOTE: Effect on Local Government: May have Fiscal Impact.
+Effect on the State: Yes.
+CONTAINS UNFUNDED MANDATE (§ 12)
+(NOT REQUESTED BY AFFECTED LOCAL GOVERNMENT)
+~
+EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+AN ACT relating to insurance; imposing requirements relating to
+prior authorization; prescribing certain requirements
+relating to the use of artificial intelligence by health
+insurers; requiring the compilation and publication of
+certain reports relating to prior authorization; providing
+for the investigation and adjudication of certain
+violations; providing for the imposition of civil and
+administrative penalties for such violations; and providing
+other matters properly relating thereto.
+Legislative Counsel’s Digest:
+1 Existing law authorizes certain health insurers to require prior authorization
+2 before an insured may receive coverage for health and dental care in certain
+3 circumstances. If an insurer requires prior authorization, existing law requires the
+4 insurer to respond to a request for prior authorization within 20 days of the
+5 receiving the request. (NRS 687B.225) Sections 9 and 17 of this bill require an
+6 insurer, including Medicaid and the Children’s Health Insurance Program, to
+7 approve or make an adverse determination on a request for prior authorization, or
+8 request additional, medically relevant information within: (1) five days after
+9 receiving the request, for medical or dental care that is not urgent; or (2) forty-eight
+10 hours after receiving the request, for care that is urgent. Sections 9 and 17 require
+11 an insurer to transmit certain information to an insured and his or her provider of
+12 health care after making an adverse determination on a request for prior
+13 authorization pertaining to the insured. Sections 9 and 17 also provide that a
+14 request for prior authorization that has been approved by the insurer for a
+-
+*AB295*
+
+– 2 –
+15 continuous course of treatment relating to a chronic or long-term condition remains
+16 valid for 12 months, with certain exceptions.
+17 Sections 6 and 18 of this bill require an insurer that employs or utilizes an
+18 artificial intelligence system or automated decision tool and, if such a system or
+19 tool is used under Medicaid or the Children’s Health Insurance Program, the
+20 Department of Health and Human Services to process requests for prior
+21 authorization to transmit a notice to each of its insureds that: (1) discloses the
+22 insurer’s use of the system or tool to process requests for prior authorization; and
+23 (2) describes certain aspects of the system or tool. Section 6 and 18 prohibit an
+24 insurer from using an artificial intelligence system or automated decision tool to
+25 make an adverse determination on a request for prior authorization, or to terminate,
+26 reduce or modify a previously approved request for prior authorization, unless that
+27 action is independently reviewed by a physician or dentist, as applicable, who
+28 possesses certain qualifications.
+29 Section 7 of this bill requires certain insurers to annually compile and submit a
+30 report to the Commissioner of Insurance and the Director of the Department of
+31 Health and Human Services that contains certain information relating to the
+32 requests for prior authorization for care provided to insureds in this State during the
+33 immediately preceding year. Section 7 requires the Director and the Commissioner
+34 to publish the reports submitted by insurers to on their respective Internet websites.
+35 Section 19 of this bill requires the Department to annually compile and publish a
+36 similar report containing information relating to requests for prior authorization for
+37 care provided to recipients of Medicaid during the immediately preceding calendar
+38 year.
+39 Section 8 of this bill prescribes procedures for investigating and imposing
+40 penalties against a private sector insurer that: (1) fails to submit a report required by
+41 section 7; or (2) fails to comply with the requirements for making determinations
+42 on requests for prior authorization during the periods of time established by section
+43 9. Section 8 also prescribes the amount of the civil penalty that the Commissioner
+44 must impose for such violations and authorizes the Commissioner to adopt
+45 regulations prescribing additional sanctions for repeated noncompliance.
+46 Sections 3-5 and 16 of this bill define certain terms, and section 2 of this bill
+47 establishes the applicability of the definitions set forth in sections 3-5. Section 10
+48 of this bill makes sections 2-8 applicable to nonprofit medical or dental service
+49 corporations. Section 11 of this bill makes a conforming change to require the
+50 Director of the Department of Health and Human Services to administer the
+51 provisions of sections 15-19 in the same manner as other provisions governing
+52 Medicaid. Sections 12, 13 and 21 of this bill require plans of self-insurance for
+53 employees of local governments, the Public Employees’ Benefits Program and
+54 plans of self-insurance for private employers, respectively, to comply with certain
+55 requirements of sections 6 and 9, to the extent applicable. Section 15 of this bill
+56 provides that managed care organizations that provide services to recipients of
+57 Medicaid or the Children’s Health Insurance Program are exempt from sections 16-
+58 19, which govern prior authorization under Medicaid and the Children’s Health
+59 Insurance Program provided directly by the Department, but such managed care
+60 organizations must comply with sections 3-9, which govern prior authorization
+61 required by private sector health insurers. Section 20 of this bill requires any policy
+62 or procedure established for prescription drug coverage under Medicaid relating to
+63 prior authorization to comply with the provisions of sections 16-19.
+-
+*AB295*
+
+– 3 –
+THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN
+SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:
+1 Section 1. Chapter 687B of NRS is hereby amended by adding
+2 thereto the provisions set forth as sections 2 to 8, inclusive, of this
+3 act.
+4 Sec. 2. As used in NRS 687B.225 and sections 2 to 8,
+5 inclusive, of this act, unless the context otherwise requires, the
+6 words and terms defined in sections 3, 4 and 5 of this act have the
+7 meanings ascribed to them in those sections.
+8 Sec. 3. “Adverse determination” means a determination by a
+9 health carrier that an admission, availability of care, continued
+10 stay or other health care service that is a covered benefit has been
+11 reviewed and, based on the information provided, does not meet
+12 the health carrier’s requirements for medical necessity,
+13 appropriateness, health care setting, level of care or effectiveness,
+14 and the requested service or payment for the service is therefore
+15 denied, reduced or terminated.
+16 Sec. 4. “Health carrier” has the meaning ascribed to it in
+17 NRS 695G.024, and includes, without limitation, an organization
+18 for dental care.
+19 Sec. 5. “Insured” means a policyholder, subscriber, enrollee
+20 or other person covered by a health carrier.
+21 Sec. 6. 1. If a health carrier utilizes an artificial
+22 intelligence system or an automated decision tool to process
+23 requests for prior authorization, the health carrier shall transmit
+24 to each of its insureds, in writing:
+25 (a) A statement that the health carrier utilizes an artificial
+26 intelligence system or automated decision tool to process requests
+27 for prior authorization;
+28 (b) A general description of how the artificial intelligence
+29 system or automated decision tool works; and
+30 (c) A description of the specific types of information or data
+31 utilized by the artificial intelligence system or automated decision
+32 tool to enable the system or tool to generate an outcome.
+33 2. Except as otherwise provided in subsection 3, a health
+34 carrier shall not utilize or employ an artificial intelligence system
+35 or automated decision tool to:
+36 (a) Make an adverse determination on a request for prior
+37 authorization; or
+38 (b) Terminate, reduce or modify coverage for medical or
+39 dental care that was previously approved by the health carrier.
+40 3. A health carrier may utilize or employ an artificial
+41 intelligence system or automated decision tool for a purpose
+42 described in subsection 2 if, when the artificial intelligence system
+-
+*AB295*
+
+– 4 –
+1 or automated decision tool generates an outcome on a request for
+2 prior authorization described in subsection 2, the request for prior
+3 authorization is independently reviewed by a physician or, for a
+4 request for dental care, a dentist, who:
+5 (a) Holds an unrestricted license to practice medicine or
+6 dentistry, as applicable, in any state or territory of the United
+7 States;
+8 (b) Holds a current certification by a specialty board of the
+9 American Board of Medical Specialties or, if a dentist, a certifying
+10 board approved by the Commission on Dental Accreditation of the
+11 American Dental Association, in the area or areas appropriate to
+12 the subject of the request; and
+13 (c) Possesses the education, training and expertise to evaluate
+14 the specific clinical issues involved in the request.
+15 4. As used in this section:
+16 (a) “Artificial intelligence system” means a machine-based
+17 system that can, for a given set of human-defined objectives, make
+18 predictions, recommendations or decisions influencing real or
+19 virtual environments.
+20 (b) “Automated decision tool” means an automated or
+21 computerized system that is specifically developed or modified to
+22 make, or to be a controlling factor in making, consequential
+23 decisions.
+24 Sec. 7. 1. On or before March 1 of each calendar year, a
+25 health carrier shall compile and transmit to the Commissioner and
+26 to the Director of the Department of Health and Human Services
+27 a report containing the following information for the immediately
+28 preceding calendar year:
+29 (a) The total number of requests for prior authorization for
+30 care provided in this State that were received by the health carrier.
+31 (b) The average time that elapsed between the health carrier
+32 receiving a request described in paragraph (a) and the health
+33 carrier approving or making an adverse determination on the
+34 request.
+35 (c) The percentage and total number of requests for prior
+36 authorization described in paragraph (a) that were approved upon
+37 initial review.
+38 (d) The percentage and total number of requests for prior
+39 authorization described in paragraph (a) that resulted in an
+40 adverse determination upon initial review.
+41 (e) The percentage and total number of the adverse
+42 determinations described in paragraph (d) that were appealed.
+43 (f) The percentage and total number of appeals described in
+44 paragraph (e) that resulted in the reversal of an adverse
+45 determination.
+-
+*AB295*
+
+– 5 –
+1 2. The report compiled pursuant to subsection 1 must present
+2 the information described in that subsection:
+3 (a) In aggregated form; and
+4 (b) Disaggregated by the types of care at issue in the requests
+5 for prior authorization, which may include, without limitation,
+6 mental health, chronic care, preventive services and dental care.
+7 3. On or before April 1 of each calendar year, the Director of
+8 the Department of Health and Human Services and the
+9 Commissioner of Insurance shall publish the reports submitted
+10 pursuant to subsection 1 for that calendar year on an Internet
+11 website maintained by the Department or the Commissioner, as
+12 applicable.
+13 Sec. 8. 1. The Commissioner, in consultation with the
+14 Director of the Department of Health and Human Services, shall
+15 adopt any regulations that are necessary to carry out the
+16 provisions of NRS 687B.225 and sections 2 to 8, inclusive, of this
+17 act.
+18 2. The Commissioner may delegate to the Director of the
+19 Department of Health and Human Services his or her authority
+20 under this chapter to audit or investigate the compliance of a
+21 health carrier with the provisions of NRS 687B.225 and sections 2
+22 to 8, inclusive, of this act.
+23 3. If an audit or investigation of a health carrier conducted
+24 by the Director of the Department of Health and Human Services
+25 causes the Director to believe that a health carrier has potentially
+26 violated the provisions of NRS 687B.225 or sections 2 to 8,
+27 inclusive, of this act, the Director shall immediately notify the
+28 Commissioner of the potential violation and transmit to the
+29 Commissioner any information collected as a part of the audit or
+30 investigation.
+31 4. If the Commissioner determines, after conducting a
+32 hearing in accordance with NRS 679B.310 to 679B.370, inclusive,
+33 that a health carrier has violated paragraph (b) or (c) of
+34 subsection 2 of NRS 687B.225 or section 7 of this act, the
+35 Commissioner shall assess the civil penalty described in subsection
+36 5 for each such violation.
+37 5. A civil penalty assessed against a health carrier pursuant
+38 to subsection 4 must be equivalent to 5 percent of the gross income
+39 that the health carrier earned from conducting business in this
+40 State during the quarter during which a violation described in
+41 subsection 4 is determined to have occurred.
+42 6. The Commissioner may examine the books and records of
+43 a health carrier in order to determine the amount of the civil
+44 penalty that must be assessed against the health carrier pursuant
+45 to subsection 5.
+-
+*AB295*
+
+– 6 –
+1 7. The Commissioner shall deposit any money recovered as a
+2 civil penalty pursuant to subsection 4 into the Fund for Hospital
+3 Care to Indigent Persons created by NRS 428.175.
+4 8. The Commissioner may establish by regulation additional
+5 sanctions that may be imposed against a health carrier that is
+6 determined to have committed five or more violations of
+7 paragraph (b) or (c) of subsection 2 of NRS 687B.225 or section 7
+8 of this act within any 18-month period.
+9 Sec. 9. NRS 687B.225 is hereby amended to read as follows:
+10 687B.225 1. Except as otherwise provided in NRS
+11 689A.0405, 689A.0412, 689A.0413, 689A.0418, 689A.0437,
+12 689A.044, 689A.0445, 689A.0459, 689B.031, 689B.0312,
+13 689B.0313, 689B.0315, 689B.0317, 689B.0319, 689B.0374,
+14 689B.0378, 689C.1665, 689C.1671, 689C.1675, 689C.1676,
+15 695A.1843, 695A.1856, 695A.1865, 695A.1874, 695B.1912,
+16 695B.1913, 695B.1914, 695B.1919, 695B.19197, 695B.1924,
+17 695B.1925, 695B.1942, 695C.1696, 695C.1699, 695C.1713,
+18 695C.1735, 695C.1737, 695C.1743, 695C.1745, 695C.1751,
+19 695G.170, 695G.1705, 695G.171, 695G.1714, 695G.1715,
+20 695G.1719 and 695G.177, any contract [for group, blanket or
+21 individual] or policy of health insurance [or any contract by a
+22 nonprofit hospital, medical or dental service corporation or
+23 organization for dental care] issued by a health carrier which
+24 provides for payment of a certain part of medical or dental care may
+25 require the insured [or member] to obtain prior authorization for that
+26 care from the [insurer or organization. The insurer or organization]
+27 health carrier in a manner consistent with this section and
+28 sections 2 to 8, inclusive, of this act.
+29 2. A health carrier that requires an insured to obtain prior
+30 authorization shall:
+31 (a) File its procedure for obtaining approval of care pursuant to
+32 this section for approval by the Commissioner . [; and]
+33 (b) Unless a shorter time period is prescribed by a specific
+34 statute, including, without limitation, NRS 689A.0446, 689B.0361,
+35 689C.1688, 695A.1859, 695B.19087, 695C.16932 and 695G.1703,
+36 [respond to] and except as otherwise provided by paragraph (c),
+37 approve or make an adverse determination on any request for
+38 approval by the insured [or member] pursuant to this section [within
+39 20 days after it receives the request.] and notify the insured and his
+40 or her provider of health care of the approval or adverse
+41 determination:
+42 (1) For non-urgent medical or dental care, within 5 days
+43 after the request is received; or
+44 (2) For urgent health care, within 48 hours after the
+45 request is received.
+-
+*AB295*
+
+– 7 –
+1 (c) If the health carrier requires from an insured or a provider
+2 of health care additional, medically relevant information or
+3 documentation in order to adequately evaluate a request for prior
+4 authorization:
+5 (1) Notify the insured and the provider of health care who
+6 submitted the request within the applicable amount of time
+7 described in paragraph (b) that additional information is required
+8 to evaluate the request;
+9 (2) Include within the notification sent pursuant to
+10 subparagraph (1) a description, with reasonable specificity, of the
+11 information that is required by the health carrier; and
+12 (3) Approve or make an adverse determination on the
+13 request:
+14 (I) For non-urgent medical or dental care, within 5 days
+15 after receiving the information.
+16 (II) For urgent health care, within 48 hours after
+17 receiving the information.
+18 [2.] 3. The procedure for prior authorization may not
+19 discriminate among persons licensed to provide the covered care.
+20 4. If a health carrier makes an adverse determination on a
+21 request for prior authorization, the health carrier shall
+22 immediately transmit to the insured to which the request pertains
+23 and his or her provider of health care a written notice that
+24 contains:
+25 (a) A specific description of all reasons that the health carrier
+26 made the adverse determination;
+27 (b) The specific clinical criteria and medical evidence that the
+28 health carrier relied upon to make the adverse determination; and
+29 (c) A description of any mechanism available for the insured
+30 to appeal or challenge the adverse determination, which may
+31 include, without limitation:
+32 (1) An internal appeals process established by the health
+33 carrier, if applicable; or
+34 (2) Options for independent or external review, which may
+35 include, without limitation, the external review process established
+36 pursuant to NRS 695G.241 to 695G.310, inclusive, where
+37 applicable.
+38 5. Except as otherwise provided in this subsection, if a health
+39 carrier approves a request for prior authorization for a continuous
+40 course of treatment that relates to a chronic or long-term
+41 condition which is specifically identified in the request for prior
+42 authorization, the approval remains valid for 12 months from the
+43 date on which the health carrier approved the request. A health
+44 carrier may require additional prior authorization for medical or
+45 dental care that represents a substantial deviation from the course
+-
+*AB295*
+
+– 8 –
+1 of treatment indicated in the previous request for prior
+2 authorization that was approved by the health carrier.
+3 6. As used in this section:
+4 (a) “Clinical criteria” means any written screening procedure,
+5 decision abstract, clinical protocol or practice guideline used by a
+6 health carrier to determine the necessity and appropriateness of
+7 medical or dental care.
+8 (b) “Provider of health care” has the meaning ascribed to it in
+9 NRS 695G.070.
+10 (c) “Urgent health care” means health care that, in the
+11 opinion of a provider of health care with knowledge of the medical
+12 condition of a patient, if not rendered to the patient within 48
+13 hours could:
+14 (1) Seriously jeopardize the life or health of the patient or
+15 the ability of the patient to regain maximum function; or
+16 (2) Subject the patient to severe pain that cannot be
+17 adequately managed without receiving such care.
+18 Sec. 10. NRS 695B.320 is hereby amended to read as follows:
+19 695B.320 1. Nonprofit hospital and medical or dental service
+20 corporations are subject to the provisions of this chapter, and to the
+21 provisions of chapters 679A and 679B of NRS, subsections 2, 4, 17,
+22 18 and 30 of NRS 680B.010, NRS 680B.025 to 680B.060,
+23 inclusive, chapter 681B of NRS, NRS 686A.010 to 686A.315,
+24 inclusive, 686B.010 to 686B.175, inclusive, 687B.010 to
+25 687B.040, inclusive, 687B.070 to 687B.140, inclusive, 687B.150,
+26 687B.160, 687B.180, 687B.200 to 687B.255, inclusive, and
+27 sections 2 to 8, inclusive, of this act, 687B.270, 687B.310 to
+28 687B.380, inclusive, 687B.410, 687B.420, 687B.430, 687B.500 and
+29 chapters 692B, 692C, 693A and 696B of NRS, to the extent
+30 applicable and not in conflict with the express provisions of this
+31 chapter.
+32 2. For the purposes of this section and the provisions set forth
+33 in subsection 1, a nonprofit hospital and medical or dental service
+34 corporation is included in the meaning of the term “insurer.”
+35 Sec. 11. NRS 232.320 is hereby amended to read as follows:
+36 232.320 1. The Director:
+37 (a) Shall appoint, with the consent of the Governor,
+38 administrators of the divisions of the Department, who are
+39 respectively designated as follows:
+40 (1) The Administrator of the Aging and Disability Services
+41 Division;
+42 (2) The Administrator of the Division of Welfare and
+43 Supportive Services;
+44 (3) The Administrator of the Division of Child and Family
+45 Services;
+-
+*AB295*
+
+– 9 –
+1 (4) The Administrator of the Division of Health Care
+2 Financing and Policy; and
+3 (5) The Administrator of the Division of Public and
+4 Behavioral Health.
+5 (b) Shall administer, through the divisions of the Department,
+6 the provisions of chapters 63, 424, 425, 427A, 432A to 442,
+7 inclusive, 446 to 450, inclusive, 458A and 656A of NRS, NRS
+8 127.220 to 127.310, inclusive, 422.001 to 422.410, inclusive, and
+9 sections 15 to 19, inclusive, of this act, 422.580, 432.010 to
+10 432.133, inclusive, 432B.6201 to 432B.626, inclusive, 444.002 to
+11 444.430, inclusive, and 445A.010 to 445A.055, inclusive, and all
+12 other provisions of law relating to the functions of the divisions of
+13 the Department, but is not responsible for the clinical activities of
+14 the Division of Public and Behavioral Health or the professional line
+15 activities of the other divisions.
+16 (c) Shall administer any state program for persons with
+17 developmental disabilities established pursuant to the
+18 Developmental Disabilities Assistance and Bill of Rights Act of
+19 2000, 42 U.S.C. §§ 15001 et seq.
+20 (d) Shall, after considering advice from agencies of local
+21 governments and nonprofit organizations which provide social
+22 services, adopt a master plan for the provision of human services in
+23 this State. The Director shall revise the plan biennially and deliver a
+24 copy of the plan to the Governor and the Legislature at the
+25 beginning of each regular session. The plan must:
+26 (1) Identify and assess the plans and programs of the
+27 Department for the provision of human services, and any
+28 duplication of those services by federal, state and local agencies;
+29 (2) Set forth priorities for the provision of those services;
+30 (3) Provide for communication and the coordination of those
+31 services among nonprofit organizations, agencies of local
+32 government, the State and the Federal Government;
+33 (4) Identify the sources of funding for services provided by
+34 the Department and the allocation of that funding;
+35 (5) Set forth sufficient information to assist the Department
+36 in providing those services and in the planning and budgeting for the
+37 future provision of those services; and
+38 (6) Contain any other information necessary for the
+39 Department to communicate effectively with the Federal
+40 Government concerning demographic trends, formulas for the
+41 distribution of federal money and any need for the modification of
+42 programs administered by the Department.
+43 (e) May, by regulation, require nonprofit organizations and state
+44 and local governmental agencies to provide information regarding
+45 the programs of those organizations and agencies, excluding
+-
+*AB295*
+
+– 10 –
+1 detailed information relating to their budgets and payrolls, which the
+2 Director deems necessary for the performance of the duties imposed
+3 upon him or her pursuant to this section.
+4 (f) Has such other powers and duties as are provided by law.
+5 2. Notwithstanding any other provision of law, the Director, or
+6 the Director’s designee, is responsible for appointing and removing
+7 subordinate officers and employees of the Department.
+8 Sec. 12. NRS 287.010 is hereby amended to read as follows:
+9 287.010 1. The governing body of any county, school
+10 district, municipal corporation, political subdivision, public
+11 corporation or other local governmental agency of the State of
+12 Nevada may:
+13 (a) Adopt and carry into effect a system of group life, accident
+14 or health insurance, or any combination thereof, for the benefit of its
+15 officers and employees, and the dependents of officers and
+16 employees who elect to accept the insurance and who, where
+17 necessary, have authorized the governing body to make deductions
+18 from their compensation for the payment of premiums on the
+19 insurance.
+20 (b) Purchase group policies of life, accident or health insurance,
+21 or any combination thereof, for the benefit of such officers and
+22 employees, and the dependents of such officers and employees, as
+23 have authorized the purchase, from insurance companies authorized
+24 to transact the business of such insurance in the State of Nevada,
+25 and, where necessary, deduct from the compensation of officers and
+26 employees the premiums upon insurance and pay the deductions
+27 upon the premiums.
+28 (c) Provide group life, accident or health coverage through a
+29 self-insurance reserve fund and, where necessary, deduct
+30 contributions to the maintenance of the fund from the compensation
+31 of officers and employees and pay the deductions into the fund. The
+32 money accumulated for this purpose through deductions from the
+33 compensation of officers and employees and contributions of the
+34 governing body must be maintained as an internal service fund as
+35 defined by NRS 354.543. The money must be deposited in a state or
+36 national bank or credit union authorized to transact business in the
+37 State of Nevada. Any independent administrator of a fund created
+38 under this section is subject to the licensing requirements of chapter
+39 683A of NRS, and must be a resident of this State. Any contract
+40 with an independent administrator must be approved by the
+41 Commissioner of Insurance as to the reasonableness of
+42 administrative charges in relation to contributions collected and
+43 benefits provided. The provisions of NRS 439.581 to 439.597,
+44 inclusive, 686A.135, paragraphs (b) and (c) of subsection 2 and
+45 subsections 4 and 5 of NRS 687B.225, 687B.352, 687B.408,
+-
+*AB295*
+
+– 11 –
+1 687B.692, 687B.723, 687B.725, 687B.805, 689B.030 to
+2 689B.0317, inclusive, paragraphs (b) and (c) of subsection 1 of NRS
+3 689B.0319, subsections 2, 4, 6 and 7 of NRS 689B.0319, 689B.033
+4 to 689B.0369, inclusive, 689B.0375 to 689B.050, inclusive,
+5 689B.0675, 689B.265, 689B.287 and 689B.500 and section 6 of
+6 this act apply to coverage provided pursuant to this paragraph,
+7 except that the provisions of NRS 689B.0378, 689B.03785 and
+8 689B.500 only apply to coverage for active officers and employees
+9 of the governing body, or the dependents of such officers and
+10 employees.
+11 (d) Defray part or all of the cost of maintenance of a self-
+12 insurance fund or of the premiums upon insurance. The money for
+13 contributions must be budgeted for in accordance with the laws
+14 governing the county, school district, municipal corporation,
+15 political subdivision, public corporation or other local governmental
+16 agency of the State of Nevada.
+17 2. If a school district offers group insurance to its officers and
+18 employees pursuant to this section, members of the board of trustees
+19 of the school district must not be excluded from participating in the
+20 group insurance. If the amount of the deductions from compensation
+21 required to pay for the group insurance exceeds the compensation to
+22 which a trustee is entitled, the difference must be paid by the trustee.
+23 3. In any county in which a legal services organization exists,
+24 the governing body of the county, or of any school district,
+25 municipal corporation, political subdivision, public corporation or
+26 other local governmental agency of the State of Nevada in the
+27 county, may enter into a contract with the legal services
+28 organization pursuant to which the officers and employees of the
+29 legal services organization, and the dependents of those officers and
+30 employees, are eligible for any life, accident or health insurance
+31 provided pursuant to this section to the officers and employees, and
+32 the dependents of the officers and employees, of the county, school
+33 district, municipal corporation, political subdivision, public
+34 corporation or other local governmental agency.
+35 4. If a contract is entered into pursuant to subsection 3, the
+36 officers and employees of the legal services organization:
+37 (a) Shall be deemed, solely for the purposes of this section, to be
+38 officers and employees of the county, school district, municipal
+39 corporation, political subdivision, public corporation or other local
+40 governmental agency with which the legal services organization has
+41 contracted; and
+42 (b) Must be required by the contract to pay the premiums or
+43 contributions for all insurance which they elect to accept or of which
+44 they authorize the purchase.
+45 5. A contract that is entered into pursuant to subsection 3:
+-
+*AB295*
+
+– 12 –
+1 (a) Must be submitted to the Commissioner of Insurance for
+2 approval not less than 30 days before the date on which the contract
+3 is to become effective.
+4 (b) Does not become effective unless approved by the
+5 Commissioner.
+6 (c) Shall be deemed to be approved if not disapproved by the
+7 Commissioner within 30 days after its submission.
+8 6. As used in this section, “legal services organization” means
+9 an organization that operates a program for legal aid and receives
+10 money pursuant to NRS 19.031.
+11 Sec. 13. NRS 287.04335 is hereby amended to read as
+12 follows:
+13 287.04335 If the Board provides health insurance through a
+14 plan of self-insurance, it shall comply with the provisions of NRS
+15 439.581 to 439.597, inclusive, 686A.135, paragraphs (b) and (c) of
+16 subsection 2 and subsections 4 and 5 of NRS 687B.225, 687B.352,
+17 687B.409, 687B.692, 687B.723, 687B.725, 687B.805, 689B.0353,
+18 689B.255, 695C.1723, 695G.150, 695G.155, 695G.160, 695G.162,
+19 695G.1635, 695G.164, 695G.1645, 695G.1665, 695G.167,
+20 695G.1675, 695G.170 to 695G.1712, inclusive, 695G.1714 to
+21 695G.174, inclusive, 695G.176, 695G.177, 695G.200 to 695G.230,
+22 inclusive, 695G.241 to 695G.310, inclusive, 695G.405 and
+23 695G.415, and section 6 of this act in the same manner as an
+24 insurer that is licensed pursuant to title 57 of NRS is required to
+25 comply with those provisions.
+26 Sec. 14. Chapter 422 of NRS is hereby amended by adding
+27 thereto the provisions set forth as sections 15 to 19, inclusive, of this
+28 act.
+29 Sec. 15. 1. The provisions of sections 16 to 19, inclusive, of
+30 this act and any policies developed pursuant thereto do not apply
+31 to the delivery of services to recipients of Medicaid or the
+32 Children’s Health Insurance Program through managed care in
+33 accordance with NRS 422.273.
+34 2. A health maintenance organization or other managed care
+35 organization that enters into a contract with the Department or the
+36 Division pursuant to NRS 422.273 to provide health care services
+37 to recipients of Medicaid under the State Plan for Medicaid or the
+38 Children’s Health Insurance Program shall comply with NRS
+39 687B.225 and sections 2 to 8, inclusive, of this act.
+40 Sec. 16. As used in sections 15 to 19, inclusive, of this act,
+41 unless the context otherwise requires, “adverse determination”
+42 means a determination by the Department that an admission,
+43 availability of care, continued stay or other medical care or dental
+44 care that is a covered benefit has been reviewed and, based upon
+45 the information provided, does not meet the Department’s
+-
+*AB295*
+
+– 13 –
+1 requirements for medical necessity, appropriateness, health care
+2 setting, level of care or effectiveness, and the requested care or
+3 service or payment for the care or service is therefore denied,
+4 reduced or terminated.
+5 Sec. 17. 1. Unless a shorter time period is prescribed by a
+6 specific statute, and except as otherwise provided in subsection 2,
+7 the Department, with respect to Medicaid and the Children’s
+8 Health Insurance Program, shall approve or make an adverse
+9 determination on a request for prior authorization submitted by or
+10 on behalf of a recipient of Medicaid or the Children’s Health
+11 Insurance Program, as applicable, and notify the recipient and his
+12 or her provider of health care of the approval or adverse
+13 determination:
+14 (a) For non-urgent medical or dental care, within 5 days after
+15 receiving the request.
+16 (b) For urgent health care, within 48 hours after receiving the
+17 request.
+18 2. If the Department requires from a recipient or a provider
+19 of health care additional, medically relevant information or
+20 documentation in order to adequately evaluate a request for prior
+21 authorization, the Department shall:
+22 (a) Notify the recipient and the provider of health care who
+23 submitted the request within the applicable amount of time
+24 described in subsection 1 that additional information is required to
+25 evaluate the request;
+26 (b) Include within the notification sent pursuant to paragraph
+27 (a) a description, with reasonable specificity, of the information
+28 that is required by the Department; and
+29 (c) Approve or make an adverse determination on the request:
+30 (1) For non-urgent medical or dental care, within 5 days
+31 after receiving the information.
+32 (2) For urgent health care, within 48 hours after receiving
+33 the information.
+34 3. If the Department makes an adverse determination on a
+35 request for prior authorization, the Department shall immediately
+36 transmit to the recipient of Medicaid or insurance provided
+37 pursuant to the Children’s Health Insurance Program, as
+38 applicable, to which the request pertains a written notice that
+39 contains:
+40 (a) A specific description of all reasons that the Department
+41 made the adverse determination;
+42 (b) The specific clinical criteria and medical evidence that the
+43 Department relied upon to make the adverse determination; and
+44 (c) A description of any mechanism available for the recipient
+45 to appeal or challenge the adverse determination.
+-
+*AB295*
+
+– 14 –
+1 4. Except as otherwise provided in this subsection, if the
+2 Department approves a request for prior authorization for a
+3 continuous course of treatment that relates to a chronic or long-
+4 term condition which is specifically identified in the request for
+5 prior authorization, the approval remains valid for 12 months
+6 from the date on which the Department approved the request. The
+7 Department may require additional prior authorization for
+8 medical or dental care that represents a substantial deviation from
+9 the course of treatment indicated in the previous request for prior
+10 authorization that was approved by the Department.
+11 5. As used in this section:
+12 (a) “Clinical criteria” means any written screening procedure,
+13 decision abstract, clinical protocol or practice guideline used by
+14 the Department to determine the necessity and appropriateness of
+15 medical or dental care.
+16 (b) “Provider of health care” has the meaning ascribed to it in
+17 NRS 695G.070.
+18 (c) “Urgent health care” means health care that, in the
+19 opinion of a provider of health care with knowledge of the medical
+20 condition of a patient, if not rendered to the patient within 48
+21 hours could:
+22 (1) Seriously jeopardize the life or health of the patient or
+23 the ability of the patient to regain maximum function; or
+24 (2) Subject the patient to severe pain that cannot be
+25 adequately managed without receiving such care.
+26 Sec. 18. 1. If the Department utilizes an artificial
+27 intelligence system or automated decision tool to process requests
+28 for prior authorization, the Department shall transmit to each
+29 recipient of Medicaid or insurance pursuant to the Children’s
+30 Health Insurance Program, in writing:
+31 (a) A statement that the Department utilizes an artificial
+32 intelligence system or automated decision tool to process requests
+33 for prior authorization;
+34 (b) A general description of how the artificial intelligence
+35 system or automated decision tool works; and
+36 (c) A description of the specific types of information or data
+37 utilized by the artificial intelligence system or automated decision
+38 tool which enables the system or tool to generate an outcome.
+39 2. Except as otherwise provided in subsection 3, the
+40 Department shall not utilize or employ an artificial intelligence
+41 system or automated decision tool to:
+42 (a) Make an adverse determination on a request for prior
+43 authorization; or
+44 (b) Terminate, reduce or modify coverage for medical or
+45 dental care that was previously approved by the Department.
+-
+*AB295*
+
+– 15 –
+1 3. The Department may utilize or employ an artificial
+2 intelligence system or automated decision tool for the purposes
+3 described in subsection 2 if, when the artificial intelligence system
+4 or automated decision tool generates an outcome on a request for
+5 prior authorization described in subsection 2, the request for prior
+6 authorization is independently reviewed by a physician or, for a
+7 request for dental care, a dentist, who:
+8 (a) Holds an unrestricted license to practice medicine or
+9 dentistry, as applicable, in any state or territory of the United
+10 States;
+11 (b) Holds a current certification by a specialty board of the
+12 American Board of Medical Specialties or, if a dentist, a certifying
+13 board approved by the Commission on Dental Accreditation of the
+14 American Dental Association, in the area or areas appropriate to
+15 the subject of the request; and
+16 (c) Possesses the education, training and expertise to evaluate
+17 the specific clinical issues involved in the request.
+18 4. As used in this section:
+19 (a) “Artificial intelligence system” means a machine-based
+20 system that can, for a given set of human-defined objectives, make
+21 predictions, recommendations or decisions influencing real or
+22 virtual environments.
+23 (b) “Automated decision tool” means an automated or
+24 computerized system that is specifically developed or modified to
+25 make, or to be a controlling factor in making, consequential
+26 decisions.
+27 Sec. 19. 1. On or before March 1 of each calendar year, the
+28 Department shall compile and publish on an Internet website
+29 maintained by the Department a report containing the following
+30 information for the immediately preceding calendar year:
+31 (a) The total number of requests for prior authorization for
+32 care provided to recipients of Medicaid and recipients of
+33 insurance pursuant to the Children’s Health Insurance Program
+34 that were received by the Department.
+35 (b) The average time that elapsed between the Department
+36 receiving a request described in paragraph (a) and the Department
+37 approving or making an adverse determination on the request.
+38 (c) The percentage and total number of requests for prior
+39 authorization described in paragraph (a) that were approved upon
+40 initial review.
+41 (d) The percentage and total number of requests for prior
+42 authorization described in paragraph (a) that resulted in an
+43 adverse determination upon initial review.
+44 (e) The percentage and total number of the adverse
+45 determinations described in paragraph (d) that were appealed.
+-
+*AB295*
+
+– 16 –
+1 (f) The percentage and total number of appeals described in
+2 paragraph (e) that resulted in the reversal of an adverse
+3 determination.
+4 2. The report compiled pursuant to subsection 1 must present
+5 the information described in that subsection:
+6 (a) In aggregated form; and
+7 (b) Disaggregated by the types of health or dental care at issue
+8 in the requests for prior authorization, which may include, without
+9 limitation, mental health, chronic care, preventive services and
+10 dental care.
+11 Sec. 20. NRS 422.403 is hereby amended to read as follows:
+12 422.403 1. The Department shall, by regulation, establish and
+13 manage the use by the Medicaid program of step therapy and prior
+14 authorization for prescription drugs.
+15 2. The Drug Use Review Board shall:
+16 (a) Advise the Department concerning the use by the Medicaid
+17 program of step therapy and prior authorization for prescription
+18 drugs;
+19 (b) Develop step therapy protocols and prior authorization
+20 policies and procedures in a manner consistent with sections 16 to
+21 19, inclusive, of this act for use by the Medicaid program for
+22 prescription drugs; and
+23 (c) Review and approve, based on clinical evidence and best
+24 clinical practice guidelines and without consideration of the cost of
+25 the prescription drugs being considered, step therapy protocols used
+26 by the Medicaid program for prescription drugs.
+27 3. The step therapy protocol established pursuant to this section
+28 must not apply to a drug approved by the Food and Drug
+29 Administration that is prescribed to treat a psychiatric condition of a
+30 recipient of Medicaid, if:
+31 (a) The drug has been approved by the Food and Drug
+32 Administration with indications for the psychiatric condition of the
+33 insured or the use of the drug to treat that psychiatric condition is
+34 otherwise supported by medical or scientific evidence;
+35 (b) The drug is prescribed by:
+36 (1) A psychiatrist;
+37 (2) A physician assistant under the supervision of a
+38 psychiatrist;
+39 (3) An advanced practice registered nurse who has the
+40 psychiatric training and experience prescribed by the State Board of
+41 Nursing pursuant to NRS 632.120; or
+42 (4) A primary care provider that is providing care to an
+43 insured in consultation with a practitioner listed in subparagraph (1),
+44 (2) or (3), if the closest practitioner listed in subparagraph (1), (2) or
+-
+*AB295*
+
+– 17 –
+1 (3) who participates in Medicaid is located 60 miles or more from
+2 the residence of the recipient; and
+3 (c) The practitioner listed in paragraph (b) who prescribed the
+4 drug knows, based on the medical history of the recipient, or
+5 reasonably expects each alternative drug that is required to be used
+6 earlier in the step therapy protocol to be ineffective at treating the
+7 psychiatric condition.
+8 4. The Department shall not require the Drug Use Review
+9 Board to develop, review or approve prior authorization policies or
+10 procedures necessary for the operation of the list of preferred
+11 prescription drugs developed pursuant to NRS 422.4025.
+12 5. The Department shall accept recommendations from the
+13 Drug Use Review Board as the basis for developing or revising step
+14 therapy protocols and prior authorization policies and procedures
+15 used by the Medicaid program for prescription drugs.
+16 6. As used in this section:
+17 (a) “Medical or scientific evidence” has the meaning ascribed to
+18 it in NRS 695G.053.
+19 (b) “Step therapy protocol” means a procedure that requires a
+20 recipient of Medicaid to use a prescription drug or sequence of
+21 prescription drugs other than a drug that a practitioner recommends
+22 for treatment of a psychiatric condition of the recipient before
+23 Medicaid provides coverage for the recommended drug.
+24 Sec. 21. NRS 608.1555 is hereby amended to read as follows:
+25 608.1555 Any employer who provides benefits for health care
+26 to his or her employees shall provide the same benefits and pay
+27 providers of health care in the same manner as a policy of insurance
+28 pursuant to chapters 689A and 689B of NRS, including, without
+29 limitation, as required by paragraphs (b) and (c) of subsection 2
+30 and subsections 4 and 5 of NRS 687B.225, NRS 687B.409,
+31 687B.723 and 687B.725 [.] and section 6 of this act.
+32 Sec. 22. 1. The amendatory provisions of this act do not
+33 apply to a request for prior authorization submitted:
+34 (a) Under any contract or policy of health insurance issued by a
+35 health carrier before January 1, 2026, but apply to any request for
+36 prior authorization submitted under any renewal of such a contract
+37 or policy; or
+38 (b) To the Department of Health and Human Services before
+39 January 1, 2026, for dental or medical care provided to a recipient of
+40 Medicaid or insurance pursuant to the Children’s Health Insurance
+41 Program, as applicable.
+42 2. A health carrier must, in order to continue requiring prior
+43 authorization in contracts or policies of health insurance issued or
+44 renewed on or after January 1, 2026:
+-
+*AB295*
+
+– 18 –
+1 (a) Develop a procedure for obtaining prior authorization that
+2 complies with NRS 687B.225, as amended by section 9 of this act,
+3 and section 6 of this act; and
+4 (b) Obtain the approval of the Commissioner of Insurance
+5 pursuant to NRS 687B.225, as amended by section 9 of this act, for
+6 the procedure developed pursuant to paragraph (a).
+7 3. As used in this section, “health carrier” has the meaning
+8 ascribed to it in section 4 of this act.
+9 Sec. 23. The provisions of NRS 354.599 do not apply to any
+10 additional expenses of a local government that are related to the
+11 provisions of this act.
+12 Sec. 24. 1. This section and section 22 of this act become
+13 effective upon passage and approval.
+14 2. Sections 1 to 21, inclusive, and 23 of this act become
+15 effective:
+16 (a) Upon passage and approval for the purpose of adopting any
+17 regulations and performing any other preparatory administrative
+18 tasks that are necessary to carry out the provisions of this act; and
+19 (b) On January 1, 2026, for all other purposes.
+H
+-
+*AB295*
+
+[DELETED: BN.2AY I O S UK;B-MH  RNA2,2  p r t h i EE  NRALG) E F O O a p c r t t u o a i b h r t c a p o r r t p a p t i a a o c p f t i o c aE a i m r c f h a d c i c t r t a r f p a w 2 d o t i M a t C H I P t a m r i w ( f d a c a m a a d o a r f p p t t i S 9 a 1 a p t a f p a t h b a b t i f a]
+[DELETED: –S i u u M o t C H I P t o H a H S t p r f p i i r b a p o d a a wS a H S t c c i r t tS 8 o t b p p f i a i i f s v a a t C t aS o t D o H a H S t a t o l g t P E B P a t m c o t s t r o w s]
+[DELETED: –S 1  CS 2  A u i N 6 a s 2 t 8 o t a u t c o r tS 3  “ c a a o c c h c r f m nS 4  “ c h t m a t i iS 5  “S 6  1  I a h c u a a s o a a d t t p( A s t t h c u a a( A g d o h t a i( A2  E a o p i s 3 a h( M a a d o a r f p( T r o m c f m o3  A h c m u o e a a s o a d t f a p]
+[DELETED: –( H a u l t p m o a a i a s o t o t U( H a c c b a s b o t( P4  A( “ i s m a m r o d i r o( “ d t m a a o o t b a c f i m cS 7  1  O( T t n o r f p a f( T a r d i p ( a t h a o m a a d o t( T p a t n o r f p( T p a t n o r f p d i p ( t r i a( T p a t n o t a( T ( t r i t r o a a]
+[DELETED: –2  T( I( D p a w m i w l3  O D o H a H S a t o I s p t r s t s 1 f t c y o a I b t D o t C aS 8  1  T C i c w t a r t a n t c o t2  T C m d t t D o t t c t a o i t c o a3  I t p o N 6 o s 2 t 8 o t a t D s i n t o t p v a t t t4  I t C d a c a a h c h v p ( o ( o 2 o N 6 o s 7 o t a t5  A e f c b t d t q d w a v d i6  T h c i o t d t a o t c]
+[DELETED: –7  T8  T t m b i a a h c t i t h c f o m v oS 9  N6  1  E a o p i N 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 a 6 a c [ g b o o p o h i [ a c b a h m o d s c o f d c i b a h c w c i a m c w t s a2  A( F( U a s t p i p b a s o m a a d o a r f h p o h c o t a o a ( F ( F u h c w 4 h a t]
+[DELETED: –( I h c a m r i o ( N t r w t a a o t ( I w t n s p t ( A o m a a d o t  ( F  ( F u h c w 4 h a[ 3  T p f p a m n4  I f p a t h c s h o h p o h c a w n t( A( T( A a o c t a d w m ( A i a p e b t h ( O t N 6 t 6 i w5  E o t t r t a c o l]
+[DELETED: – t i i t p r f p6  A( “( “( “ h c m h c t i t o a p i n r t t p w 4 ( S ( S t p t s p t c bS 1  N6  1  N a 3 o N 6 N 6 t 6 c 6 o N N 6 t 6 6 t 6 i 6 t 6 t 6 i 6 6 6 t 6 i a 2 t 8 i o t a 6 6 t 6 6 6 a 6 o N t t e a n i c w t e p o t2  FS 1  N2  1  T( S a w t c o t G o t d o t D w a ( T ( T A o t D o W a ( T]
+[DELETED: – ( T A o t D o H C ( T A o t D o P a( S a t d p o c 6 4 4 4 4 t 4 4 t 4 i 4 a 6 o N N 1 t 1 i o t a 4 4 t i 4 4 i a( S a a s p f p w d e p t t D A a B o R A o( S a c a f a o l a n o w p s o t p t t G a t L a t ( I a a t p a p o t f t p o h s a a ( S ( P a n o a o l ( I ( S ( C a o i n f t t c e w t F c d t f f t( M p o t o a a e]
+[DELETED: –( H2  NS 1  N2  1  T g b o a c s m c p s p o o l g a o t S o( A a e a t d o o a w e t a t i a w w t c f t p o p o t( P a c t f t b o s o a t p u i a p t d( P g l a o h c t a r f a w n d o o a e a c o t a i a m b a b t o I a t t r o c i r t c c a p T p o N 4 t 4 4 a 5 o N 6 6 6]
+[DELETED: – 6 6 6 6 t 6 i 6 t 6 i 6 6 a 6 a s 6 o a a t c p p t t p t t p o N 6 6 a t g b o t d o s o a( D p o a o t c o m o a s m b b f i a w t l t c s d m c2  I3  I g b o t c o o a s d c p p o l g a o t S o N i t m e i a c w t l s a e f a l a o h i m c p s p4  I a c i e i p t s 3 t( S a e o t c s d m( M b r b t c t p t p o5  A]
+[DELETED: –( M b s t t C o I f( D n b e u a b t( S6  AS 1  N 2 i h a t r a2  I t B p h i t a 6 6 6 6 6 t 6 i 6 t 6 t 6 i 6 a a s 6 o t a i t s m a aS 1  C 4 o N i h a b aS 1  1  T t d o s t r o M o t2  A H I P s c w NS 1  A t c o r “ d a d b t D t a a i p d n m t D]
+[DELETED: – o p f t c o s i t dS 1  1  U D w r t M a t C I P s a o m a a b o a r o M o t C H h p o h c o t a o a( F( F2  I h c a m r i o( N t r a t p o h c w t r w t a a o t( I( A ( F ( F3  I t D a a d o a t t r o M o i p t t C H I P a t w t r p a w n t( A( T( A]
+[DELETED: –4  E a o p i t s i t a a r f p a f a a t a r v f 1 m m r a p a f5  A( “( “( “ h c m h c t i t o a p i n r t t p w 4 ( S ( S t p t s p t c bS 1  1  I t D u a a p a t D s t t e o M o i p t t C( A s t t D u a a( A g d o h t a i( A2  E a o p i s 3 t s n u o e a a i( M a a d o a r f p( T r o m c f m o]
+[DELETED: –3  T D m u o e a a s o a d t f t p( H a u l t p m o a a i a s o t o t U( H a c c b a s b o t( P4  A( “ i s m a m r o d i r o( “ d t m a a o o t b a c f i m cS 1  1  O s c a p o a I w( T t n o r f p a f p t r o M a r o( T a t t e b t D( T p a t n o r f p( T p a t n o r f p d i p ( t r i a( T p a t n o t a]
+[DELETED: –( T d ( t r i t r o a a2  T( I( D m h c c p s aS 2  N4  1  T2  T( A o s t a p a f p( D s t p a p a i o t a f u b t M p f( R a a b o c e a b3  T n a t a d a b t F a D( T d h b a b t F a D( T ( A ( A p a u t s o a ( A a p r n w h t ( A p c p t i p c t a]
+[DELETED: –( T k b o t m h o t r o4  T D s n r t D U R n f t o o t l o p5  T D s a r f t p a p a p a p6  A( “( “ o M t u a p d o s o t o a p c o t r bS 2  N6  A h o h e s p t s b a p t c 6 a 6 o N i w s 4 a 5 o N 6 N 6S 2  1  T a p o t a d n( U( T t D o H a H S b2  A]
+[DELETED: –( D a p f o p a t( O t a o t C o I3  A u i t s “ c h t mS 2  T e o a l g t a r t tS 2  1  T s a s 2 o t a b2  S 1 t 2 i a 2 o t a b( U a p a o p a( O]
