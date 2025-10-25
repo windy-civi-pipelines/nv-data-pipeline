@@ -1,0 +1,884 @@
+2025 Session (83rd) A SB63 R1 973
+Amendment No. 973
+Assembly Amendment to Senate Bill No. 63 First Reprint (BDR 52-505)
+Proposed by: Assembly Committee on Commerce and Labor
+Amends: Summary: Yes Title: Yes Preamble: No Joint Sponsorship: No Digest: Yes
+ASSEMBLY ACTION Initial and Date | SENATE ACTION Initial and Date
+Adopted Lost | Adopted Lost
+Concurred In Not | Concurred In Not
+Receded Not | Receded Not
+EXPLANATION: Matter in (1) blue bold italics is new language in the original
+bill; (2) variations of green bold underlining is language proposed to be added in
+this amendment; (3) red strikethrough is deleted language in the original bill; (4)
+purple double strikethrough is language proposed to be deleted in this amendment;
+(5) orange double underlining is deleted language in the original bill proposed to be
+retained in this amendment.
+-
+CCP/EWR Date: 6/2/2025
+S.B. No. 63—Revises provisions relating to the use of certain online products and
+services by minors and children. (BDR 52-505)
+*A_SB63_R1_973*
+Page 1 of 18
+
+Assembly Amendment No. 973 to Senate Bill No. 63 First Reprint Page 3
+SENATE BILL NO. 63–COMMITTEE ON COMMERCE AND LABOR
+(ON BEHALF OF THE ATTORNEY GENERAL)
+PREFILED NOVEMBER 20, 2024
+_______________
+Referred to Committee on Commerce and Labor
+SUMMARY—Revises provisions relating to [the use of certain online products and
+services by minors and children.] the processing of certain
+data. (BDR 52-505)
+FISCAL NOTE: Effect on Local Government: Increases or Newly Provides for
+Term of Imprisonment in County or City Jail or Detention
+Facility.
+Effect on the State: Yes.
+~
+EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+AN ACT relating to the Internet; [prohibiting the use of the personal information of
+a minor user in this State in an algorithmic recommendation system;
+requiring covered digital platforms to disable certain features on the
+account of a minor user in this State upon the request of the parent or
+legal guardian of the minor user; requiring covered digital platforms to
+establish certain safeguards; restricting the times during which a
+covered digital platform may deliver notifications to a minor user in
+this State in certain circumstances;] establishing certain
+requirements relating to de-identified data; prohibiting controllers
+of online services, products or features from processing the personal
+data of children for certain purposes; establishing requirements for the
+collection and processing by controllers of certain types of data
+belonging to children; requiring controllers to conduct certain
+assessments; authorizing certain civil enforcement; providing
+penalties; and providing other matters properly relating thereto.
+Legislative Counsel’s Digest:
+1 [Sections 2-21 of this bill establish provisions relating to the use of covered digital
+2 platforms by minors who reside in this State. Section 4.5: (1) defines “covered digital
+3 platform” to refer to certain online applications, Internet websites and other online products,
+4 goods and services on which users may create, share and view user-generated content and
+5 interact with other users; and (2) excludes from that definition certain online applications,
+6 Internet websites and other online products, goods and services that are used primarily for
+7 other purposes. Sections 4.1, 4.3 and 4.7-11 define other certain terms, and section 3
+8 establishes the applicability of those definitions to sections 2-21. Section 12 provides that the
+9 provisions of sections 2-21 do not apply to: (1) users of covered digital platforms who reside
+
+Assembly Amendment No. 973 to Senate Bill No. 63 First Reprint Page 4
+10 outside of this State; or (2) covered digital platforms that do not offer services to users who
+11 are located in this State.
+12 Section 18 prohibits a covered digital platform from using the personal information of a
+13 minor user in an algorithmic recommendation system, except to prevent the covered digital
+14 platform from displaying or recommending to the minor user content or advertisements
+15 relating to certain prohibited products or services.
+16 Section 19 requires a social media platform to, if requested by the parent or legal
+17 guardian of a minor user, disable on the account of a minor user one or more of the following
+18 features: (1) infinite scrolling; (2) the display of metrics, icons or emoticons which indicate
+19 certain interaction with the minor’s content; (3) auto-play video; and (4) livestreaming.
+20 Section 20 requires a covered digital platform to either: (1) establish reasonable safeguards to
+21 limit the amount of time that minor users spend using the platform each day and the hours
+22 during which notifications are sent to minor users; or (2) refrain from sending notifications to
+23 a minor user during certain times of the day, which are typically reserved for sleep or for
+24 school. Section 20 also requires a covered digital platform to refrain from sending such
+25 notifications to a minor user during those times if requested by the parent or legal guardian of
+26 the minor user.]
+27 The federal Children’s Online Privacy Protection Act establishes certain requirements
+28 relating to the collection, use and disclosure of the personal information of children on the
+29 Internet. (15 U.S.C. §§ 6501 et seq.) Existing federal regulations adopted pursuant to that Act
+30 require certain operators of Internet websites to: (1) establish and maintain reasonable
+31 procedures to protect the confidentiality, security and integrity of personal information
+32 collected from children; and (2) obtain verifiable parental consent before the operator collects,
+33 uses or discloses any personal information of a child. (16 C.F.R. §§ 312.5, 312.8) Sections 24-
+34 35 of this bill enact certain additional requirements relating to the collection and processing of
+35 personal data collected from children on the Internet by controllers. Section 27 defines
+36 “controller” to mean any person who: (1) operates or provides any online service, product or
+37 feature targeted to persons in this State; and (2) determines the purpose and means of
+38 processing personal data. Sections [25, 26] 25-26 and [28-31] 28-31.9 define certain other
+39 terms, and section 24 establishes the applicability of those definitions to sections 24-35.
+40 Section 32 exempts certain entities , [and] types of data and activities from the requirements
+41 of sections 24-35.
+42 Section 32.5 requires a controller that is in possession of de-identified data to take
+43 certain actions with respect to such data, including committing to not re-identify such
+44 data and contractually obligating any person to which the controller provides such data
+45 to comply with the requirements of section 32.5.
+46 Section 33 requires a controller to, before processing personal data from a [person whom
+47 the controller knows to be a] known child [,] or collecting the precise geolocation data of
+48 such a child, obtain verifiable consent from the parent or legal guardian of the child in
+49 accordance with the federal Children’s Online Privacy Protection Act. Section 33 prohibits a
+50 controller from processing the personal data of a [person whom the controller knows to be a]
+51 known child for the purposes of: (1) providing targeted advertising to the child; (2) [selling]
+52 the sale of the personal data of the child; or (3) profiling the child [.] for certain purposes.
+53 Section 33 additionally prohibits a controller from processing the personal data or collecting
+54 the precise geolocation data of a known child unless such processing or collection, as
+55 applicable, is reasonably necessary and limited in duration to enable the controller to provide
+56 the online service, product or feature. Section 33 further requires a controller that collects the
+57 precise geolocation data of a known child to, during all times that the controller is collecting
+58 such data, provide an indication to the child that such collection is occurring. Finally, section
+59 33 requires a controller, if the controller seeks to collect the personal data of a known child
+60 with the intent to further process such data, to disclose to the child the purposes of such
+61 additional processing. Section 33 prohibits a controller from further processing such data for a
+62 purpose other than the purpose disclosed to the child, unless that purpose is necessary for
+63 carrying out and compatible with the purpose disclosed to the child.
+64 Section 34 requires a controller that offers any online service, product or feature that is
+65 directed at children to conduct and retain a data protection assessment for each processing
+66 activity in which the controller engages. Section 34 also requires, in certain circumstances, a
+67 controller to provide a data protection assessment prepared by the controller to the Attorney
+68 General. Sections 34 and 36 of this bill provide for the confidentiality of the information
+
+Assembly Amendment No. 973 to Senate Bill No. 63 First Reprint Page 5
+69 contained within a data protection assessment that is provided to the Attorney General.
+70 Section 34 also provides that, by disclosing to the Attorney General or the Office of the
+71 Attorney General a data protection assessment as required by section 34, a controller
+72 does not waive certain evidentiary privileges that would otherwise be applicable to the
+73 information contained within the data protection assessment.
+74 Existing law provides that a variety of actions constitute deceptive trade practices. (NRS
+75 100.180, 111.2397, 118A.275, 202.24935, 205.377, 226.600, 228.620, 370.695, 597.7642,
+76 597.818, 597.997, 603.170, 603A.260, 603A.550, 604B.910, 676A.770; chapter 598 of NRS)
+77 Existing law authorizes a court or the Director of the Department of Business and Industry to
+78 impose a civil penalty of not more than $25,000 for each violation upon a person who has
+79 engaged in a deceptive trade practice directed toward a minor. (NRS 598.09735) In addition,
+80 existing law provides that when the Commissioner of Consumer Affairs or the Director has
+81 cause to believe that a person has engaged or is engaging in any deceptive trade practice, the
+82 Commissioner or Director may request that the Attorney General represent him or her in
+83 instituting an appropriate legal proceeding, including an application for an injunction or
+84 temporary restraining order. (NRS 598.0979) Existing law requires a person who violates a
+85 court order or injunction resulting from a complaint brought by the Commissioner, the
+86 Director, the district attorney of any county of this State or the Attorney General to pay a civil
+87 penalty of not more than $10,000 for each violation. Furthermore, if a court finds that a person
+88 has willfully engaged in a deceptive trade practice, the person who committed the violation:
+89 (1) may be required to pay an additional civil penalty not more than $15,000 for each
+90 violation; and (2) is guilty of a felony or misdemeanor, depending on the value of the property
+91 or services lost as a result of the deceptive trade practice. (NRS 598.0999) [Section 21 makes
+92 a violation of sections 2-21 a deceptive trade practice.] Section 35 requires the Attorney
+93 General, upon determining that a controller has violated or is violating any provision of
+94 sections 24-35, to provide the controller written notice of the alleged violation. Section 35
+95 makes it a deceptive trade practice for a controller to fail to remedy a violation of sections 24-
+96 35 within 30 days after receiving written notice of the violation from the Attorney General.
+97 Section 35 grants the Attorney General the exclusive authority to enforce the
+98 requirements of sections 24-35 and further provides that those sections do not create a
+99 private right of action.
+THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN
+SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:
+1 Section 1. [Chapter 603 of NRS is hereby amended by adding thereto the
+2 provisions set forth as sections 2 to 21, inclusive, of this act.] (Deleted by
+3 amendment.)
+4 Sec. 2. [Sections 2 to 21, inclusive, of this act may be cited as the Nevada
+5 Youth Online Safety Act.] (Deleted by amendment.)
+6 Sec. 3. [As used in sections 2 to 21, inclusive, of this act, unless the context
+7 otherwise requires, the words and terms defined in sections 4 to 11, inclusive, of
+8 this act have the meanings ascribed to them in those sections.] (Deleted by
+9 amendment.)
+10 Sec. 4. (Deleted by amendment.)
+11 Sec. 4.1. [“Affiliate” means a person that directly, or indirectly through
+12 one or more intermediaries, is controlled by, or is under common control with, a
+13 specified person. As used in this section, “control,” “controlling,” “controlled
+14 by,” and “under common control with” has the meaning ascribed to it in NRS
+15 78.418.] (Deleted by amendment.)
+16 Sec. 4.3. [“Cloud storage” means a service that enables a person to have
+17 self-service and on-demand access to a network of configurable computer
+18 resources, including, without limitation, data storage services, analytics services
+
+Assembly Amendment No. 973 to Senate Bill No. 63 First Reprint Page 6
+1 and document sharing and editing services that are hosted on or backed up to the
+2 Internet.] (Deleted by amendment.)
+3 Sec. 4.5. [“Covered digital platform”:
+4 1. Means an online application, Internet website or other online product,
+5 good or service that:
+6 (a) Allows a person to:
+7 (1) Become a registered user; and
+8 (2) Establish an account, create a profile or otherwise create, share and
+9 view user-generated content; and
+10 (b) Serves as a medium for users to:
+11 (1) Interact with other users through accounts, profiles or other means;
+12 or
+13 (2) Interact with or otherwise view the content generated by other users
+14 of the platform.
+15 2. Does not include an online application, Internet website or other online
+16 product, good or service that:
+17 (a) Is used or intended for the exclusive or nearly exclusive purpose of:
+18 (1) Sending or receiving electronic mail;
+19 (2) Sending or receiving text messages;
+20 (3) Facilitating teleconferencing or videoconferencing that enables two
+21 or more persons who have provided their contact information to each other to
+22 communicate in real time through the transmission and reception of audio and
+23 video signals;
+24 (4) Facilitating cloud storage or cloud computing services, including,
+25 without limitation, a service that allows users to collaborate in real time to edit
+26 digital documents and photographs;
+27 (5) Providing to pupils enrolled in a public school in this State
+28 educational or instructional materials that have been approved by the
+29 Department of Education, the board of trustees of a school district or the
+30 governing body of a charter school or university school for profoundly gifted
+31 pupils, as applicable;
+32 (6) Enabling users to obtain technical support for a product or service;
+33 (7) Enabling users to search and apply for employment opportunities and
+34 engage in other career development activities;
+35 (8) Enabling users to shop and purchase goods and services online or to
+36 otherwise facilitate electronic commerce activities;
+37 (9) Distributing and facilitating the download of applications and
+38 programs developed by third party developers within a single application or
+39 service which enables users to search for and download such applications and
+40 programs;
+41 (10) Providing users with news, sports, entertainment or other content
+42 that:
+43 (I) Is specifically selected or curated by the platform for inclusion on
+44 the platform and is not generated by users of the platform; and
+45 (II) Is not provided with any chat or comment feature or other
+46 interactive functionality, unless such feature or functionality is incidental to,
+47 directly relates to or is dependent upon the content provided by the platform;
+48 (11) Enabling an employer to facilitate communication with and among
+49 employees of the employer using means that are provided or hosted by the
+50 employer; or
+51 (12) Facilitating telehealth or other forms of electronic communication
+52 between a patient and a provider of health care using means which are provided
+53 or hosted by the provider of health care.
+
+Assembly Amendment No. 973 to Senate Bill No. 63 First Reprint Page 7
+1 (b) Is operated or controlled by a nonprofit organization that is recognized as
+2 exempt under section 501(c) of the Internal Revenue Code.
+3 (c) Facilitates interactive gaming, as defined in NRS 463.016425.
+4 (d) Provides a social gaming product or service and is operated or controlled
+5 by a gaming licensee, an affiliate of a gaming licensee or a third party that
+6 provides online services on behalf of a gaming licensee or an affiliate of a
+7 gaming licensee.] (Deleted by amendment.)
+8 Sec. 4.7. [“Gaming licensee” has the meaning ascribed to “licensee” in
+9 NRS 463.0171.] (Deleted by amendment.)
+10 Sec. 5. [“Minor” means a natural person who is less than 18 years of age.]
+11 (Deleted by amendment.)
+12 Sec. 6. [“Minor user” means a user of a covered digital platform who is a
+13 minor.] (Deleted by amendment.)
+14 Sec. 7. [“Online contact information” means a unique user identifier or
+15 username that can be used to facilitate direct contact with a specific person
+16 online, including, without limitation:
+17 1. An electronic mail address; or
+18 2. A user identifier or handle associated with a covered digital platform, an
+19 instant messaging platform, a voice over Internet protocol platform or a video
+20 chatting platform.] (Deleted by amendment.)
+21 Sec. 8. (Deleted by amendment.)
+22 Sec. 9. (Deleted by amendment.)
+23 Sec. 9.5. [“Provider of health care” has the meaning ascribed to it in NRS
+24 629.031.] (Deleted by amendment.)
+25 Sec. 10. [“Social gaming product” means an online or mobile-based
+26 product or service that:
+27 1. Enables users to play casino-style games that are free to play;
+28 2. Utilizes digital tokens, coins or other digital representations of artificial
+29 value that:
+30 (a) Do not have legal tender status recognized by the United States;
+31 (b) Have no cash value; and
+32 (c) Can only be utilized or redeemed by the user within the interface of the
+33 product or service;
+34 3. Is operated by or promoted in conjunction with a gaming licensee; and
+35 4. Is specifically intended for and marketed to users who are 21 years of age
+36 or older.] (Deleted by amendment.)
+37 Sec. 10.5. [“Telehealth” has the meaning ascribed to it in NRS 629.515.]
+38 (Deleted by amendment.)
+39 Sec. 11. [“User” means a person who uses a covered digital platform.]
+40 (Deleted by amendment.)
+41 Sec. 12. [The provisions of sections 2 to 21, inclusive, of this act do not:
+42 1. Require a covered digital platform to take any action with regard to a
+43 user who does not reside in this State.
+44 2. Apply to any covered digital platform which does not offer services to
+45 users who are located within this State.] (Deleted by amendment.)
+46 Sec. 13. (Deleted by amendment.)
+47 Sec. 14. (Deleted by amendment.)
+48 Sec. 15. (Deleted by amendment.)
+49 Sec. 16. (Deleted by amendment.)
+50 Sec. 17. (Deleted by amendment.)
+51 Sec. 18. [1. Except as authorized by subsection 2, a covered digital
+52 platform shall not use the personal information of a minor user in an algorithmic
+53 recommendation system.
+
+Assembly Amendment No. 973 to Senate Bill No. 63 First Reprint Page 8
+1 2. A covered digital platform may use the personal information of a minor
+2 user in an algorithmic recommendation system to prevent the covered digital
+3 platform from displaying or recommending to a minor user content or advertising
+4 relating to products or services, the purchase, possession or use of which by a
+5 minor is prohibited by law, including, without limitation, content or advertising
+6 relating to alcohol, tobacco or cannabis products.
+7 3. The provisions of subsection 1 shall not be construed to prohibit
+8 contextual information delivery.
+9 4. As used in this section:
+10 (a) “Algorithmic recommendation system” means a fully or partially
+11 automated system that suggests, promotes or ranks information for, or presents
+12 advertising to, a user.
+13 (b) “Consumer device” means an electronic device that is used primarily for
+14 personal, family or household purposes and which connects to the Internet. The
+15 term may include, without limitation, a computer, smartphone, electronic tablet,
+16 smartwatch, router, Internet gateway, smart television or video game console.
+17 (c) “Contextual information delivery” means the delivery of information or
+18 advertising to a user based on inferences drawn exclusively from the specific
+19 content of the specific page, forum or other Internet website that a user is
+20 currently viewing at the time during which the information or advertisement is
+21 being provided on that page, forum or other Internet website. The term does not
+22 include the recommendation of information or advertising in whole or in part
+23 based on other pages, forums or other Internet websites that have been viewed by
+24 a user.
+25 (d) “Persistent identifier” means any data point that can be used to recognize
+26 a specific user or a specific consumer device belonging to a specific user over
+27 time and across different Internet websites, applications and other online
+28 services. The term includes, without limitation:
+29 (1) An Internet cookie which contains a customer number;
+30 (2) An Internet protocol address; or
+31 (3) The serial number or unique identifier of a consumer device.
+32 (e) “Personal information” means information that is linked or can
+33 reasonably be linked to a specific user, household or consumer device, including,
+34 without limitation:
+35 (1) A last name when accompanied by either a first name, set of initials
+36 or a nickname;
+37 (2) A date of birth;
+38 (3) A physical address, including, without limitation, a home, work or
+39 school address;
+40 (4) Online contact information;
+41 (5) A telephone number;
+42 (6) A government-issued identification number, including, without
+43 limitation, a social security number, passport number or driver’s license number;
+44 (7) An image or voice contained within a photo, video or audio file or in
+45 any other data;
+46 (8) Information concerning a geographic location that is sufficient to
+47 identify both the name of a street and the locality in which the street is located; or
+48 (9) A persistent identifier.] (Deleted by amendment.)
+49 Sec. 19. [1. A covered digital platform shall accept and comply with a
+50 request from the parent or guardian of a minor user to disable any or all of the
+51 following features on the account of the minor user and refrain from causing any
+52 content viewed by a minor user to be delivered through or accompanied by any or
+53 all of the following features:
+
+Assembly Amendment No. 973 to Senate Bill No. 63 First Reprint Page 9
+1 (a) Infinite scrolling, including, without limitation:
+2 (1) Content that continuously loads as the user scrolls down the page
+3 without the need for the user to open a separate page and which has no apparent
+4 end; or
+5 (2) The use of pages with no visible or apparent end as the user
+6 continues to scroll.
+7 (b) The display of interactive metrics, icons or emoticons which indicate:
+8 (1) That another user has clicked a button to indicate their reaction to a
+9 user’s content; or
+10 (2) The number of times that other users have shared, liked or reposted
+11 the user’s content.
+12 (c) Video that begins to play without the user first clicking on the video or on
+13 a play button for that video.
+14 (d) Functions that allow a user or advertiser to broadcast live video content
+15 in real-time to other users of the platform.
+16 2. For the purposes of this section, a covered digital platform shall be
+17 deemed to have disabled infinite scrolling if the covered digital platform limits a
+18 minor user to viewing the lesser of:
+19 (a) Six or fewer discrete items of content before the minor user is required to
+20 open a separate page to view additional content or click a button or pop-up
+21 warning to consciously indicate his or her intent to view additional content; or
+22 (b) Seven minutes worth of continuously loading content before the page on
+23 which the content is shown ends or before the minor user is required to open a
+24 separate page to view additional content or click a button or pop-up warning to
+25 consciously indicate his or her intent to view additional content.
+26 3. As used in this section, “content” does not include any content, material
+27 or other media that is generated by or within an interactive video game which is
+28 necessary for or incidental to the use and enjoyment of the interactive video
+29 game.] (Deleted by amendment.)
+30 Sec. 20. [1. A covered digital platform shall:
+31 (a) Establish safeguards to limit the amount of time that minor users spend
+32 using the covered digital platform each day and the hours of the day during
+33 which the covered digital platform sends notices to minor users that are
+34 reasonable for the digital platform under the relevant circumstances; or
+35 (b) Except as otherwise provided in subsection 3, refrain from sending
+36 notifications to a minor user:
+37 (1) Between the hours of 12 a.m. and 6 a.m., based on the time zone in
+38 which the minor user is located; or
+39 (2) Between the hours of 8 a.m. and 3 p.m., Monday through Friday,
+40 during the months of August through May, based on the time zone in which the
+41 minor user is located.
+42 2. Except as otherwise provided in subsection 3, a covered digital platform
+43 that receives a request from the parent or guardian of a minor user shall not send
+44 notifications to the minor user:
+45 (a) Between the hours of 12 a.m. and 6 a.m., based on the time zone in which
+46 the minor user is located; or
+47 (b) Between the hours of 8 a.m. and 3 p.m., Monday through Friday, during
+48 the months of August through May, based on the time zone in which the minor
+49 user is located.
+50 3. A covered digital platform subject to the provisions of paragraph (b) of
+51 subsection 1 or subsection 2 may send a notification to a minor user during a
+52 time period where the delivery of a notification would otherwise be prohibited by
+53 those provisions if the delivery of the notification is necessary:
+
+Assembly Amendment No. 973 to Senate Bill No. 63 First Reprint Page 10
+1 (a) For the support of the internal operations of the covered digital platform;
+2 or
+3 (b) To effectuate settings or restrictions made by the parent or legal guardian
+4 of the minor user through any parental control features established by the
+5 platform.
+6 4. As used in this section, “support of the internal operations of the covered
+7 digital platform” has the definition ascribed to “support for the internal
+8 operations of the Web site or online service” in 16 C.F.R. § 312.2.] (Deleted by
+9 amendment.)
+10 Sec. 21. [A violation of the provisions of sections 2 to 21, inclusive, of this
+11 act constitutes a deceptive trade practice for the purposes of NRS 598.0903 to
+12 598.0999, inclusive.] (Deleted by amendment.)
+13 Sec. 22. (Deleted by amendment.)
+14 Sec. 23. Chapter 603A of NRS is hereby amended by adding thereto the
+15 provisions set forth as sections 24 to 35, inclusive, of this act.
+16 Sec. 24. As used in sections 24 to 35, inclusive, of this act unless the
+17 context otherwise requires, the words and terms defined in sections 25 to [31,]
+18 31.9, inclusive, of this act have the meanings ascribed to them in those sections.
+19 Sec. 25. “Child” means a natural person who is less than 13 years of age.
+20 Sec. 25.7. “Consumer” means a natural person who is a resident of this
+21 State and who is acting in an individual or personal capacity. The term does not
+22 include a natural person who is acting in a commercial or employment capacity.
+23 Sec. 26. “Consumer device” means an electronic device that is used
+24 primarily for personal, family or household purposes and which connects to the
+25 Internet. The term may include, without limitation, a computer, smartphone,
+26 electronic tablet, smartwatch, router, Internet gateway, smart television or video
+27 game console.
+28 Sec. 27. “Controller” means any person who:
+29 1. Operates or provides any online service, product or feature that is
+30 targeted to persons in this State; and
+31 2. Alone or with other persons, determines the purpose and means of
+32 processing personal data.
+33 Sec. 28. “De-identified data” means data that cannot be reasonably linked
+34 to an identified or identifiable person or a particular consumer device that
+35 belongs or is linked to an identifiable person.
+36 Sec. 28.5. “Known child” means a person whom a controller knows to be a
+37 child.
+38 Sec. 29. “Online service, product or feature”:
+39 1. Means any service, product or feature that is provided online.
+40 2. Does not include:
+41 (a) A telecommunications service, as that term is defined in 47 U.S.C. § 153;
+42 (b) Broadband Internet access service, as that term is defined in 47 C.F.R. §
+43 54.400; or
+44 (c) The delivery and use of a physical product.
+45 Sec. 30. “Personal data”:
+46 1. Means any information that is linked or reasonably linkable to an
+47 identified or identifiable person.
+48 2. Does not include de-identified data or [publically] publicly available
+49 information.
+50 Sec. 31. “Process” means to perform any operation or set of operations,
+51 whether performed by manual or automated means, on personal data, including,
+52 without limitation, the collection, use, storage, disclosure, analysis, deletion or
+53 modification of personal data.
+
+Assembly Amendment No. 973 to Senate Bill No. 63 First Reprint Page 11
+1 Sec. 31.3. “Processor” means a person who processes data on behalf of a
+2 controller.
+3 Sec. 31.5. “Publicly available information” means information that:
+4 1. Is lawfully made available through the records of a governmental entity;
+5 or
+6 2. A business has a reasonable basis to believe is made to be lawfully
+7 available to the general public:
+8 (a) Through a channel of media that is widely distributed;
+9 (b) By the consumer to whom the information pertains; or
+10 (c) By a person to whom the consumer to whom the information pertains has
+11 disclosed the information, unless the consumer has restricted the information to a
+12 specific audience.
+13 Sec. 31.7. “Sale” means the exchange of personal data with a third party
+14 for money or other valuable consideration. The term does not include:
+15 1. The disclosure of personal data by a controller to a processor that
+16 processes personal data on behalf of the controller;
+17 2. The disclosure of personal data to a third party for purposes of providing
+18 a product or service requested by a consumer;
+19 3. The disclosure or transfer of personal data to an affiliate of the
+20 controller;
+21 4. The disclosure of information pertaining to a consumer that the
+22 consumer:
+23 (a) Has intentionally made available to the general public through a channel
+24 of media that is widely distributed; and
+25 (b) Did not restrict to a particular audience; or
+26 5. The disclosure or transfer of personal data to a third party as an asset
+27 that is a part of a merger, acquisition, bankruptcy or other transaction in which
+28 the third party assumes control of all or part of the assets of the controller.
+29 Sec. 31.9. “Third party” means a person or entity that is not a consumer,
+30 controller, processor or affiliate of a controller or processor.
+31 Sec. 32. The provisions of sections 24 to 35, inclusive, of this act:
+32 1. Do not apply to:
+33 (a) A consumer reporting agency, as defined in 15 U.S.C. § 1681a(f);
+34 (b) Any personally identifiable information regulated by the Fair Credit
+35 Reporting Act, 15 U.S.C. §§ 1681 et seq., and the regulations adopted pursuant
+36 thereto, which is collected, maintained or sold as provided in that Act;
+37 (c) A person who collects, maintains, or makes sales of personally
+38 identifiable information for the purposes of preventing fraud;
+39 (d) Any personally identifiable information protected from disclosure under
+40 the federal Driver’s Privacy Protection Act of 1994, 18 U.S.C. §§ 2721 et seq.,
+41 which is collected, maintained or sold as provided in that Act;
+42 (e) Any consumer health data subject to the provisions of NRS 603A.400 to
+43 603A.550, inclusive;
+44 (f) A financial institution or an affiliate of a financial institution that is
+45 subject to the provisions of the Gramm-Leach-Bliley Act, 15 U.S.C. §§ 6801 et
+46 seq., or any personally identifiable information regulated by that Act which is
+47 collected, maintained or sold as provided in that Act; [or]
+48 (g) A controller that, during a calendar year:
+49 (1) Processes the personal data of less than 25,000 residents of this State;
+50 or
+51 (2) Processes the personal data of less than 100,000 residents of this
+52 State and derives less than 50 percent of its gross revenue from the sale of
+53 personal data [.] ; or
+
+Assembly Amendment No. 973 to Senate Bill No. 63 First Reprint Page 12
+1 (h) A person who is subject to the Health Insurance Portability and
+2 Accountability Act of 1996, Public Law 104-191, and the regulations adopted
+3 pursuant thereto, including, without limitation, a covered entity or a business
+4 associate of a covered entity, as those terms are defined in 45 C.F.R. § 160.103.
+5 2. Do not require a controller to take any action with regard to a child who
+6 does not reside in this State.
+7 3. Do not apply to the extent that such application would restrict the ability
+8 of a controller or processor to:
+9 (a) Comply with all applicable federal, state and local laws, regulations and
+10 ordinances;
+11 (b) Comply with a civil, criminal or regulatory inquiry or investigation
+12 conducted by a governmental entity or a subpoena or summons issued by a
+13 governmental entity;
+14 (c) Cooperate with a law enforcement agency concerning conduct or activity
+15 that the controller or processor reasonably, and in good faith, believes may
+16 violate any federal, state or local law or regulation;
+17 (d) Investigate, establish, exercise, prepare for or defend a legal claim;
+18 (e) Provide a product or service that is specifically requested by a consumer;
+19 (f) Perform under a contract to which a consumer is a party, including,
+20 without limitation, fulfilling the terms of a written warranty;
+21 (g) Before entering into a contract with a consumer, take steps requested by
+22 the consumer relating to the formation of the contract;
+23 (h) Take immediate steps to protect an interest that is essential for the life or
+24 physical safety of a consumer or other person, unless those steps are clearly taken
+25 for another purpose;
+26 (i) Prevent, detect, protect against or respond to:
+27 (1) A security incident;
+28 (2) An instance of identity theft, fraud or harassment;
+29 (3) A malicious or deceptive activity; or
+30 (4) Any illegal activity;
+31 (j) Preserve the integrity or security of systems or investigate, report or assist
+32 in the prosecution of those responsible for any activity described in paragraph (i);
+33 (k) Assist in public or peer-reviewed scientific or statistical research which:
+34 (1) Is in the public interest;
+35 (2) Adheres to all applicable laws relating to privacy and ethics; and
+36 (3) Is approved, monitored and governed by a board of institutional
+37 review, or a similar entity that independently oversees such research, that
+38 determines:
+39 (I) Whether the deletion of information used in such research is
+40 likely to provide substantial benefits that do not exclusively accrue to the
+41 controller;
+42 (II) That the expected benefits of the research outweigh any
+43 applicable privacy risks; and
+44 (III) Whether the controller has implemented reasonable safeguards
+45 to mitigate any risks to privacy associated with such research, including, without
+46 limitation, risks associated with the re-identification of data;
+47 (l) Assist another controller, processor, regulated entity, as defined in NRS
+48 603A.465, or third party with complying with the requirements of NRS 603A.400
+49 to 603A.550, inclusive; or
+50 (m) Process personal data for purposes which are in the public interest and
+51 relate to public, community or population health, but only to the extent that such
+52 processing is subject to:
+
+Assembly Amendment No. 973 to Senate Bill No. 63 First Reprint Page 13
+1 (1) Suitable and specific measures to safeguard the rights of the
+2 consumer whose personal data is being processed; and
+3 (2) All applicable confidentiality requirements imposed by federal, state
+4 or local law and overseen by a person subject to such requirements.
+5 Sec. 32.5. A controller that is in possession of any de-identified data shall:
+6 1. Take reasonable measures to ensure that the data cannot be associated
+7 with a natural person;
+8 2. Publicly commit to maintaining and using the de-identified data without
+9 attempting to re-identify the data; and
+10 3. Contractually obligate any recipients of de-identified data provided by the
+11 controller to comply with the requirements of this section with respect to such
+12 data.
+13 Sec. 33. 1. Before processing personal data from a [person whom a
+14 controller knows to be a] known child [,] or collecting the precise geolocation
+15 data of a known child, the controller shall obtain verifiable consent from the
+16 parent or legal guardian of the child in accordance with the Federal Children’s
+17 Online Privacy Protection Act, 15 U.S.C. §§ 6501 et seq., and any regulations
+18 adopted pursuant thereto.
+19 2. A controller shall not process any personal data of a [person whom the
+20 controller knows to be a] known child:
+21 (a) For the purposes of:
+22 (1) Providing targeted advertising to the child;
+23 (2) Selling the personal data of the child; or
+24 (3) Profiling the child [;] in furtherance of decisions that produce legal
+25 or similarly significant effects concerning the child;
+26 (b) Unless the processing is reasonably necessary to enable the controller to
+27 provide the online service, product or feature offered by the controller; or
+28 [(b)] (c) For [any purpose that] longer than is [not] reasonably necessary
+29 [and limited in duration] to enable the controller to provide the online service,
+30 product or feature offered by the controller.
+31 3. At the time that a controller collects personal data from a [person the
+32 controller knows to be a] known child with the intent of further processing the
+33 personal data, the controller shall disclose the purpose of the processing to the
+34 child. The controller shall not further process the data except:
+35 (a) For the purpose disclosed to the child; or
+36 (b) Where the additional processing is reasonably necessary for carrying out
+37 and compatible with the purpose disclosed to the child.
+38 4. A controller shall not collect precise geolocation data from a [person
+39 whom the controller knows to be a] known child unless:
+40 (a) The collection of precise geolocation data is reasonably necessary and
+41 limited in duration to enable the controller to provide the online service, product
+42 or feature in connection with which the precise geolocation data is collected; and
+43 (b) The controller displays to the child whose precise geolocation data is
+44 being collected a notification, banner, symbol or other indicator that:
+45 (1) Informs the child that his or her precise geolocation data is being
+46 collected; and
+47 (2) Is displayed at all times during which the controller is collecting the
+48 precise geolocation of the child.
+49 5. As used in this section:
+50 (a) “Decision that produces legal or similarly significant effects” means a
+51 decision made by a controller that results in the provision or denial by the
+52 controller of financial and lending services, housing, insurance, enrollment in
+
+Assembly Amendment No. 973 to Senate Bill No. 63 First Reprint Page 14
+1 education, criminal justice, employment opportunities, health care services or
+2 access to basic necessities, including, without limitation, food and water.
+3 (b) “Precise geolocation data” means information derived from technology,
+4 including, without limitation, latitude and longitude coordinates at the level of
+5 detail typically provided by a global positioning system, that directly identifies the
+6 specific location of a natural person with precision and accuracy within a radius
+7 of 1,750 feet. The term does not include:
+8 (1) The content of any communication; or
+9 (2) Any data generated by or connected to advanced metering
+10 infrastructure for utilities or other equipment used by a utility.
+11 [(b)] (c)“Profiling” means a form of automated processing performed on the
+12 personal data of a particular person that evaluates, analyzes or predicts the
+13 personal aspects relating to the person, including, without limitation, the
+14 economic status, health status, personal preferences, interests, reliability,
+15 behavior, location or movements of the person.
+16 [(c)] (d)“Targeted advertising”:
+17 (1) Means the display of advertisements to a [user] consumer of an
+18 online service, product or feature that are selected or recommended based on the
+19 personal data obtained from the online activity of the [user] consumer over time
+20 and across other online services, products or features that are not affiliated with
+21 the online service, product or feature or the controller thereof [.] for the purpose
+22 of predicting the preferences or interests of the consumer.
+23 (2) Does not include:
+24 (I) Advertisements based on the activity of a [user] consumer within
+25 online services, products or features operated by the same controller;
+26 (II) Advertisements based on inferences drawn exclusively from the
+27 specific content of the online service, product or feature that the [user] consumer
+28 is currently viewing at the time during which the advertisement is being provided,
+29 including inferences drawn from search queries performed by the [user]
+30 consumer on the online service, product or feature;
+31 (III) Advertisements directed to the [user] consumer in response to a
+32 request for information or feedback submitted by the [user;] consumer; or
+33 (IV) The processing of personal data performed solely for measuring
+34 or reporting the performance, reach or frequency of advertising.
+35 Sec. 34. 1. Except as otherwise provided in subsection [2,] 3, a controller
+36 that offers any online service, product or feature that is directed at children shall:
+37 (a) Conduct, for each processing activity in which the controller engages, a
+38 data protection assessment; and
+39 (b) Retain each data protection assessment conducted pursuant to paragraph
+40 (a) for at least [5] 3 years after the controller ceases to offer the online service,
+41 product or feature.
+42 2. Each data protection assessment conducted pursuant to paragraph (a) of
+43 subsection 1 must:
+44 (a) Contain a description of:
+45 (1) The purpose of the online service, product or feature to which the
+46 data protection assessment pertains;
+47 (2) The categories of personal information of known children that are
+48 processed by or in connection with the online service, product or feature; and
+49 (3) Each purpose for which the controller processes the personal data of
+50 known children.
+51 (b) Identify the:
+52 (1) Benefits to the controller, the [users] consumers of the online
+53 services, products or features offered by the controller, including, without
+
+Assembly Amendment No. 973 to Senate Bill No. 63 First Reprint Page 15
+1 limitation, such [users] consumers who are known children, and the public which
+2 may result, either directly or indirectly, from processing the data of known
+3 children; and
+4 (2) The potential risks to the rights and safety of the known children
+5 whose data is processed by the controller, as mitigated by the safeguards that the
+6 controller may reasonably implement to reduce such risks, which may include,
+7 without limitation, using de-identified data in place of personal data;
+8 (c) Weigh the benefits identified pursuant to subparagraph (1) of paragraph
+9 (b) against the risks identified pursuant to subparagraph (2) of paragraph (b),
+10 factoring in:
+11 (1) The reasonable expectations of children who use the online service,
+12 product or feature and the reasonable expectations of the parents and legal
+13 guardians of such children; [and]
+14 (2) The context in which the controller processes the data of known
+15 children; and
+16 (3) The relationship between the controller and the known children
+17 whose data the controller will process.
+18 3. A controller shall be deemed to have satisfied the requirements of
+19 paragraph (a) of subsection 1 if the controller has conducted:
+20 (a) A single data protection assessment that addresses a comparable set of
+21 data processing activities, each of which must be similar, in which the controller
+22 engages.
+23 (b) A data protection assessment in accordance with the laws or regulations
+24 of another state or the Federal Government if the assessment has a reasonably
+25 comparable scope and effect to an assessment that the controller would otherwise
+26 be required to conduct pursuant to paragraph (a) of subsection 1.
+27 4. The Attorney General may request any data protection assessment
+28 conducted pursuant to this section if the Attorney General believes that the
+29 content of such an assessment is relevant to an ongoing investigation of a
+30 potential violation of section 33 of this act. A controller shall provide to the
+31 Attorney General any data protection assessment that is requested pursuant to
+32 this subsection.
+33 5. A data protection assessment provided to the Attorney General pursuant
+34 to subsection 4 is confidential and is not a public book or record within the
+35 meaning of NRS 239.010 . [, and no waiver of any applicable privilege in the
+36 information contained within any such data protection assessment occurs as a
+37 result of making any such information available or disclosing such information]
+38 6. The disclosure of a data protection assessment to the Attorney General,
+39 the Office of the Attorney General or any other officer or employee of the Office
+40 of the Attorney General [.] pursuant to subsection 4 does not constitute a waiver
+41 of the attorney-client privilege or work product protection with respect to the
+42 information contained within any such data protection assessment.
+43 Sec. 35. 1. Upon determining that a controller has violated or is violating
+44 any provision of sections 24 to 35, inclusive, of this act, the Attorney General
+45 shall provide the controller with written notice that identifies the specific
+46 provision of sections 24 to 35, inclusive, of this act that the Attorney General
+47 determines that the controller is violating or has violated and the specific facts
+48 underlying that determination.
+49 2. Not later than 30 days after receiving a notice pursuant to subsection 1, a
+50 controller shall remedy the violation described in the notice.
+51 3. Failure by a controller to comply with the requirements of subsection 2
+52 constitutes a deceptive trade practice for the purposes of NRS 598.0903 to
+53 598.0999, inclusive.
+
+Assembly Amendment No. 973 to Senate Bill No. 63 First Reprint Page 16
+1 4. The Attorney General has the exclusive authority to enforce the
+2 provisions of sections 24 to 35, inclusive, of this act.
+3 5. Nothing in sections 24 to 35, inclusive, of this act shall be construed to
+4 create a private right of action.
+5 Sec. 36. NRS 239.010 is hereby amended to read as follows:
+6 239.010 1. Except as otherwise provided in this section and NRS 1.4683,
+7 1.4687, 1A.110, 3.2203, 41.0397, 41.071, 49.095, 49.293, 62D.420, 62D.440,
+8 62E.516, 62E.620, 62H.025, 62H.030, 62H.170, 62H.220, 62H.320, 75A.100,
+9 75A.150, 76.160, 78.152, 80.113, 81.850, 82.183, 86.246, 86.54615, 87.515,
+10 87.5413, 87A.200, 87A.580, 87A.640, 88.3355, 88.5927, 88.6067, 88A.345,
+11 88A.7345, 89.045, 89.251, 90.730, 91.160, 116.757, 116A.270, 116B.880,
+12 118B.026, 119.260, 119.265, 119.267, 119.280, 119A.280, 119A.653, 119A.677,
+13 119B.370, 119B.382, 120A.640, 120A.690, 125.130, 125B.140, 126.141, 126.161,
+14 126.163, 126.730, 127.007, 127.057, 127.130, 127.140, 127.2817, 128.090,
+15 130.312, 130.712, 136.050, 159.044, 159A.044, 164.041, 172.075, 172.245,
+16 176.01334, 176.01385, 176.015, 176.0625, 176.09129, 176.156, 176A.630,
+17 178.39801, 178.4715, 178.5691, 178.5717, 179.495, 179A.070, 179A.165,
+18 179D.160, 180.600, 200.3771, 200.3772, 200.5095, 200.604, 202.3662, 205.4651,
+19 209.392, 209.3923, 209.3925, 209.419, 209.429, 209.521, 211A.140, 213.010,
+20 213.040, 213.095, 213.131, 217.105, 217.110, 217.464, 217.475, 218A.350,
+21 218E.625, 218F.150, 218G.130, 218G.240, 218G.350, 218G.615, 224.240,
+22 226.462, 226.796, 228.270, 228.450, 228.495, 228.570, 231.069, 231.1285,
+23 231.1473, 232.1369, 233.190, 237.300, 239.0105, 239.0113, 239.014, 239B.026,
+24 239B.030, 239B.040, 239B.050, 239C.140, 239C.210, 239C.230, 239C.250,
+25 239C.270, 239C.420, 240.007, 241.020, 241.030, 241.039, 242.105, 244.264,
+26 244.335, 247.540, 247.545, 247.550, 247.560, 250.087, 250.130, 250.140, 250.145,
+27 250.150, 268.095, 268.0978, 268.490, 268.910, 269.174, 271A.105, 281.195,
+28 281.805, 281A.350, 281A.680, 281A.685, 281A.750, 281A.755, 281A.780,
+29 284.4068, 284.4086, 286.110, 286.118, 287.0438, 289.025, 289.080, 289.387,
+30 289.830, 293.4855, 293.5002, 293.503, 293.504, 293.558, 293.5757, 293.870,
+31 293.906, 293.908, 293.909, 293.910, 293B.135, 293D.510, 331.110, 332.061,
+32 332.351, 333.333, 333.335, 338.070, 338.1379, 338.1593, 338.1725, 338.1727,
+33 348.420, 349.597, 349.775, 353.205, 353A.049, 353A.085, 353A.100, 353C.240,
+34 353D.250, 360.240, 360.247, 360.255, 360.755, 361.044, 361.2242, 361.610,
+35 365.138, 366.160, 368A.180, 370.257, 370.327, 372A.080, 378.290, 378.300,
+36 379.0075, 379.008, 379.1495, 385A.830, 385B.100, 387.626, 387.631, 388.1455,
+37 388.259, 388.501, 388.503, 388.513, 388.750, 388A.247, 388A.249, 391.033,
+38 391.035, 391.0365, 391.120, 391.925, 392.029, 392.147, 392.264, 392.271,
+39 392.315, 392.317, 392.325, 392.327, 392.335, 392.850, 393.045, 394.167,
+40 394.16975, 394.1698, 394.447, 394.460, 394.465, 396.1415, 396.1425, 396.143,
+41 396.159, 396.3295, 396.405, 396.525, 396.535, 396.9685, 398A.115, 408.3885,
+42 408.3886, 408.3888, 408.5484, 412.153, 414.280, 416.070, 422.2749, 422.305,
+43 422A.342, 422A.350, 425.400, 427A.1236, 427A.872, 427A.940, 432.028,
+44 432.205, 432B.175, 432B.280, 432B.290, 432B.4018, 432B.407, 432B.430,
+45 432B.560, 432B.5902, 432C.140, 432C.150, 433.534, 433A.360, 439.4941,
+46 439.4988, 439.5282, 439.840, 439.914, 439A.116, 439A.124, 439B.420, 439B.754,
+47 439B.760, 439B.845, 440.170, 441A.195, 441A.220, 441A.230, 442.330, 442.395,
+48 442.735, 442.774, 445A.665, 445B.570, 445B.7773, 449.209, 449.245, 449.4315,
+49 449A.112, 450.140, 450B.188, 450B.805, 453.164, 453.720, 458.055, 458.280,
+50 459.050, 459.3866, 459.555, 459.7056, 459.846, 463.120, 463.15993, 463.240,
+51 463.3403, 463.3407, 463.790, 467.1005, 480.535, 480.545, 480.935, 480.940,
+52 481.063, 481.091, 481.093, 482.170, 482.368, 482.5536, 483.340, 483.363,
+53 483.575, 483.659, 483.800, 484A.469, 484B.830, 484B.833, 484E.070, 485.316,
+
+Assembly Amendment No. 973 to Senate Bill No. 63 First Reprint Page 17
+1 501.344, 503.452, 522.040, 534A.031, 561.285, 571.160, 584.655, 587.877,
+2 598.0964, 598.098, 598A.110, 598A.420, 599B.090, 603.070, 603A.210,
+3 604A.303, 604A.710, 604D.500, 604D.600, 612.265, 616B.012, 616B.015,
+4 616B.315, 616B.350, 618.341, 618.425, 622.238, 622.310, 623.131, 623A.137,
+5 624.110, 624.265, 624.327, 625.425, 625A.185, 628.418, 628B.230, 628B.760,
+6 629.043, 629.047, 629.069, 630.133, 630.2671, 630.2672, 630.2673, 630.2687,
+7 630.30665, 630.336, 630A.327, 630A.555, 631.332, 631.368, 632.121, 632.125,
+8 632.3415, 632.3423, 632.405, 633.283, 633.301, 633.427, 633.4715, 633.4716,
+9 633.4717, 633.524, 634.055, 634.1303, 634.214, 634A.169, 634A.185, 634B.730,
+10 635.111, 635.158, 636.262, 636.342, 637.085, 637.145, 637B.192, 637B.288,
+11 638.087, 638.089, 639.183, 639.2485, 639.570, 640.075, 640.152, 640A.185,
+12 640A.220, 640B.405, 640B.730, 640C.580, 640C.600, 640C.620, 640C.745,
+13 640C.760, 640D.135, 640D.190, 640E.225, 640E.340, 641.090, 641.221, 641.2215,
+14 641A.191, 641A.217, 641A.262, 641B.170, 641B.281, 641B.282, 641C.455,
+15 641C.760, 641D.260, 641D.320, 642.524, 643.189, 644A.870, 645.180, 645.625,
+16 645A.050, 645A.082, 645B.060, 645B.092, 645C.220, 645C.225, 645D.130,
+17 645D.135, 645G.510, 645H.320, 645H.330, 647.0945, 647.0947, 648.033, 648.197,
+18 649.065, 649.067, 652.126, 652.228, 653.900, 654.110, 656.105, 657A.510,
+19 661.115, 665.130, 665.133, 669.275, 669.285, 669A.310, 670B.680, 671.365,
+20 671.415, 673.450, 673.480, 675.380, 676A.340, 676A.370, 677.243, 678A.470,
+21 678C.710, 678C.800, 679B.122, 679B.124, 679B.152, 679B.159, 679B.190,
+22 679B.285, 679B.690, 680A.270, 681A.440, 681B.260, 681B.410, 681B.540,
+23 683A.0873, 685A.077, 686A.289, 686B.170, 686C.306, 687A.060, 687A.115,
+24 687B.404, 687C.010, 688C.230, 688C.480, 688C.490, 689A.696, 692A.117,
+25 692C.190, 692C.3507, 692C.3536, 692C.3538, 692C.354, 692C.420, 693A.480,
+26 693A.615, 696B.550, 696C.120, 703.196, 704B.325, 706.1725, 706A.230,
+27 710.159, 711.600, and section 34 of this act, sections 35, 38 and 41 of chapter 478,
+28 Statutes of Nevada 2011 and section 2 of chapter 391, Statutes of Nevada 2013 and
+29 unless otherwise declared by law to be confidential, all public books and public
+30 records of a governmental entity must be open at all times during office hours to
+31 inspection by any person, and may be fully copied or an abstract or memorandum
+32 may be prepared from those public books and public records. Any such copies,
+33 abstracts or memoranda may be used to supply the general public with copies,
+34 abstracts or memoranda of the records or may be used in any other way to the
+35 advantage of the governmental entity or of the general public. This section does not
+36 supersede or in any manner affect the federal laws governing copyrights or enlarge,
+37 diminish or affect in any other manner the rights of a person in any written book or
+38 record which is copyrighted pursuant to federal law.
+39 2. A governmental entity may not reject a book or record which is
+40 copyrighted solely because it is copyrighted.
+41 3. A governmental entity that has legal custody or control of a public book or
+42 record shall not deny a request made pursuant to subsection 1 to inspect or copy or
+43 receive a copy of a public book or record on the basis that the requested public
+44 book or record contains information that is confidential if the governmental entity
+45 can redact, delete, conceal or separate, including, without limitation, electronically,
+46 the confidential information from the information included in the public book or
+47 record that is not otherwise confidential.
+48 4. If requested, a governmental entity shall provide a copy of a public record
+49 in an electronic format by means of an electronic medium. Nothing in this
+50 subsection requires a governmental entity to provide a copy of a public record in an
+51 electronic format or by means of an electronic medium if:
+52 (a) The public record:
+53 (1) Was not created or prepared in an electronic format; and
+
+Assembly Amendment No. 973 to Senate Bill No. 63 First Reprint Page 18
+1 (2) Is not available in an electronic format; or
+2 (b) Providing the public record in an electronic format or by means of an
+3 electronic medium would:
+4 (1) Give access to proprietary software; or
+5 (2) Require the production of information that is confidential and that
+6 cannot be redacted, deleted, concealed or separated from information that is not
+7 otherwise confidential.
+8 5. An officer, employee or agent of a governmental entity who has legal
+9 custody or control of a public record:
+10 (a) Shall not refuse to provide a copy of that public record in the medium that
+11 is requested because the officer, employee or agent has already prepared or would
+12 prefer to provide the copy in a different medium.
+13 (b) Except as otherwise provided in NRS 239.030, shall, upon request, prepare
+14 the copy of the public record and shall not require the person who has requested the
+15 copy to prepare the copy himself or herself.
+16 Sec. 37. 1. A controller is not required to conduct a data protection
+17 assessment pursuant to section 34 of this act for any processing activity which the
+18 controller engaged in, created or generated before [October] January 1, [2025,]
+19 2026, but is required to conduct a data protection assessment for any processing
+20 activity which the controller engages in, creates or generates on or after [October]
+21 January 1, [2025.] 2026.
+22 2. As used in this section:
+23 (a) “Controller” has the meaning ascribed to it in section 27 of this act.
+24 (b) “Process” has the meaning ascribed to it in section 31 of this act.
+25 Sec. 38. 1. This section becomes effective upon passage and approval.
+26 2. Sections 1 to 37, inclusive, of this act become effective:
+27 (a) Upon passage and approval for the purpose of adopting any regulations and
+28 performing any other preparatory administrative tasks that are necessary to carry
+29 out the provisions of this act; and
+30 (b) On [October] January 1, [2025,] 2026, for all other purposes.
+
+[DELETED:   A  D (  ( T P J DN SI  IA L   | A L  C N   | C N  R N   | R N  ]
+[DELETED:  PBN.CCL I O O O AOBAG) E T EN2 O  b m a c t p o c ( EE c s r t t d w a S i c c e c a p b c o c t o d t c r c t c c a c c e p[ b m w r i t S S 4 ( d “ d p S 4 4 a 4 d o c t a s 3]
+[DELETED:  PS f d o r t t m u c o aS 1 r a s m p t i r b t p o l i w t m c ( a v a ( lT c o o I w t ( e a m r t p t c s a i o p i d c f c o t I b c S 2 d t t p i t S a ( d t p a m oSS p g d o a k c u s p o c aS]
+[DELETED:  P w d t i p t t A GE a a l p a f a i o o o i r f a c b b t C t m b r a a n m t f e a 3 g t A G t e a t e t   S 1  [ p s f a s 2 t 2 i o t a ( b a  S 2  [ Y  S 3  [ o t a h t m a t t i t s ( b a  S 4  (  S 4  [ o s b 7  S 4  [ s a o a t a n o c c r]
+[DELETED:  P a I  S 4  [  1  M g  ( A   ( B   ( E v  ( S   ( I o   ( I o  2  D p  ( I   ( S   ( S   ( F o c v   ( F c s o c c s i w d   ( P t p e i a p s i t S e o i m t h b a b t D o E t b o t o a s d o t g p   ( E   ( E e   ( E o   ( D a f t d o a a p d b t p d w a s a o s p   ( P t    ( I t    ( I n p w a c o c f o o i f u s f o f i t d   ( E e o t e u m t a p o h b t e   ( F b o]
+[DELETED:  P  ( I e  ( F  ( P b p o s o b o a g l o a a o a g  S 4  [ l t m a t i N  S 5  [ (  S 6  [ m  S 7  [ u t c b u t f d c w a s p o  1  A  2  A i c  S 8  (  S 9  (  S 9  [ 6  S 1  [ g p m a o o m p  1  E  2  U v  ( D  ( H  ( C p  3  I  4  I o  S 1  [ (  S 1  [ m a p w u a c d p (  S 1  [  1  R u  2  A u  S 1  (  S 1  (  S 1  (  S 1  (  S 1  (  S 1  [  E a a b s 2 a c d p r]
+[DELETED:  P  2  A u p p r m r  3  T p o s 1 s n b c t p c  4  A  ( “ r s m a f o p a a  ( “ p t s  ( “ a c o t s p f o o I w t a u i c b i b a  ( “ a t a a d I w a a o o s   ( A   ( A   ( T  ( “ i m i t i l o c r w   ( A o   ( A   ( A s   ( O   ( A   ( A g i n i w l   ( A a   ( I i   ( A  S 1  [  A p r f c a]
+[DELETED:  P  ( I   ( C w e   ( T u o p w n v o a e a t u c  ( T   ( T u   ( T t  ( V a  ( F i  2  F t p o t s a c d p s b d m  ( S o s t v c o c o w  ( S w s c  3  A o n g  S 2  [  A  ( E u w t c d p s n t m u t a r  ( E a o p i s 3 r f s n   ( B w   ( B d m  2  E t n  ( B t  ( B t u  3  A s t t]
+[DELETED:  P  ( F o  ( T o t m u t a p c f e b t p  4  A d p h t d a t “ f t i o a  S 2  [ a 5  S 2  (  S 2  C 6 o N i h a b a t t p  S 2  A u i s 2 t 3 i o t a u t c 3  S 2  “  S 2  “ S i  S 2  “ d m a e d t i u p I T t m i w l a c s e g  S 2  “  1  O o p a o s p o f t i t  2  A o w o p d t p a m o p  S 2  “ t a i o i p o a p c d t b  S 2  “ c  S 2  “  1  M  2  D  ( A  ( B 5  ( T  S 3  “  1  M a i t i l o r l t a i  2  D n i d d o [ p a i  S 3  “ w w m]
+[DELETED:  P  S 3  “ c  S 3  “  1  I o  2  A b h a r b t b i m t b l a  ( T  ( B  ( B d s  S 3  “ f  1  T d o p d b a c t a p t p  2  T a  3  T d o t o p d t a a o t c  4  T d o i p t a c t t c  ( H o  ( D  5  T t t  S 3  “ c  S 3  T  1  D  ( A  ( A p i i r b t F C R t  ( A p w c m o m s o p i  ( A t w  ( A 6  ( A f i a a f i t i s s c  ( A   ( P o   ( P t p l t 1 r o S a d l t 5 p o i g r f t s o p]
+[DELETED:  P  ( A p w i s t t H I P a A p a  2  D d  3  D o  ( C o  ( C w a c c o r i o i c b a g e o a s o s i b a g  ( C t t c o p r a i g f b m v  ( I  ( P  ( P u a c t w c i a i w  ( B t  ( T p f  ( P   ( A   ( A   ( A   ( A  ( P i  ( A   ( I   ( A   ( I a m a g b a b o i r o a s e t i o s r t d    ( W t d o i u i s r i l t p s b t d n e a t t c    ( T t e b o t r o a a    ( W t l  ( A 6 t  ( P r p]
+[DELETED:  P   ( S a s m t s t r o t c   ( A o  S 3  A  1  T w  2  P a  3  C c d  S 3  1  B p p d f a [ w a c d p O a  2  A c  ( F   ( P   ( S   ( P o  ( U p  [ ( F [ p  3  A c p c  ( F  ( W a  4  A [ w  ( T l o  ( T b   ( I c   ( I p  5  A  ( “ d m b a c t r i t p o d b t c]
+[DELETED:  P e c j e h s o a  ( “ i d s o   ( T   ( A d g b o c t a m i  [ ( p d o a p p t e a o p t p a r t t p i w l t e s h s p p i r b  [ (   ( M t d o a t a [ c o a o p a t o   ( D    ( A o    ( A s i i i d f s q p b t [ c    ( A r    ( T o  S 3  1  E t  ( C d  ( R ( p  2  E s  ( C   ( T d   ( T p   ( E k  ( I   ( B t t c t [ c o t o s p o f o b t c i w]
+[DELETED:  P l m r e d o i f p t d o k c   ( T w c w  ( W ( f   ( T p o f a t r e o t p a l g   ( T c i w t c p t d o k c   ( T r b t c a t k c w  3  A c s b d t h s t r o p  ( A d e  ( A o c b  4  T A G m r a d p a c p t t s i t A G b t t c o s a a i r t a o i o a p A t  5  A t m i r  6  T t o o i  S 3  1  U a s p t c w w n t i t s p d u  2  N c  3  F c a d t p f t p o N 5 t 5]
+[DELETED:  P  4  T A G h t e a t e t p  5  N c  S 3  N  2  1  E 1 1 3 4 4 4 4 6 6 6 6 6 6 6 6 6 7 7 7 7 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 9 9 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED:  P 5 5 5 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 S u r i m a a a s d r  2  A g e m n r a b o r w i c  3  A r r b c t r  4  I i a e f b m o a e m N i t s e  ( T   ( W]
+[DELETED:  P   ( I  ( P t r i a e f o b m o a e   ( G   ( R t p o i t i c a t c o  5  A o e o a o a g e w l c  ( S i p  ( E t c  S 3  1  A c i n r t c a d p a c 2 a J  2  A  ( “  ( “  S 3  1  T  2  S  ( U p o  ( O]

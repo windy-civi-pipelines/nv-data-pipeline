@@ -1,0 +1,1453 @@
+Title: (Reprinted with amendments adopted on June 2, 2025)
+Official Title: (Reprinted with amendments adopted on June 2, 2025)
+Number of Sections: 1
+Source: versions - Reprint 2
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+SECOND REPRINT S.B. 63
+SENATE BILL NO. 63–COMMITTEE ON COMMERCE AND LABOR
+(ON BEHALF OF THE ATTORNEY GENERAL)
+PREFILED NOVEMBER 20, 2024
+____________
+Referred to Committee on Commerce and Labor
+SUMMARY—Revises provisions relating to the processing of
+certain data. (BDR 52-505)
+FISCAL NOTE: Effect on Local Government: Increases or Newly
+Provides for Term of Imprisonment in County or City
+Jail or Detention Facility.
+Effect on the State: Yes.
+~
+EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+AN ACT relating to the Internet; establishing certain requirements
+relating to de-identified data; prohibiting controllers of
+online services, products or features from processing the
+personal data of children for certain purposes;
+establishing requirements for the collection and
+processing by controllers of certain types of data
+belonging to children; requiring controllers to conduct
+certain assessments; authorizing certain civil
+enforcement; providing penalties; and providing other
+matters properly relating thereto.
+Legislative Counsel’s Digest:
+1 The federal Children’s Online Privacy Protection Act establishes certain
+2 requirements relating to the collection, use and disclosure of the personal
+3 information of children on the Internet. (15 U.S.C. §§ 6501 et seq.) Existing federal
+4 regulations adopted pursuant to that Act require certain operators of Internet
+5 websites to: (1) establish and maintain reasonable procedures to protect the
+6 confidentiality, security and integrity of personal information collected from
+7 children; and (2) obtain verifiable parental consent before the operator collects,
+8 uses or discloses any personal information of a child. (16 C.F.R. §§ 312.5, 312.8)
+9 Sections 24-35 of this bill enact certain additional requirements relating to the
+10 collection and processing of personal data collected from children on the Internet
+11 by controllers. Section 27 defines “controller” to mean any person who: (1)
+12 operates or provides any online service, product or feature targeted to persons in
+13 this State; and (2) determines the purpose and means of processing personal data.
+-
+*SB63_R2*
+– 2 –
+14 Sections 25-26 and 28-31.9 define certain other terms, and section 24 establishes
+15 the applicability of those definitions to sections 24-35. Section 32 exempts certain
+16 entities, types of data and activities from the requirements of sections 24-35.
+17 Section 32.5 requires a controller that is in possession of de-identified data to
+18 take certain actions with respect to such data, including committing to not re-
+19 identify such data and contractually obligating any person to which the controller
+20 provides such data to comply with the requirements of section 32.5.
+21 Section 33 requires a controller to, before processing personal data from a
+22 known child or collecting the precise geolocation data of such a child, obtain
+23 verifiable consent from the parent or legal guardian of the child in accordance with
+24 the federal Children’s Online Privacy Protection Act. Section 33 prohibits a
+25 controller from processing the personal data of a known child for the purposes of:
+26 (1) providing targeted advertising to the child; (2) the sale of the personal data of
+27 the child; or (3) profiling the child for certain purposes. Section 33 additionally
+28 prohibits a controller from processing the personal data or collecting the precise
+29 geolocation data of a known child unless such processing or collection, as
+30 applicable, is reasonably necessary and limited in duration to enable the controller
+31 to provide the online service, product or feature. Section 33 further requires a
+32 controller that collects the precise geolocation data of a known child to, during all
+33 times that the controller is collecting such data, provide an indication to the child
+34 that such collection is occurring. Finally, section 33 requires a controller, if the
+35 controller seeks to collect the personal data of a known child with the intent to
+36 further process such data, to disclose to the child the purposes of such additional
+37 processing. Section 33 prohibits a controller from further processing such data for a
+38 purpose other than the purpose disclosed to the child, unless that purpose is
+39 necessary for carrying out and compatible with the purpose disclosed to the child.
+40 Section 34 requires a controller that offers any online service, product or
+41 feature that is directed at children to conduct and retain a data protection
+42 assessment for each processing activity in which the controller engages. Section 34
+43 also requires, in certain circumstances, a controller to provide a data protection
+44 assessment prepared by the controller to the Attorney General. Sections 34 and 36
+45 of this bill provide for the confidentiality of the information contained within a data
+46 protection assessment that is provided to the Attorney General. Section 34 also
+47 provides that, by disclosing to the Attorney General or the Office of the Attorney
+48 General a data protection assessment as required by section 34, a controller does
+49 not waive certain evidentiary privileges that would otherwise be applicable to the
+50 information contained within the data protection assessment.
+51 Existing law provides that a variety of actions constitute deceptive trade
+52 practices. (NRS 100.180, 111.2397, 118A.275, 202.24935, 205.377, 226.600,
+53 228.620, 370.695, 597.7642, 597.818, 597.997, 603.170, 603A.260, 603A.550,
+54 604B.910, 676A.770; chapter 598 of NRS) Existing law authorizes a court or the
+55 Director of the Department of Business and Industry to impose a civil penalty of
+56 not more than $25,000 for each violation upon a person who has engaged in a
+57 deceptive trade practice directed toward a minor. (NRS 598.09735) In addition,
+58 existing law provides that when the Commissioner of Consumer Affairs or the
+59 Director has cause to believe that a person has engaged or is engaging in any
+60 deceptive trade practice, the Commissioner or Director may request that the
+61 Attorney General represent him or her in instituting an appropriate legal
+62 proceeding, including an application for an injunction or temporary restraining
+63 order. (NRS 598.0979) Existing law requires a person who violates a court order or
+64 injunction resulting from a complaint brought by the Commissioner, the Director,
+65 the district attorney of any county of this State or the Attorney General to pay a
+66 civil penalty of not more than $10,000 for each violation. Furthermore, if a court
+67 finds that a person has willfully engaged in a deceptive trade practice, the person
+68 who committed the violation: (1) may be required to pay an additional civil penalty
+-
+*SB63_R2*
+– 3 –
+69 not more than $15,000 for each violation; and (2) is guilty of a felony or
+70 misdemeanor, depending on the value of the property or services lost as a result of
+71 the deceptive trade practice. (NRS 598.0999) Section 35 requires the Attorney
+72 General, upon determining that a controller has violated or is violating any
+73 provision of sections 24-35, to provide the controller written notice of the alleged
+74 violation. Section 35 makes it a deceptive trade practice for a controller to fail to
+75 remedy a violation of sections 24-35 within 30 days after receiving written notice
+76 of the violation from the Attorney General. Section 35 grants the Attorney General
+77 the exclusive authority to enforce the requirements of sections 24-35 and further
+78 provides that those sections do not create a private right of action.
+THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN
+SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:
+1 Section 1. (Deleted by amendment.)
+2 Sec. 2. (Deleted by amendment.)
+3 Sec. 3. (Deleted by amendment.)
+4 Sec. 4. (Deleted by amendment.)
+5 Sec. 4.1. (Deleted by amendment.)
+6 Sec. 4.3. (Deleted by amendment.)
+7 Sec. 4.5. (Deleted by amendment.)
+8 Sec. 4.7. (Deleted by amendment.)
+9 Sec. 5. (Deleted by amendment.)
+10 Sec. 6. (Deleted by amendment.)
+11 Sec. 7. (Deleted by amendment.)
+12 Sec. 8. (Deleted by amendment.)
+13 Sec. 9. (Deleted by amendment.)
+14 Sec. 9.5. (Deleted by amendment.)
+15 Sec. 10. (Deleted by amendment.)
+16 Sec. 10.5. (Deleted by amendment.)
+17 Sec. 11. (Deleted by amendment.)
+18 Sec. 12. (Deleted by amendment.)
+19 Sec. 13. (Deleted by amendment.)
+20 Sec. 14. (Deleted by amendment.)
+21 Sec. 15. (Deleted by amendment.)
+22 Sec. 16. (Deleted by amendment.)
+23 Sec. 17. (Deleted by amendment.)
+24 Sec. 18. (Deleted by amendment.)
+25 Sec. 19. (Deleted by amendment.)
+26 Sec. 20. (Deleted by amendment.)
+27 Sec. 21. (Deleted by amendment.)
+28 Sec. 22. (Deleted by amendment.)
+-
+*SB63_R2*
+– 4 –
+1 Sec. 23. Chapter 603A of NRS is hereby amended by adding
+2 thereto the provisions set forth as sections 24 to 35, inclusive, of this
+3 act.
+4 Sec. 24. As used in sections 24 to 35, inclusive, of this act
+5 unless the context otherwise requires, the words and terms defined
+6 in sections 25 to 31.9, inclusive, of this act have the meanings
+7 ascribed to them in those sections.
+8 Sec. 25. “Child” means a natural person who is less than 13
+9 years of age.
+10 Sec. 25.7. “Consumer” means a natural person who is a
+11 resident of this State and who is acting in an individual or
+12 personal capacity. The term does not include a natural person who
+13 is acting in a commercial or employment capacity.
+14 Sec. 26. “Consumer device” means an electronic device that
+15 is used primarily for personal, family or household purposes and
+16 which connects to the Internet. The term may include, without
+17 limitation, a computer, smartphone, electronic tablet, smartwatch,
+18 router, Internet gateway, smart television or video game console.
+19 Sec. 27. “Controller” means any person who:
+20 1. Operates or provides any online service, product or feature
+21 that is targeted to persons in this State; and
+22 2. Alone or with other persons, determines the purpose and
+23 means of processing personal data.
+24 Sec. 28. “De-identified data” means data that cannot be
+25 reasonably linked to an identified or identifiable person or a
+26 particular consumer device that belongs or is linked to an
+27 identifiable person.
+28 Sec. 28.5. “Known child” means a person whom a controller
+29 knows to be a child.
+30 Sec. 29. “Online service, product or feature”:
+31 1. Means any service, product or feature that is provided
+32 online.
+33 2. Does not include:
+34 (a) A telecommunications service, as that term is defined in 47
+35 U.S.C. § 153;
+36 (b) Broadband Internet access service, as that term is defined
+37 in 47 C.F.R. § 54.400; or
+38 (c) The delivery and use of a physical product.
+39 Sec. 30. “Personal data”:
+40 1. Means any information that is linked or reasonably
+41 linkable to an identified or identifiable person.
+42 2. Does not include de-identified data or publicly available
+43 information.
+44 Sec. 31. “Process” means to perform any operation or set of
+45 operations, whether performed by manual or automated means, on
+-
+*SB63_R2*
+– 5 –
+1 personal data, including, without limitation, the collection, use,
+2 storage, disclosure, analysis, deletion or modification of personal
+3 data.
+4 Sec. 31.3. “Processor” means a person who processes data
+5 on behalf of a controller.
+6 Sec. 31.5. “Publicly available information” means
+7 information that:
+8 1. Is lawfully made available through the records of a
+9 governmental entity; or
+10 2. A business has a reasonable basis to believe is made to be
+11 lawfully available to the general public:
+12 (a) Through a channel of media that is widely distributed;
+13 (b) By the consumer to whom the information pertains; or
+14 (c) By a person to whom the consumer to whom the
+15 information pertains has disclosed the information, unless the
+16 consumer has restricted the information to a specific audience.
+17 Sec. 31.7. “Sale” means the exchange of personal data with
+18 a third party for money or other valuable consideration. The term
+19 does not include:
+20 1. The disclosure of personal data by a controller to a
+21 processor that processes personal data on behalf of the controller;
+22 2. The disclosure of personal data to a third party for
+23 purposes of providing a product or service requested by a
+24 consumer;
+25 3. The disclosure or transfer of personal data to an affiliate
+26 of the controller;
+27 4. The disclosure of information pertaining to a consumer
+28 that the consumer:
+29 (a) Has intentionally made available to the general public
+30 through a channel of media that is widely distributed; and
+31 (b) Did not restrict to a particular audience; or
+32 5. The disclosure or transfer of personal data to a third party
+33 as an asset that is a part of a merger, acquisition, bankruptcy or
+34 other transaction in which the third party assumes control of all or
+35 part of the assets of the controller.
+36 Sec. 31.9. “Third party” means a person or entity that is not
+37 a consumer, controller, processor or affiliate of a controller or
+38 processor.
+39 Sec. 32. The provisions of sections 24 to 35, inclusive, of this
+40 act:
+41 1. Do not apply to:
+42 (a) A consumer reporting agency, as defined in 15 U.S.C. §
+43 1681a(f);
+44 (b) Any personally identifiable information regulated by the
+45 Fair Credit Reporting Act, 15 U.S.C. §§ 1681 et seq., and the
+-
+*SB63_R2*
+– 6 –
+1 regulations adopted pursuant thereto, which is collected,
+2 maintained or sold as provided in that Act;
+3 (c) A person who collects, maintains, or makes sales of
+4 personally identifiable information for the purposes of preventing
+5 fraud;
+6 (d) Any personally identifiable information protected from
+7 disclosure under the federal Driver’s Privacy Protection Act of
+8 1994, 18 U.S.C. §§ 2721 et seq., which is collected, maintained or
+9 sold as provided in that Act;
+10 (e) Any consumer health data subject to the provisions of NRS
+11 603A.400 to 603A.550, inclusive;
+12 (f) A financial institution or an affiliate of a financial
+13 institution that is subject to the provisions of the Gramm-Leach-
+14 Bliley Act, 15 U.S.C. §§ 6801 et seq., or any personally identifiable
+15 information regulated by that Act which is collected, maintained
+16 or sold as provided in that Act;
+17 (g) A controller that, during a calendar year:
+18 (1) Processes the personal data of less than 25,000
+19 residents of this State; or
+20 (2) Processes the personal data of less than 100,000
+21 residents of this State and derives less than 50 percent of its gross
+22 revenue from the sale of personal data; or
+23 (h) A person who is subject to the Health Insurance Portability
+24 and Accountability Act of 1996, Public Law 104-191, and the
+25 regulations adopted pursuant thereto, including, without
+26 limitation, a covered entity or a business associate of a covered
+27 entity, as those terms are defined in 45 C.F.R. § 160.103.
+28 2. Do not require a controller to take any action with regard
+29 to a child who does not reside in this State.
+30 3. Do not apply to the extent that such application would
+31 restrict the ability of a controller or processor to:
+32 (a) Comply with all applicable federal, state and local laws,
+33 regulations and ordinances;
+34 (b) Comply with a civil, criminal or regulatory inquiry or
+35 investigation conducted by a governmental entity or a subpoena or
+36 summons issued by a governmental entity;
+37 (c) Cooperate with a law enforcement agency concerning
+38 conduct or activity that the controller or processor reasonably, and
+39 in good faith, believes may violate any federal, state or local law or
+40 regulation;
+41 (d) Investigate, establish, exercise, prepare for or defend a
+42 legal claim;
+43 (e) Provide a product or service that is specifically requested by
+44 a consumer;
+-
+*SB63_R2*
+– 7 –
+1 (f) Perform under a contract to which a consumer is a party,
+2 including, without limitation, fulfilling the terms of a written
+3 warranty;
+4 (g) Before entering into a contract with a consumer, take steps
+5 requested by the consumer relating to the formation of the
+6 contract;
+7 (h) Take immediate steps to protect an interest that is essential
+8 for the life or physical safety of a consumer or other person,
+9 unless those steps are clearly taken for another purpose;
+10 (i) Prevent, detect, protect against or respond to:
+11 (1) A security incident;
+12 (2) An instance of identity theft, fraud or harassment;
+13 (3) A malicious or deceptive activity; or
+14 (4) Any illegal activity;
+15 (j) Preserve the integrity or security of systems or investigate,
+16 report or assist in the prosecution of those responsible for any
+17 activity described in paragraph (i);
+18 (k) Assist in public or peer-reviewed scientific or statistical
+19 research which:
+20 (1) Is in the public interest;
+21 (2) Adheres to all applicable laws relating to privacy and
+22 ethics; and
+23 (3) Is approved, monitored and governed by a board of
+24 institutional review, or a similar entity that independently oversees
+25 such research, that determines:
+26 (I) Whether the deletion of information used in such
+27 research is likely to provide substantial benefits that do not
+28 exclusively accrue to the controller;
+29 (II) That the expected benefits of the research outweigh
+30 any applicable privacy risks; and
+31 (III) Whether the controller has implemented
+32 reasonable safeguards to mitigate any risks to privacy associated
+33 with such research, including, without limitation, risks associated
+34 with the re-identification of data;
+35 (l) Assist another controller, processor, regulated entity, as
+36 defined in NRS 603A.465, or third party with complying with the
+37 requirements of NRS 603A.400 to 603A.550, inclusive; or
+38 (m) Process personal data for purposes which are in the public
+39 interest and relate to public, community or population health, but
+40 only to the extent that such processing is subject to:
+41 (1) Suitable and specific measures to safeguard the rights
+42 of the consumer whose personal data is being processed; and
+43 (2) All applicable confidentiality requirements imposed by
+44 federal, state or local law and overseen by a person subject to such
+45 requirements.
+-
+*SB63_R2*
+– 8 –
+1 Sec. 32.5. A controller that is in possession of any de-
+2 identified data shall:
+3 1. Take reasonable measures to ensure that the data cannot
+4 be associated with a natural person;
+5 2. Publicly commit to maintaining and using the de-identified
+6 data without attempting to re-identify the data; and
+7 3. Contractually obligate any recipients of de-identified data
+8 provided by the controller to comply with the requirements of this
+9 section with respect to such data.
+10 Sec. 33. 1. Before processing personal data from a known
+11 child or collecting the precise geolocation data of a known child,
+12 the controller shall obtain verifiable consent from the parent or
+13 legal guardian of the child in accordance with the Federal
+14 Children’s Online Privacy Protection Act, 15 U.S.C. §§ 6501 et
+15 seq., and any regulations adopted pursuant thereto.
+16 2. A controller shall not process any personal data of a
+17 known child:
+18 (a) For the purposes of:
+19 (1) Providing targeted advertising to the child;
+20 (2) Selling the personal data of the child; or
+21 (3) Profiling the child in furtherance of decisions that
+22 produce legal or similarly significant effects concerning the child;
+23 (b) Unless the processing is reasonably necessary to enable the
+24 controller to provide the online service, product or feature offered
+25 by the controller; or
+26 (c) For longer than is reasonably necessary to enable the
+27 controller to provide the online service, product or feature offered
+28 by the controller.
+29 3. At the time that a controller collects personal data from a
+30 known child with the intent of further processing the personal
+31 data, the controller shall disclose the purpose of the processing to
+32 the child. The controller shall not further process the data except:
+33 (a) For the purpose disclosed to the child; or
+34 (b) Where the additional processing is reasonably necessary
+35 for carrying out and compatible with the purpose disclosed to the
+36 child.
+37 4. A controller shall not collect precise geolocation data from
+38 a known child unless:
+39 (a) The collection of precise geolocation data is reasonably
+40 necessary and limited in duration to enable the controller to
+41 provide the online service, product or feature in connection with
+42 which the precise geolocation data is collected; and
+43 (b) The controller displays to the child whose precise
+44 geolocation data is being collected a notification, banner, symbol
+45 or other indicator that:
+-
+*SB63_R2*
+– 9 –
+1 (1) Informs the child that his or her precise geolocation
+2 data is being collected; and
+3 (2) Is displayed at all times during which the controller is
+4 collecting the precise geolocation of the child.
+5 5. As used in this section:
+6 (a) “Decision that produces legal or similarly significant
+7 effects” means a decision made by a controller that results in the
+8 provision or denial by the controller of financial and lending
+9 services, housing, insurance, enrollment in education, criminal
+10 justice, employment opportunities, health care services or access to
+11 basic necessities, including, without limitation, food and water.
+12 (b) “Precise geolocation data” means information derived
+13 from technology, including, without limitation, latitude and
+14 longitude coordinates at the level of detail typically provided by a
+15 global positioning system, that directly identifies the specific
+16 location of a natural person with precision and accuracy within a
+17 radius of 1,750 feet. The term does not include:
+18 (1) The content of any communication; or
+19 (2) Any data generated by or connected to advanced
+20 metering infrastructure for utilities or other equipment used by a
+21 utility.
+22 (c) “Profiling” means a form of automated processing
+23 performed on the personal data of a particular person that
+24 evaluates, analyzes or predicts the personal aspects relating to the
+25 person, including, without limitation, the economic status, health
+26 status, personal preferences, interests, reliability, behavior,
+27 location or movements of the person.
+28 (d) “Targeted advertising”:
+29 (1) Means the display of advertisements to a consumer of
+30 an online service, product or feature that are selected or
+31 recommended based on the personal data obtained from the
+32 online activity of the consumer over time and across other online
+33 services, products or features that are not affiliated with the online
+34 service, product or feature or the controller thereof for the
+35 purpose of predicting the preferences or interests of the consumer.
+36 (2) Does not include:
+37 (I) Advertisements based on the activity of a consumer
+38 within online services, products or features operated by the same
+39 controller;
+40 (II) Advertisements based on inferences drawn
+41 exclusively from the specific content of the online service, product
+42 or feature that the consumer is currently viewing at the time
+43 during which the advertisement is being provided, including
+44 inferences drawn from search queries performed by the consumer
+45 on the online service, product or feature;
+-
+*SB63_R2*
+– 10 –
+1 (III) Advertisements directed to the consumer in
+2 response to a request for information or feedback submitted by the
+3 consumer; or
+4 (IV) The processing of personal data performed solely
+5 for measuring or reporting the performance, reach or frequency
+6 of advertising.
+7 Sec. 34. 1. Except as otherwise provided in subsection 3, a
+8 controller that offers any online service, product or feature that is
+9 directed at children shall:
+10 (a) Conduct, for each processing activity in which the
+11 controller engages, a data protection assessment; and
+12 (b) Retain each data protection assessment conducted
+13 pursuant to paragraph (a) for at least 3 years after the controller
+14 ceases to offer the online service, product or feature.
+15 2. Each data protection assessment conducted pursuant to
+16 paragraph (a) of subsection 1 must:
+17 (a) Contain a description of:
+18 (1) The purpose of the online service, product or feature to
+19 which the data protection assessment pertains;
+20 (2) The categories of personal information of known
+21 children that are processed by or in connection with the online
+22 service, product or feature; and
+23 (3) Each purpose for which the controller processes the
+24 personal data of known children.
+25 (b) Identify the:
+26 (1) Benefits to the controller, the consumers of the online
+27 services, products or features offered by the controller, including,
+28 without limitation, such consumers who are known children, and
+29 the public which may result, either directly or indirectly, from
+30 processing the data of known children; and
+31 (2) The potential risks to the rights and safety of the known
+32 children whose data is processed by the controller, as mitigated by
+33 the safeguards that the controller may reasonably implement to
+34 reduce such risks, which may include, without limitation, using
+35 de-identified data in place of personal data;
+36 (c) Weigh the benefits identified pursuant to subparagraph (1)
+37 of paragraph (b) against the risks identified pursuant to
+38 subparagraph (2) of paragraph (b), factoring in:
+39 (1) The reasonable expectations of children who use the
+40 online service, product or feature and the reasonable expectations
+41 of the parents and legal guardians of such children;
+42 (2) The context in which the controller processes the data
+43 of known children; and
+44 (3) The relationship between the controller and the known
+45 children whose data the controller will process.
+-
+*SB63_R2*
+– 11 –
+1 3. A controller shall be deemed to have satisfied the
+2 requirements of paragraph (a) of subsection 1 if the controller has
+3 conducted:
+4 (a) A single data protection assessment that addresses a
+5 comparable set of data processing activities, each of which must
+6 be similar, in which the controller engages.
+7 (b) A data protection assessment in accordance with the laws
+8 or regulations of another state or the Federal Government if the
+9 assessment has a reasonably comparable scope and effect to an
+10 assessment that the controller would otherwise be required to
+11 conduct pursuant to paragraph (a) of subsection 1.
+12 4. The Attorney General may request any data protection
+13 assessment conducted pursuant to this section if the Attorney
+14 General believes that the content of such an assessment is relevant
+15 to an ongoing investigation of a potential violation of section 33 of
+16 this act. A controller shall provide to the Attorney General any
+17 data protection assessment that is requested pursuant to this
+18 subsection.
+19 5. A data protection assessment provided to the Attorney
+20 General pursuant to subsection 4 is confidential and is not a
+21 public book or record within the meaning of NRS 239.010.
+22 6. The disclosure of a data protection assessment to the
+23 Attorney General, the Office of the Attorney General or any other
+24 officer or employee of the Office of the Attorney General pursuant
+25 to subsection 4 does not constitute a waiver of the attorney-client
+26 privilege or work product protection with respect to the
+27 information contained within any such data protection
+28 assessment.
+29 Sec. 35. 1. Upon determining that a controller has violated
+30 or is violating any provision of sections 24 to 35, inclusive, of this
+31 act, the Attorney General shall provide the controller with written
+32 notice that identifies the specific provision of sections 24 to 35,
+33 inclusive, of this act that the Attorney General determines that the
+34 controller is violating or has violated and the specific facts
+35 underlying that determination.
+36 2. Not later than 30 days after receiving a notice pursuant to
+37 subsection 1, a controller shall remedy the violation described in
+38 the notice.
+39 3. Failure by a controller to comply with the requirements of
+40 subsection 2 constitutes a deceptive trade practice for the purposes
+41 of NRS 598.0903 to 598.0999, inclusive.
+42 4. The Attorney General has the exclusive authority to
+43 enforce the provisions of sections 24 to 35, inclusive, of this act.
+44 5. Nothing in sections 24 to 35, inclusive, of this act shall be
+45 construed to create a private right of action.
+-
+*SB63_R2*
+– 12 –
+1 Sec. 36. NRS 239.010 is hereby amended to read as follows:
+2 239.010 1. Except as otherwise provided in this section and
+3 NRS 1.4683, 1.4687, 1A.110, 3.2203, 41.0397, 41.071, 49.095,
+4 49.293, 62D.420, 62D.440, 62E.516, 62E.620, 62H.025, 62H.030,
+5 62H.170, 62H.220, 62H.320, 75A.100, 75A.150, 76.160, 78.152,
+6 80.113, 81.850, 82.183, 86.246, 86.54615, 87.515, 87.5413,
+7 87A.200, 87A.580, 87A.640, 88.3355, 88.5927, 88.6067, 88A.345,
+8 88A.7345, 89.045, 89.251, 90.730, 91.160, 116.757, 116A.270,
+9 116B.880, 118B.026, 119.260, 119.265, 119.267, 119.280,
+10 119A.280, 119A.653, 119A.677, 119B.370, 119B.382, 120A.640,
+11 120A.690, 125.130, 125B.140, 126.141, 126.161, 126.163, 126.730,
+12 127.007, 127.057, 127.130, 127.140, 127.2817, 128.090, 130.312,
+13 130.712, 136.050, 159.044, 159A.044, 164.041, 172.075, 172.245,
+14 176.01334, 176.01385, 176.015, 176.0625, 176.09129, 176.156,
+15 176A.630, 178.39801, 178.4715, 178.5691, 178.5717, 179.495,
+16 179A.070, 179A.165, 179D.160, 180.600, 200.3771, 200.3772,
+17 200.5095, 200.604, 202.3662, 205.4651, 209.392, 209.3923,
+18 209.3925, 209.419, 209.429, 209.521, 211A.140, 213.010, 213.040,
+19 213.095, 213.131, 217.105, 217.110, 217.464, 217.475, 218A.350,
+20 218E.625, 218F.150, 218G.130, 218G.240, 218G.350, 218G.615,
+21 224.240, 226.462, 226.796, 228.270, 228.450, 228.495, 228.570,
+22 231.069, 231.1285, 231.1473, 232.1369, 233.190, 237.300,
+23 239.0105, 239.0113, 239.014, 239B.026, 239B.030, 239B.040,
+24 239B.050, 239C.140, 239C.210, 239C.230, 239C.250, 239C.270,
+25 239C.420, 240.007, 241.020, 241.030, 241.039, 242.105, 244.264,
+26 244.335, 247.540, 247.545, 247.550, 247.560, 250.087, 250.130,
+27 250.140, 250.145, 250.150, 268.095, 268.0978, 268.490, 268.910,
+28 269.174, 271A.105, 281.195, 281.805, 281A.350, 281A.680,
+29 281A.685, 281A.750, 281A.755, 281A.780, 284.4068, 284.4086,
+30 286.110, 286.118, 287.0438, 289.025, 289.080, 289.387, 289.830,
+31 293.4855, 293.5002, 293.503, 293.504, 293.558, 293.5757, 293.870,
+32 293.906, 293.908, 293.909, 293.910, 293B.135, 293D.510, 331.110,
+33 332.061, 332.351, 333.333, 333.335, 338.070, 338.1379, 338.1593,
+34 338.1725, 338.1727, 348.420, 349.597, 349.775, 353.205,
+35 353A.049, 353A.085, 353A.100, 353C.240, 353D.250, 360.240,
+36 360.247, 360.255, 360.755, 361.044, 361.2242, 361.610, 365.138,
+37 366.160, 368A.180, 370.257, 370.327, 372A.080, 378.290, 378.300,
+38 379.0075, 379.008, 379.1495, 385A.830, 385B.100, 387.626,
+39 387.631, 388.1455, 388.259, 388.501, 388.503, 388.513, 388.750,
+40 388A.247, 388A.249, 391.033, 391.035, 391.0365, 391.120,
+41 391.925, 392.029, 392.147, 392.264, 392.271, 392.315, 392.317,
+42 392.325, 392.327, 392.335, 392.850, 393.045, 394.167, 394.16975,
+43 394.1698, 394.447, 394.460, 394.465, 396.1415, 396.1425, 396.143,
+44 396.159, 396.3295, 396.405, 396.525, 396.535, 396.9685,
+45 398A.115, 408.3885, 408.3886, 408.3888, 408.5484, 412.153,
+-
+*SB63_R2*
+– 13 –
+1 414.280, 416.070, 422.2749, 422.305, 422A.342, 422A.350,
+2 425.400, 427A.1236, 427A.872, 427A.940, 432.028, 432.205,
+3 432B.175, 432B.280, 432B.290, 432B.4018, 432B.407, 432B.430,
+4 432B.560, 432B.5902, 432C.140, 432C.150, 433.534, 433A.360,
+5 439.4941, 439.4988, 439.5282, 439.840, 439.914, 439A.116,
+6 439A.124, 439B.420, 439B.754, 439B.760, 439B.845, 440.170,
+7 441A.195, 441A.220, 441A.230, 442.330, 442.395, 442.735,
+8 442.774, 445A.665, 445B.570, 445B.7773, 449.209, 449.245,
+9 449.4315, 449A.112, 450.140, 450B.188, 450B.805, 453.164,
+10 453.720, 458.055, 458.280, 459.050, 459.3866, 459.555, 459.7056,
+11 459.846, 463.120, 463.15993, 463.240, 463.3403, 463.3407,
+12 463.790, 467.1005, 480.535, 480.545, 480.935, 480.940, 481.063,
+13 481.091, 481.093, 482.170, 482.368, 482.5536, 483.340, 483.363,
+14 483.575, 483.659, 483.800, 484A.469, 484B.830, 484B.833,
+15 484E.070, 485.316, 501.344, 503.452, 522.040, 534A.031, 561.285,
+16 571.160, 584.655, 587.877, 598.0964, 598.098, 598A.110,
+17 598A.420, 599B.090, 603.070, 603A.210, 604A.303, 604A.710,
+18 604D.500, 604D.600, 612.265, 616B.012, 616B.015, 616B.315,
+19 616B.350, 618.341, 618.425, 622.238, 622.310, 623.131, 623A.137,
+20 624.110, 624.265, 624.327, 625.425, 625A.185, 628.418, 628B.230,
+21 628B.760, 629.043, 629.047, 629.069, 630.133, 630.2671,
+22 630.2672, 630.2673, 630.2687, 630.30665, 630.336, 630A.327,
+23 630A.555, 631.332, 631.368, 632.121, 632.125, 632.3415,
+24 632.3423, 632.405, 633.283, 633.301, 633.427, 633.4715, 633.4716,
+25 633.4717, 633.524, 634.055, 634.1303, 634.214, 634A.169,
+26 634A.185, 634B.730, 635.111, 635.158, 636.262, 636.342, 637.085,
+27 637.145, 637B.192, 637B.288, 638.087, 638.089, 639.183,
+28 639.2485, 639.570, 640.075, 640.152, 640A.185, 640A.220,
+29 640B.405, 640B.730, 640C.580, 640C.600, 640C.620, 640C.745,
+30 640C.760, 640D.135, 640D.190, 640E.225, 640E.340, 641.090,
+31 641.221, 641.2215, 641A.191, 641A.217, 641A.262, 641B.170,
+32 641B.281, 641B.282, 641C.455, 641C.760, 641D.260, 641D.320,
+33 642.524, 643.189, 644A.870, 645.180, 645.625, 645A.050,
+34 645A.082, 645B.060, 645B.092, 645C.220, 645C.225, 645D.130,
+35 645D.135, 645G.510, 645H.320, 645H.330, 647.0945, 647.0947,
+36 648.033, 648.197, 649.065, 649.067, 652.126, 652.228, 653.900,
+37 654.110, 656.105, 657A.510, 661.115, 665.130, 665.133, 669.275,
+38 669.285, 669A.310, 670B.680, 671.365, 671.415, 673.450, 673.480,
+39 675.380, 676A.340, 676A.370, 677.243, 678A.470, 678C.710,
+40 678C.800, 679B.122, 679B.124, 679B.152, 679B.159, 679B.190,
+41 679B.285, 679B.690, 680A.270, 681A.440, 681B.260, 681B.410,
+42 681B.540, 683A.0873, 685A.077, 686A.289, 686B.170, 686C.306,
+43 687A.060, 687A.115, 687B.404, 687C.010, 688C.230, 688C.480,
+44 688C.490, 689A.696, 692A.117, 692C.190, 692C.3507, 692C.3536,
+45 692C.3538, 692C.354, 692C.420, 693A.480, 693A.615, 696B.550,
+-
+*SB63_R2*
+– 14 –
+1 696C.120, 703.196, 704B.325, 706.1725, 706A.230, 710.159,
+2 711.600, and section 34 of this act, sections 35, 38 and 41 of
+3 chapter 478, Statutes of Nevada 2011 and section 2 of chapter 391,
+4 Statutes of Nevada 2013 and unless otherwise declared by law to be
+5 confidential, all public books and public records of a governmental
+6 entity must be open at all times during office hours to inspection by
+7 any person, and may be fully copied or an abstract or memorandum
+8 may be prepared from those public books and public records. Any
+9 such copies, abstracts or memoranda may be used to supply the
+10 general public with copies, abstracts or memoranda of the records or
+11 may be used in any other way to the advantage of the governmental
+12 entity or of the general public. This section does not supersede or in
+13 any manner affect the federal laws governing copyrights or enlarge,
+14 diminish or affect in any other manner the rights of a person in any
+15 written book or record which is copyrighted pursuant to federal law.
+16 2. A governmental entity may not reject a book or record
+17 which is copyrighted solely because it is copyrighted.
+18 3. A governmental entity that has legal custody or control of a
+19 public book or record shall not deny a request made pursuant to
+20 subsection 1 to inspect or copy or receive a copy of a public book or
+21 record on the basis that the requested public book or record contains
+22 information that is confidential if the governmental entity can
+23 redact, delete, conceal or separate, including, without limitation,
+24 electronically, the confidential information from the information
+25 included in the public book or record that is not otherwise
+26 confidential.
+27 4. If requested, a governmental entity shall provide a copy of a
+28 public record in an electronic format by means of an electronic
+29 medium. Nothing in this subsection requires a governmental entity
+30 to provide a copy of a public record in an electronic format or by
+31 means of an electronic medium if:
+32 (a) The public record:
+33 (1) Was not created or prepared in an electronic format; and
+34 (2) Is not available in an electronic format; or
+35 (b) Providing the public record in an electronic format or by
+36 means of an electronic medium would:
+37 (1) Give access to proprietary software; or
+38 (2) Require the production of information that is confidential
+39 and that cannot be redacted, deleted, concealed or separated from
+40 information that is not otherwise confidential.
+41 5. An officer, employee or agent of a governmental entity who
+42 has legal custody or control of a public record:
+43 (a) Shall not refuse to provide a copy of that public record in the
+44 medium that is requested because the officer, employee or agent has
+-
+*SB63_R2*
+– 15 –
+1 already prepared or would prefer to provide the copy in a different
+2 medium.
+3 (b) Except as otherwise provided in NRS 239.030, shall, upon
+4 request, prepare the copy of the public record and shall not require
+5 the person who has requested the copy to prepare the copy himself
+6 or herself.
+7 Sec. 37. 1. A controller is not required to conduct a data
+8 protection assessment pursuant to section 34 of this act for any
+9 processing activity which the controller engaged in, created or
+10 generated before January 1, 2026, but is required to conduct a data
+11 protection assessment for any processing activity which the
+12 controller engages in, creates or generates on or after January 1,
+13 2026.
+14 2. As used in this section:
+15 (a) “Controller” has the meaning ascribed to it in section 27 of
+16 this act.
+17 (b) “Process” has the meaning ascribed to it in section 31 of this
+18 act.
+19 Sec. 38. 1. This section becomes effective upon passage and
+20 approval.
+21 2. Sections 1 to 37, inclusive, of this act become effective:
+22 (a) Upon passage and approval for the purpose of adopting any
+23 regulations and performing any other preparatory administrative
+24 tasks that are necessary to carry out the provisions of this act; and
+25 (b) On January 1, 2026, for all other purposes.
+H
+-
+*SB63_R2*
+[DELETED: (SBN.6CCL I O O O AOBAG) E T EN2,2 O  p r t t p o ( E o L G I o NE t d d p c o d o c f c p r f t c a b c o c t o d t c r c t c a a c c p p a p oT f C O P P A e c r t t c u a d o t p a p t t A r c o o I t ( e a m r p t p t s a i o p i c f c S 2 d “ t m a p w (]
+[DELETED: –S c a w r t s d c t n rS p c o c t p g d o s a c o f C O P P A S 3 p a d o a k c u s p o c a o t t p d t t c u t p iS 3 r a c t o a o s p o t i d a c t c a r a d pE l p t a v o a c d t ( 1 1 1 2 2 2 3 5 5 5 6 6 6 t p t C o D m r t t G r h o h i i a a l i a a f a i o t r]
+[DELETED: – m t $ f e v a ( i g o a f o t ( 5 3 r t A u d t a c h v o i v aS 1  (S 2  (S 3  (S 4  (S 4  (S 4  (S 4  (S 4  (S 5  (S 6  (S 7  (S 8  (S 9  (S 9  (S 1  (S 1  (S 1  (S 1  (S 1  (S 1  (S 1  (S 1  (S 1  (S 1  (S 1  (S 2  (S 2  (S 2  (]
+[DELETED: –S 2  CS 2  A s 2 t 3 i o t a h t mS 2  “S 2  “ m a n p w i a o t S a w i a i a i oS 2  “ c t t I T t m i wS 2  “1  O2  AS 2  “ d m d t c b l t a i o i p o a c d t b o i l t aS 2  “S 2  “1  M a s p o f t i p2  D( A( B( TS 3  “1  M a i t i l o r2  D n i d d o p aS 3  “]
+[DELETED: – d i w l t c uS 3  “ a p w p dS 3  “ a i m1  I l m a t t r o a2  A( T( B( B a p t w t c t w t p h d t i u tS 3  “1  T d o p d b a c t a2  T d o p d t a t p f o p a p o s r b a3  T4  T d o i p t a c( H i m a t t g p( D5  TS 3  “ c c p o a o a c oS 3  T1  D( A c a a d i 1 U §( A p i i r b t C R A 1 U § 1 e s a t]
+[DELETED: – a p t w i c( A p w c m o m s o( A p i i p f u t f D P P A o( A( A f i o a a o a f( A ( P t p d o l t 2 ( P t p d o l t 1( A A A o 1 P L 1 a t a p t i w2  D3  D n a t t e t s a w( C w a a f s a l l( C w a c c o r i o( C w a l e a c( I e e p f o d a( P]
+[DELETED: –( P w l f t t o a w( B b t c r t t f o t( T t l o p s o a c o o p( P ( A ( A ( A ( A( P o a i t p o t r f a( A i p o p s o s ( I ( A ( I a m a g b a b o  ( W t d o i u i s i l t p s b t d n  ( T  ( W t c h i( A a c p r e a( P ( S ( A]
+[DELETED: –S 3  A c t i i p o a d1  T2  P3  CS 3  1  B g o t c i a w t F2  A c s n p a p d o a( F ( P ( S ( P t c i f o d t( U( F l t i r n t e t3  A c w t i o f p t p( F( W t a p i r n4  A( T c o p g d i r a l i d t e t c t( T c d t t c w p]
+[DELETED: – ( I t c t h o h p g ( I5  A( “ t p l o s s o d b t c o f a l h i e i e c( “ g d m i d t i w l l a p s t d i t s ( T ( A d g b o c t a( “ m a f o a p o t p d o a p p t p p i r b( “ ( M o s p o f t a s o b o t p d o f t p o f o t c t f t ( D  ( A  ( A b o i d f t t c i c v a t t w t a i b p i]
+[DELETED: –  ( A d t t c i  ( T p o p d sS 3  1  E( C f e p a i w t( R e d p a c2  E d p a c p t( C ( T ( T c o p i o k p ( E p f w t c p t( I ( B p w m r e d o i f ( T s t r( W p ( a t r i p t ( T r e o c w u t ( T ( T]
+[DELETED: –3  A c s b d t h s t( A s d p a t a a( A t t c w o b r t4  T A G m r a d p c p t t s i t A a A s p A a p a t i r p t t5  A d p a p t t A p t s 4 i c a i n a6  T d o a d p a t t o w p p w r t t c w a s d pS 3  1  U i v o h v a t s f2  N3  F4  T A G h t e a t5  N]
+[DELETED: –S 3  N2  1  E 1 1 1 3 4 4 4 6 6 7 7 7 7 8 8 8 8 8 8 8 8 9 9 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4]
+[DELETED: – 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6]
+[DELETED: – 7 7 7 7 7 a s 3 o t a s 3 3 a 4 o c a o m m b u t s t2  A g e m n r a b o r3  A b o r s n d a r m p t t i c i t g e c d c o s i w l t c i f t i i t p b o r t i n o4  I r i a e f b m o a e( T ( W ( I( P t p r i a e f o b ( G ( R5  A( S]
+[DELETED: –( ES 3  1  A c i n r t c a d a p t s 3 o t a f a a w t c e i c o a f a p a w t e i c o g o o a J 12  A( “( “S 3  1  T2  S( U a p a o p a( O]
+
+
+================================================================================
+
+Raw Text:
+(Reprinted with amendments adopted on June 2, 2025)
+SECOND REPRINT S.B. 63
+SENATE BILL NO. 63–COMMITTEE ON COMMERCE AND LABOR
+(ON BEHALF OF THE ATTORNEY GENERAL)
+PREFILED NOVEMBER 20, 2024
+____________
+Referred to Committee on Commerce and Labor
+SUMMARY—Revises provisions relating to the processing of
+certain data. (BDR 52-505)
+FISCAL NOTE: Effect on Local Government: Increases or Newly
+Provides for Term of Imprisonment in County or City
+Jail or Detention Facility.
+Effect on the State: Yes.
+~
+EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+AN ACT relating to the Internet; establishing certain requirements
+relating to de-identified data; prohibiting controllers of
+online services, products or features from processing the
+personal data of children for certain purposes;
+establishing requirements for the collection and
+processing by controllers of certain types of data
+belonging to children; requiring controllers to conduct
+certain assessments; authorizing certain civil
+enforcement; providing penalties; and providing other
+matters properly relating thereto.
+Legislative Counsel’s Digest:
+1 The federal Children’s Online Privacy Protection Act establishes certain
+2 requirements relating to the collection, use and disclosure of the personal
+3 information of children on the Internet. (15 U.S.C. §§ 6501 et seq.) Existing federal
+4 regulations adopted pursuant to that Act require certain operators of Internet
+5 websites to: (1) establish and maintain reasonable procedures to protect the
+6 confidentiality, security and integrity of personal information collected from
+7 children; and (2) obtain verifiable parental consent before the operator collects,
+8 uses or discloses any personal information of a child. (16 C.F.R. §§ 312.5, 312.8)
+9 Sections 24-35 of this bill enact certain additional requirements relating to the
+10 collection and processing of personal data collected from children on the Internet
+11 by controllers. Section 27 defines “controller” to mean any person who: (1)
+12 operates or provides any online service, product or feature targeted to persons in
+13 this State; and (2) determines the purpose and means of processing personal data.
+-
+*SB63_R2*
+
+– 2 –
+14 Sections 25-26 and 28-31.9 define certain other terms, and section 24 establishes
+15 the applicability of those definitions to sections 24-35. Section 32 exempts certain
+16 entities, types of data and activities from the requirements of sections 24-35.
+17 Section 32.5 requires a controller that is in possession of de-identified data to
+18 take certain actions with respect to such data, including committing to not re-
+19 identify such data and contractually obligating any person to which the controller
+20 provides such data to comply with the requirements of section 32.5.
+21 Section 33 requires a controller to, before processing personal data from a
+22 known child or collecting the precise geolocation data of such a child, obtain
+23 verifiable consent from the parent or legal guardian of the child in accordance with
+24 the federal Children’s Online Privacy Protection Act. Section 33 prohibits a
+25 controller from processing the personal data of a known child for the purposes of:
+26 (1) providing targeted advertising to the child; (2) the sale of the personal data of
+27 the child; or (3) profiling the child for certain purposes. Section 33 additionally
+28 prohibits a controller from processing the personal data or collecting the precise
+29 geolocation data of a known child unless such processing or collection, as
+30 applicable, is reasonably necessary and limited in duration to enable the controller
+31 to provide the online service, product or feature. Section 33 further requires a
+32 controller that collects the precise geolocation data of a known child to, during all
+33 times that the controller is collecting such data, provide an indication to the child
+34 that such collection is occurring. Finally, section 33 requires a controller, if the
+35 controller seeks to collect the personal data of a known child with the intent to
+36 further process such data, to disclose to the child the purposes of such additional
+37 processing. Section 33 prohibits a controller from further processing such data for a
+38 purpose other than the purpose disclosed to the child, unless that purpose is
+39 necessary for carrying out and compatible with the purpose disclosed to the child.
+40 Section 34 requires a controller that offers any online service, product or
+41 feature that is directed at children to conduct and retain a data protection
+42 assessment for each processing activity in which the controller engages. Section 34
+43 also requires, in certain circumstances, a controller to provide a data protection
+44 assessment prepared by the controller to the Attorney General. Sections 34 and 36
+45 of this bill provide for the confidentiality of the information contained within a data
+46 protection assessment that is provided to the Attorney General. Section 34 also
+47 provides that, by disclosing to the Attorney General or the Office of the Attorney
+48 General a data protection assessment as required by section 34, a controller does
+49 not waive certain evidentiary privileges that would otherwise be applicable to the
+50 information contained within the data protection assessment.
+51 Existing law provides that a variety of actions constitute deceptive trade
+52 practices. (NRS 100.180, 111.2397, 118A.275, 202.24935, 205.377, 226.600,
+53 228.620, 370.695, 597.7642, 597.818, 597.997, 603.170, 603A.260, 603A.550,
+54 604B.910, 676A.770; chapter 598 of NRS) Existing law authorizes a court or the
+55 Director of the Department of Business and Industry to impose a civil penalty of
+56 not more than $25,000 for each violation upon a person who has engaged in a
+57 deceptive trade practice directed toward a minor. (NRS 598.09735) In addition,
+58 existing law provides that when the Commissioner of Consumer Affairs or the
+59 Director has cause to believe that a person has engaged or is engaging in any
+60 deceptive trade practice, the Commissioner or Director may request that the
+61 Attorney General represent him or her in instituting an appropriate legal
+62 proceeding, including an application for an injunction or temporary restraining
+63 order. (NRS 598.0979) Existing law requires a person who violates a court order or
+64 injunction resulting from a complaint brought by the Commissioner, the Director,
+65 the district attorney of any county of this State or the Attorney General to pay a
+66 civil penalty of not more than $10,000 for each violation. Furthermore, if a court
+67 finds that a person has willfully engaged in a deceptive trade practice, the person
+68 who committed the violation: (1) may be required to pay an additional civil penalty
+-
+*SB63_R2*
+
+– 3 –
+69 not more than $15,000 for each violation; and (2) is guilty of a felony or
+70 misdemeanor, depending on the value of the property or services lost as a result of
+71 the deceptive trade practice. (NRS 598.0999) Section 35 requires the Attorney
+72 General, upon determining that a controller has violated or is violating any
+73 provision of sections 24-35, to provide the controller written notice of the alleged
+74 violation. Section 35 makes it a deceptive trade practice for a controller to fail to
+75 remedy a violation of sections 24-35 within 30 days after receiving written notice
+76 of the violation from the Attorney General. Section 35 grants the Attorney General
+77 the exclusive authority to enforce the requirements of sections 24-35 and further
+78 provides that those sections do not create a private right of action.
+THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN
+SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:
+1 Section 1. (Deleted by amendment.)
+2 Sec. 2. (Deleted by amendment.)
+3 Sec. 3. (Deleted by amendment.)
+4 Sec. 4. (Deleted by amendment.)
+5 Sec. 4.1. (Deleted by amendment.)
+6 Sec. 4.3. (Deleted by amendment.)
+7 Sec. 4.5. (Deleted by amendment.)
+8 Sec. 4.7. (Deleted by amendment.)
+9 Sec. 5. (Deleted by amendment.)
+10 Sec. 6. (Deleted by amendment.)
+11 Sec. 7. (Deleted by amendment.)
+12 Sec. 8. (Deleted by amendment.)
+13 Sec. 9. (Deleted by amendment.)
+14 Sec. 9.5. (Deleted by amendment.)
+15 Sec. 10. (Deleted by amendment.)
+16 Sec. 10.5. (Deleted by amendment.)
+17 Sec. 11. (Deleted by amendment.)
+18 Sec. 12. (Deleted by amendment.)
+19 Sec. 13. (Deleted by amendment.)
+20 Sec. 14. (Deleted by amendment.)
+21 Sec. 15. (Deleted by amendment.)
+22 Sec. 16. (Deleted by amendment.)
+23 Sec. 17. (Deleted by amendment.)
+24 Sec. 18. (Deleted by amendment.)
+25 Sec. 19. (Deleted by amendment.)
+26 Sec. 20. (Deleted by amendment.)
+27 Sec. 21. (Deleted by amendment.)
+28 Sec. 22. (Deleted by amendment.)
+-
+*SB63_R2*
+
+– 4 –
+1 Sec. 23. Chapter 603A of NRS is hereby amended by adding
+2 thereto the provisions set forth as sections 24 to 35, inclusive, of this
+3 act.
+4 Sec. 24. As used in sections 24 to 35, inclusive, of this act
+5 unless the context otherwise requires, the words and terms defined
+6 in sections 25 to 31.9, inclusive, of this act have the meanings
+7 ascribed to them in those sections.
+8 Sec. 25. “Child” means a natural person who is less than 13
+9 years of age.
+10 Sec. 25.7. “Consumer” means a natural person who is a
+11 resident of this State and who is acting in an individual or
+12 personal capacity. The term does not include a natural person who
+13 is acting in a commercial or employment capacity.
+14 Sec. 26. “Consumer device” means an electronic device that
+15 is used primarily for personal, family or household purposes and
+16 which connects to the Internet. The term may include, without
+17 limitation, a computer, smartphone, electronic tablet, smartwatch,
+18 router, Internet gateway, smart television or video game console.
+19 Sec. 27. “Controller” means any person who:
+20 1. Operates or provides any online service, product or feature
+21 that is targeted to persons in this State; and
+22 2. Alone or with other persons, determines the purpose and
+23 means of processing personal data.
+24 Sec. 28. “De-identified data” means data that cannot be
+25 reasonably linked to an identified or identifiable person or a
+26 particular consumer device that belongs or is linked to an
+27 identifiable person.
+28 Sec. 28.5. “Known child” means a person whom a controller
+29 knows to be a child.
+30 Sec. 29. “Online service, product or feature”:
+31 1. Means any service, product or feature that is provided
+32 online.
+33 2. Does not include:
+34 (a) A telecommunications service, as that term is defined in 47
+35 U.S.C. § 153;
+36 (b) Broadband Internet access service, as that term is defined
+37 in 47 C.F.R. § 54.400; or
+38 (c) The delivery and use of a physical product.
+39 Sec. 30. “Personal data”:
+40 1. Means any information that is linked or reasonably
+41 linkable to an identified or identifiable person.
+42 2. Does not include de-identified data or publicly available
+43 information.
+44 Sec. 31. “Process” means to perform any operation or set of
+45 operations, whether performed by manual or automated means, on
+-
+*SB63_R2*
+
+– 5 –
+1 personal data, including, without limitation, the collection, use,
+2 storage, disclosure, analysis, deletion or modification of personal
+3 data.
+4 Sec. 31.3. “Processor” means a person who processes data
+5 on behalf of a controller.
+6 Sec. 31.5. “Publicly available information” means
+7 information that:
+8 1. Is lawfully made available through the records of a
+9 governmental entity; or
+10 2. A business has a reasonable basis to believe is made to be
+11 lawfully available to the general public:
+12 (a) Through a channel of media that is widely distributed;
+13 (b) By the consumer to whom the information pertains; or
+14 (c) By a person to whom the consumer to whom the
+15 information pertains has disclosed the information, unless the
+16 consumer has restricted the information to a specific audience.
+17 Sec. 31.7. “Sale” means the exchange of personal data with
+18 a third party for money or other valuable consideration. The term
+19 does not include:
+20 1. The disclosure of personal data by a controller to a
+21 processor that processes personal data on behalf of the controller;
+22 2. The disclosure of personal data to a third party for
+23 purposes of providing a product or service requested by a
+24 consumer;
+25 3. The disclosure or transfer of personal data to an affiliate
+26 of the controller;
+27 4. The disclosure of information pertaining to a consumer
+28 that the consumer:
+29 (a) Has intentionally made available to the general public
+30 through a channel of media that is widely distributed; and
+31 (b) Did not restrict to a particular audience; or
+32 5. The disclosure or transfer of personal data to a third party
+33 as an asset that is a part of a merger, acquisition, bankruptcy or
+34 other transaction in which the third party assumes control of all or
+35 part of the assets of the controller.
+36 Sec. 31.9. “Third party” means a person or entity that is not
+37 a consumer, controller, processor or affiliate of a controller or
+38 processor.
+39 Sec. 32. The provisions of sections 24 to 35, inclusive, of this
+40 act:
+41 1. Do not apply to:
+42 (a) A consumer reporting agency, as defined in 15 U.S.C. §
+43 1681a(f);
+44 (b) Any personally identifiable information regulated by the
+45 Fair Credit Reporting Act, 15 U.S.C. §§ 1681 et seq., and the
+-
+*SB63_R2*
+
+– 6 –
+1 regulations adopted pursuant thereto, which is collected,
+2 maintained or sold as provided in that Act;
+3 (c) A person who collects, maintains, or makes sales of
+4 personally identifiable information for the purposes of preventing
+5 fraud;
+6 (d) Any personally identifiable information protected from
+7 disclosure under the federal Driver’s Privacy Protection Act of
+8 1994, 18 U.S.C. §§ 2721 et seq., which is collected, maintained or
+9 sold as provided in that Act;
+10 (e) Any consumer health data subject to the provisions of NRS
+11 603A.400 to 603A.550, inclusive;
+12 (f) A financial institution or an affiliate of a financial
+13 institution that is subject to the provisions of the Gramm-Leach-
+14 Bliley Act, 15 U.S.C. §§ 6801 et seq., or any personally identifiable
+15 information regulated by that Act which is collected, maintained
+16 or sold as provided in that Act;
+17 (g) A controller that, during a calendar year:
+18 (1) Processes the personal data of less than 25,000
+19 residents of this State; or
+20 (2) Processes the personal data of less than 100,000
+21 residents of this State and derives less than 50 percent of its gross
+22 revenue from the sale of personal data; or
+23 (h) A person who is subject to the Health Insurance Portability
+24 and Accountability Act of 1996, Public Law 104-191, and the
+25 regulations adopted pursuant thereto, including, without
+26 limitation, a covered entity or a business associate of a covered
+27 entity, as those terms are defined in 45 C.F.R. § 160.103.
+28 2. Do not require a controller to take any action with regard
+29 to a child who does not reside in this State.
+30 3. Do not apply to the extent that such application would
+31 restrict the ability of a controller or processor to:
+32 (a) Comply with all applicable federal, state and local laws,
+33 regulations and ordinances;
+34 (b) Comply with a civil, criminal or regulatory inquiry or
+35 investigation conducted by a governmental entity or a subpoena or
+36 summons issued by a governmental entity;
+37 (c) Cooperate with a law enforcement agency concerning
+38 conduct or activity that the controller or processor reasonably, and
+39 in good faith, believes may violate any federal, state or local law or
+40 regulation;
+41 (d) Investigate, establish, exercise, prepare for or defend a
+42 legal claim;
+43 (e) Provide a product or service that is specifically requested by
+44 a consumer;
+-
+*SB63_R2*
+
+– 7 –
+1 (f) Perform under a contract to which a consumer is a party,
+2 including, without limitation, fulfilling the terms of a written
+3 warranty;
+4 (g) Before entering into a contract with a consumer, take steps
+5 requested by the consumer relating to the formation of the
+6 contract;
+7 (h) Take immediate steps to protect an interest that is essential
+8 for the life or physical safety of a consumer or other person,
+9 unless those steps are clearly taken for another purpose;
+10 (i) Prevent, detect, protect against or respond to:
+11 (1) A security incident;
+12 (2) An instance of identity theft, fraud or harassment;
+13 (3) A malicious or deceptive activity; or
+14 (4) Any illegal activity;
+15 (j) Preserve the integrity or security of systems or investigate,
+16 report or assist in the prosecution of those responsible for any
+17 activity described in paragraph (i);
+18 (k) Assist in public or peer-reviewed scientific or statistical
+19 research which:
+20 (1) Is in the public interest;
+21 (2) Adheres to all applicable laws relating to privacy and
+22 ethics; and
+23 (3) Is approved, monitored and governed by a board of
+24 institutional review, or a similar entity that independently oversees
+25 such research, that determines:
+26 (I) Whether the deletion of information used in such
+27 research is likely to provide substantial benefits that do not
+28 exclusively accrue to the controller;
+29 (II) That the expected benefits of the research outweigh
+30 any applicable privacy risks; and
+31 (III) Whether the controller has implemented
+32 reasonable safeguards to mitigate any risks to privacy associated
+33 with such research, including, without limitation, risks associated
+34 with the re-identification of data;
+35 (l) Assist another controller, processor, regulated entity, as
+36 defined in NRS 603A.465, or third party with complying with the
+37 requirements of NRS 603A.400 to 603A.550, inclusive; or
+38 (m) Process personal data for purposes which are in the public
+39 interest and relate to public, community or population health, but
+40 only to the extent that such processing is subject to:
+41 (1) Suitable and specific measures to safeguard the rights
+42 of the consumer whose personal data is being processed; and
+43 (2) All applicable confidentiality requirements imposed by
+44 federal, state or local law and overseen by a person subject to such
+45 requirements.
+-
+*SB63_R2*
+
+– 8 –
+1 Sec. 32.5. A controller that is in possession of any de-
+2 identified data shall:
+3 1. Take reasonable measures to ensure that the data cannot
+4 be associated with a natural person;
+5 2. Publicly commit to maintaining and using the de-identified
+6 data without attempting to re-identify the data; and
+7 3. Contractually obligate any recipients of de-identified data
+8 provided by the controller to comply with the requirements of this
+9 section with respect to such data.
+10 Sec. 33. 1. Before processing personal data from a known
+11 child or collecting the precise geolocation data of a known child,
+12 the controller shall obtain verifiable consent from the parent or
+13 legal guardian of the child in accordance with the Federal
+14 Children’s Online Privacy Protection Act, 15 U.S.C. §§ 6501 et
+15 seq., and any regulations adopted pursuant thereto.
+16 2. A controller shall not process any personal data of a
+17 known child:
+18 (a) For the purposes of:
+19 (1) Providing targeted advertising to the child;
+20 (2) Selling the personal data of the child; or
+21 (3) Profiling the child in furtherance of decisions that
+22 produce legal or similarly significant effects concerning the child;
+23 (b) Unless the processing is reasonably necessary to enable the
+24 controller to provide the online service, product or feature offered
+25 by the controller; or
+26 (c) For longer than is reasonably necessary to enable the
+27 controller to provide the online service, product or feature offered
+28 by the controller.
+29 3. At the time that a controller collects personal data from a
+30 known child with the intent of further processing the personal
+31 data, the controller shall disclose the purpose of the processing to
+32 the child. The controller shall not further process the data except:
+33 (a) For the purpose disclosed to the child; or
+34 (b) Where the additional processing is reasonably necessary
+35 for carrying out and compatible with the purpose disclosed to the
+36 child.
+37 4. A controller shall not collect precise geolocation data from
+38 a known child unless:
+39 (a) The collection of precise geolocation data is reasonably
+40 necessary and limited in duration to enable the controller to
+41 provide the online service, product or feature in connection with
+42 which the precise geolocation data is collected; and
+43 (b) The controller displays to the child whose precise
+44 geolocation data is being collected a notification, banner, symbol
+45 or other indicator that:
+-
+*SB63_R2*
+
+– 9 –
+1 (1) Informs the child that his or her precise geolocation
+2 data is being collected; and
+3 (2) Is displayed at all times during which the controller is
+4 collecting the precise geolocation of the child.
+5 5. As used in this section:
+6 (a) “Decision that produces legal or similarly significant
+7 effects” means a decision made by a controller that results in the
+8 provision or denial by the controller of financial and lending
+9 services, housing, insurance, enrollment in education, criminal
+10 justice, employment opportunities, health care services or access to
+11 basic necessities, including, without limitation, food and water.
+12 (b) “Precise geolocation data” means information derived
+13 from technology, including, without limitation, latitude and
+14 longitude coordinates at the level of detail typically provided by a
+15 global positioning system, that directly identifies the specific
+16 location of a natural person with precision and accuracy within a
+17 radius of 1,750 feet. The term does not include:
+18 (1) The content of any communication; or
+19 (2) Any data generated by or connected to advanced
+20 metering infrastructure for utilities or other equipment used by a
+21 utility.
+22 (c) “Profiling” means a form of automated processing
+23 performed on the personal data of a particular person that
+24 evaluates, analyzes or predicts the personal aspects relating to the
+25 person, including, without limitation, the economic status, health
+26 status, personal preferences, interests, reliability, behavior,
+27 location or movements of the person.
+28 (d) “Targeted advertising”:
+29 (1) Means the display of advertisements to a consumer of
+30 an online service, product or feature that are selected or
+31 recommended based on the personal data obtained from the
+32 online activity of the consumer over time and across other online
+33 services, products or features that are not affiliated with the online
+34 service, product or feature or the controller thereof for the
+35 purpose of predicting the preferences or interests of the consumer.
+36 (2) Does not include:
+37 (I) Advertisements based on the activity of a consumer
+38 within online services, products or features operated by the same
+39 controller;
+40 (II) Advertisements based on inferences drawn
+41 exclusively from the specific content of the online service, product
+42 or feature that the consumer is currently viewing at the time
+43 during which the advertisement is being provided, including
+44 inferences drawn from search queries performed by the consumer
+45 on the online service, product or feature;
+-
+*SB63_R2*
+
+– 10 –
+1 (III) Advertisements directed to the consumer in
+2 response to a request for information or feedback submitted by the
+3 consumer; or
+4 (IV) The processing of personal data performed solely
+5 for measuring or reporting the performance, reach or frequency
+6 of advertising.
+7 Sec. 34. 1. Except as otherwise provided in subsection 3, a
+8 controller that offers any online service, product or feature that is
+9 directed at children shall:
+10 (a) Conduct, for each processing activity in which the
+11 controller engages, a data protection assessment; and
+12 (b) Retain each data protection assessment conducted
+13 pursuant to paragraph (a) for at least 3 years after the controller
+14 ceases to offer the online service, product or feature.
+15 2. Each data protection assessment conducted pursuant to
+16 paragraph (a) of subsection 1 must:
+17 (a) Contain a description of:
+18 (1) The purpose of the online service, product or feature to
+19 which the data protection assessment pertains;
+20 (2) The categories of personal information of known
+21 children that are processed by or in connection with the online
+22 service, product or feature; and
+23 (3) Each purpose for which the controller processes the
+24 personal data of known children.
+25 (b) Identify the:
+26 (1) Benefits to the controller, the consumers of the online
+27 services, products or features offered by the controller, including,
+28 without limitation, such consumers who are known children, and
+29 the public which may result, either directly or indirectly, from
+30 processing the data of known children; and
+31 (2) The potential risks to the rights and safety of the known
+32 children whose data is processed by the controller, as mitigated by
+33 the safeguards that the controller may reasonably implement to
+34 reduce such risks, which may include, without limitation, using
+35 de-identified data in place of personal data;
+36 (c) Weigh the benefits identified pursuant to subparagraph (1)
+37 of paragraph (b) against the risks identified pursuant to
+38 subparagraph (2) of paragraph (b), factoring in:
+39 (1) The reasonable expectations of children who use the
+40 online service, product or feature and the reasonable expectations
+41 of the parents and legal guardians of such children;
+42 (2) The context in which the controller processes the data
+43 of known children; and
+44 (3) The relationship between the controller and the known
+45 children whose data the controller will process.
+-
+*SB63_R2*
+
+– 11 –
+1 3. A controller shall be deemed to have satisfied the
+2 requirements of paragraph (a) of subsection 1 if the controller has
+3 conducted:
+4 (a) A single data protection assessment that addresses a
+5 comparable set of data processing activities, each of which must
+6 be similar, in which the controller engages.
+7 (b) A data protection assessment in accordance with the laws
+8 or regulations of another state or the Federal Government if the
+9 assessment has a reasonably comparable scope and effect to an
+10 assessment that the controller would otherwise be required to
+11 conduct pursuant to paragraph (a) of subsection 1.
+12 4. The Attorney General may request any data protection
+13 assessment conducted pursuant to this section if the Attorney
+14 General believes that the content of such an assessment is relevant
+15 to an ongoing investigation of a potential violation of section 33 of
+16 this act. A controller shall provide to the Attorney General any
+17 data protection assessment that is requested pursuant to this
+18 subsection.
+19 5. A data protection assessment provided to the Attorney
+20 General pursuant to subsection 4 is confidential and is not a
+21 public book or record within the meaning of NRS 239.010.
+22 6. The disclosure of a data protection assessment to the
+23 Attorney General, the Office of the Attorney General or any other
+24 officer or employee of the Office of the Attorney General pursuant
+25 to subsection 4 does not constitute a waiver of the attorney-client
+26 privilege or work product protection with respect to the
+27 information contained within any such data protection
+28 assessment.
+29 Sec. 35. 1. Upon determining that a controller has violated
+30 or is violating any provision of sections 24 to 35, inclusive, of this
+31 act, the Attorney General shall provide the controller with written
+32 notice that identifies the specific provision of sections 24 to 35,
+33 inclusive, of this act that the Attorney General determines that the
+34 controller is violating or has violated and the specific facts
+35 underlying that determination.
+36 2. Not later than 30 days after receiving a notice pursuant to
+37 subsection 1, a controller shall remedy the violation described in
+38 the notice.
+39 3. Failure by a controller to comply with the requirements of
+40 subsection 2 constitutes a deceptive trade practice for the purposes
+41 of NRS 598.0903 to 598.0999, inclusive.
+42 4. The Attorney General has the exclusive authority to
+43 enforce the provisions of sections 24 to 35, inclusive, of this act.
+44 5. Nothing in sections 24 to 35, inclusive, of this act shall be
+45 construed to create a private right of action.
+-
+*SB63_R2*
+
+– 12 –
+1 Sec. 36. NRS 239.010 is hereby amended to read as follows:
+2 239.010 1. Except as otherwise provided in this section and
+3 NRS 1.4683, 1.4687, 1A.110, 3.2203, 41.0397, 41.071, 49.095,
+4 49.293, 62D.420, 62D.440, 62E.516, 62E.620, 62H.025, 62H.030,
+5 62H.170, 62H.220, 62H.320, 75A.100, 75A.150, 76.160, 78.152,
+6 80.113, 81.850, 82.183, 86.246, 86.54615, 87.515, 87.5413,
+7 87A.200, 87A.580, 87A.640, 88.3355, 88.5927, 88.6067, 88A.345,
+8 88A.7345, 89.045, 89.251, 90.730, 91.160, 116.757, 116A.270,
+9 116B.880, 118B.026, 119.260, 119.265, 119.267, 119.280,
+10 119A.280, 119A.653, 119A.677, 119B.370, 119B.382, 120A.640,
+11 120A.690, 125.130, 125B.140, 126.141, 126.161, 126.163, 126.730,
+12 127.007, 127.057, 127.130, 127.140, 127.2817, 128.090, 130.312,
+13 130.712, 136.050, 159.044, 159A.044, 164.041, 172.075, 172.245,
+14 176.01334, 176.01385, 176.015, 176.0625, 176.09129, 176.156,
+15 176A.630, 178.39801, 178.4715, 178.5691, 178.5717, 179.495,
+16 179A.070, 179A.165, 179D.160, 180.600, 200.3771, 200.3772,
+17 200.5095, 200.604, 202.3662, 205.4651, 209.392, 209.3923,
+18 209.3925, 209.419, 209.429, 209.521, 211A.140, 213.010, 213.040,
+19 213.095, 213.131, 217.105, 217.110, 217.464, 217.475, 218A.350,
+20 218E.625, 218F.150, 218G.130, 218G.240, 218G.350, 218G.615,
+21 224.240, 226.462, 226.796, 228.270, 228.450, 228.495, 228.570,
+22 231.069, 231.1285, 231.1473, 232.1369, 233.190, 237.300,
+23 239.0105, 239.0113, 239.014, 239B.026, 239B.030, 239B.040,
+24 239B.050, 239C.140, 239C.210, 239C.230, 239C.250, 239C.270,
+25 239C.420, 240.007, 241.020, 241.030, 241.039, 242.105, 244.264,
+26 244.335, 247.540, 247.545, 247.550, 247.560, 250.087, 250.130,
+27 250.140, 250.145, 250.150, 268.095, 268.0978, 268.490, 268.910,
+28 269.174, 271A.105, 281.195, 281.805, 281A.350, 281A.680,
+29 281A.685, 281A.750, 281A.755, 281A.780, 284.4068, 284.4086,
+30 286.110, 286.118, 287.0438, 289.025, 289.080, 289.387, 289.830,
+31 293.4855, 293.5002, 293.503, 293.504, 293.558, 293.5757, 293.870,
+32 293.906, 293.908, 293.909, 293.910, 293B.135, 293D.510, 331.110,
+33 332.061, 332.351, 333.333, 333.335, 338.070, 338.1379, 338.1593,
+34 338.1725, 338.1727, 348.420, 349.597, 349.775, 353.205,
+35 353A.049, 353A.085, 353A.100, 353C.240, 353D.250, 360.240,
+36 360.247, 360.255, 360.755, 361.044, 361.2242, 361.610, 365.138,
+37 366.160, 368A.180, 370.257, 370.327, 372A.080, 378.290, 378.300,
+38 379.0075, 379.008, 379.1495, 385A.830, 385B.100, 387.626,
+39 387.631, 388.1455, 388.259, 388.501, 388.503, 388.513, 388.750,
+40 388A.247, 388A.249, 391.033, 391.035, 391.0365, 391.120,
+41 391.925, 392.029, 392.147, 392.264, 392.271, 392.315, 392.317,
+42 392.325, 392.327, 392.335, 392.850, 393.045, 394.167, 394.16975,
+43 394.1698, 394.447, 394.460, 394.465, 396.1415, 396.1425, 396.143,
+44 396.159, 396.3295, 396.405, 396.525, 396.535, 396.9685,
+45 398A.115, 408.3885, 408.3886, 408.3888, 408.5484, 412.153,
+-
+*SB63_R2*
+
+– 13 –
+1 414.280, 416.070, 422.2749, 422.305, 422A.342, 422A.350,
+2 425.400, 427A.1236, 427A.872, 427A.940, 432.028, 432.205,
+3 432B.175, 432B.280, 432B.290, 432B.4018, 432B.407, 432B.430,
+4 432B.560, 432B.5902, 432C.140, 432C.150, 433.534, 433A.360,
+5 439.4941, 439.4988, 439.5282, 439.840, 439.914, 439A.116,
+6 439A.124, 439B.420, 439B.754, 439B.760, 439B.845, 440.170,
+7 441A.195, 441A.220, 441A.230, 442.330, 442.395, 442.735,
+8 442.774, 445A.665, 445B.570, 445B.7773, 449.209, 449.245,
+9 449.4315, 449A.112, 450.140, 450B.188, 450B.805, 453.164,
+10 453.720, 458.055, 458.280, 459.050, 459.3866, 459.555, 459.7056,
+11 459.846, 463.120, 463.15993, 463.240, 463.3403, 463.3407,
+12 463.790, 467.1005, 480.535, 480.545, 480.935, 480.940, 481.063,
+13 481.091, 481.093, 482.170, 482.368, 482.5536, 483.340, 483.363,
+14 483.575, 483.659, 483.800, 484A.469, 484B.830, 484B.833,
+15 484E.070, 485.316, 501.344, 503.452, 522.040, 534A.031, 561.285,
+16 571.160, 584.655, 587.877, 598.0964, 598.098, 598A.110,
+17 598A.420, 599B.090, 603.070, 603A.210, 604A.303, 604A.710,
+18 604D.500, 604D.600, 612.265, 616B.012, 616B.015, 616B.315,
+19 616B.350, 618.341, 618.425, 622.238, 622.310, 623.131, 623A.137,
+20 624.110, 624.265, 624.327, 625.425, 625A.185, 628.418, 628B.230,
+21 628B.760, 629.043, 629.047, 629.069, 630.133, 630.2671,
+22 630.2672, 630.2673, 630.2687, 630.30665, 630.336, 630A.327,
+23 630A.555, 631.332, 631.368, 632.121, 632.125, 632.3415,
+24 632.3423, 632.405, 633.283, 633.301, 633.427, 633.4715, 633.4716,
+25 633.4717, 633.524, 634.055, 634.1303, 634.214, 634A.169,
+26 634A.185, 634B.730, 635.111, 635.158, 636.262, 636.342, 637.085,
+27 637.145, 637B.192, 637B.288, 638.087, 638.089, 639.183,
+28 639.2485, 639.570, 640.075, 640.152, 640A.185, 640A.220,
+29 640B.405, 640B.730, 640C.580, 640C.600, 640C.620, 640C.745,
+30 640C.760, 640D.135, 640D.190, 640E.225, 640E.340, 641.090,
+31 641.221, 641.2215, 641A.191, 641A.217, 641A.262, 641B.170,
+32 641B.281, 641B.282, 641C.455, 641C.760, 641D.260, 641D.320,
+33 642.524, 643.189, 644A.870, 645.180, 645.625, 645A.050,
+34 645A.082, 645B.060, 645B.092, 645C.220, 645C.225, 645D.130,
+35 645D.135, 645G.510, 645H.320, 645H.330, 647.0945, 647.0947,
+36 648.033, 648.197, 649.065, 649.067, 652.126, 652.228, 653.900,
+37 654.110, 656.105, 657A.510, 661.115, 665.130, 665.133, 669.275,
+38 669.285, 669A.310, 670B.680, 671.365, 671.415, 673.450, 673.480,
+39 675.380, 676A.340, 676A.370, 677.243, 678A.470, 678C.710,
+40 678C.800, 679B.122, 679B.124, 679B.152, 679B.159, 679B.190,
+41 679B.285, 679B.690, 680A.270, 681A.440, 681B.260, 681B.410,
+42 681B.540, 683A.0873, 685A.077, 686A.289, 686B.170, 686C.306,
+43 687A.060, 687A.115, 687B.404, 687C.010, 688C.230, 688C.480,
+44 688C.490, 689A.696, 692A.117, 692C.190, 692C.3507, 692C.3536,
+45 692C.3538, 692C.354, 692C.420, 693A.480, 693A.615, 696B.550,
+-
+*SB63_R2*
+
+– 14 –
+1 696C.120, 703.196, 704B.325, 706.1725, 706A.230, 710.159,
+2 711.600, and section 34 of this act, sections 35, 38 and 41 of
+3 chapter 478, Statutes of Nevada 2011 and section 2 of chapter 391,
+4 Statutes of Nevada 2013 and unless otherwise declared by law to be
+5 confidential, all public books and public records of a governmental
+6 entity must be open at all times during office hours to inspection by
+7 any person, and may be fully copied or an abstract or memorandum
+8 may be prepared from those public books and public records. Any
+9 such copies, abstracts or memoranda may be used to supply the
+10 general public with copies, abstracts or memoranda of the records or
+11 may be used in any other way to the advantage of the governmental
+12 entity or of the general public. This section does not supersede or in
+13 any manner affect the federal laws governing copyrights or enlarge,
+14 diminish or affect in any other manner the rights of a person in any
+15 written book or record which is copyrighted pursuant to federal law.
+16 2. A governmental entity may not reject a book or record
+17 which is copyrighted solely because it is copyrighted.
+18 3. A governmental entity that has legal custody or control of a
+19 public book or record shall not deny a request made pursuant to
+20 subsection 1 to inspect or copy or receive a copy of a public book or
+21 record on the basis that the requested public book or record contains
+22 information that is confidential if the governmental entity can
+23 redact, delete, conceal or separate, including, without limitation,
+24 electronically, the confidential information from the information
+25 included in the public book or record that is not otherwise
+26 confidential.
+27 4. If requested, a governmental entity shall provide a copy of a
+28 public record in an electronic format by means of an electronic
+29 medium. Nothing in this subsection requires a governmental entity
+30 to provide a copy of a public record in an electronic format or by
+31 means of an electronic medium if:
+32 (a) The public record:
+33 (1) Was not created or prepared in an electronic format; and
+34 (2) Is not available in an electronic format; or
+35 (b) Providing the public record in an electronic format or by
+36 means of an electronic medium would:
+37 (1) Give access to proprietary software; or
+38 (2) Require the production of information that is confidential
+39 and that cannot be redacted, deleted, concealed or separated from
+40 information that is not otherwise confidential.
+41 5. An officer, employee or agent of a governmental entity who
+42 has legal custody or control of a public record:
+43 (a) Shall not refuse to provide a copy of that public record in the
+44 medium that is requested because the officer, employee or agent has
+-
+*SB63_R2*
+
+– 15 –
+1 already prepared or would prefer to provide the copy in a different
+2 medium.
+3 (b) Except as otherwise provided in NRS 239.030, shall, upon
+4 request, prepare the copy of the public record and shall not require
+5 the person who has requested the copy to prepare the copy himself
+6 or herself.
+7 Sec. 37. 1. A controller is not required to conduct a data
+8 protection assessment pursuant to section 34 of this act for any
+9 processing activity which the controller engaged in, created or
+10 generated before January 1, 2026, but is required to conduct a data
+11 protection assessment for any processing activity which the
+12 controller engages in, creates or generates on or after January 1,
+13 2026.
+14 2. As used in this section:
+15 (a) “Controller” has the meaning ascribed to it in section 27 of
+16 this act.
+17 (b) “Process” has the meaning ascribed to it in section 31 of this
+18 act.
+19 Sec. 38. 1. This section becomes effective upon passage and
+20 approval.
+21 2. Sections 1 to 37, inclusive, of this act become effective:
+22 (a) Upon passage and approval for the purpose of adopting any
+23 regulations and performing any other preparatory administrative
+24 tasks that are necessary to carry out the provisions of this act; and
+25 (b) On January 1, 2026, for all other purposes.
+H
+-
+*SB63_R2*
+
+[DELETED: (SBN.6CCL I O O O AOBAG) E T EN2,2 O  p r t t p o ( E o L G I o NE t d d p c o d o c f c p r f t c a b c o c t o d t c r c t c a a c c p p a p oT f C O P P A e c r t t c u a d o t p a p t t A r c o o I t ( e a m r p t p t s a i o p i c f c S 2 d “ t m a p w (]
+[DELETED: –S c a w r t s d c t n rS p c o c t p g d o s a c o f C O P P A S 3 p a d o a k c u s p o c a o t t p d t t c u t p iS 3 r a c t o a o s p o t i d a c t c a r a d pE l p t a v o a c d t ( 1 1 1 2 2 2 3 5 5 5 6 6 6 t p t C o D m r t t G r h o h i i a a l i a a f a i o t r]
+[DELETED: – m t $ f e v a ( i g o a f o t ( 5 3 r t A u d t a c h v o i v aS 1  (S 2  (S 3  (S 4  (S 4  (S 4  (S 4  (S 4  (S 5  (S 6  (S 7  (S 8  (S 9  (S 9  (S 1  (S 1  (S 1  (S 1  (S 1  (S 1  (S 1  (S 1  (S 1  (S 1  (S 1  (S 2  (S 2  (S 2  (]
+[DELETED: –S 2  CS 2  A s 2 t 3 i o t a h t mS 2  “S 2  “ m a n p w i a o t S a w i a i a i oS 2  “ c t t I T t m i wS 2  “1  O2  AS 2  “ d m d t c b l t a i o i p o a c d t b o i l t aS 2  “S 2  “1  M a s p o f t i p2  D( A( B( TS 3  “1  M a i t i l o r2  D n i d d o p aS 3  “]
+[DELETED: – d i w l t c uS 3  “ a p w p dS 3  “ a i m1  I l m a t t r o a2  A( T( B( B a p t w t c t w t p h d t i u tS 3  “1  T d o p d b a c t a2  T d o p d t a t p f o p a p o s r b a3  T4  T d o i p t a c( H i m a t t g p( D5  TS 3  “ c c p o a o a c oS 3  T1  D( A c a a d i 1 U §( A p i i r b t C R A 1 U § 1 e s a t]
+[DELETED: – a p t w i c( A p w c m o m s o( A p i i p f u t f D P P A o( A( A f i o a a o a f( A ( P t p d o l t 2 ( P t p d o l t 1( A A A o 1 P L 1 a t a p t i w2  D3  D n a t t e t s a w( C w a a f s a l l( C w a c c o r i o( C w a l e a c( I e e p f o d a( P]
+[DELETED: –( P w l f t t o a w( B b t c r t t f o t( T t l o p s o a c o o p( P ( A ( A ( A ( A( P o a i t p o t r f a( A i p o p s o s ( I ( A ( I a m a g b a b o  ( W t d o i u i s i l t p s b t d n  ( T  ( W t c h i( A a c p r e a( P ( S ( A]
+[DELETED: –S 3  A c t i i p o a d1  T2  P3  CS 3  1  B g o t c i a w t F2  A c s n p a p d o a( F ( P ( S ( P t c i f o d t( U( F l t i r n t e t3  A c w t i o f p t p( F( W t a p i r n4  A( T c o p g d i r a l i d t e t c t( T c d t t c w p]
+[DELETED: – ( I t c t h o h p g ( I5  A( “ t p l o s s o d b t c o f a l h i e i e c( “ g d m i d t i w l l a p s t d i t s ( T ( A d g b o c t a( “ m a f o a p o t p d o a p p t p p i r b( “ ( M o s p o f t a s o b o t p d o f t p o f o t c t f t ( D  ( A  ( A b o i d f t t c i c v a t t w t a i b p i]
+[DELETED: –  ( A d t t c i  ( T p o p d sS 3  1  E( C f e p a i w t( R e d p a c2  E d p a c p t( C ( T ( T c o p i o k p ( E p f w t c p t( I ( B p w m r e d o i f ( T s t r( W p ( a t r i p t ( T r e o c w u t ( T ( T]
+[DELETED: –3  A c s b d t h s t( A s d p a t a a( A t t c w o b r t4  T A G m r a d p c p t t s i t A a A s p A a p a t i r p t t5  A d p a p t t A p t s 4 i c a i n a6  T d o a d p a t t o w p p w r t t c w a s d pS 3  1  U i v o h v a t s f2  N3  F4  T A G h t e a t5  N]
+[DELETED: –S 3  N2  1  E 1 1 1 3 4 4 4 6 6 7 7 7 7 8 8 8 8 8 8 8 8 9 9 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4]
+[DELETED: – 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6]
+[DELETED: – 7 7 7 7 7 a s 3 o t a s 3 3 a 4 o c a o m m b u t s t2  A g e m n r a b o r3  A b o r s n d a r m p t t i c i t g e c d c o s i w l t c i f t i i t p b o r t i n o4  I r i a e f b m o a e( T ( W ( I( P t p r i a e f o b ( G ( R5  A( S]
+[DELETED: –( ES 3  1  A c i n r t c a d a p t s 3 o t a f a a w t c e i c o a f a p a w t e i c o g o o a J 12  A( “( “S 3  1  T2  S( U a p a o p a( O]
