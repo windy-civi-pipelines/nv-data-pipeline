@@ -1,0 +1,1692 @@
+Title: SENATE BILL NO. 250–SENATORS LANGE;
+Official Title: SENATE BILL NO. 250–SENATORS LANGE;
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+S.B. 250
+CRUZ-CRAWFORD AND OHRENSCHALL
+FEBRUARY 27, 2025
+____________
+Referred to Committee on Health and Human Services
+SUMMARY—Revises provisions relating to health care records.
+(BDR 40-70)
+FISCAL NOTE: Effect on Local Government: May have Fiscal Impact.
+Effect on the State: Yes.
+CONTAINS UNFUNDED MANDATE (§§ 3, 8, 12, 15)
+(NOT REQUESTED BY AFFECTED LOCAL GOVERNMENT)
+~
+EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+AN ACT relating to health care; providing that the electronic health
+records of a patient are the property of the patient;
+requiring certain entities to allow a patient to take certain
+actions relating to access to his or her electronic health
+records; requiring the establishment of a statewide
+electronic health repository; imposing certain
+requirements relating to the statewide electronic health
+repository; providing a penalty; and providing other
+matters properly relating thereto.
+Legislative Counsel’s Digest:
+1 Existing law prescribes various requirements governing health information
+2 technology and the electronic maintenance, transmittal and exchange of electronic
+3 health records and certain other electronic health information. (NRS 439.581-
+4 439.597) Upon the request of a person who is authorized to request a copy of health
+5 records that are maintained electronically, existing law requires a custodian of
+6 health care records to electronically transmit a copy of the health records to any
+7 person or entity for a fee. (NRS 629.062) Section 3 of this bill provides that the
+8 electronic health records of a patient are the property of the patient and requires a
+9 health care provider to allow a patient to: (1) access and forward his or her
+10 electronic health records without a fee or charge; and (2) request that his or her
+11 electronic health records be forwarded to any other person or entity in accordance
+12 with existing law. Section 8 of this bill makes a conforming change to remove a
+13 requirement that the Director of the Department of Health and Human Services
+14 adopt regulations governing the ownership of electronic health records because
+15 section 3 establishes that such records are the property of the patient.
+-
+*SB250*
+– 2 –
+16 With certain exceptions, existing law requires a health care provider, health
+17 insurer, health insurance administrator and certain other entities to authorize a
+18 person to opt out of having his or her individually identifiable health information
+19 disclosed electronically to health care providers, insurers and certain other entities.
+20 (NRS 439.597) Section 10 of this bill requires those persons and entities to allow a
+21 patient to prohibit any person or entity from accessing his or her individually
+22 identifiable health information, with similar exceptions. Section 5 of this bill makes
+23 a violation of section 3 or 10, or any regulations adopted to carry out those
+24 sections, a misdemeanor. A health care provider, health insurer or health insurance
+25 administrator that commits such a violation would also be subject to administrative
+26 sanctions. (NRS 439.589, 439.5895, 449.167, 450B.215, 629.051, 680A.225,
+27 683A.0891, 695C.329)
+28 Existing law requires the Director to adopt regulations that prescribe a
+29 framework for the electronic maintenance, transmittal and exchange of electronic
+30 health records, prescriptions, health-related information and electronic signatures.
+31 Existing law requires state and local governmental entities, health care providers
+32 and insurers and certain related entities to maintain, transmit and exchange health
+33 information in accordance with that framework, with certain exceptions. (NRS
+34 439.589) Existing law establishes that physician group practices and other business
+35 entities organized for the purpose of practicing a health care profession with 20 or
+36 fewer employees are not required to comply with those provisions until January 1,
+37 2030. (Section 2.8 of chapter 278, Statutes of Nevada 2023, at page 1859) Section
+38 4 of this bill requires the Director to: (1) establish a statewide electronic health
+39 repository for storing the electronic health records of all patients in this State; and
+40 (2) adopt regulations to establish a standardized procedure for collecting
+41 information from patients and entering the information into the computerized
+42 system that serves as a platform for the repository. Section 2 of this bill defines the
+43 term “electronic health repository.” Sections 4 and 11 of this bill provide that
+44 electronic health records in the statewide electronic health repository are
+45 confidential, with certain exceptions. Section 8 requires each health care provider
+46 in this State that is not exempt from the requirement to maintain, transmit and
+47 exchange electronic health records to: (1) integrate the system used by the health
+48 care provider for the maintenance, transmittal and exchange of health information
+49 with the statewide electronic health repository; and (2) comply with the
+50 standardized procedure established by the Director for collecting patient
+51 information and entering patient information into the repository. Section 15 of this
+52 bill makes a conforming change related to the requirement for electronic health care
+53 records to be integrated into the statewide electronic health repository. Section 17
+54 of this bill establishes that physician group practices and other business entities
+55 organized for the purpose of practicing a health care profession with 20 or fewer
+56 employees are not required to comply with the requirements of section 8 until
+57 January 1, 2030. A health care provider who fails to comply with those
+58 requirements would be subject to administrative sanctions but would not be guilty
+59 of a misdemeanor. (NRS 439.589, 439.5895, 449.167, 450B.215, 629.051)
+60 Sections 5, 7, 9, 10, 12-14 and 16 of this bill make conforming changes to: (1)
+61 clarify the applicability of sections 3 and 4 and certain provisions of existing law;
+62 and (2) indicate the proper placement of sections 2-4 in the Nevada Revised
+63 Statutes.
+-
+*SB250*
+– 3 –
+THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN
+SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:
+1 Section 1. Chapter 439 of NRS is hereby amended by adding
+2 thereto the provisions set forth as sections 2, 3 and 4 of this act.
+3 Sec. 2. “Electronic health repository” means an electronic
+4 system for the storage of electronic health records.
+5 Sec. 3. The electronic health records of a patient are the
+6 property of the patient. A health care provider shall:
+7 1. Allow a patient unimpeded, secure access to his or her
+8 electronic health records without a fee or charge.
+9 2. Allow a patient to forward his or her electronic health
+10 records to any other person or entity without a fee or charge.
+11 3. Ensure that, upon the request of a patient to furnish his or
+12 her electronic health records to himself or herself or another
+13 person or entity, the electronic health records of the patient are
+14 transmitted to the requested person or entity in accordance with
+15 NRS 629.062.
+16 Sec. 4. 1. The Director shall:
+17 (a) Establish a statewide electronic health repository for
+18 storing the electronic health records of all patients in this State
+19 which must include, without limitation, a computerized system to
+20 provide a centralized platform for maintaining, accessing,
+21 transmitting and exchanging electronic health records; and
+22 (b) Adopt regulations to establish a standardized procedure for
+23 collecting information from patients and entering the information
+24 into the computerized system established pursuant to
+25 paragraph (a).
+26 2. The statewide electronic health repository and the
+27 computerized system established pursuant to subsection 1 must:
+28 (a) Operate in a manner that:
+29 (1) Complies with the requirements of NRS 439.589 and
+30 any regulations adopted pursuant thereto;
+31 (2) Allows for seamless sharing of information between the
+32 statewide electronic health repository and the systems used by
+33 health care providers for the maintenance, transmittal and
+34 exchange of health information; and
+35 (3) Minimizes the need for a patient to repeatedly provide
+36 demographic information, information relating to his or her
+37 medical history and the list of medications that the patient is
+38 currently taking or has taken in the past; and
+39 (b) Include search and compilation features to allow patients
+40 and health care providers to search and organize the information
+41 in an electronic health record, including, without limitation,
+-
+*SB250*
+– 4 –
+1 information concerning medical conditions, treatments and
+2 medications.
+3 3. The Director may contract with any person or entity as
+4 necessary to carry out the provisions of this section.
+5 4. Except as otherwise provided in this subsection and NRS
+6 439.597, the electronic health records in the statewide electronic
+7 health repository are confidential and are not public records. The
+8 Department may use deidentified, aggregated data from the
+9 statewide electronic health repository in the performance of its
+10 duties relating to public health.
+11 Sec. 5. NRS 439.580 is hereby amended to read as follows:
+12 439.580 1. Any local health officer or a deputy of a local
+13 health officer who neglects or fails to enforce the provisions of this
+14 chapter in his or her jurisdiction, or neglects or refuses to perform
+15 any of the duties imposed upon him or her by this chapter or by the
+16 instructions and directions of the Division shall be punished by a
+17 fine of not more than $250.
+18 2. Except as otherwise provided in NRS 439.589, each person
+19 who violates any of the provisions of this chapter or refuses or
+20 neglects to obey any lawful order, rule or regulation of the:
+21 (a) State Board of Health or violates any rule or regulation
+22 approved by the State Board of Health pursuant to NRS 439.350,
+23 439.366, 439.410 and 439.460; or
+24 (b) Director adopted pursuant to NRS 439.581 to 439.597,
+25 inclusive, and sections 2, 3 and 4 of this act,
+26  is guilty of a misdemeanor.
+27 Sec. 6. NRS 439.581 is hereby amended to read as follows:
+28 439.581 As used in NRS 439.581 to 439.597, inclusive, and
+29 sections 2, 3 and 4 of this act, unless the context otherwise requires,
+30 the words and terms defined in NRS 439.582 to 439.585, inclusive,
+31 and section 2 of this act have the meanings ascribed to them in
+32 those sections.
+33 Sec. 7. NRS 439.588 is hereby amended to read as follows:
+34 439.588 1. A health information exchange shall not operate
+35 in this State without first obtaining certification as provided in
+36 subsection 2.
+37 2. The Director shall by regulation establish the manner in
+38 which a health information exchange may apply for certification and
+39 the requirements for granting such certification, which must include,
+40 without limitation, that the health information exchange demonstrate
+41 its financial and operational sustainability, adherence to the privacy,
+42 security and patient consent standards adopted pursuant to NRS
+43 439.589 and capacity for interoperability with any other health
+44 information exchange certified pursuant to this section.
+-
+*SB250*
+– 5 –
+1 3. The Director may deny an application for certification or
+2 may suspend or revoke any certification issued pursuant to
+3 subsection 2 for failure to comply with the provisions of NRS
+4 439.581 to 439.597, inclusive, and sections 2, 3 and 4 of this act or
+5 the regulations adopted pursuant thereto or any applicable federal or
+6 state law.
+7 4. When the Director intends to deny, suspend or revoke a
+8 certification, he or she shall give reasonable notice to all parties by
+9 certified mail. The notice must contain the legal authority,
+10 jurisdiction and reasons for the action to be taken. A health
+11 information exchange that wishes to contest the action of the
+12 Director must file an appeal with the Director.
+13 5. The Director shall adopt regulations establishing the manner
+14 in which a person may file a complaint with the Director regarding a
+15 violation of the provisions of this section.
+16 6. The Director may impose an administrative fine against a
+17 health information exchange which operates in this State without
+18 holding a certification in an amount established by the Director by
+19 regulation. The Director shall afford a health information exchange
+20 so fined an opportunity for a hearing pursuant to the provisions of
+21 NRS 233B.121.
+22 7. The Director may adopt such regulations as he or she
+23 determines are necessary to carry out the provisions of this section.
+24 Sec. 8. NRS 439.589 is hereby amended to read as follows:
+25 439.589 1. The Director, in consultation with health care
+26 providers, third parties and other interested persons and entities,
+27 shall by regulation prescribe a framework for the electronic
+28 maintenance, transmittal and exchange of electronic health records,
+29 prescriptions, health-related information and electronic signatures
+30 and requirements for electronic equivalents of written entries or
+31 written approvals in accordance with federal law. The regulations
+32 must:
+33 (a) Establish standards for networks and technologies to be used
+34 to maintain, transmit and exchange health information, including,
+35 without limitation, standards:
+36 (1) That require:
+37 (I) The use of networks and technologies that allow
+38 patients to access electronic health records directly from the health
+39 care provider of the patient and forward such electronic health
+40 records electronically to other persons and entities; and
+41 (II) The interoperability of such networks and
+42 technologies in accordance with the applicable standards for the
+43 interoperability of Qualified Health Information Networks
+44 prescribed by the Office of the National Coordinator for Health
+-
+*SB250*
+– 6 –
+1 Information Technology of the United States Department of Health
+2 and Human Services;
+3 (2) To ensure that electronic health records retained or shared
+4 are secure;
+5 (3) To maintain the confidentiality of electronic health
+6 records and health-related information, including, without
+7 limitation, standards to maintain the confidentiality of electronic
+8 health records relating to a child who has received health care
+9 services without the consent of a parent or guardian and which
+10 ensure that a child’s right to access such health care services is not
+11 impaired;
+12 (4) To ensure the privacy of individually identifiable health
+13 information, including, without limitation, standards to ensure the
+14 privacy of information relating to a child who has received health
+15 care services without the consent of a parent or guardian;
+16 (5) For obtaining consent from a patient before retrieving the
+17 patient’s health records from a health information exchange,
+18 including, without limitation, standards for obtaining such consent
+19 from a child who has received health care services without the
+20 consent of a parent or guardian;
+21 (6) For making any necessary corrections to information or
+22 records;
+23 (7) For notifying a patient if the confidentiality of
+24 information contained in an electronic health record of the patient is
+25 breached;
+26 (8) Governing the ownership, management and use of
+27 [electronic health records,] health-related information and related
+28 data [;] and the management and use of electronic health records;
+29 and
+30 (9) For the electronic transmission of prior authorizations for
+31 prescription medication;
+32 (b) Ensure compliance with the requirements, specifications and
+33 protocols for exchanging, securing and disclosing electronic health
+34 records, health-related information and related data prescribed
+35 pursuant to the provisions of the Health Information Technology for
+36 Economic and Clinical Health Act, 42 U.S.C. §§ 300jj et seq. and
+37 17901 et seq., the Health Insurance Portability and Accountability
+38 Act of 1996, Public Law 104-191, and other applicable federal and
+39 state law; and
+40 (c) Be based on nationally recognized best practices for
+41 maintaining, transmitting and exchanging health information
+42 electronically.
+43 2. The standards prescribed pursuant to this section must
+44 include, without limitation:
+-
+*SB250*
+– 7 –
+1 (a) Requirements for the creation, maintenance and transmittal
+2 of electronic health records;
+3 (b) Requirements for protecting confidentiality, including
+4 control over, access to and the collection, organization and
+5 maintenance of electronic health records, health-related information
+6 and individually identifiable health information;
+7 (c) Requirements for the manner in which a patient may,
+8 through a health care provider who participates in the sharing of
+9 health records using a health information exchange, revoke his or
+10 her consent for a health care provider to retrieve the patient’s health
+11 records from the health information exchange;
+12 (d) A secure and traceable electronic audit system for
+13 identifying access points and trails to electronic health records and
+14 health information exchanges; and
+15 (e) Any other requirements necessary to comply with all
+16 applicable federal laws relating to electronic health records, health-
+17 related information, health information exchanges and the security
+18 and confidentiality of such records and exchanges.
+19 3. The regulations adopted pursuant to this section must not
+20 require any person or entity to use a health information exchange.
+21 4. Except as otherwise provided in subsections 5, 6 and 7 [,
+22 the] :
+23 (a) The Department and the divisions thereof, other state and
+24 local governmental entities, health care providers, third parties,
+25 pharmacy benefit managers and other entities licensed or certified
+26 pursuant to title 57 of NRS shall maintain, transmit and exchange
+27 health information in accordance with the regulations adopted
+28 pursuant to this section, the provisions of NRS 439.581 to 439.597,
+29 inclusive, and sections 2, 3 and 4 of this act and any other
+30 regulations adopted pursuant thereto.
+31 (b) Each health care provider in this State shall:
+32 (1) Integrate the system used by the health care provider for
+33 the maintenance, transmittal and exchange of health information
+34 with the statewide electronic health repository established
+35 pursuant to section 4 of this act; and
+36 (2) Use the procedure established pursuant to section 4 of
+37 this act when collecting information from patients and entering
+38 that information into the computerized system established
+39 pursuant to section 4 of this act.
+40 5. The Federal Government and employees thereof, a provider
+41 of health coverage for federal employees, a provider of health
+42 coverage that is subject to the Employee Retirement Income
+43 Security Act of 1974, 29 U.S.C. §§ 1001 et seq., or a Taft-Hartley
+44 trust formed pursuant to 29 U.S.C. § 186(c)(5) is not required to but
+-
+*SB250*
+– 8 –
+1 may maintain, transmit and exchange electronic information in
+2 accordance with the regulations adopted pursuant to this section.
+3 6. A health care provider may apply to the Department for a
+4 waiver from the provisions of subsection 4 on the basis that the
+5 health care provider does not have the infrastructure necessary to
+6 comply with those provisions, including, without limitation, because
+7 the health care provider does not have access to the Internet. The
+8 Department shall grant a waiver if it determines that:
+9 (a) The health care provider does not currently have the
+10 infrastructure necessary to comply with the provisions of subsection
+11 4; and
+12 (b) Obtaining such infrastructure is not reasonably practicable,
+13 including, without limitation, because the cost of such infrastructure
+14 would make it difficult for the health care provider to continue to
+15 operate.
+16 7. The provisions of subsection 4 do not apply to the
+17 Department of Corrections.
+18 8. A violation of the provisions of this section or any
+19 regulations adopted pursuant thereto is not a misdemeanor.
+20 9. As used in this section:
+21 (a) “Pharmacy benefit manager” has the meaning ascribed to it
+22 in NRS 683A.174.
+23 (b) “Third party” means any insurer, governmental entity or
+24 other organization providing health coverage or benefits in
+25 accordance with state or federal law.
+26 Sec. 9. NRS 439.593 is hereby amended to read as follows:
+27 439.593 A health care provider who with reasonable care
+28 transmits, accesses, utilizes, discloses, relies upon or provides to a
+29 patient an apparently genuine electronic health record in accordance
+30 with NRS 439.581 to 439.597, inclusive, and sections 2, 3 and 4 of
+31 this act and the regulations adopted pursuant thereto is immune
+32 from civil or criminal liability for any decision concerning the
+33 provision of health care to a patient and any civil or criminal
+34 liability resulting from the provision of the record to a patient if:
+35 1. The electronic health record is inaccurate;
+36 2. The inaccuracy was not caused by the health care provider;
+37 3. The inaccuracy resulted in an inappropriate health care
+38 decision; and
+39 4. The health care decision was appropriate based upon the
+40 information contained in the inaccurate electronic health record.
+41 Sec. 10. NRS 439.597 is hereby amended to read as follows:
+42 439.597 1. If a covered entity transmits electronically
+43 individually identifiable health information in compliance with the
+44 provisions of:
+-
+*SB250*
+– 9 –
+1 (a) The Health Insurance Portability and Accountability Act of
+2 1996, Public Law 104-191; and
+3 (b) NRS 439.581 to 439.597, inclusive, and sections 2, 3 and 4
+4 of this act and the regulations adopted pursuant thereto,
+5  which govern the electronic transmission of such information, the
+6 covered entity is, for purposes of the electronic transmission,
+7 exempt from any state law that contains more stringent requirements
+8 or provisions concerning the privacy or confidentiality of
+9 individually identifiable health information.
+10 2. A covered entity that makes individually identifiable health
+11 information available electronically pursuant to subsection 1 shall
+12 allow any person to opt out of having his or her individually
+13 identifiable health information disclosed electronically to other
+14 covered entities [,] or to prohibit any person or entity from
+15 accessing his or her individually identifiable health information,
+16 except:
+17 (a) As required by the administrative simplification provisions
+18 of the Health Insurance Portability and Accountability Act of 1996,
+19 Public Law 104-191.
+20 (b) As otherwise required by a state law.
+21 (c) That a person who is a recipient of Medicaid or insurance
+22 pursuant to the Children’s Health Insurance Program may not [opt] :
+23 (1) Opt out of having his or her individually identifiable
+24 health information disclosed electronically [.] ; or
+25 (2) Prohibit any person or entity from accessing his or her
+26 individually identifiable health information where access for that
+27 person or entity is deemed necessary by the Department for
+28 purposes of Medicaid or the Children’s Health Insurance
+29 Program.
+30 3. As used in this section, “covered entity” has the meaning
+31 ascribed to it in 45 C.F.R. § 160.103.
+32 Sec. 11. NRS 239.010 is hereby amended to read as follows:
+33 239.010 1. Except as otherwise provided in this section and
+34 NRS 1.4683, 1.4687, 1A.110, 3.2203, 41.0397, 41.071, 49.095,
+35 49.293, 62D.420, 62D.440, 62E.516, 62E.620, 62H.025, 62H.030,
+36 62H.170, 62H.220, 62H.320, 75A.100, 75A.150, 76.160, 78.152,
+37 80.113, 81.850, 82.183, 86.246, 86.54615, 87.515, 87.5413,
+38 87A.200, 87A.580, 87A.640, 88.3355, 88.5927, 88.6067, 88A.345,
+39 88A.7345, 89.045, 89.251, 90.730, 91.160, 116.757, 116A.270,
+40 116B.880, 118B.026, 119.260, 119.265, 119.267, 119.280,
+41 119A.280, 119A.653, 119A.677, 119B.370, 119B.382, 120A.640,
+42 120A.690, 125.130, 125B.140, 126.141, 126.161, 126.163, 126.730,
+43 127.007, 127.057, 127.130, 127.140, 127.2817, 128.090, 130.312,
+44 130.712, 136.050, 159.044, 159A.044, 164.041, 172.075, 172.245,
+45 176.01334, 176.01385, 176.015, 176.0625, 176.09129, 176.156,
+-
+*SB250*
+– 10 –
+1 176A.630, 178.39801, 178.4715, 178.5691, 178.5717, 179.495,
+2 179A.070, 179A.165, 179D.160, 180.600, 200.3771, 200.3772,
+3 200.5095, 200.604, 202.3662, 205.4651, 209.392, 209.3923,
+4 209.3925, 209.419, 209.429, 209.521, 211A.140, 213.010, 213.040,
+5 213.095, 213.131, 217.105, 217.110, 217.464, 217.475, 218A.350,
+6 218E.625, 218F.150, 218G.130, 218G.240, 218G.350, 218G.615,
+7 224.240, 226.462, 226.796, 228.270, 228.450, 228.495, 228.570,
+8 231.069, 231.1285, 231.1473, 232.1369, 233.190, 237.300,
+9 239.0105, 239.0113, 239.014, 239B.026, 239B.030, 239B.040,
+10 239B.050, 239C.140, 239C.210, 239C.230, 239C.250, 239C.270,
+11 239C.420, 240.007, 241.020, 241.030, 241.039, 242.105, 244.264,
+12 244.335, 247.540, 247.545, 247.550, 247.560, 250.087, 250.130,
+13 250.140, 250.145, 250.150, 268.095, 268.0978, 268.490, 268.910,
+14 269.174, 271A.105, 281.195, 281.805, 281A.350, 281A.680,
+15 281A.685, 281A.750, 281A.755, 281A.780, 284.4068, 284.4086,
+16 286.110, 286.118, 287.0438, 289.025, 289.080, 289.387, 289.830,
+17 293.4855, 293.5002, 293.503, 293.504, 293.558, 293.5757, 293.870,
+18 293.906, 293.908, 293.909, 293.910, 293B.135, 293D.510, 331.110,
+19 332.061, 332.351, 333.333, 333.335, 338.070, 338.1379, 338.1593,
+20 338.1725, 338.1727, 348.420, 349.597, 349.775, 353.205,
+21 353A.049, 353A.085, 353A.100, 353C.240, 353D.250, 360.240,
+22 360.247, 360.255, 360.755, 361.044, 361.2242, 361.610, 365.138,
+23 366.160, 368A.180, 370.257, 370.327, 372A.080, 378.290, 378.300,
+24 379.0075, 379.008, 379.1495, 385A.830, 385B.100, 387.626,
+25 387.631, 388.1455, 388.259, 388.501, 388.503, 388.513, 388.750,
+26 388A.247, 388A.249, 391.033, 391.035, 391.0365, 391.120,
+27 391.925, 392.029, 392.147, 392.264, 392.271, 392.315, 392.317,
+28 392.325, 392.327, 392.335, 392.850, 393.045, 394.167, 394.16975,
+29 394.1698, 394.447, 394.460, 394.465, 396.1415, 396.1425, 396.143,
+30 396.159, 396.3295, 396.405, 396.525, 396.535, 396.9685,
+31 398A.115, 408.3885, 408.3886, 408.3888, 408.5484, 412.153,
+32 414.280, 416.070, 422.2749, 422.305, 422A.342, 422A.350,
+33 425.400, 427A.1236, 427A.872, 427A.940, 432.028, 432.205,
+34 432B.175, 432B.280, 432B.290, 432B.4018, 432B.407, 432B.430,
+35 432B.560, 432B.5902, 432C.140, 432C.150, 433.534, 433A.360,
+36 439.4941, 439.4988, 439.5282, 439.840, 439.914, 439A.116,
+37 439A.124, 439B.420, 439B.754, 439B.760, 439B.845, 440.170,
+38 441A.195, 441A.220, 441A.230, 442.330, 442.395, 442.735,
+39 442.774, 445A.665, 445B.570, 445B.7773, 449.209, 449.245,
+40 449.4315, 449A.112, 450.140, 450B.188, 450B.805, 453.164,
+41 453.720, 458.055, 458.280, 459.050, 459.3866, 459.555, 459.7056,
+42 459.846, 463.120, 463.15993, 463.240, 463.3403, 463.3407,
+43 463.790, 467.1005, 480.535, 480.545, 480.935, 480.940, 481.063,
+44 481.091, 481.093, 482.170, 482.368, 482.5536, 483.340, 483.363,
+45 483.575, 483.659, 483.800, 484A.469, 484B.830, 484B.833,
+-
+*SB250*
+– 11 –
+1 484E.070, 485.316, 501.344, 503.452, 522.040, 534A.031, 561.285,
+2 571.160, 584.655, 587.877, 598.0964, 598.098, 598A.110,
+3 598A.420, 599B.090, 603.070, 603A.210, 604A.303, 604A.710,
+4 604D.500, 604D.600, 612.265, 616B.012, 616B.015, 616B.315,
+5 616B.350, 618.341, 618.425, 622.238, 622.310, 623.131, 623A.137,
+6 624.110, 624.265, 624.327, 625.425, 625A.185, 628.418, 628B.230,
+7 628B.760, 629.043, 629.047, 629.069, 630.133, 630.2671,
+8 630.2672, 630.2673, 630.2687, 630.30665, 630.336, 630A.327,
+9 630A.555, 631.332, 631.368, 632.121, 632.125, 632.3415,
+10 632.3423, 632.405, 633.283, 633.301, 633.427, 633.4715, 633.4716,
+11 633.4717, 633.524, 634.055, 634.1303, 634.214, 634A.169,
+12 634A.185, 634B.730, 635.111, 635.158, 636.262, 636.342, 637.085,
+13 637.145, 637B.192, 637B.288, 638.087, 638.089, 639.183,
+14 639.2485, 639.570, 640.075, 640.152, 640A.185, 640A.220,
+15 640B.405, 640B.730, 640C.580, 640C.600, 640C.620, 640C.745,
+16 640C.760, 640D.135, 640D.190, 640E.225, 640E.340, 641.090,
+17 641.221, 641.2215, 641A.191, 641A.217, 641A.262, 641B.170,
+18 641B.281, 641B.282, 641C.455, 641C.760, 641D.260, 641D.320,
+19 642.524, 643.189, 644A.870, 645.180, 645.625, 645A.050,
+20 645A.082, 645B.060, 645B.092, 645C.220, 645C.225, 645D.130,
+21 645D.135, 645G.510, 645H.320, 645H.330, 647.0945, 647.0947,
+22 648.033, 648.197, 649.065, 649.067, 652.126, 652.228, 653.900,
+23 654.110, 656.105, 657A.510, 661.115, 665.130, 665.133, 669.275,
+24 669.285, 669A.310, 670B.680, 671.365, 671.415, 673.450, 673.480,
+25 675.380, 676A.340, 676A.370, 677.243, 678A.470, 678C.710,
+26 678C.800, 679B.122, 679B.124, 679B.152, 679B.159, 679B.190,
+27 679B.285, 679B.690, 680A.270, 681A.440, 681B.260, 681B.410,
+28 681B.540, 683A.0873, 685A.077, 686A.289, 686B.170, 686C.306,
+29 687A.060, 687A.115, 687B.404, 687C.010, 688C.230, 688C.480,
+30 688C.490, 689A.696, 692A.117, 692C.190, 692C.3507, 692C.3536,
+31 692C.3538, 692C.354, 692C.420, 693A.480, 693A.615, 696B.550,
+32 696C.120, 703.196, 704B.325, 706.1725, 706A.230, 710.159,
+33 711.600, and section 4 of this act, sections 35, 38 and 41 of chapter
+34 478, Statutes of Nevada 2011 and section 2 of chapter 391, Statutes
+35 of Nevada 2013 and unless otherwise declared by law to be
+36 confidential, all public books and public records of a governmental
+37 entity must be open at all times during office hours to inspection by
+38 any person, and may be fully copied or an abstract or memorandum
+39 may be prepared from those public books and public records. Any
+40 such copies, abstracts or memoranda may be used to supply the
+41 general public with copies, abstracts or memoranda of the records or
+42 may be used in any other way to the advantage of the governmental
+43 entity or of the general public. This section does not supersede or in
+44 any manner affect the federal laws governing copyrights or enlarge,
+-
+*SB250*
+– 12 –
+1 diminish or affect in any other manner the rights of a person in any
+2 written book or record which is copyrighted pursuant to federal law.
+3 2. A governmental entity may not reject a book or record
+4 which is copyrighted solely because it is copyrighted.
+5 3. A governmental entity that has legal custody or control of a
+6 public book or record shall not deny a request made pursuant to
+7 subsection 1 to inspect or copy or receive a copy of a public book or
+8 record on the basis that the requested public book or record contains
+9 information that is confidential if the governmental entity can
+10 redact, delete, conceal or separate, including, without limitation,
+11 electronically, the confidential information from the information
+12 included in the public book or record that is not otherwise
+13 confidential.
+14 4. If requested, a governmental entity shall provide a copy of a
+15 public record in an electronic format by means of an electronic
+16 medium. Nothing in this subsection requires a governmental entity
+17 to provide a copy of a public record in an electronic format or by
+18 means of an electronic medium if:
+19 (a) The public record:
+20 (1) Was not created or prepared in an electronic format; and
+21 (2) Is not available in an electronic format; or
+22 (b) Providing the public record in an electronic format or by
+23 means of an electronic medium would:
+24 (1) Give access to proprietary software; or
+25 (2) Require the production of information that is confidential
+26 and that cannot be redacted, deleted, concealed or separated from
+27 information that is not otherwise confidential.
+28 5. An officer, employee or agent of a governmental entity who
+29 has legal custody or control of a public record:
+30 (a) Shall not refuse to provide a copy of that public record in the
+31 medium that is requested because the officer, employee or agent has
+32 already prepared or would prefer to provide the copy in a different
+33 medium.
+34 (b) Except as otherwise provided in NRS 239.030, shall, upon
+35 request, prepare the copy of the public record and shall not require
+36 the person who has requested the copy to prepare the copy himself
+37 or herself.
+38 Sec. 12. NRS 287.010 is hereby amended to read as follows:
+39 287.010 1. The governing body of any county, school
+40 district, municipal corporation, political subdivision, public
+41 corporation or other local governmental agency of the State of
+42 Nevada may:
+43 (a) Adopt and carry into effect a system of group life, accident
+44 or health insurance, or any combination thereof, for the benefit of its
+45 officers and employees, and the dependents of officers and
+-
+*SB250*
+– 13 –
+1 employees who elect to accept the insurance and who, where
+2 necessary, have authorized the governing body to make deductions
+3 from their compensation for the payment of premiums on the
+4 insurance.
+5 (b) Purchase group policies of life, accident or health insurance,
+6 or any combination thereof, for the benefit of such officers and
+7 employees, and the dependents of such officers and employees, as
+8 have authorized the purchase, from insurance companies authorized
+9 to transact the business of such insurance in the State of Nevada,
+10 and, where necessary, deduct from the compensation of officers and
+11 employees the premiums upon insurance and pay the deductions
+12 upon the premiums.
+13 (c) Provide group life, accident or health coverage through a
+14 self-insurance reserve fund and, where necessary, deduct
+15 contributions to the maintenance of the fund from the compensation
+16 of officers and employees and pay the deductions into the fund. The
+17 money accumulated for this purpose through deductions from the
+18 compensation of officers and employees and contributions of the
+19 governing body must be maintained as an internal service fund as
+20 defined by NRS 354.543. The money must be deposited in a state or
+21 national bank or credit union authorized to transact business in the
+22 State of Nevada. Any independent administrator of a fund created
+23 under this section is subject to the licensing requirements of chapter
+24 683A of NRS, and must be a resident of this State. Any contract
+25 with an independent administrator must be approved by the
+26 Commissioner of Insurance as to the reasonableness of
+27 administrative charges in relation to contributions collected and
+28 benefits provided. The provisions of NRS 439.581 to 439.597,
+29 inclusive, and sections 2, 3 and 4 of this act, 686A.135, 687B.352,
+30 687B.408, 687B.692, 687B.723, 687B.725, 687B.805, 689B.030 to
+31 689B.0317, inclusive, paragraphs (b) and (c) of subsection 1 of NRS
+32 689B.0319, subsections 2, 4, 6 and 7 of NRS 689B.0319, 689B.033
+33 to 689B.0369, inclusive, 689B.0375 to 689B.050, inclusive,
+34 689B.0675, 689B.265, 689B.287 and 689B.500 apply to coverage
+35 provided pursuant to this paragraph, except that the provisions of
+36 NRS 689B.0378, 689B.03785 and 689B.500 only apply to coverage
+37 for active officers and employees of the governing body, or the
+38 dependents of such officers and employees.
+39 (d) Defray part or all of the cost of maintenance of a self-
+40 insurance fund or of the premiums upon insurance. The money for
+41 contributions must be budgeted for in accordance with the laws
+42 governing the county, school district, municipal corporation,
+43 political subdivision, public corporation or other local governmental
+44 agency of the State of Nevada.
+-
+*SB250*
+– 14 –
+1 2. If a school district offers group insurance to its officers and
+2 employees pursuant to this section, members of the board of trustees
+3 of the school district must not be excluded from participating in the
+4 group insurance. If the amount of the deductions from compensation
+5 required to pay for the group insurance exceeds the compensation to
+6 which a trustee is entitled, the difference must be paid by the trustee.
+7 3. In any county in which a legal services organization exists,
+8 the governing body of the county, or of any school district,
+9 municipal corporation, political subdivision, public corporation or
+10 other local governmental agency of the State of Nevada in the
+11 county, may enter into a contract with the legal services
+12 organization pursuant to which the officers and employees of the
+13 legal services organization, and the dependents of those officers and
+14 employees, are eligible for any life, accident or health insurance
+15 provided pursuant to this section to the officers and employees, and
+16 the dependents of the officers and employees, of the county, school
+17 district, municipal corporation, political subdivision, public
+18 corporation or other local governmental agency.
+19 4. If a contract is entered into pursuant to subsection 3, the
+20 officers and employees of the legal services organization:
+21 (a) Shall be deemed, solely for the purposes of this section, to be
+22 officers and employees of the county, school district, municipal
+23 corporation, political subdivision, public corporation or other local
+24 governmental agency with which the legal services organization has
+25 contracted; and
+26 (b) Must be required by the contract to pay the premiums or
+27 contributions for all insurance which they elect to accept or of which
+28 they authorize the purchase.
+29 5. A contract that is entered into pursuant to subsection 3:
+30 (a) Must be submitted to the Commissioner of Insurance for
+31 approval not less than 30 days before the date on which the contract
+32 is to become effective.
+33 (b) Does not become effective unless approved by the
+34 Commissioner.
+35 (c) Shall be deemed to be approved if not disapproved by the
+36 Commissioner within 30 days after its submission.
+37 6. As used in this section, “legal services organization” means
+38 an organization that operates a program for legal aid and receives
+39 money pursuant to NRS 19.031.
+40 Sec. 13. NRS 287.04335 is hereby amended to read as
+41 follows:
+42 287.04335 If the Board provides health insurance through a
+43 plan of self-insurance, it shall comply with the provisions of NRS
+44 439.581 to 439.597, inclusive, and sections 2, 3 and 4 of this act,
+45 686A.135, 687B.352, 687B.409, 687B.692, 687B.723, 687B.725,
+-
+*SB250*
+– 15 –
+1 687B.805, 689B.0353, 689B.255, 695C.1723, 695G.150, 695G.155,
+2 695G.160, 695G.162, 695G.1635, 695G.164, 695G.1645,
+3 695G.1665, 695G.167, 695G.1675, 695G.170 to 695G.1712,
+4 inclusive, 695G.1714 to 695G.174, inclusive, 695G.176, 695G.177,
+5 695G.200 to 695G.230, inclusive, 695G.241 to 695G.310, inclusive,
+6 695G.405 and 695G.415, in the same manner as an insurer that is
+7 licensed pursuant to title 57 of NRS is required to comply with those
+8 provisions.
+9 Sec. 14. NRS 603A.100 is hereby amended to read as follows:
+10 603A.100 1. The provisions of NRS 603A.010 to 603A.290,
+11 inclusive, do not apply to the maintenance or transmittal of
+12 information in accordance with NRS 439.581 to 439.597, inclusive,
+13 and sections 2, 3 and 4 of this act, and the regulations adopted
+14 pursuant thereto.
+15 2. A data collector who is also an operator, as defined in NRS
+16 603A.330, shall comply with the provisions of NRS 603A.300 to
+17 603A.360, inclusive.
+18 3. Any waiver of the provisions of NRS 603A.010 to
+19 603A.290, inclusive, is contrary to public policy, void and
+20 unenforceable.
+21 Sec. 15. NRS 629.051 is hereby amended to read as follows:
+22 629.051 1. Except as otherwise provided in this section and
+23 in regulations adopted by the State Board of Health pursuant to NRS
+24 652.135 with regard to the records of a medical laboratory and
+25 unless a longer period is provided by federal law, each custodian of
+26 health care records shall retain the health care records of patients as
+27 part of the regularly maintained records of the custodian for 5 years
+28 after their receipt or production. Health care records may be retained
+29 in written form, or by microfilm or any other recognized form of
+30 size reduction, including, without limitation, microfiche, computer
+31 disc, magnetic tape and optical disc, which does not adversely affect
+32 their use for the purposes of NRS 629.061. Health care records:
+33 (a) Must, except as otherwise provided in subsections 5 and 6 of
+34 NRS 439.589, be created, maintained, transmitted and exchanged
+35 electronically and integrated into the statewide electronic health
+36 repository established pursuant to section 4 of this act, as required
+37 by subsection 4 of NRS 439.589; and
+38 (b) May be created, authenticated and stored in a health
+39 information exchange which meets the requirements of NRS
+40 439.581 to 439.597, inclusive, and sections 2, 3 and 4 of this act
+41 and the regulations adopted pursuant thereto.
+42 2. A provider of health care shall post, in a conspicuous place
+43 in each location at which the provider of health care performs health
+44 care services, a sign which discloses to patients that their health care
+45 records may be destroyed after the period set forth in subsection 1.
+-
+*SB250*
+– 16 –
+1 3. When a provider of health care performs health care services
+2 for a patient for the first time, the provider of health care shall
+3 deliver to the patient a written statement which discloses to the
+4 patient that the health care records of the patient may be destroyed
+5 after the period set forth in subsection 1.
+6 4. If a provider of health care fails to deliver the written
+7 statement to the patient pursuant to subsection 3, the provider of
+8 health care shall deliver to the patient the written statement
+9 described in subsection 3 when the provider of health care next
+10 performs health care services for the patient.
+11 5. In addition to delivering a written statement pursuant to
+12 subsection 3 or 4, a provider of health care may deliver such a
+13 written statement to a patient at any other time.
+14 6. A written statement delivered to a patient pursuant to this
+15 section may be included with other written information delivered to
+16 the patient by a provider of health care.
+17 7. A custodian of health care records shall not destroy the
+18 health care records of a person who is less than 23 years of age on
+19 the date of the proposed destruction of the records. The health care
+20 records of a person who has attained the age of 23 years may be
+21 destroyed in accordance with this section for those records which
+22 have been retained for at least 5 years or for any longer period
+23 provided by federal law.
+24 8. If a health care licensing board receives notification from the
+25 Department of Health and Human Services pursuant to NRS
+26 439.5895 that a provider of health care to which the health care
+27 licensing board has issued a license is not in compliance with the
+28 requirements of subsection 4 of NRS 439.589, the health care
+29 licensing board may, after notice and the opportunity for a hearing
+30 in accordance with the provisions of this title, require corrective
+31 action or impose an administrative penalty in an amount not to
+32 exceed the maximum penalty that the health care licensing board is
+33 authorized to impose for other violations. The health care licensing
+34 board shall not suspend or revoke a license for failure to comply
+35 with the requirements of subsection 4 of NRS 439.589.
+36 9. The provisions of this section, except for the provisions of
+37 paragraph (a) of subsection 1 and subsection 8, do not apply to a
+38 pharmacist.
+39 10. The State Board of Health shall adopt:
+40 (a) Regulations prescribing the form, size, contents and
+41 placement of the signs and written statements required pursuant to
+42 this section; and
+43 (b) Any other regulations necessary to carry out the provisions
+44 of this section.
+45 11. As used in this section:
+-
+*SB250*
+– 17 –
+1 (a) “Health care licensing board” means:
+2 (1) A board created pursuant to chapter 630, 630A, 631, 632,
+3 633, 634, 634A, 635, 636, 637, 637B, 639, 640, 640A, 640B, 640C,
+4 641, 641A, 641B, 641C or 641D of NRS.
+5 (2) The Division of Public and Behavioral Health of the
+6 Department of Health and Human Services.
+7 (3) The State Board of Health with respect to licenses issued
+8 pursuant to chapter 640D or 640E of NRS.
+9 (b) “License” has the meaning ascribed to it in NRS 439.5895.
+10 Sec. 16. NRS 719.200 is hereby amended to read as follows:
+11 719.200 1. Except as otherwise provided in subsection 2, the
+12 provisions of this chapter apply to electronic records and electronic
+13 signatures relating to a transaction.
+14 2. The provisions of this chapter do not apply to a transaction
+15 to the extent it is governed by:
+16 (a) Except as otherwise specifically provided by law, a law
+17 governing the creation and execution of wills, codicils or
+18 testamentary trusts;
+19 (b) The Uniform Commercial Code other than NRS 104.1306,
+20 104.2101 to 104.2725, inclusive, and 104A.2101 to 104A.2532,
+21 inclusive; or
+22 (c) The provisions of NRS 439.581 to 439.597, inclusive, and
+23 sections 2, 3 and 4 of this act and the regulations adopted pursuant
+24 thereto.
+25 3. The provisions of this chapter apply to an electronic record
+26 or electronic signature otherwise excluded from the application of
+27 this chapter under subsection 2 to the extent it is governed by a law
+28 other than those specified in subsection 2.
+29 4. A transaction subject to the provisions of this chapter is also
+30 subject to other applicable substantive law.
+31 Sec. 17. 1. Notwithstanding the amendatory provisions of
+32 sections 8 and 15 of this act, physician group practices or other
+33 business entities organized for the purpose of practicing a health
+34 care profession with 20 or fewer employees, including, without
+35 limitation, sole proprietorships, are not required to comply with the
+36 provisions of subsection 4 of NRS 439.589, as amended by section
+37 8 of this act, until January 1, 2030.
+38 2. As used in this section, “physician group practice” means
+39 any business entity organized for the purpose of the practice of
+40 medicine or osteopathic medicine by more than one physician.
+41 Sec. 18. The provisions of NRS 354.599 do not apply to any
+42 additional expenses of a local government that are related to the
+43 provisions of this act.
+44 Sec. 19. 1. This section becomes effective upon passage and
+45 approval.
+-
+*SB250*
+– 18 –
+1 2. Sections 1 to 18, inclusive, of this act become effective:
+2 (a) Upon passage and approval for the purpose of adopting any
+3 regulations and performing any other preliminary administrative
+4 tasks that are necessary to carry out the provisions of this act; and
+5 (b) On January 1, 2026, for all other purposes.
+H
+-
+*SB250*
+[DELETED: BN.2SL; I O E AE-COZR H2,2  p r t h c r EE     NRALG) E F O O o a p a t p o t p r t e o a s h r i c r t t s e h p a p a p oE l p v r g h i r a c o e h i ( 4 t a m e e l r a c o c p t a a p t ( a a f h o h]
+[DELETED: –W h i a a c o e t a a t p a p o e f a h o h i v o s 3 o 1 o a r a t c o t ( 4 4 4 4 6 6E l r t D t a r t p a i a w t f w c e ( a r t e a s p f c f p a e t i i t c h r i t s e h r a t s e h r a ( c w t p e b t D f c p s 1 2 A h c p w f t c w t a m ( 4 4 4 4 6 ( i t p p o s 2 i t N R]
+[DELETED: –S 1  CS 2  “ h r m a eS 3  T e h r o a p a t1  A a p u s a t h o h2  A a p t f h o h e h3  E e h r t h o h o aS 4  1  T( E a s e h r f a c p f m a( A t c s e p t2  T s e h r a t( O ( C w t r o N 4 a ( A e h r a t s u b c p f t m t a ( M i i r t h o h h a t l o m t t p i( I a e h r i w l]
+[DELETED: – c m c t a3  T D m c w a p o e a4  E m u d a d f t e h r i t p o iS 5  N4  1  A l h o o a d o a l2  E v a o t p o t c o r o( S B o H o v a r o r( D a p t N 4 t 4S 6  N4  A s 2 o t a t m a t t iS 7  N4  1  A t S w f o c a p i2  T D s b r e t m i a p c s a p t N a c f i w a o h]
+[DELETED: –3  T D m d a a f c o s o r a c i p t 2 f f t c w t p o N4  W t D i t d s o r a m T n m c t l a a r f t a t b t A h e t w t c t a o t5  T6  T D m i a a f a a i e w o i t S w7  T D m a s r a h o sS 8  N4  1  T D i c w h c t p a o i p a e b r p a f f t e h i a e s r f e e o w e o( E m t a h i i ( T  ( T u o n a t t a p o t p a f s e h  ( T i o s n a i a w t a s f t o Q H I N b t O o t N C f H]
+[DELETED: – ( T ( T m t c o e h a h i i w s t m t c o e r r t a c w h r h c w t c o a p o g a w ( T ( F h r f a h i e a c w h r h c s w t ( F ( F n a p i t c o ( G t o m a u o h r h i a r ( F( E h i a r d p( B b o n r b p f t a e h i2  T s p p t t s m]
+[DELETED: –( R( R f p c i o a t a t c o a( R f t m i w a p m a h c w p s o( A s a t e a s f( A o r n t c w a3  T r a p t t s m n4  E( T D a t d t o s a g e h c p t p i i a w t r a a s 2 3 a 4 o t a a a o( E ( I t s e h r e ( U i i t c s e5  T h c f f e a p o h t i s t t E R I]
+[DELETED: – m t a e e i i6  A f t p o s 4 o t b t t( T h c p d n c h t( O7  T p o s 4 d n a t t8  A v o t p o t s o a9  A( “( “ p m a i g e o o p h c o b iS 9  N4  A h c p w w r c a a t r a p t i i c o c l f a d c t o h c t a p a a c o c1  T2  T3  T i r i a i h c4  T h c d w a b u tS 1  N4  1  I a c e t e]
+[DELETED: –( T( N e i f p o t e t p c t p o c o2  A a p t o o o h h o h i h i d e t o e [ o t p a p o e f( A( A( T ( O o o h h o h i i ( P o e i d n b t D f o M o t C H I3  A u t s “ h mS 1  N2  1  E 1 1 1 3 4 4 4 6 6 7 7 7 7 8 8 8 8 8 8 8 8 9 9 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: – 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: – 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 N 2 a u o d b l t b c a o m m b u t s t]
+[DELETED: –2  A g e m n r a b o r3  A b o r s n d a r m p t t i c i t g e c d c o s i w l t c i f t i i t p b o r t i n o4  I r i a e f b m o a e( T ( W ( I( P t p r i a e f o b ( G ( R5  A( S( ES 1  N2  1  T g b o a c s m c p s p o o l g a o t S o( A a e a t d o o a]
+[DELETED: – w e t a t i a w w t c f t p o p o t( P a c t f t b o s o a t p u i a p t d( P g l a o h c t a r f a w n d o o a e a c o t a i a m b a b t o I a t t r o c i r t c c a p T p o N 4 t 4 6 i 6 t 6 i a o a e o t g b o t( D p o a o t c o m o a s m b b f i a w t l t c s d m c]
+[DELETED: –2  I3  I g b o t c o o a s d c p p o l g a o t S o N i t m e i a c w t l s a e f a l a o h i m c p s p4  I a c i e i p t s 3 t( S a e o t c s d m( M b r b t c t p t p o5  A( M b s t t C o I f( D n b e u a b t( S6  AS 1  N 2 i h a t r a2  I t B p h i t a 6 6 6 6 6]
+[DELETED: – 6 6 6 6 6 6 6 t 6S 1  N6  1  T d n a t t m o t o s 2 3 a 4 o t a a t r a2  A3  A w o t p o N 6 t i i c t p p v aS 1  N6  1  E w r t t r o a m l a( M 4 b c m t a e a i s e h( M b c a a s i a h e w m t r o N2  A]
+[DELETED: –3  W a p f t f t t p o h c s t t p a w s w d t t4  I a p o h c f t d t w t t p p 3 p c s d t t p t w s i s 3 w t p o h c n5  I a t d a w s p t 3 o 4 a p o h c m d s a6  A7  A c o h c r s n d t b r f a l 5 y o f a l p8  I o H a H S p t N t a p o h c t w t h c o s 4 o N 4 t h c a w t p o t t r c o i a a p i a a n t9  T1  T( R p t f s c a( A1  A]
+[DELETED: –( “ ( A ( T D o P a B H o t ( T( “S 1  N7  1  E2  T( E a o s p b l a l t c a e o w c o( T t 1 i a 1 t 1( T3  T4  AS 1  1  N t a p o 8 a 1 o t a p g p o o e o f t p o p a h p w 2 o f e i w2  A u i s “ g p m b e o f t p o t p oS 1  T e o a l g t a r t tS 1  1  T]
+[DELETED: –2  S( U a p a o p a( O]
+
+
+================================================================================
+
+Raw Text:
+S.B. 250
+SENATE BILL NO. 250–SENATORS LANGE;
+CRUZ-CRAWFORD AND OHRENSCHALL
+FEBRUARY 27, 2025
+____________
+Referred to Committee on Health and Human Services
+SUMMARY—Revises provisions relating to health care records.
+(BDR 40-70)
+FISCAL NOTE: Effect on Local Government: May have Fiscal Impact.
+Effect on the State: Yes.
+CONTAINS UNFUNDED MANDATE (§§ 3, 8, 12, 15)
+(NOT REQUESTED BY AFFECTED LOCAL GOVERNMENT)
+~
+EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+AN ACT relating to health care; providing that the electronic health
+records of a patient are the property of the patient;
+requiring certain entities to allow a patient to take certain
+actions relating to access to his or her electronic health
+records; requiring the establishment of a statewide
+electronic health repository; imposing certain
+requirements relating to the statewide electronic health
+repository; providing a penalty; and providing other
+matters properly relating thereto.
+Legislative Counsel’s Digest:
+1 Existing law prescribes various requirements governing health information
+2 technology and the electronic maintenance, transmittal and exchange of electronic
+3 health records and certain other electronic health information. (NRS 439.581-
+4 439.597) Upon the request of a person who is authorized to request a copy of health
+5 records that are maintained electronically, existing law requires a custodian of
+6 health care records to electronically transmit a copy of the health records to any
+7 person or entity for a fee. (NRS 629.062) Section 3 of this bill provides that the
+8 electronic health records of a patient are the property of the patient and requires a
+9 health care provider to allow a patient to: (1) access and forward his or her
+10 electronic health records without a fee or charge; and (2) request that his or her
+11 electronic health records be forwarded to any other person or entity in accordance
+12 with existing law. Section 8 of this bill makes a conforming change to remove a
+13 requirement that the Director of the Department of Health and Human Services
+14 adopt regulations governing the ownership of electronic health records because
+15 section 3 establishes that such records are the property of the patient.
+-
+*SB250*
+
+– 2 –
+16 With certain exceptions, existing law requires a health care provider, health
+17 insurer, health insurance administrator and certain other entities to authorize a
+18 person to opt out of having his or her individually identifiable health information
+19 disclosed electronically to health care providers, insurers and certain other entities.
+20 (NRS 439.597) Section 10 of this bill requires those persons and entities to allow a
+21 patient to prohibit any person or entity from accessing his or her individually
+22 identifiable health information, with similar exceptions. Section 5 of this bill makes
+23 a violation of section 3 or 10, or any regulations adopted to carry out those
+24 sections, a misdemeanor. A health care provider, health insurer or health insurance
+25 administrator that commits such a violation would also be subject to administrative
+26 sanctions. (NRS 439.589, 439.5895, 449.167, 450B.215, 629.051, 680A.225,
+27 683A.0891, 695C.329)
+28 Existing law requires the Director to adopt regulations that prescribe a
+29 framework for the electronic maintenance, transmittal and exchange of electronic
+30 health records, prescriptions, health-related information and electronic signatures.
+31 Existing law requires state and local governmental entities, health care providers
+32 and insurers and certain related entities to maintain, transmit and exchange health
+33 information in accordance with that framework, with certain exceptions. (NRS
+34 439.589) Existing law establishes that physician group practices and other business
+35 entities organized for the purpose of practicing a health care profession with 20 or
+36 fewer employees are not required to comply with those provisions until January 1,
+37 2030. (Section 2.8 of chapter 278, Statutes of Nevada 2023, at page 1859) Section
+38 4 of this bill requires the Director to: (1) establish a statewide electronic health
+39 repository for storing the electronic health records of all patients in this State; and
+40 (2) adopt regulations to establish a standardized procedure for collecting
+41 information from patients and entering the information into the computerized
+42 system that serves as a platform for the repository. Section 2 of this bill defines the
+43 term “electronic health repository.” Sections 4 and 11 of this bill provide that
+44 electronic health records in the statewide electronic health repository are
+45 confidential, with certain exceptions. Section 8 requires each health care provider
+46 in this State that is not exempt from the requirement to maintain, transmit and
+47 exchange electronic health records to: (1) integrate the system used by the health
+48 care provider for the maintenance, transmittal and exchange of health information
+49 with the statewide electronic health repository; and (2) comply with the
+50 standardized procedure established by the Director for collecting patient
+51 information and entering patient information into the repository. Section 15 of this
+52 bill makes a conforming change related to the requirement for electronic health care
+53 records to be integrated into the statewide electronic health repository. Section 17
+54 of this bill establishes that physician group practices and other business entities
+55 organized for the purpose of practicing a health care profession with 20 or fewer
+56 employees are not required to comply with the requirements of section 8 until
+57 January 1, 2030. A health care provider who fails to comply with those
+58 requirements would be subject to administrative sanctions but would not be guilty
+59 of a misdemeanor. (NRS 439.589, 439.5895, 449.167, 450B.215, 629.051)
+60 Sections 5, 7, 9, 10, 12-14 and 16 of this bill make conforming changes to: (1)
+61 clarify the applicability of sections 3 and 4 and certain provisions of existing law;
+62 and (2) indicate the proper placement of sections 2-4 in the Nevada Revised
+63 Statutes.
+-
+*SB250*
+
+– 3 –
+THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN
+SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:
+1 Section 1. Chapter 439 of NRS is hereby amended by adding
+2 thereto the provisions set forth as sections 2, 3 and 4 of this act.
+3 Sec. 2. “Electronic health repository” means an electronic
+4 system for the storage of electronic health records.
+5 Sec. 3. The electronic health records of a patient are the
+6 property of the patient. A health care provider shall:
+7 1. Allow a patient unimpeded, secure access to his or her
+8 electronic health records without a fee or charge.
+9 2. Allow a patient to forward his or her electronic health
+10 records to any other person or entity without a fee or charge.
+11 3. Ensure that, upon the request of a patient to furnish his or
+12 her electronic health records to himself or herself or another
+13 person or entity, the electronic health records of the patient are
+14 transmitted to the requested person or entity in accordance with
+15 NRS 629.062.
+16 Sec. 4. 1. The Director shall:
+17 (a) Establish a statewide electronic health repository for
+18 storing the electronic health records of all patients in this State
+19 which must include, without limitation, a computerized system to
+20 provide a centralized platform for maintaining, accessing,
+21 transmitting and exchanging electronic health records; and
+22 (b) Adopt regulations to establish a standardized procedure for
+23 collecting information from patients and entering the information
+24 into the computerized system established pursuant to
+25 paragraph (a).
+26 2. The statewide electronic health repository and the
+27 computerized system established pursuant to subsection 1 must:
+28 (a) Operate in a manner that:
+29 (1) Complies with the requirements of NRS 439.589 and
+30 any regulations adopted pursuant thereto;
+31 (2) Allows for seamless sharing of information between the
+32 statewide electronic health repository and the systems used by
+33 health care providers for the maintenance, transmittal and
+34 exchange of health information; and
+35 (3) Minimizes the need for a patient to repeatedly provide
+36 demographic information, information relating to his or her
+37 medical history and the list of medications that the patient is
+38 currently taking or has taken in the past; and
+39 (b) Include search and compilation features to allow patients
+40 and health care providers to search and organize the information
+41 in an electronic health record, including, without limitation,
+-
+*SB250*
+
+– 4 –
+1 information concerning medical conditions, treatments and
+2 medications.
+3 3. The Director may contract with any person or entity as
+4 necessary to carry out the provisions of this section.
+5 4. Except as otherwise provided in this subsection and NRS
+6 439.597, the electronic health records in the statewide electronic
+7 health repository are confidential and are not public records. The
+8 Department may use deidentified, aggregated data from the
+9 statewide electronic health repository in the performance of its
+10 duties relating to public health.
+11 Sec. 5. NRS 439.580 is hereby amended to read as follows:
+12 439.580 1. Any local health officer or a deputy of a local
+13 health officer who neglects or fails to enforce the provisions of this
+14 chapter in his or her jurisdiction, or neglects or refuses to perform
+15 any of the duties imposed upon him or her by this chapter or by the
+16 instructions and directions of the Division shall be punished by a
+17 fine of not more than $250.
+18 2. Except as otherwise provided in NRS 439.589, each person
+19 who violates any of the provisions of this chapter or refuses or
+20 neglects to obey any lawful order, rule or regulation of the:
+21 (a) State Board of Health or violates any rule or regulation
+22 approved by the State Board of Health pursuant to NRS 439.350,
+23 439.366, 439.410 and 439.460; or
+24 (b) Director adopted pursuant to NRS 439.581 to 439.597,
+25 inclusive, and sections 2, 3 and 4 of this act,
+26  is guilty of a misdemeanor.
+27 Sec. 6. NRS 439.581 is hereby amended to read as follows:
+28 439.581 As used in NRS 439.581 to 439.597, inclusive, and
+29 sections 2, 3 and 4 of this act, unless the context otherwise requires,
+30 the words and terms defined in NRS 439.582 to 439.585, inclusive,
+31 and section 2 of this act have the meanings ascribed to them in
+32 those sections.
+33 Sec. 7. NRS 439.588 is hereby amended to read as follows:
+34 439.588 1. A health information exchange shall not operate
+35 in this State without first obtaining certification as provided in
+36 subsection 2.
+37 2. The Director shall by regulation establish the manner in
+38 which a health information exchange may apply for certification and
+39 the requirements for granting such certification, which must include,
+40 without limitation, that the health information exchange demonstrate
+41 its financial and operational sustainability, adherence to the privacy,
+42 security and patient consent standards adopted pursuant to NRS
+43 439.589 and capacity for interoperability with any other health
+44 information exchange certified pursuant to this section.
+-
+*SB250*
+
+– 5 –
+1 3. The Director may deny an application for certification or
+2 may suspend or revoke any certification issued pursuant to
+3 subsection 2 for failure to comply with the provisions of NRS
+4 439.581 to 439.597, inclusive, and sections 2, 3 and 4 of this act or
+5 the regulations adopted pursuant thereto or any applicable federal or
+6 state law.
+7 4. When the Director intends to deny, suspend or revoke a
+8 certification, he or she shall give reasonable notice to all parties by
+9 certified mail. The notice must contain the legal authority,
+10 jurisdiction and reasons for the action to be taken. A health
+11 information exchange that wishes to contest the action of the
+12 Director must file an appeal with the Director.
+13 5. The Director shall adopt regulations establishing the manner
+14 in which a person may file a complaint with the Director regarding a
+15 violation of the provisions of this section.
+16 6. The Director may impose an administrative fine against a
+17 health information exchange which operates in this State without
+18 holding a certification in an amount established by the Director by
+19 regulation. The Director shall afford a health information exchange
+20 so fined an opportunity for a hearing pursuant to the provisions of
+21 NRS 233B.121.
+22 7. The Director may adopt such regulations as he or she
+23 determines are necessary to carry out the provisions of this section.
+24 Sec. 8. NRS 439.589 is hereby amended to read as follows:
+25 439.589 1. The Director, in consultation with health care
+26 providers, third parties and other interested persons and entities,
+27 shall by regulation prescribe a framework for the electronic
+28 maintenance, transmittal and exchange of electronic health records,
+29 prescriptions, health-related information and electronic signatures
+30 and requirements for electronic equivalents of written entries or
+31 written approvals in accordance with federal law. The regulations
+32 must:
+33 (a) Establish standards for networks and technologies to be used
+34 to maintain, transmit and exchange health information, including,
+35 without limitation, standards:
+36 (1) That require:
+37 (I) The use of networks and technologies that allow
+38 patients to access electronic health records directly from the health
+39 care provider of the patient and forward such electronic health
+40 records electronically to other persons and entities; and
+41 (II) The interoperability of such networks and
+42 technologies in accordance with the applicable standards for the
+43 interoperability of Qualified Health Information Networks
+44 prescribed by the Office of the National Coordinator for Health
+-
+*SB250*
+
+– 6 –
+1 Information Technology of the United States Department of Health
+2 and Human Services;
+3 (2) To ensure that electronic health records retained or shared
+4 are secure;
+5 (3) To maintain the confidentiality of electronic health
+6 records and health-related information, including, without
+7 limitation, standards to maintain the confidentiality of electronic
+8 health records relating to a child who has received health care
+9 services without the consent of a parent or guardian and which
+10 ensure that a child’s right to access such health care services is not
+11 impaired;
+12 (4) To ensure the privacy of individually identifiable health
+13 information, including, without limitation, standards to ensure the
+14 privacy of information relating to a child who has received health
+15 care services without the consent of a parent or guardian;
+16 (5) For obtaining consent from a patient before retrieving the
+17 patient’s health records from a health information exchange,
+18 including, without limitation, standards for obtaining such consent
+19 from a child who has received health care services without the
+20 consent of a parent or guardian;
+21 (6) For making any necessary corrections to information or
+22 records;
+23 (7) For notifying a patient if the confidentiality of
+24 information contained in an electronic health record of the patient is
+25 breached;
+26 (8) Governing the ownership, management and use of
+27 [electronic health records,] health-related information and related
+28 data [;] and the management and use of electronic health records;
+29 and
+30 (9) For the electronic transmission of prior authorizations for
+31 prescription medication;
+32 (b) Ensure compliance with the requirements, specifications and
+33 protocols for exchanging, securing and disclosing electronic health
+34 records, health-related information and related data prescribed
+35 pursuant to the provisions of the Health Information Technology for
+36 Economic and Clinical Health Act, 42 U.S.C. §§ 300jj et seq. and
+37 17901 et seq., the Health Insurance Portability and Accountability
+38 Act of 1996, Public Law 104-191, and other applicable federal and
+39 state law; and
+40 (c) Be based on nationally recognized best practices for
+41 maintaining, transmitting and exchanging health information
+42 electronically.
+43 2. The standards prescribed pursuant to this section must
+44 include, without limitation:
+-
+*SB250*
+
+– 7 –
+1 (a) Requirements for the creation, maintenance and transmittal
+2 of electronic health records;
+3 (b) Requirements for protecting confidentiality, including
+4 control over, access to and the collection, organization and
+5 maintenance of electronic health records, health-related information
+6 and individually identifiable health information;
+7 (c) Requirements for the manner in which a patient may,
+8 through a health care provider who participates in the sharing of
+9 health records using a health information exchange, revoke his or
+10 her consent for a health care provider to retrieve the patient’s health
+11 records from the health information exchange;
+12 (d) A secure and traceable electronic audit system for
+13 identifying access points and trails to electronic health records and
+14 health information exchanges; and
+15 (e) Any other requirements necessary to comply with all
+16 applicable federal laws relating to electronic health records, health-
+17 related information, health information exchanges and the security
+18 and confidentiality of such records and exchanges.
+19 3. The regulations adopted pursuant to this section must not
+20 require any person or entity to use a health information exchange.
+21 4. Except as otherwise provided in subsections 5, 6 and 7 [,
+22 the] :
+23 (a) The Department and the divisions thereof, other state and
+24 local governmental entities, health care providers, third parties,
+25 pharmacy benefit managers and other entities licensed or certified
+26 pursuant to title 57 of NRS shall maintain, transmit and exchange
+27 health information in accordance with the regulations adopted
+28 pursuant to this section, the provisions of NRS 439.581 to 439.597,
+29 inclusive, and sections 2, 3 and 4 of this act and any other
+30 regulations adopted pursuant thereto.
+31 (b) Each health care provider in this State shall:
+32 (1) Integrate the system used by the health care provider for
+33 the maintenance, transmittal and exchange of health information
+34 with the statewide electronic health repository established
+35 pursuant to section 4 of this act; and
+36 (2) Use the procedure established pursuant to section 4 of
+37 this act when collecting information from patients and entering
+38 that information into the computerized system established
+39 pursuant to section 4 of this act.
+40 5. The Federal Government and employees thereof, a provider
+41 of health coverage for federal employees, a provider of health
+42 coverage that is subject to the Employee Retirement Income
+43 Security Act of 1974, 29 U.S.C. §§ 1001 et seq., or a Taft-Hartley
+44 trust formed pursuant to 29 U.S.C. § 186(c)(5) is not required to but
+-
+*SB250*
+
+– 8 –
+1 may maintain, transmit and exchange electronic information in
+2 accordance with the regulations adopted pursuant to this section.
+3 6. A health care provider may apply to the Department for a
+4 waiver from the provisions of subsection 4 on the basis that the
+5 health care provider does not have the infrastructure necessary to
+6 comply with those provisions, including, without limitation, because
+7 the health care provider does not have access to the Internet. The
+8 Department shall grant a waiver if it determines that:
+9 (a) The health care provider does not currently have the
+10 infrastructure necessary to comply with the provisions of subsection
+11 4; and
+12 (b) Obtaining such infrastructure is not reasonably practicable,
+13 including, without limitation, because the cost of such infrastructure
+14 would make it difficult for the health care provider to continue to
+15 operate.
+16 7. The provisions of subsection 4 do not apply to the
+17 Department of Corrections.
+18 8. A violation of the provisions of this section or any
+19 regulations adopted pursuant thereto is not a misdemeanor.
+20 9. As used in this section:
+21 (a) “Pharmacy benefit manager” has the meaning ascribed to it
+22 in NRS 683A.174.
+23 (b) “Third party” means any insurer, governmental entity or
+24 other organization providing health coverage or benefits in
+25 accordance with state or federal law.
+26 Sec. 9. NRS 439.593 is hereby amended to read as follows:
+27 439.593 A health care provider who with reasonable care
+28 transmits, accesses, utilizes, discloses, relies upon or provides to a
+29 patient an apparently genuine electronic health record in accordance
+30 with NRS 439.581 to 439.597, inclusive, and sections 2, 3 and 4 of
+31 this act and the regulations adopted pursuant thereto is immune
+32 from civil or criminal liability for any decision concerning the
+33 provision of health care to a patient and any civil or criminal
+34 liability resulting from the provision of the record to a patient if:
+35 1. The electronic health record is inaccurate;
+36 2. The inaccuracy was not caused by the health care provider;
+37 3. The inaccuracy resulted in an inappropriate health care
+38 decision; and
+39 4. The health care decision was appropriate based upon the
+40 information contained in the inaccurate electronic health record.
+41 Sec. 10. NRS 439.597 is hereby amended to read as follows:
+42 439.597 1. If a covered entity transmits electronically
+43 individually identifiable health information in compliance with the
+44 provisions of:
+-
+*SB250*
+
+– 9 –
+1 (a) The Health Insurance Portability and Accountability Act of
+2 1996, Public Law 104-191; and
+3 (b) NRS 439.581 to 439.597, inclusive, and sections 2, 3 and 4
+4 of this act and the regulations adopted pursuant thereto,
+5  which govern the electronic transmission of such information, the
+6 covered entity is, for purposes of the electronic transmission,
+7 exempt from any state law that contains more stringent requirements
+8 or provisions concerning the privacy or confidentiality of
+9 individually identifiable health information.
+10 2. A covered entity that makes individually identifiable health
+11 information available electronically pursuant to subsection 1 shall
+12 allow any person to opt out of having his or her individually
+13 identifiable health information disclosed electronically to other
+14 covered entities [,] or to prohibit any person or entity from
+15 accessing his or her individually identifiable health information,
+16 except:
+17 (a) As required by the administrative simplification provisions
+18 of the Health Insurance Portability and Accountability Act of 1996,
+19 Public Law 104-191.
+20 (b) As otherwise required by a state law.
+21 (c) That a person who is a recipient of Medicaid or insurance
+22 pursuant to the Children’s Health Insurance Program may not [opt] :
+23 (1) Opt out of having his or her individually identifiable
+24 health information disclosed electronically [.] ; or
+25 (2) Prohibit any person or entity from accessing his or her
+26 individually identifiable health information where access for that
+27 person or entity is deemed necessary by the Department for
+28 purposes of Medicaid or the Children’s Health Insurance
+29 Program.
+30 3. As used in this section, “covered entity” has the meaning
+31 ascribed to it in 45 C.F.R. § 160.103.
+32 Sec. 11. NRS 239.010 is hereby amended to read as follows:
+33 239.010 1. Except as otherwise provided in this section and
+34 NRS 1.4683, 1.4687, 1A.110, 3.2203, 41.0397, 41.071, 49.095,
+35 49.293, 62D.420, 62D.440, 62E.516, 62E.620, 62H.025, 62H.030,
+36 62H.170, 62H.220, 62H.320, 75A.100, 75A.150, 76.160, 78.152,
+37 80.113, 81.850, 82.183, 86.246, 86.54615, 87.515, 87.5413,
+38 87A.200, 87A.580, 87A.640, 88.3355, 88.5927, 88.6067, 88A.345,
+39 88A.7345, 89.045, 89.251, 90.730, 91.160, 116.757, 116A.270,
+40 116B.880, 118B.026, 119.260, 119.265, 119.267, 119.280,
+41 119A.280, 119A.653, 119A.677, 119B.370, 119B.382, 120A.640,
+42 120A.690, 125.130, 125B.140, 126.141, 126.161, 126.163, 126.730,
+43 127.007, 127.057, 127.130, 127.140, 127.2817, 128.090, 130.312,
+44 130.712, 136.050, 159.044, 159A.044, 164.041, 172.075, 172.245,
+45 176.01334, 176.01385, 176.015, 176.0625, 176.09129, 176.156,
+-
+*SB250*
+
+– 10 –
+1 176A.630, 178.39801, 178.4715, 178.5691, 178.5717, 179.495,
+2 179A.070, 179A.165, 179D.160, 180.600, 200.3771, 200.3772,
+3 200.5095, 200.604, 202.3662, 205.4651, 209.392, 209.3923,
+4 209.3925, 209.419, 209.429, 209.521, 211A.140, 213.010, 213.040,
+5 213.095, 213.131, 217.105, 217.110, 217.464, 217.475, 218A.350,
+6 218E.625, 218F.150, 218G.130, 218G.240, 218G.350, 218G.615,
+7 224.240, 226.462, 226.796, 228.270, 228.450, 228.495, 228.570,
+8 231.069, 231.1285, 231.1473, 232.1369, 233.190, 237.300,
+9 239.0105, 239.0113, 239.014, 239B.026, 239B.030, 239B.040,
+10 239B.050, 239C.140, 239C.210, 239C.230, 239C.250, 239C.270,
+11 239C.420, 240.007, 241.020, 241.030, 241.039, 242.105, 244.264,
+12 244.335, 247.540, 247.545, 247.550, 247.560, 250.087, 250.130,
+13 250.140, 250.145, 250.150, 268.095, 268.0978, 268.490, 268.910,
+14 269.174, 271A.105, 281.195, 281.805, 281A.350, 281A.680,
+15 281A.685, 281A.750, 281A.755, 281A.780, 284.4068, 284.4086,
+16 286.110, 286.118, 287.0438, 289.025, 289.080, 289.387, 289.830,
+17 293.4855, 293.5002, 293.503, 293.504, 293.558, 293.5757, 293.870,
+18 293.906, 293.908, 293.909, 293.910, 293B.135, 293D.510, 331.110,
+19 332.061, 332.351, 333.333, 333.335, 338.070, 338.1379, 338.1593,
+20 338.1725, 338.1727, 348.420, 349.597, 349.775, 353.205,
+21 353A.049, 353A.085, 353A.100, 353C.240, 353D.250, 360.240,
+22 360.247, 360.255, 360.755, 361.044, 361.2242, 361.610, 365.138,
+23 366.160, 368A.180, 370.257, 370.327, 372A.080, 378.290, 378.300,
+24 379.0075, 379.008, 379.1495, 385A.830, 385B.100, 387.626,
+25 387.631, 388.1455, 388.259, 388.501, 388.503, 388.513, 388.750,
+26 388A.247, 388A.249, 391.033, 391.035, 391.0365, 391.120,
+27 391.925, 392.029, 392.147, 392.264, 392.271, 392.315, 392.317,
+28 392.325, 392.327, 392.335, 392.850, 393.045, 394.167, 394.16975,
+29 394.1698, 394.447, 394.460, 394.465, 396.1415, 396.1425, 396.143,
+30 396.159, 396.3295, 396.405, 396.525, 396.535, 396.9685,
+31 398A.115, 408.3885, 408.3886, 408.3888, 408.5484, 412.153,
+32 414.280, 416.070, 422.2749, 422.305, 422A.342, 422A.350,
+33 425.400, 427A.1236, 427A.872, 427A.940, 432.028, 432.205,
+34 432B.175, 432B.280, 432B.290, 432B.4018, 432B.407, 432B.430,
+35 432B.560, 432B.5902, 432C.140, 432C.150, 433.534, 433A.360,
+36 439.4941, 439.4988, 439.5282, 439.840, 439.914, 439A.116,
+37 439A.124, 439B.420, 439B.754, 439B.760, 439B.845, 440.170,
+38 441A.195, 441A.220, 441A.230, 442.330, 442.395, 442.735,
+39 442.774, 445A.665, 445B.570, 445B.7773, 449.209, 449.245,
+40 449.4315, 449A.112, 450.140, 450B.188, 450B.805, 453.164,
+41 453.720, 458.055, 458.280, 459.050, 459.3866, 459.555, 459.7056,
+42 459.846, 463.120, 463.15993, 463.240, 463.3403, 463.3407,
+43 463.790, 467.1005, 480.535, 480.545, 480.935, 480.940, 481.063,
+44 481.091, 481.093, 482.170, 482.368, 482.5536, 483.340, 483.363,
+45 483.575, 483.659, 483.800, 484A.469, 484B.830, 484B.833,
+-
+*SB250*
+
+– 11 –
+1 484E.070, 485.316, 501.344, 503.452, 522.040, 534A.031, 561.285,
+2 571.160, 584.655, 587.877, 598.0964, 598.098, 598A.110,
+3 598A.420, 599B.090, 603.070, 603A.210, 604A.303, 604A.710,
+4 604D.500, 604D.600, 612.265, 616B.012, 616B.015, 616B.315,
+5 616B.350, 618.341, 618.425, 622.238, 622.310, 623.131, 623A.137,
+6 624.110, 624.265, 624.327, 625.425, 625A.185, 628.418, 628B.230,
+7 628B.760, 629.043, 629.047, 629.069, 630.133, 630.2671,
+8 630.2672, 630.2673, 630.2687, 630.30665, 630.336, 630A.327,
+9 630A.555, 631.332, 631.368, 632.121, 632.125, 632.3415,
+10 632.3423, 632.405, 633.283, 633.301, 633.427, 633.4715, 633.4716,
+11 633.4717, 633.524, 634.055, 634.1303, 634.214, 634A.169,
+12 634A.185, 634B.730, 635.111, 635.158, 636.262, 636.342, 637.085,
+13 637.145, 637B.192, 637B.288, 638.087, 638.089, 639.183,
+14 639.2485, 639.570, 640.075, 640.152, 640A.185, 640A.220,
+15 640B.405, 640B.730, 640C.580, 640C.600, 640C.620, 640C.745,
+16 640C.760, 640D.135, 640D.190, 640E.225, 640E.340, 641.090,
+17 641.221, 641.2215, 641A.191, 641A.217, 641A.262, 641B.170,
+18 641B.281, 641B.282, 641C.455, 641C.760, 641D.260, 641D.320,
+19 642.524, 643.189, 644A.870, 645.180, 645.625, 645A.050,
+20 645A.082, 645B.060, 645B.092, 645C.220, 645C.225, 645D.130,
+21 645D.135, 645G.510, 645H.320, 645H.330, 647.0945, 647.0947,
+22 648.033, 648.197, 649.065, 649.067, 652.126, 652.228, 653.900,
+23 654.110, 656.105, 657A.510, 661.115, 665.130, 665.133, 669.275,
+24 669.285, 669A.310, 670B.680, 671.365, 671.415, 673.450, 673.480,
+25 675.380, 676A.340, 676A.370, 677.243, 678A.470, 678C.710,
+26 678C.800, 679B.122, 679B.124, 679B.152, 679B.159, 679B.190,
+27 679B.285, 679B.690, 680A.270, 681A.440, 681B.260, 681B.410,
+28 681B.540, 683A.0873, 685A.077, 686A.289, 686B.170, 686C.306,
+29 687A.060, 687A.115, 687B.404, 687C.010, 688C.230, 688C.480,
+30 688C.490, 689A.696, 692A.117, 692C.190, 692C.3507, 692C.3536,
+31 692C.3538, 692C.354, 692C.420, 693A.480, 693A.615, 696B.550,
+32 696C.120, 703.196, 704B.325, 706.1725, 706A.230, 710.159,
+33 711.600, and section 4 of this act, sections 35, 38 and 41 of chapter
+34 478, Statutes of Nevada 2011 and section 2 of chapter 391, Statutes
+35 of Nevada 2013 and unless otherwise declared by law to be
+36 confidential, all public books and public records of a governmental
+37 entity must be open at all times during office hours to inspection by
+38 any person, and may be fully copied or an abstract or memorandum
+39 may be prepared from those public books and public records. Any
+40 such copies, abstracts or memoranda may be used to supply the
+41 general public with copies, abstracts or memoranda of the records or
+42 may be used in any other way to the advantage of the governmental
+43 entity or of the general public. This section does not supersede or in
+44 any manner affect the federal laws governing copyrights or enlarge,
+-
+*SB250*
+
+– 12 –
+1 diminish or affect in any other manner the rights of a person in any
+2 written book or record which is copyrighted pursuant to federal law.
+3 2. A governmental entity may not reject a book or record
+4 which is copyrighted solely because it is copyrighted.
+5 3. A governmental entity that has legal custody or control of a
+6 public book or record shall not deny a request made pursuant to
+7 subsection 1 to inspect or copy or receive a copy of a public book or
+8 record on the basis that the requested public book or record contains
+9 information that is confidential if the governmental entity can
+10 redact, delete, conceal or separate, including, without limitation,
+11 electronically, the confidential information from the information
+12 included in the public book or record that is not otherwise
+13 confidential.
+14 4. If requested, a governmental entity shall provide a copy of a
+15 public record in an electronic format by means of an electronic
+16 medium. Nothing in this subsection requires a governmental entity
+17 to provide a copy of a public record in an electronic format or by
+18 means of an electronic medium if:
+19 (a) The public record:
+20 (1) Was not created or prepared in an electronic format; and
+21 (2) Is not available in an electronic format; or
+22 (b) Providing the public record in an electronic format or by
+23 means of an electronic medium would:
+24 (1) Give access to proprietary software; or
+25 (2) Require the production of information that is confidential
+26 and that cannot be redacted, deleted, concealed or separated from
+27 information that is not otherwise confidential.
+28 5. An officer, employee or agent of a governmental entity who
+29 has legal custody or control of a public record:
+30 (a) Shall not refuse to provide a copy of that public record in the
+31 medium that is requested because the officer, employee or agent has
+32 already prepared or would prefer to provide the copy in a different
+33 medium.
+34 (b) Except as otherwise provided in NRS 239.030, shall, upon
+35 request, prepare the copy of the public record and shall not require
+36 the person who has requested the copy to prepare the copy himself
+37 or herself.
+38 Sec. 12. NRS 287.010 is hereby amended to read as follows:
+39 287.010 1. The governing body of any county, school
+40 district, municipal corporation, political subdivision, public
+41 corporation or other local governmental agency of the State of
+42 Nevada may:
+43 (a) Adopt and carry into effect a system of group life, accident
+44 or health insurance, or any combination thereof, for the benefit of its
+45 officers and employees, and the dependents of officers and
+-
+*SB250*
+
+– 13 –
+1 employees who elect to accept the insurance and who, where
+2 necessary, have authorized the governing body to make deductions
+3 from their compensation for the payment of premiums on the
+4 insurance.
+5 (b) Purchase group policies of life, accident or health insurance,
+6 or any combination thereof, for the benefit of such officers and
+7 employees, and the dependents of such officers and employees, as
+8 have authorized the purchase, from insurance companies authorized
+9 to transact the business of such insurance in the State of Nevada,
+10 and, where necessary, deduct from the compensation of officers and
+11 employees the premiums upon insurance and pay the deductions
+12 upon the premiums.
+13 (c) Provide group life, accident or health coverage through a
+14 self-insurance reserve fund and, where necessary, deduct
+15 contributions to the maintenance of the fund from the compensation
+16 of officers and employees and pay the deductions into the fund. The
+17 money accumulated for this purpose through deductions from the
+18 compensation of officers and employees and contributions of the
+19 governing body must be maintained as an internal service fund as
+20 defined by NRS 354.543. The money must be deposited in a state or
+21 national bank or credit union authorized to transact business in the
+22 State of Nevada. Any independent administrator of a fund created
+23 under this section is subject to the licensing requirements of chapter
+24 683A of NRS, and must be a resident of this State. Any contract
+25 with an independent administrator must be approved by the
+26 Commissioner of Insurance as to the reasonableness of
+27 administrative charges in relation to contributions collected and
+28 benefits provided. The provisions of NRS 439.581 to 439.597,
+29 inclusive, and sections 2, 3 and 4 of this act, 686A.135, 687B.352,
+30 687B.408, 687B.692, 687B.723, 687B.725, 687B.805, 689B.030 to
+31 689B.0317, inclusive, paragraphs (b) and (c) of subsection 1 of NRS
+32 689B.0319, subsections 2, 4, 6 and 7 of NRS 689B.0319, 689B.033
+33 to 689B.0369, inclusive, 689B.0375 to 689B.050, inclusive,
+34 689B.0675, 689B.265, 689B.287 and 689B.500 apply to coverage
+35 provided pursuant to this paragraph, except that the provisions of
+36 NRS 689B.0378, 689B.03785 and 689B.500 only apply to coverage
+37 for active officers and employees of the governing body, or the
+38 dependents of such officers and employees.
+39 (d) Defray part or all of the cost of maintenance of a self-
+40 insurance fund or of the premiums upon insurance. The money for
+41 contributions must be budgeted for in accordance with the laws
+42 governing the county, school district, municipal corporation,
+43 political subdivision, public corporation or other local governmental
+44 agency of the State of Nevada.
+-
+*SB250*
+
+– 14 –
+1 2. If a school district offers group insurance to its officers and
+2 employees pursuant to this section, members of the board of trustees
+3 of the school district must not be excluded from participating in the
+4 group insurance. If the amount of the deductions from compensation
+5 required to pay for the group insurance exceeds the compensation to
+6 which a trustee is entitled, the difference must be paid by the trustee.
+7 3. In any county in which a legal services organization exists,
+8 the governing body of the county, or of any school district,
+9 municipal corporation, political subdivision, public corporation or
+10 other local governmental agency of the State of Nevada in the
+11 county, may enter into a contract with the legal services
+12 organization pursuant to which the officers and employees of the
+13 legal services organization, and the dependents of those officers and
+14 employees, are eligible for any life, accident or health insurance
+15 provided pursuant to this section to the officers and employees, and
+16 the dependents of the officers and employees, of the county, school
+17 district, municipal corporation, political subdivision, public
+18 corporation or other local governmental agency.
+19 4. If a contract is entered into pursuant to subsection 3, the
+20 officers and employees of the legal services organization:
+21 (a) Shall be deemed, solely for the purposes of this section, to be
+22 officers and employees of the county, school district, municipal
+23 corporation, political subdivision, public corporation or other local
+24 governmental agency with which the legal services organization has
+25 contracted; and
+26 (b) Must be required by the contract to pay the premiums or
+27 contributions for all insurance which they elect to accept or of which
+28 they authorize the purchase.
+29 5. A contract that is entered into pursuant to subsection 3:
+30 (a) Must be submitted to the Commissioner of Insurance for
+31 approval not less than 30 days before the date on which the contract
+32 is to become effective.
+33 (b) Does not become effective unless approved by the
+34 Commissioner.
+35 (c) Shall be deemed to be approved if not disapproved by the
+36 Commissioner within 30 days after its submission.
+37 6. As used in this section, “legal services organization” means
+38 an organization that operates a program for legal aid and receives
+39 money pursuant to NRS 19.031.
+40 Sec. 13. NRS 287.04335 is hereby amended to read as
+41 follows:
+42 287.04335 If the Board provides health insurance through a
+43 plan of self-insurance, it shall comply with the provisions of NRS
+44 439.581 to 439.597, inclusive, and sections 2, 3 and 4 of this act,
+45 686A.135, 687B.352, 687B.409, 687B.692, 687B.723, 687B.725,
+-
+*SB250*
+
+– 15 –
+1 687B.805, 689B.0353, 689B.255, 695C.1723, 695G.150, 695G.155,
+2 695G.160, 695G.162, 695G.1635, 695G.164, 695G.1645,
+3 695G.1665, 695G.167, 695G.1675, 695G.170 to 695G.1712,
+4 inclusive, 695G.1714 to 695G.174, inclusive, 695G.176, 695G.177,
+5 695G.200 to 695G.230, inclusive, 695G.241 to 695G.310, inclusive,
+6 695G.405 and 695G.415, in the same manner as an insurer that is
+7 licensed pursuant to title 57 of NRS is required to comply with those
+8 provisions.
+9 Sec. 14. NRS 603A.100 is hereby amended to read as follows:
+10 603A.100 1. The provisions of NRS 603A.010 to 603A.290,
+11 inclusive, do not apply to the maintenance or transmittal of
+12 information in accordance with NRS 439.581 to 439.597, inclusive,
+13 and sections 2, 3 and 4 of this act, and the regulations adopted
+14 pursuant thereto.
+15 2. A data collector who is also an operator, as defined in NRS
+16 603A.330, shall comply with the provisions of NRS 603A.300 to
+17 603A.360, inclusive.
+18 3. Any waiver of the provisions of NRS 603A.010 to
+19 603A.290, inclusive, is contrary to public policy, void and
+20 unenforceable.
+21 Sec. 15. NRS 629.051 is hereby amended to read as follows:
+22 629.051 1. Except as otherwise provided in this section and
+23 in regulations adopted by the State Board of Health pursuant to NRS
+24 652.135 with regard to the records of a medical laboratory and
+25 unless a longer period is provided by federal law, each custodian of
+26 health care records shall retain the health care records of patients as
+27 part of the regularly maintained records of the custodian for 5 years
+28 after their receipt or production. Health care records may be retained
+29 in written form, or by microfilm or any other recognized form of
+30 size reduction, including, without limitation, microfiche, computer
+31 disc, magnetic tape and optical disc, which does not adversely affect
+32 their use for the purposes of NRS 629.061. Health care records:
+33 (a) Must, except as otherwise provided in subsections 5 and 6 of
+34 NRS 439.589, be created, maintained, transmitted and exchanged
+35 electronically and integrated into the statewide electronic health
+36 repository established pursuant to section 4 of this act, as required
+37 by subsection 4 of NRS 439.589; and
+38 (b) May be created, authenticated and stored in a health
+39 information exchange which meets the requirements of NRS
+40 439.581 to 439.597, inclusive, and sections 2, 3 and 4 of this act
+41 and the regulations adopted pursuant thereto.
+42 2. A provider of health care shall post, in a conspicuous place
+43 in each location at which the provider of health care performs health
+44 care services, a sign which discloses to patients that their health care
+45 records may be destroyed after the period set forth in subsection 1.
+-
+*SB250*
+
+– 16 –
+1 3. When a provider of health care performs health care services
+2 for a patient for the first time, the provider of health care shall
+3 deliver to the patient a written statement which discloses to the
+4 patient that the health care records of the patient may be destroyed
+5 after the period set forth in subsection 1.
+6 4. If a provider of health care fails to deliver the written
+7 statement to the patient pursuant to subsection 3, the provider of
+8 health care shall deliver to the patient the written statement
+9 described in subsection 3 when the provider of health care next
+10 performs health care services for the patient.
+11 5. In addition to delivering a written statement pursuant to
+12 subsection 3 or 4, a provider of health care may deliver such a
+13 written statement to a patient at any other time.
+14 6. A written statement delivered to a patient pursuant to this
+15 section may be included with other written information delivered to
+16 the patient by a provider of health care.
+17 7. A custodian of health care records shall not destroy the
+18 health care records of a person who is less than 23 years of age on
+19 the date of the proposed destruction of the records. The health care
+20 records of a person who has attained the age of 23 years may be
+21 destroyed in accordance with this section for those records which
+22 have been retained for at least 5 years or for any longer period
+23 provided by federal law.
+24 8. If a health care licensing board receives notification from the
+25 Department of Health and Human Services pursuant to NRS
+26 439.5895 that a provider of health care to which the health care
+27 licensing board has issued a license is not in compliance with the
+28 requirements of subsection 4 of NRS 439.589, the health care
+29 licensing board may, after notice and the opportunity for a hearing
+30 in accordance with the provisions of this title, require corrective
+31 action or impose an administrative penalty in an amount not to
+32 exceed the maximum penalty that the health care licensing board is
+33 authorized to impose for other violations. The health care licensing
+34 board shall not suspend or revoke a license for failure to comply
+35 with the requirements of subsection 4 of NRS 439.589.
+36 9. The provisions of this section, except for the provisions of
+37 paragraph (a) of subsection 1 and subsection 8, do not apply to a
+38 pharmacist.
+39 10. The State Board of Health shall adopt:
+40 (a) Regulations prescribing the form, size, contents and
+41 placement of the signs and written statements required pursuant to
+42 this section; and
+43 (b) Any other regulations necessary to carry out the provisions
+44 of this section.
+45 11. As used in this section:
+-
+*SB250*
+
+– 17 –
+1 (a) “Health care licensing board” means:
+2 (1) A board created pursuant to chapter 630, 630A, 631, 632,
+3 633, 634, 634A, 635, 636, 637, 637B, 639, 640, 640A, 640B, 640C,
+4 641, 641A, 641B, 641C or 641D of NRS.
+5 (2) The Division of Public and Behavioral Health of the
+6 Department of Health and Human Services.
+7 (3) The State Board of Health with respect to licenses issued
+8 pursuant to chapter 640D or 640E of NRS.
+9 (b) “License” has the meaning ascribed to it in NRS 439.5895.
+10 Sec. 16. NRS 719.200 is hereby amended to read as follows:
+11 719.200 1. Except as otherwise provided in subsection 2, the
+12 provisions of this chapter apply to electronic records and electronic
+13 signatures relating to a transaction.
+14 2. The provisions of this chapter do not apply to a transaction
+15 to the extent it is governed by:
+16 (a) Except as otherwise specifically provided by law, a law
+17 governing the creation and execution of wills, codicils or
+18 testamentary trusts;
+19 (b) The Uniform Commercial Code other than NRS 104.1306,
+20 104.2101 to 104.2725, inclusive, and 104A.2101 to 104A.2532,
+21 inclusive; or
+22 (c) The provisions of NRS 439.581 to 439.597, inclusive, and
+23 sections 2, 3 and 4 of this act and the regulations adopted pursuant
+24 thereto.
+25 3. The provisions of this chapter apply to an electronic record
+26 or electronic signature otherwise excluded from the application of
+27 this chapter under subsection 2 to the extent it is governed by a law
+28 other than those specified in subsection 2.
+29 4. A transaction subject to the provisions of this chapter is also
+30 subject to other applicable substantive law.
+31 Sec. 17. 1. Notwithstanding the amendatory provisions of
+32 sections 8 and 15 of this act, physician group practices or other
+33 business entities organized for the purpose of practicing a health
+34 care profession with 20 or fewer employees, including, without
+35 limitation, sole proprietorships, are not required to comply with the
+36 provisions of subsection 4 of NRS 439.589, as amended by section
+37 8 of this act, until January 1, 2030.
+38 2. As used in this section, “physician group practice” means
+39 any business entity organized for the purpose of the practice of
+40 medicine or osteopathic medicine by more than one physician.
+41 Sec. 18. The provisions of NRS 354.599 do not apply to any
+42 additional expenses of a local government that are related to the
+43 provisions of this act.
+44 Sec. 19. 1. This section becomes effective upon passage and
+45 approval.
+-
+*SB250*
+
+– 18 –
+1 2. Sections 1 to 18, inclusive, of this act become effective:
+2 (a) Upon passage and approval for the purpose of adopting any
+3 regulations and performing any other preliminary administrative
+4 tasks that are necessary to carry out the provisions of this act; and
+5 (b) On January 1, 2026, for all other purposes.
+H
+-
+*SB250*
+
+[DELETED: BN.2SL; I O E AE-COZR H2,2  p r t h c r EE     NRALG) E F O O o a p a t p o t p r t e o a s h r i c r t t s e h p a p a p oE l p v r g h i r a c o e h i ( 4 t a m e e l r a c o c p t a a p t ( a a f h o h]
+[DELETED: –W h i a a c o e t a a t p a p o e f a h o h i v o s 3 o 1 o a r a t c o t ( 4 4 4 4 6 6E l r t D t a r t p a i a w t f w c e ( a r t e a s p f c f p a e t i i t c h r i t s e h r a t s e h r a ( c w t p e b t D f c p s 1 2 A h c p w f t c w t a m ( 4 4 4 4 6 ( i t p p o s 2 i t N R]
+[DELETED: –S 1  CS 2  “ h r m a eS 3  T e h r o a p a t1  A a p u s a t h o h2  A a p t f h o h e h3  E e h r t h o h o aS 4  1  T( E a s e h r f a c p f m a( A t c s e p t2  T s e h r a t( O ( C w t r o N 4 a ( A e h r a t s u b c p f t m t a ( M i i r t h o h h a t l o m t t p i( I a e h r i w l]
+[DELETED: – c m c t a3  T D m c w a p o e a4  E m u d a d f t e h r i t p o iS 5  N4  1  A l h o o a d o a l2  E v a o t p o t c o r o( S B o H o v a r o r( D a p t N 4 t 4S 6  N4  A s 2 o t a t m a t t iS 7  N4  1  A t S w f o c a p i2  T D s b r e t m i a p c s a p t N a c f i w a o h]
+[DELETED: –3  T D m d a a f c o s o r a c i p t 2 f f t c w t p o N4  W t D i t d s o r a m T n m c t l a a r f t a t b t A h e t w t c t a o t5  T6  T D m i a a f a a i e w o i t S w7  T D m a s r a h o sS 8  N4  1  T D i c w h c t p a o i p a e b r p a f f t e h i a e s r f e e o w e o( E m t a h i i ( T  ( T u o n a t t a p o t p a f s e h  ( T i o s n a i a w t a s f t o Q H I N b t O o t N C f H]
+[DELETED: – ( T ( T m t c o e h a h i i w s t m t c o e r r t a c w h r h c w t c o a p o g a w ( T ( F h r f a h i e a c w h r h c s w t ( F ( F n a p i t c o ( G t o m a u o h r h i a r ( F( E h i a r d p( B b o n r b p f t a e h i2  T s p p t t s m]
+[DELETED: –( R( R f p c i o a t a t c o a( R f t m i w a p m a h c w p s o( A s a t e a s f( A o r n t c w a3  T r a p t t s m n4  E( T D a t d t o s a g e h c p t p i i a w t r a a s 2 3 a 4 o t a a a o( E ( I t s e h r e ( U i i t c s e5  T h c f f e a p o h t i s t t E R I]
+[DELETED: – m t a e e i i6  A f t p o s 4 o t b t t( T h c p d n c h t( O7  T p o s 4 d n a t t8  A v o t p o t s o a9  A( “( “ p m a i g e o o p h c o b iS 9  N4  A h c p w w r c a a t r a p t i i c o c l f a d c t o h c t a p a a c o c1  T2  T3  T i r i a i h c4  T h c d w a b u tS 1  N4  1  I a c e t e]
+[DELETED: –( T( N e i f p o t e t p c t p o c o2  A a p t o o o h h o h i h i d e t o e [ o t p a p o e f( A( A( T ( O o o h h o h i i ( P o e i d n b t D f o M o t C H I3  A u t s “ h mS 1  N2  1  E 1 1 1 3 4 4 4 6 6 7 7 7 7 8 8 8 8 8 8 8 8 9 9 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: – 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: – 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 N 2 a u o d b l t b c a o m m b u t s t]
+[DELETED: –2  A g e m n r a b o r3  A b o r s n d a r m p t t i c i t g e c d c o s i w l t c i f t i i t p b o r t i n o4  I r i a e f b m o a e( T ( W ( I( P t p r i a e f o b ( G ( R5  A( S( ES 1  N2  1  T g b o a c s m c p s p o o l g a o t S o( A a e a t d o o a]
+[DELETED: – w e t a t i a w w t c f t p o p o t( P a c t f t b o s o a t p u i a p t d( P g l a o h c t a r f a w n d o o a e a c o t a i a m b a b t o I a t t r o c i r t c c a p T p o N 4 t 4 6 i 6 t 6 i a o a e o t g b o t( D p o a o t c o m o a s m b b f i a w t l t c s d m c]
+[DELETED: –2  I3  I g b o t c o o a s d c p p o l g a o t S o N i t m e i a c w t l s a e f a l a o h i m c p s p4  I a c i e i p t s 3 t( S a e o t c s d m( M b r b t c t p t p o5  A( M b s t t C o I f( D n b e u a b t( S6  AS 1  N 2 i h a t r a2  I t B p h i t a 6 6 6 6 6]
+[DELETED: – 6 6 6 6 6 6 6 t 6S 1  N6  1  T d n a t t m o t o s 2 3 a 4 o t a a t r a2  A3  A w o t p o N 6 t i i c t p p v aS 1  N6  1  E w r t t r o a m l a( M 4 b c m t a e a i s e h( M b c a a s i a h e w m t r o N2  A]
+[DELETED: –3  W a p f t f t t p o h c s t t p a w s w d t t4  I a p o h c f t d t w t t p p 3 p c s d t t p t w s i s 3 w t p o h c n5  I a t d a w s p t 3 o 4 a p o h c m d s a6  A7  A c o h c r s n d t b r f a l 5 y o f a l p8  I o H a H S p t N t a p o h c t w t h c o s 4 o N 4 t h c a w t p o t t r c o i a a p i a a n t9  T1  T( R p t f s c a( A1  A]
+[DELETED: –( “ ( A ( T D o P a B H o t ( T( “S 1  N7  1  E2  T( E a o s p b l a l t c a e o w c o( T t 1 i a 1 t 1( T3  T4  AS 1  1  N t a p o 8 a 1 o t a p g p o o e o f t p o p a h p w 2 o f e i w2  A u i s “ g p m b e o f t p o t p oS 1  T e o a l g t a r t tS 1  1  T]
+[DELETED: –2  S( U a p a o p a( O]

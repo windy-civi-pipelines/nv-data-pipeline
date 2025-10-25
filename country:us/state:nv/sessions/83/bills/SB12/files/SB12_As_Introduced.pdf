@@ -1,0 +1,1016 @@
+S.B. 12
+SENATE BILL NO. 12–COMMITTEE ON GOVERNMENT AFFAIRS
+(ON BEHALF OF THE CHIEF INFORMATION OFFICER
+IN THE OFFICE OF THE GOVERNOR)
+PREFILED OCTOBER 30, 2024
+____________
+Referred to Committee on Government Affairs
+SUMMARY—Revises provisions relating to the Office of the Chief
+Information Officer within the Office of the
+Governor. (BDR 19-280)
+FISCAL NOTE: Effect on Local Government: No.
+Effect on the State: Yes.
+~
+EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+AN ACT relating to governmental administration; creating and
+setting forth the composition of the Governor’s
+Technology Office within the Office of the Governor;
+transferring the powers and duties of the Office of the
+Chief Information Officer within the Office of the
+Governor to the Governor’s Technology Office; revising
+the classification and duties of the Deputy Chief of the
+Office of Information Security; and providing other
+matters properly relating thereto.
+Legislative Counsel’s Digest:
+1 Existing law creates the Office of the Chief Information Officer within the
+2 Office of the Governor, consisting of certain units, offices and other units, groups
+3 divisions or departments. (NRS 242.080) Existing law sets forth certain duties and
+4 responsibilities of the Office of the Chief Information Officer, including providing
+5 certain information services to state agencies, elected state officers and, under
+6 certain circumstances, agencies not under the control of the Governor and local
+7 government agencies. (NRS 242.131, 242.141)
+8 Section 6 of this bill renames the Office of the Chief Information Officer as the
+9 Governor’s Technology Office. Sections 1, 3-5, 7, 9, 11-14, 16, 18 and 23-30 of
+10 this bill make conforming changes by applying various provisions of the Nevada
+11 Revised Statutes relating to the Office of the Chief Information Officer instead to
+12 the Governor’s Technology Office.
+13 Existing law provides that the Office of the Chief Information Officer is
+14 composed of: (1) the Administration Unit; (2) the Client Services Unit; (3) the
+-
+*SB12*
+
+– 2 –
+15 Computing Services Unit; (4) the Network Services Unit, including a Network
+16 Transport Services Group and a Telecommunications Group; (5) the Office of
+17 Information Security; and (6) certain other units, groups, divisions or departments
+18 deemed necessary by the Chief Information Officer. (NRS 242.080) Section 6
+19 provides instead that the Governor’s Technology Office is composed of: (1) the
+20 Director’s Office; (2) the Client Services Division; (3) the Computing Services
+21 Division; (4) the Network Services Division, including a Network Transport
+22 Services Unit and a Unified Communications Unit; (5) the Office of Information
+23 Security; and (6) certain other units, groups, divisions or departments deemed
+24 necessary by the Chief Information Officer. Sections 10, 17, 19-22 and 25 of this
+25 bill make conforming changes to apply various provisions of the Nevada Revised
+26 Statutes relating to the former units, groups, offices, divisions or departments of the
+27 Office of the Chief Information Officer instead to the units, groups, offices,
+28 divisions or departments of the Governor’s Technology Office.
+29 Existing law requires the Chief Information Officer to appoint a Deputy Chief
+30 of the Office of Information Security who is in the classified service of the State.
+31 (NRS 242.101) Section 7 instead places the Deputy Chief of the Office of
+32 Information Security in the unclassified service of the State. Section 31 of this bill
+33 clarifies that the person who is in the position of Deputy Chief of the Office on
+34 July 1, 2025, is in the classified service and must remain in the classified service
+35 until he or she vacates that position.
+36 Existing law creates an Information Technology Advisory Board, which has
+37 various duties including: (1) advising the Office of the Chief Information Officer
+38 concerning issues relating to information technology; (2) periodically reviewing the
+39 Office’s statewide strategic plans and standards manual for information technology;
+40 (3) reviewing the Office’s budget; and (4) consulting and coordinating with state
+41 agencies on certain regulations, policies, standards and guidelines. (NRS 242.122,
+42 242.124, 242.125) Section 8 of this bill replaces the Director of the Department of
+43 Administration as a member of the Advisory Board with the Chief Information
+44 Officer.
+45 Existing law: (1) requires the Chief of the Office of Information Security to
+46 investigate and resolve certain breaches related to an information system of a state
+47 agency or elected official in certain circumstances; and (2) authorizes the Chief of
+48 the Office of Information Security to notify members of certain boards and
+49 commissions of a breach of certain information systems in certain circumstances.
+50 (NRS 242.183) Section 9 instead: (1) requires the Deputy Chief of the Office of
+51 Information Security to investigate and resolve such breaches; and (2) authorizes
+52 the Deputy Chief to provide such notifications.
+53 Senate Bill No. 431 of the 2023 Legislative Session eliminated the Division of
+54 Enterprise Information Technology Services of the Department of Administration
+55 and transferred the powers and duties of the Division to the Office of the Chief
+56 Information Officer. (Chapter 532, Statutes of Nevada 2023, at page 3544) Existing
+57 law defines the terms “Administrator,” “Department” and “Division” as they relate
+58 to the former Division. (NRS 233F.015, 233F.055, 233F.059, 242.013, 242.031,
+59 242.045) Section 34 of this bill repeals these obsolete definitions. Sections 2 and
+60 15 of this bill make conforming changes to eliminate references to certain repealed
+61 definitions.
+-
+*SB12*
+
+– 3 –
+THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN
+SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:
+1 Section 1. NRS 239.073 is hereby amended to read as follows:
+2 239.073 1. The Committee to Approve Schedules for the
+3 Retention and Disposition of Official State Records, consisting of
+4 six members, is hereby created.
+5 2. The Committee consists of:
+6 (a) The Secretary of State;
+7 (b) The Attorney General;
+8 (c) The Director of the Department of Administration;
+9 (d) The State Library, Archives and Public Records
+10 Administrator;
+11 (e) The Chief of the Governor’s Technology Office [of the
+12 Chief Information Officer] within the Office of the Governor; and
+13 (f) One member who is a representative of the general public
+14 appointed by the Governor.
+15  All members of the Committee, except the representative of the
+16 general public, are ex officio members of the Committee.
+17 3. The Secretary of State or a person designated by the
+18 Secretary of State shall serve as Chair of the Committee. The State
+19 Library, Archives and Public Records Administrator shall serve as
+20 Secretary of the Committee and prepare and maintain the records of
+21 the Committee.
+22 4. The Committee shall meet at least quarterly and may meet
+23 upon the call of the Chair.
+24 5. An ex officio member of the Committee may designate a
+25 person to represent the ex officio member at any meeting of the
+26 Committee. The person designated may exercise all the duties,
+27 rights and privileges of the member that the person represents.
+28 6. The Committee may adopt rules and regulations for its
+29 management.
+30 Sec. 2. NRS 242.011 is hereby amended to read as follows:
+31 242.011 As used in this chapter, unless the context otherwise
+32 requires, the words and terms defined in NRS [242.013] 242.015 to
+33 242.068, inclusive, have the meanings ascribed to them in those
+34 sections.
+35 Sec. 3. NRS 242.017 is hereby amended to read as follows:
+36 242.017 “Chief” or “Chief Information Officer” means the
+37 Chief of the Governor’s Technology Office [of the Chief
+38 Information Officer] within the Office of the Governor.
+39 Sec. 4. NRS 242.062 is hereby amended to read as follows:
+40 242.062 “Office” means the Governor’s Technology Office [of
+41 the Chief Information Officer] within the Office of the Governor.
+-
+*SB12*
+
+– 4 –
+1 Sec. 5. NRS 242.071 is hereby amended to read as follows:
+2 242.071 1. The Legislature hereby determines and declares
+3 that the creation of the Governor’s Technology Office [of the Chief
+4 Information Officer] within the Office of the Governor is necessary
+5 for the coordinated, orderly and economical processing of data and
+6 information in State Government, to ensure economical use of
+7 information systems and to prevent the unnecessary proliferation of
+8 equipment and personnel among the various state agencies.
+9 2. The purposes of the Office are:
+10 (a) To perform information services for state agencies.
+11 (b) To provide technical advice but not administrative control of
+12 the information systems within the state agencies and, as authorized,
+13 of local governmental agencies.
+14 Sec. 6. NRS 242.080 is hereby amended to read as follows:
+15 242.080 1. The Governor’s Technology Office [of the Chief
+16 Information Officer] is hereby created within the Office of the
+17 Governor.
+18 2. The Office consists of the Chief Information Officer and:
+19 (a) The [Administration Unit.] Director’s Office. The Chief is
+20 the head of the [Administration Unit.] Director’s Office.
+21 (b) The Client Services [Unit.] Division.
+22 (c) The Computing Services [Unit.] Division.
+23 (d) The Network Services [Unit.] Division.
+24 (e) The Office of Information Security.
+25 (f) Other units, groups, divisions or departments deemed
+26 necessary by the Chief to the extent such functions are supported by
+27 the appropriations allocated to the functions of the Office.
+28 3. A Network Transport Services [Group] Unit and a
+29 [Telecommunications Group] Unified Communications Unit are
+30 hereby created within the Network Services [Unit] Division of the
+31 Office.
+32 Sec. 7. NRS 242.101 is hereby amended to read as follows:
+33 242.101 1. The Chief Information Officer shall:
+34 (a) Appoint a Deputy Chief of the Office of Information
+35 Security who is in the [classified] unclassified service of the State;
+36 (b) Administer the provisions of this chapter and other
+37 provisions of law relating to the duties of the Governor’s
+38 Technology Office ; [of the Chief Information Officer;]
+39 (c) Employ, within the limits of the approved budget of the
+40 Office, such other staff as is necessary for the performance of the
+41 duties of the Office; and
+42 (d) Carry out other duties and exercise other powers specified by
+43 law.
+-
+*SB12*
+
+– 5 –
+1 2. The Chief may form committees to establish standards and
+2 determine criteria for evaluation of policies relating to informational
+3 services.
+4 Sec. 8. NRS 242.122 is hereby amended to read as follows:
+5 242.122 1. There is hereby created an Information
+6 Technology Advisory Board. The Board consists of:
+7 (a) One member appointed by the Majority Floor Leader of the
+8 Senate from the membership of the Senate Standing Committee on
+9 Finance.
+10 (b) One member appointed by the Speaker of the Assembly
+11 from the membership of the Assembly Standing Committee on
+12 Ways and Means.
+13 (c) Two representatives of using agencies which are major users
+14 of the services of the Office. The Governor shall appoint the two
+15 representatives. Each such representative serves for a term of 4
+16 years. For the purposes of this paragraph, an agency is a “major
+17 user” if it is among the top five users of the services of the Office,
+18 based on the amount of money paid by each agency for the services
+19 of the Office during the immediately preceding biennium.
+20 (d) The [Director] Chief of the [Department] Office or his or her
+21 designee.
+22 (e) The Attorney General or his or her designee.
+23 (f) Five persons appointed by the Governor as follows:
+24 (1) Three persons who represent a city or county in this
+25 State, at least one of whom is engaged in information technology or
+26 information security; and
+27 (2) Two persons who represent the information technology
+28 industry but who:
+29 (I) Are not employed by this State;
+30 (II) Do not hold any elected or appointed office in State
+31 Government;
+32 (III) Do not have an existing contract or other agreement
+33 to provide information services, systems or technology to an agency
+34 of this State; and
+35 (IV) Are independent of and have no direct or indirect
+36 pecuniary interest in a corporation, association, partnership or other
+37 business organization which provides information services, systems
+38 or technology to an agency of this State.
+39 2. Each person appointed pursuant to paragraph (f) of
+40 subsection 1 serves for a term of 4 years. No person so appointed
+41 may serve more than 2 consecutive terms.
+42 3. At the first regular meeting of each calendar year, the
+43 members of the Board shall elect a Chair by majority vote.
+-
+*SB12*
+
+– 6 –
+1 Sec. 9. NRS 242.183 is hereby amended to read as follows:
+2 242.183 1. The Deputy Chief of the Office of Information
+3 Security shall investigate and resolve any breach of an information
+4 system of a state agency or elected officer that uses the equipment
+5 or services of the Governor’s Technology Office [of the Chief
+6 Information Officer] or an application of such an information
+7 system or unauthorized acquisition of computerized data that
+8 materially compromises the security, confidentiality or integrity of
+9 such an information system.
+10 2. The Chief Information Officer or Deputy Chief of the Office
+11 of Information Security, at his or her discretion, may inform
+12 members of the Technological Crime Advisory Board created by
+13 NRS 205A.040, the Nevada Commission on Homeland Security
+14 created by NRS 239C.120 and the Information Technology
+15 Advisory Board created by NRS 242.122 of any breach of an
+16 information system of a state agency or elected officer or
+17 application of such an information system or unauthorized
+18 acquisition of computerized data or information that materially
+19 compromises the security, confidentiality or integrity of such an
+20 information system.
+21 Sec. 10. NRS 242.191 is hereby amended to read as follows:
+22 242.191 1. Except as otherwise provided in subsection 3, the
+23 amount receivable from a state agency or officer or local
+24 governmental agency which uses the services of the Office must be
+25 determined by the Chief in each case and include:
+26 (a) The annual expense, including depreciation, of operating and
+27 maintaining the Network Services [Unit,] Division, distributed
+28 among the agencies in proportion to the services performed for each
+29 agency.
+30 (b) A service charge in an amount determined by distributing the
+31 monthly installment for the construction costs of the computer
+32 facility among the agencies in proportion to the services performed
+33 for each agency.
+34 2. The Chief shall prepare and submit monthly to the state
+35 agencies and officers and local governmental agencies for which
+36 services of the Office have been performed an itemized statement of
+37 the amount receivable from each state agency or officer or local
+38 governmental agency.
+39 3. The Chief may authorize, if in his or her judgment the
+40 circumstances warrant, a fixed cost billing, including a factor for
+41 depreciation, for services rendered to a state agency or officer or
+42 local governmental agency.
+43 Sec. 11. NRS 205.4765 is hereby amended to read as follows:
+44 205.4765 1. Except as otherwise provided in subsection 6, a
+45 person who knowingly, willfully and without authorization:
+-
+*SB12*
+
+– 7 –
+1 (a) Modifies;
+2 (b) Damages;
+3 (c) Destroys;
+4 (d) Discloses;
+5 (e) Uses;
+6 (f) Transfers;
+7 (g) Conceals;
+8 (h) Takes;
+9 (i) Retains possession of;
+10 (j) Copies;
+11 (k) Obtains or attempts to obtain access to, permits access to or
+12 causes to be accessed; or
+13 (l) Enters,
+14  data, a program or any supporting documents which exist inside
+15 or outside a computer, system or network is guilty of a
+16 misdemeanor.
+17 2. Except as otherwise provided in subsection 6, a person who
+18 knowingly, willfully and without authorization:
+19 (a) Modifies;
+20 (b) Destroys;
+21 (c) Uses;
+22 (d) Takes;
+23 (e) Damages;
+24 (f) Transfers;
+25 (g) Conceals;
+26 (h) Copies;
+27 (i) Retains possession of; or
+28 (j) Obtains or attempts to obtain access to, permits access to or
+29 causes to be accessed,
+30  equipment or supplies that are used or intended to be used in a
+31 computer, system or network is guilty of a misdemeanor.
+32 3. Except as otherwise provided in subsection 6, a person who
+33 knowingly, willfully and without authorization:
+34 (a) Destroys;
+35 (b) Damages;
+36 (c) Takes;
+37 (d) Alters;
+38 (e) Transfers;
+39 (f) Discloses;
+40 (g) Conceals;
+41 (h) Copies;
+42 (i) Uses;
+43 (j) Retains possession of; or
+-
+*SB12*
+
+– 8 –
+1 (k) Obtains or attempts to obtain access to, permits access to or
+2 causes to be accessed,
+3  a computer, system or network is guilty of a misdemeanor.
+4 4. Except as otherwise provided in subsection 6, a person who
+5 knowingly, willfully and without authorization:
+6 (a) Obtains and discloses;
+7 (b) Publishes;
+8 (c) Transfers; or
+9 (d) Uses,
+10  a device used to access a computer, network or data is guilty of a
+11 misdemeanor.
+12 5. Except as otherwise provided in subsection 6, a person who
+13 knowingly, willfully and without authorization introduces, causes to
+14 be introduced or attempts to introduce a computer contaminant into
+15 a computer, system or network is guilty of a misdemeanor.
+16 6. If the violation of any provision of this section:
+17 (a) Was committed to devise or execute a scheme to defraud or
+18 illegally obtain property;
+19 (b) Caused response costs, loss, injury or other damage in excess
+20 of $500; or
+21 (c) Caused an interruption or impairment of a public service,
+22 including, without limitation, a governmental operation, a system of
+23 public communication or transportation or a supply of water, gas or
+24 electricity,
+25  the person is guilty of a category C felony and shall be punished
+26 as provided in NRS 193.130, and may be further punished by a fine
+27 of not more than $100,000. In addition to any other penalty, the
+28 court shall order the person to pay restitution.
+29 7. The provisions of this section do not apply to a person
+30 performing any testing, including, without limitation, penetration
+31 testing, of an information system of an agency that uses the
+32 equipment or services of the Governor’s Technology Office [of the
+33 Chief Information Officer] within the Office of the Governor that is
+34 authorized by the Chief [of that Office] Information Officer or the
+35 head of the Office of Information Security of the Governor’s
+36 Technology Office . [of the Chief Information Officer.] As used in
+37 this subsection:
+38 (a) “Information system” has the meaning ascribed to it in
+39 NRS 242.057.
+40 (b) “Penetration testing” has the meaning ascribed to it in
+41 NRS 242.171.
+42 Sec. 12. NRS 205A.040 is hereby amended to read as follows:
+43 205A.040 1. The Technological Crime Advisory Board is
+44 hereby created.
+45 2. The Board consists of 13 members as follows:
+-
+*SB12*
+
+– 9 –
+1 (a) The Attorney General.
+2 (b) The Chief Information Officer of the Governor’s
+3 Technology Office [of the Chief Information Officer] within the
+4 Office of the Governor.
+5 (c) One member of the Senate appointed by the Majority Leader
+6 of the Senate.
+7 (d) One member of the Assembly appointed by the Speaker of
+8 the Assembly.
+9 (e) Nine other persons appointed by the Governor as follows:
+10 (1) Two or more persons who represent major sectors of the
+11 economy of this State that are impacted significantly by
+12 technological crimes.
+13 (2) One or more persons who are employees of a law
+14 enforcement agency of this State.
+15 (3) One or more persons who are employees of a public
+16 educational institution within this State.
+17 (4) One or more persons who are residents of this State and
+18 who are employed by the Federal Government.
+19 3. Each member of the Board who is appointed to the Board
+20 serves for a term of 4 years. A vacancy on the Board in an appointed
+21 position must be filled in the same manner as the original
+22 appointment. A member may be reappointed to the Board.
+23 4. The members of the Board shall elect a Chair and Vice Chair
+24 by majority vote. After the initial election, the Chair and Vice Chair
+25 shall hold office for a term of 1 year beginning on July 1 of each
+26 year. If the position of Chair or Vice Chair becomes vacant, the
+27 members of the Board shall elect a Chair or Vice Chair, as
+28 appropriate, from among its members for the remainder of the
+29 unexpired term.
+30 5. The members of the Board:
+31 (a) Serve without compensation; and
+32 (b) May, upon written request, receive the per diem allowance
+33 and travel expenses provided for state officers and employees
+34 generally while engaged in the business of the Board.
+35 6. A member of the Board who is an officer or employee of
+36 this State or a political subdivision of this State must be relieved
+37 from duties without loss of regular compensation so that the officer
+38 or employee may prepare for and attend meetings of the Board and
+39 perform any work necessary to carry out the duties of the Board in
+40 the most timely manner practicable. A state agency or political
+41 subdivision of this State shall not require an officer or employee
+42 who is a member of the Board to make up the time the officer or
+43 employee is absent from work to carry out duties as a member of the
+44 Board or use annual vacation or compensatory time for the absence.
+-
+*SB12*
+
+– 10 –
+1 Sec. 13. NRS 205A.050 is hereby amended to read as follows:
+2 205A.050 1. The Board shall meet at least once every quarter
+3 and at the times and places specified by a call of the Chair or a
+4 majority of the members of the Board.
+5 2. Except as otherwise provided in subsection 3, a member of
+6 the Board may designate in writing a person to represent him or her
+7 at a meeting of the Board if it is impractical for the member of the
+8 Board to attend the meeting. A representative who has been so
+9 designated:
+10 (a) Shall be deemed to be a member of the Board for the purpose
+11 of determining a quorum at the meeting; and
+12 (b) May vote on any matter that is voted on by the regular
+13 members of the Board at the meeting.
+14 3. The Attorney General may designate a representative to
+15 serve in his or her place on the Board or attend a meeting of the
+16 Board in his or her place. The Chief Information Officer of the
+17 Governor’s Technology Office [of the Chief Information Officer]
+18 within the Office of the Governor may designate a representative to
+19 serve in his or her place on the Board or attend a meeting of the
+20 Board in his or her place.
+21 4. Seven members of the Board constitute a quorum. Except as
+22 otherwise provided in NRS 205A.070 and 205A.080, a quorum may
+23 exercise all the power and authority conferred on the Board.
+24 5. Notwithstanding any other provision of law, a member of
+25 the Board:
+26 (a) Is not disqualified from public employment or holding a
+27 public office because of membership on the Board; and
+28 (b) Does not forfeit public office or public employment because
+29 of membership on the Board.
+30 Sec. 14. NRS 205A.060 is hereby amended to read as follows:
+31 205A.060 The Board shall:
+32 1. Facilitate cooperation between state, local and federal
+33 officers in detecting, investigating and prosecuting technological
+34 crimes.
+35 2. Establish, support and assist in the coordination of activities
+36 between two multiagency task forces on technological crime, one
+37 based in Reno and one based in Las Vegas, consisting of
+38 investigators and forensic examiners who are specifically trained to
+39 investigate technological crimes.
+40 3. Coordinate and provide training and education for members
+41 of the general public, private industry and governmental agencies,
+42 including, without limitation, law enforcement agencies, concerning
+43 the statistics and methods of technological crimes and how to
+44 prevent, detect and investigate technological crimes.
+-
+*SB12*
+
+– 11 –
+1 4. Assist the Governor’s Technology Office [of the Chief
+2 Information Officer] within the Office of the Governor in securing
+3 governmental information systems against illegal intrusions and
+4 other criminal activities.
+5 5. Evaluate and recommend changes to the existing civil and
+6 criminal laws relating to technological crimes in response to current
+7 and projected changes in technology and law enforcement
+8 techniques.
+9 6. Distribute money deposited pursuant to NRS 179.1233 into
+10 the Account for the Technological Crime Advisory Board in
+11 accordance with the provisions of NRS 205A.090.
+12 7. Authorize the payment of expenses incurred by the Board in
+13 carrying out its duties pursuant to this chapter.
+14 Sec. 15. NRS 233F.010 is hereby amended to read as follows:
+15 233F.010 As used in this chapter, unless the context otherwise
+16 requires, the words and terms defined in NRS [233F.015] 233F.020
+17 to 233F.065, inclusive, have the meanings ascribed to them in those
+18 sections.
+19 Sec. 16. NRS 233F.035 is hereby amended to read as follows:
+20 233F.035 “Chief” means the Chief Information Officer of the
+21 Governor’s Technology Office within the Office of the Governor.
+22 Sec. 17. NRS 233F.0593 is hereby amended to read as
+23 follows:
+24 233F.0593 “Network Transport Services [Group”] Unit”
+25 means the Network Transport Services [Group] Unit of the Network
+26 Services [Unit] Division of the Office.
+27 Sec. 18. NRS 233F.0595 is hereby amended to read as
+28 follows:
+29 233F.0595 “Office” means the Governor’s Technology Office
+30 [of the Chief Information Officer] within the Office of the
+31 Governor.
+32 Sec. 19. NRS 233F.065 is hereby amended to read as follows:
+33 233F.065 [“Telecommunications Group”] “Unified
+34 Communications Unit” means the [Telecommunications Group]
+35 Unified Communications Unit of the Network Services [Unit]
+36 Division of the Office.
+37 Sec. 20. NRS 233F.117 is hereby amended to read as follows:
+38 233F.117 If a state agency other than the Network Transport
+39 Services [Group] Unit adds equipment which extends the state
+40 communications system to another location, the extension, if
+41 approved by the Chief, becomes part of the state communications
+42 system. An approved extension of the system is subject to the
+43 provisions of this chapter relating to the system.
+-
+*SB12*
+
+– 12 –
+1 Sec. 21. NRS 233F.260 is hereby amended to read as follows:
+2 233F.260 The Board shall provide advice to the
+3 [Telecommunications Group] Unified Communications Unit on the
+4 use of telecommunications by the State Government, including:
+5 1. The development of policies, standards, plans and designs;
+6 2. The procurement of systems, facilities and services;
+7 3. The integration of telecommunications systems with other
+8 state and local governmental systems; and
+9 4. New technology that may become or is available.
+10 Sec. 22. NRS 233F.270 is hereby amended to read as follows:
+11 233F.270 1. The [Telecommunications Group,] Unified
+12 Communications Unit, with the advice of the Board, shall:
+13 (a) Plan, carry out and administer a state telecommunications
+14 system. When available at a competitive cost, the
+15 [Telecommunications Group] Unified Communications Unit shall
+16 use the facilities of telephone companies providing local exchange
+17 service.
+18 (b) Make arrangements for the installation of a central telephone
+19 switchboard or switchboards to serve the state offices in one or more
+20 buildings as may be practical or feasible.
+21 2. The system must be integrated and may include services
+22 between the State and any cities, counties and schools.
+23 3. The Office may consider for the system all the
+24 telecommunications requirements of the State and its political
+25 subdivisions.
+26 Sec. 23. NRS 408.55028 is hereby amended to read as
+27 follows:
+28 408.55028 1. The Telecommunications Advisory Council is
+29 hereby created.
+30 2. The Council consists of seven members appointed by the
+31 Governor. The Governor shall appoint to the Council:
+32 (a) One member from the Office of Science, Innovation and
+33 Technology in the Office of the Governor;
+34 (b) One member from the Department of Transportation;
+35 (c) One member from the Department of Education;
+36 (d) One member from the Nevada Office of Rural Health;
+37 (e) One member from the Department of Public Safety;
+38 (f) One member from the Nevada System of Higher Education;
+39 and
+40 (g) One member from the Governor’s Technology Office [of
+41 the Chief Information Officer] within the Office of the Governor.
+42 3. The member appointed from the Office of Science,
+43 Innovation and Technology in the Office of the Governor shall serve
+44 as the Chair of the Council.
+45 4. The Council shall meet as necessary at the call of the Chair.
+-
+*SB12*
+
+– 13 –
+1 5. The Director of the Office of Science, Innovation and
+2 Technology in the Office of the Governor shall provide staff support
+3 to the Council.
+4 6. A majority of the members of the Council constitutes a
+5 quorum for the transaction of business.
+6 7. The members of the Council receive no compensation for
+7 their services, but are entitled to be reimbursed for all travel and
+8 other expenses actually and necessarily incurred by them in the
+9 performance of their duties, within the limits of money available to
+10 the Council.
+11 8. The members of the Council may request assistance from
+12 technical advisors as the Council deems necessary.
+13 9. The Council shall:
+14 (a) Provide information, advice, strategic plans, priorities and
+15 recommendations to assist the Department in administering access
+16 to rights-of-way to telecommunications providers for statewide
+17 telecommunications purposes;
+18 (b) Assist the Department in valuing in-kind compensation
+19 pursuant to NRS 408.5501 to 408.55029, inclusive, and approve or
+20 deny any valuation thereof;
+21 (c) Seek input from telecommunications providers and the
+22 public relating to broadband access;
+23 (d) Coordinate and exchange information with other entities of
+24 this State and its political subdivisions relating to technology and
+25 telecommunications;
+26 (e) Approve or deny any agreement between the Department and
+27 a telecommunications provider proposed pursuant to NRS 408.5502,
+28 if the Council finds that the agreement is competitively neutral and
+29 nondiscriminatory; and
+30 (f) Provide other assistance as requested by the Department.
+31 Sec. 24. NRS 439.942 is hereby amended to read as follows:
+32 439.942 1. The Division may establish a secure Internet
+33 website which makes certain information available for a website
+34 client to conduct an investigation into the background and personal
+35 history of a person that is required pursuant to the provisions of this
+36 chapter or chapter 62B, 63, 424, 427A, 432, 432A, 432B, 433,
+37 433B, 435 or 449 of NRS.
+38 2. To become a website client, a person or governmental entity
+39 must:
+40 (a) Create an account on the Internet website;
+41 (b) Comply with NRS 439.942 to 439.948, inclusive, and any
+42 regulations adopted pursuant thereto governing use of the Internet
+43 website; and
+44 (c) Designate a website client administrator who is responsible
+45 for:
+-
+*SB12*
+
+– 14 –
+1 (1) Determining the persons who are authorized to use the
+2 Internet website;
+3 (2) Providing the Division with the names of the persons
+4 who are authorized to use the Internet website;
+5 (3) Ensuring that only those authorized persons have access
+6 to the Internet website; and
+7 (4) Notifying the Division of any change in the persons who
+8 are authorized to use the Internet website.
+9 3. Authorized employees of the Division and of the
+10 Department of Public Safety may be designated to serve as
+11 administrators of the Internet website with access to all the data and
+12 information on the Internet website.
+13 4. Except as otherwise provided in this section and NRS
+14 239.0115, information collected, maintained, stored, backed up or
+15 on file on the Internet website is confidential, not subject to
+16 subpoena or discovery and is not subject to inspection by the general
+17 public.
+18 5. The Division shall ensure that any information collected,
+19 maintained and stored on the Internet website is protected
+20 adequately from fire, theft, loss, destruction, other hazards and
+21 unauthorized access, and is backed-up in a manner that ensures
+22 proper confidentiality and security.
+23 6. The Internet website must be maintained in accordance with
+24 any requirements of the Governor’s Technology Office [of the
+25 Chief Information Officer] within the Office of the Governor
+26 established for use of the equipment or services of the Office
+27 pursuant to NRS 242.181.
+28 Sec. 25. NRS 459.742 is hereby amended to read as follows:
+29 459.742 The Commission, in carrying out its duties and within
+30 the limits of legislative appropriations and other available money,
+31 may:
+32 1. Enter into contracts, leases or other agreements or
+33 transactions;
+34 2. Provide grants of money to local emergency planning
+35 committees to improve their ability to respond to emergencies
+36 involving hazardous materials;
+37 3. Assist with the development of comprehensive plans for
+38 responding to such emergencies in this State;
+39 4. Provide technical assistance and administrative support to
+40 the [Telecommunications Group] Unified Communications Unit of
+41 the Network Services [Unit] Division of the Governor’s
+42 Technology Office [of the Chief Information Officer] within the
+43 Office of the Governor for the development of systems for
+44 communication during such emergencies;
+-
+*SB12*
+
+– 15 –
+1 5. Provide technical and administrative support and assistance
+2 for training programs;
+3 6. Develop a system to provide public access to data relating to
+4 hazardous materials;
+5 7. Support any activity or program eligible to receive money
+6 from the Contingency Account for Hazardous Materials;
+7 8. Approve programs developed to address planning for and
+8 responding to emergencies involving hazardous materials; and
+9 9. Coordinate the activities administered by state agencies to
+10 carry out the provisions of this chapter, 42 U.S.C. §§ 11001 et seq.
+11 and 49 U.S.C. §§ 5101 et seq.
+12 Sec. 26. NRS 480.926 is hereby amended to read as follows:
+13 480.926 The Office shall:
+14 1. Establish partnerships with:
+15 (a) Local governments;
+16 (b) The Nevada System of Higher Education; and
+17 (c) Private entities, to the extent practicable,
+18  to encourage the development of strategies to prepare for and
+19 mitigate risks to, and otherwise protect, the security of information
+20 systems that are operated or maintained by a public or private entity
+21 in this State.
+22 2. Establish partnerships to assist and receive assistance from
+23 local governments and appropriate agencies of the Federal
+24 Government regarding the development of strategies to prepare for
+25 and mitigate risks to, and otherwise protect, the security of
+26 information systems.
+27 3. Consult with the Division of Emergency Management of the
+28 Office of the Military and the Governor’s Technology Office [of the
+29 Chief Information Officer] within the Office of the Governor
+30 regarding the development of strategies to prepare for and mitigate
+31 risks to, and otherwise protect, the security of information systems.
+32 4. Coordinate with the Investigation Division of the
+33 Department regarding gathering intelligence on and initiating
+34 investigations of cyber threats and incidents.
+35 Sec. 27. NRS 493.118 is hereby amended to read as follows:
+36 493.118 1. The Department shall, to the extent that money is
+37 available for this purpose, establish and maintain a registry of
+38 unmanned aerial vehicles that are operated by public agencies in this
+39 State. The Department shall include on its Internet website the
+40 information that is maintained in the registry.
+41 2. A public agency shall, for each unmanned aerial vehicle the
+42 public agency intends to operate, submit to the Department, on a
+43 form provided by the Department, for inclusion in the registry:
+44 (a) The name of the public agency;
+-
+*SB12*
+
+– 16 –
+1 (b) The name and contact information of each operator of the
+2 unmanned aerial vehicle;
+3 (c) Sufficient information to identify the unmanned aerial
+4 vehicle; and
+5 (d) A statement describing the use of the unmanned aerial
+6 vehicle by the public agency.
+7 3. The Department shall, on or before February 1 of each year,
+8 prepare and submit to the Director of the Legislative Counsel
+9 Bureau for submission to the Legislature, or to the Legislative
+10 Commission when the Legislature is not in regular session, a report
+11 outlining the activities of public agencies with respect to the
+12 operation of unmanned aerial vehicles in this State.
+13 4. The Department shall adopt regulations prescribing the
+14 public purposes for which a public agency may operate an
+15 unmanned aerial vehicle that is registered with the Department
+16 pursuant to this section, including, without limitation:
+17 (a) The provision of fire services.
+18 (b) The provision of emergency medical services.
+19 (c) The protection of a critical facility that is public property.
+20 (d) Search and rescue operations conducted for persons and
+21 property in distress.
+22 5. The regulations adopted by the Department pursuant to
+23 subsection 4 must include provisions that:
+24 (a) Authorize, as a public purpose, a public agency to operate an
+25 unmanned aerial vehicle that is registered with the Department in
+26 order to conduct a scheduled inspection to ensure compliance with
+27 building or fire codes or laws, ordinances, regulations or rules
+28 adopting or establishing building or fire codes that are enforced by
+29 the public agency.
+30 (b) Prohibit a public agency from collecting any photograph,
+31 image or recording through the operation of an unmanned aerial
+32 vehicle during a scheduled inspection described in paragraph (a). If
+33 any photograph, image or recording is collected in violation of such
+34 a regulation or if any other information is collected through the
+35 operation of an unmanned aerial vehicle during such a scheduled
+36 inspection, the photograph, image, recording or other information:
+37 (1) Is not admissible and must not be disclosed in any
+38 judicial, administrative or other adjudicatory proceeding other than a
+39 proceeding relating to the purpose of the scheduled inspection; and
+40 (2) May not be used to establish reasonable suspicion or
+41 probable cause as the basis for the investigation or prosecution of a
+42 crime or other offense.
+43 6. In addition to the regulations adopted pursuant to subsection
+44 4, the Department shall adopt regulations to establish:
+-
+*SB12*
+
+– 17 –
+1 (a) A list of countries, businesses and entities from which a
+2 public agency or law enforcement agency shall not purchase or
+3 acquire any unmanned aerial vehicle or other equipment or service
+4 relating to the operation of an unmanned aerial vehicle; and
+5 (b) A list of unmanned aerial vehicles and other related
+6 equipment or services that a public agency or law enforcement
+7 agency shall not operate, purchase or acquire.
+8 7. The lists established pursuant to subsection 6 must include,
+9 without limitation:
+10 (a) Any country, business or entity identified by the Secretary of
+11 Defense of the United States Department of Defense pursuant to
+12 Section 1260H of the William M. (Mac) Thornberry National
+13 Defense Authorization Act for Fiscal Year 2021, Public Law 116-
+14 283, any amendments thereto or any subsequent federal law
+15 establishing such a list;
+16 (b) Any unmanned aerial vehicle or other equipment or service
+17 relating to the operation of an unmanned aerial vehicle sold,
+18 manufactured or distributed by an entity identified by the Secretary
+19 of Defense of the United States Department of Defense pursuant to
+20 Section 1260H of the William M. (Mac) Thornberry National
+21 Defense Authorization Act for Fiscal Year 2021, Public Law 116-
+22 283, any amendments thereto or any subsequent federal law
+23 establishing such a list;
+24 (c) Any hardware, software, vendor or service prohibited from
+25 being used by a state agency in Nevada by a regulation, guideline or
+26 policy adopted by the Governor’s Technology Office [of the Chief
+27 Information Officer] within the Office of the Governor pursuant to
+28 NRS 242.111 and 242.115; and
+29 (d) Any other unmanned aerial vehicle or other equipment or
+30 service relating to the operation of an unmanned aerial vehicle, as
+31 determined by the Department.
+32 Sec. 28. NRS 603A.210 is hereby amended to read as follows:
+33 603A.210 1. A data collector that maintains records which
+34 contain personal information of a resident of this State shall
+35 implement and maintain reasonable security measures to protect
+36 those records from unauthorized access, acquisition, destruction,
+37 use, modification or disclosure.
+38 2. If a data collector is a governmental agency and maintains
+39 records which contain personal information of a resident of this
+40 State, the data collector shall, to the extent practicable, with respect
+41 to the collection, dissemination and maintenance of those records,
+42 comply with the current version of the CIS Controls as published by
+43 the Center for Internet Security, Inc. or its successor organization, or
+44 corresponding standards adopted by the National Institute of
+-
+*SB12*
+
+– 18 –
+1 Standards and Technology of the United States Department of
+2 Commerce.
+3 3. A contract for the disclosure of the personal information of a
+4 resident of this State which is maintained by a data collector must
+5 include a provision requiring the person to whom the information is
+6 disclosed to implement and maintain reasonable security measures
+7 to protect those records from unauthorized access, acquisition,
+8 destruction, use, modification or disclosure.
+9 4. If a state or federal law requires a data collector to provide
+10 greater protection to records that contain personal information of a
+11 resident of this State which are maintained by the data collector and
+12 the data collector is in compliance with the provisions of that state
+13 or federal law, the data collector shall be deemed to be in
+14 compliance with the provisions of this section.
+15 5. The Office of Information Security of the Governor’s
+16 Technology Office [of the Chief Information Officer] within the
+17 Office of the Governor shall create, maintain and make available to
+18 the public a list of controls and standards with which the State is
+19 required to comply pursuant to any federal law, regulation or
+20 framework that also satisfy the controls and standards set forth in
+21 subsection 2.
+22 Sec. 29. NRS 603A.215 is hereby amended to read as follows:
+23 603A.215 1. If a data collector doing business in this State
+24 accepts a payment card in connection with a sale of goods or
+25 services, the data collector shall comply with the current version of
+26 the Payment Card Industry (PCI) Data Security Standard, as adopted
+27 by the PCI Security Standards Council or its successor organization,
+28 with respect to those transactions, not later than the date for
+29 compliance set forth in the Payment Card Industry (PCI) Data
+30 Security Standard or by the PCI Security Standards Council or its
+31 successor organization.
+32 2. A data collector doing business in this State to whom
+33 subsection 1 does not apply shall not:
+34 (a) Transfer any personal information through an electronic,
+35 nonvoice transmission other than a facsimile to a person outside of
+36 the secure system of the data collector unless the data collector uses
+37 encryption to ensure the security of electronic transmission; or
+38 (b) Move any data storage device containing personal
+39 information beyond the logical or physical controls of the data
+40 collector, its data storage contractor or, if the data storage device is
+41 used by or is a component of a multifunctional device, a person who
+42 assumes the obligation of the data collector to protect personal
+43 information, unless the data collector uses encryption to ensure the
+44 security of the information.
+-
+*SB12*
+
+– 19 –
+1 3. A data collector shall not be liable for damages for a breach
+2 of the security of the system data if:
+3 (a) The data collector is in compliance with this section; and
+4 (b) The breach is not caused by the gross negligence or
+5 intentional misconduct of the data collector, its officers, employees
+6 or agents.
+7 4. The requirements of this section do not apply to:
+8 (a) A telecommunication provider acting solely in the role of
+9 conveying the communications of other persons, regardless of the
+10 mode of conveyance used, including, without limitation:
+11 (1) Optical, wire line and wireless facilities;
+12 (2) Analog transmission; and
+13 (3) Digital subscriber line transmission, voice over Internet
+14 protocol and other digital transmission technology.
+15 (b) Data transmission over a secure, private communication
+16 channel for:
+17 (1) Approval or processing of negotiable instruments,
+18 electronic fund transfers or similar payment methods; or
+19 (2) Issuance of reports regarding account closures due to
+20 fraud, substantial overdrafts, abuse of automatic teller machines or
+21 related information regarding a customer.
+22 5. As used in this section:
+23 (a) “Data storage device” means any device that stores
+24 information or data from any electronic or optical medium,
+25 including, but not limited to, computers, cellular telephones,
+26 magnetic tape, electronic computer drives and optical computer
+27 drives, and the medium itself.
+28 (b) “Encryption” means the protection of data in electronic or
+29 optical form, in storage or in transit, using:
+30 (1) An encryption technology that has been adopted by an
+31 established standards setting body, including, but not limited to, the
+32 Federal Information Processing Standards issued by the National
+33 Institute of Standards and Technology, which renders such data
+34 indecipherable in the absence of associated cryptographic keys
+35 necessary to enable decryption of such data;
+36 (2) Appropriate management and safeguards of
+37 cryptographic keys to protect the integrity of the encryption using
+38 guidelines promulgated by an established standards setting body,
+39 including, but not limited to, the National Institute of Standards and
+40 Technology; and
+41 (3) Any other technology or method identified by the Office
+42 of Information Security of the Governor’s Technology Office [of
+43 the Chief Information Officer] within the Office of the Governor in
+44 regulations adopted pursuant to NRS 603A.217.
+-
+*SB12*
+
+– 20 –
+1 (c) “Facsimile” means an electronic transmission between two
+2 dedicated fax machines using Group 3 or Group 4 digital formats
+3 that conform to the International Telecommunications Union T.4 or
+4 T.38 standards or computer modems that conform to the
+5 International Telecommunications Union T.31 or T.32 standards.
+6 The term does not include onward transmission to a third device
+7 after protocol conversion, including, but not limited to, any data
+8 storage device.
+9 (d) “Multifunctional device” means a machine that incorporates
+10 the functionality of devices, which may include, without limitation,
+11 a printer, copier, scanner, facsimile machine or electronic mail
+12 terminal, to provide for the centralized management, distribution or
+13 production of documents.
+14 (e) “Payment card” has the meaning ascribed to it in
+15 NRS 205.602.
+16 (f) “Telecommunication provider” has the meaning ascribed to it
+17 in NRS 704.027.
+18 Sec. 30. NRS 603A.217 is hereby amended to read as follows:
+19 603A.217 Upon receipt of a well-founded petition, the
+20 Governor’s Technology Office [of the Chief Information Officer]
+21 within the Office of the Governor may, pursuant to chapter 233B of
+22 NRS, adopt regulations which identify alternative methods or
+23 technologies which may be used to encrypt data pursuant to
+24 NRS 603A.215.
+25 Sec. 31. Notwithstanding any provision of law to the contrary,
+26 a person who has been appointed to or is otherwise incumbent in the
+27 position of Deputy Chief of the Office of Information Security as of
+28 July 1, 2025, is in the classified service of the State and must remain
+29 in the classified service of the State until he or she vacates the
+30 position.
+31 Sec. 32. The Legislative Counsel shall:
+32 1. In preparing the reprint and supplements to the Nevada
+33 Revised Statutes, appropriately change any references to an officer,
+34 agency or other entity whose name is changed or whose
+35 responsibilities are transferred pursuant to the provisions of this act
+36 to refer to the appropriate officer, agency or other entity.
+37 2. In preparing supplements to the Nevada Administrative
+38 Code, appropriately change any references to an officer, agency or
+39 other entity whose name is changed or whose responsibilities are
+40 transferred pursuant to the provisions of this act to refer to the
+41 appropriate officer, agency or other entity.
+42 Sec. 33. 1. Any administrative regulations adopted by an
+43 officer or an agency whose name has been changed or whose
+44 responsibilities have been transferred pursuant to the provisions of
+45 this act to another officer or agency remain in force until amended
+-
+*SB12*
+
+– 21 –
+1 by the officer or agency to which the responsibility for the adoption
+2 of the regulations has been transferred.
+3 2. Any contracts or other agreements entered into by an officer
+4 or agency whose name has been changed or whose responsibilities
+5 have been transferred pursuant to the provisions of this act to
+6 another officer or agency are binding upon the officer or agency to
+7 which the responsibility for the administration of the provisions of
+8 the contract or other agreement has been transferred. Such contracts
+9 and other agreements may be enforced by the officer or agency to
+10 which the responsibility for the enforcement of the provisions of the
+11 contract or other agreement has been transferred.
+12 3. Any action taken by an officer or agency whose name has
+13 been changed or whose responsibilities have been transferred
+14 pursuant to the provisions of this act to another officer or agency
+15 remains in effect as if taken by the officer or agency to which the
+16 responsibility for the enforcement of such actions has been
+17 transferred.
+18 Sec. 34. NRS 233F.015, 233F.055, 233F.059, 242.013,
+19 242.031 and 242.045 are hereby repealed.
+20 Sec. 35. This act becomes effective on July 1, 2025.
+TEXT OF REPEALED SECTIONS
+233F.015 “Administrator” defined. “Administrator” means
+the Administrator of the Division.
+233F.055 “Department” defined. “Department” means the
+Department of Administration.
+233F.059 “Division” defined. “Division” means the
+Division of Enterprise Information Technology Services of the
+Department.
+242.013 “Administrator” defined. “Administrator” means
+the Administrator of the Division.
+242.031 “Department” defined. “Department” means the
+Department of Administration.
+242.045 “Division” defined. “Division” means the Division
+of Enterprise Information Technology Services of the Department.
+H
+-
+*SB12*
+
+[DELETED: BN.1CGA I O O O FOBCIO E H N F F OG)O3,2 C  O w t O o t ( EE A r t g a c a f t c o t G O w t O o t G t p a d o t O o t I O w t O o t o I S a p oE i s t s a e s o a uSE l p t t O o t C I O i t]
+[DELETED: – U S G a a T G ( t O o n b t C I O ( 2 S 6 ( t N S D i a N T a ( c o u g d o d d o t C I O i t t u g oE 2 S 7 i p t D C o t O oEE O o I S t n m o c b aS]
+[DELETED: –S 1  N2  1  T C t A S f t2  T( T( T( T( T S L A a P R( T C o t G T O [ t( O g3  T S o S o a p d b t4  T5  A e o m o t C m d a t r t e o m a a m o t T p d m e a t d6  T C m a r a r f iS 2  N2  A i h t m a t t i tS 3  N2  “ o “ I O m t o t G T O [ t CS 4  N2  “]
+[DELETED: –S 5  N2  1  T L h d a d i S G t e e u o2  T( T( TS 6  N2  1  T O i h c w t O o t2  T( T( T( T( T( T( O u g d o d d3  A N T S [ U a a G U C U aS 7  N2  1  T( A a D C o t O o I( A t p o t c a o o l r t t d o t G( E w t l o t a b o t( C]
+[DELETED: –2  TS 8  N2  1  T i h c a I( O( O m a b t S o t A t m o t A S C o( T E s r s f a t o 4 F p o t a i a “( T( T( F ( T p w r a c o c i t ( T  ( A  ( D  ( D  ( A i o a h n d o i2  E p a p t p ( o3  A t f r m o e c y t]
+[DELETED: –S 9  N2  1  T D C o t O o I s o t G T O [ t C O o a a o s a i o u a o c d t2  T I S a h o h d m i o t T C A B c b 2 t N C o H S b N 2 a t I T B c b N 2 o a b o a s o a s a o e o o o s a i s o u o c d o i t m t s c o i o s aS 1  N2  1  E r f a s a o o o l( T t N S [ D d( A i f t c c o t c2  T C s p a s m t t s a o a l g a f w a r f e s a o o o l3  T C m a i i h o h j tS 1  N2  1  E]
+[DELETED: –( M( D( D( D( U( T( C( T( R( C( O( E o a c s o n i g o a2  E( M( D( U( T( D( T( C( C( R( O3  E( D( D( T( A( T( D( C( C( U( R]
+[DELETED: –( O4  E( O( P( T( U5  E6  I( W( C( C a i o i o a p s n m t $ I a t a o p t7  T p o t s d n a t a p a t i w l p o a i s o a a t u t o t O o I S o t G( “ s h t m a t i i( “ t h t m a t i iS 1  N2  1  T T C A B i2  T]
+[DELETED: –( T( T C I O o t G O [ t C I O w t( O( O( N ( T o t S t a i s b ( O o m p w a e o a l ( O o m p w a e o a p ( O3  E m b f i t s m a t o4  T I t p o C o V C b v t o t B s e a C o V C a f a i m f t r o t5  T( S( M t e p f s o a e6  A m t m p A s a o p o t S s n o e]
+[DELETED: –S 1  N2  1  T2  E t a t m A r w h b s( S( M v o a m t i v o b t r3  T A G m d a r t i h o h p T C I o t4  S5  N a p l o( I n d f p e o h a( DS 1  N2  T1  F c b s l a f i d i a p t2  E i R a o b i L V c o3  C s a m o t c a h t]
+[DELETED: –4  A t G T O [ t C i s a i i a5  E p c i t a l e6  D A f t T C A B i7  AS 1  N2  AS 1  N2  “S 1  N 2 i h a t r a2  “ T S [ US 1  N 2 i h a t r a2  “ t C I O w t O o tS 1  N2  [ G “ U m t [ G C U o t N S [S 2  N2  I [ U a e w e t s s t a l t e i A a e o t s i s t t]
+[DELETED: –S 2  N2  T B s p a t t1  T2  T3  T i o t s w o4  NS 2  N2  1  T [ G U( P c o a a a s t W a a a c c t( M2  T s m b i a m i s3  T O m c f t s a t r o t S a i pS 2  N 4 i h a t r a4  1  T2  T C c o s m a b t( O m f t O o S I a( O( O( O( O( O( O m f t G T O [3  T m a f t O o S4  T]
+[DELETED: –5  T D o t O o S I a6  A m o t m o t C c a7  T e a a n i b t i t8  T m o m r a f9  T( P i a s p p a r t t p f s( A t D i v i c( S i f t p a t( C( A( PS 2  N4  1  T D m e a s I w m c i a f a w o c 6 6 4 4 4 4 4 42  T( C( C( D]
+[DELETED: – ( D ( P t D w t n o t p ( E ( N3  A e o t D a o t o P S m b d t s a4  E a o p i t s a N f o t I w i c n s t5  T D s e t a i c a s o t I w i p f f t l d o h a a a i b i a m t e6  T r o t G T O [ t I O w t O o t G f u o t e o s o t OS 2  N4  T1  E i c l o o a o2  P g o m t l e p t i t a t r t e3  A w t d o c p f4  P t a a a s t N S [ D o t G O [ t C I O w t o t G f t d o s f]
+[DELETED: –5  P6  D7  S8  A p d t a p f a9  CS 2  N4  T1  E( L( T( Pt e t o s p f a2  E g a a a o t F m r t a o p t s o3  C I O w t O o t G4  C w t I D o t r g i o a iS 2  N4  1  T f t p e a m a r o T D s i o i I w t2  A( T]
+[DELETED: –( T( S i t i t u a( A s d t u o t u a3  T a s t t D o t L C f s t t L o t t L t a o p a w r t t4  T D s a r p t p f w a p a m o a a v t i r w t D( T( T( T( S a r o c f p a5  T r a b t D p t( A o f c o l o r o r( P a p a f c a p o r t t o o a u a r o i a o i i c t t ( I n a a m n b d i a ( M n b u t e r s o6  I]
+[DELETED: –( A l o c b a e f w a a o l e a s n p o( A l o u a v a o r o s t a p a o l e7  T( A o t U S D o D p t 1 o t W M ( T N a a t o a s f l( A t t o o a u a v s 1 o t W M ( T N a a t o a s f l( A( A o u a v o o e oS 2  N6  1  A d c t m r w p i o a r o t S s a m r s m t p r f u a a d2  I w c p i o a r o t s a b t N I o]
+[DELETED: – a T o t U S D o3  A p t r f u a a4  I f l t d c s b d t b i5  T O o I S o t G O [ t C I O w t t c p t a f l r oS 2  N6  1  I a p c i c w a s o g o r t t t n l t t d f s f i t P C I ( D2  A d c d b i t S t w( T a p i t a e( M a d s d c p b t l o p c o t d t o o t d c t p p]
+[DELETED: –3  A( T( T b i n c b t g n o4  T( A t p a s i t r o ( O ( A ( D( D t o a s p c ( A o p o n i ( I o r r a c d t5  A( “ s d m a d t s o d f a e o o m b n l t c c t t e c d a o c( “ ( A t t h b a b a I P S i b t N o S a T w r s d i t a o a c k ( A m a s o p b a e s s b ( A]
+[DELETED: –( “ s o c m t c t t T U T o T s d n o t d p c i b n l t a d( “ p c s f m o e m( “ c h t m a t i i( “S 3  N6  U r o a w p t a r w i a m o w m b u t e d p tS 3  N t c s o t S u h o s v tS 3  T1  I p t r a s t t N o o e w n i c o w2  I p s t t N A p t t p o t a t r t tS 3  1  A a r a b a o a a w n h b c o w]
+[DELETED: –2  A b t p t t p o t a t3  A c o w r h b t f t e o s a h bS 3  N 2 2 2 2S 3  T2  “  “2  “ d  “ m t2  “ d  “ m t o E I T S o t2  “ d  “ m2  “ d  “ m t2  “  “]
