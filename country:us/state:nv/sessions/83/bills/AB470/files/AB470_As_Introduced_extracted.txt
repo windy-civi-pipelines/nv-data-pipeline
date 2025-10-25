@@ -1,0 +1,2189 @@
+Title: ASSEMBLY BILL NO. 470–ASSEMBLYMEMBER KASAMA
+Official Title: ASSEMBLY BILL NO. 470–ASSEMBLYMEMBER KASAMA
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 23 sections found
+
+================================================================================
+
+Section 1:
+A.B. 470
+MARCH 17, 2025
+____________
+Referred to Committee on Commerce and Labor
+SUMMARY—Revises provisions relating to prior authorization for
+medical or dental care under health insurance plans.
+(BDR 57-883)
+FISCAL NOTE: Effect on Local Government: May have Fiscal Impact.
+Effect on the State: Yes.
+CONTAINS UNFUNDED MANDATE (§ 18)
+(NOT REQUESTED BY AFFECTED LOCAL GOVERNMENT)
+~
+EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+AN ACT relating to insurance; imposing requirements governing
+prior authorization for medical or dental care; prohibiting
+an insurer from requiring prior authorization for covered
+emergency services or denying coverage for covered,
+medically necessary emergency services; requiring an
+insurer to publish certain information relating to requests
+for prior authorization on the Internet; and providing other
+matters properly relating thereto.
+Legislative Counsel’s Digest:
+1 Existing law authorizes certain health insurers to require prior authorization
+2 before an insured may receive coverage for health and dental care in certain
+3 circumstances. If an insurer requires prior authorization, existing law requires the
+4 insurer to: (1) file its procedure for obtaining prior authorization with the
+5 Commissioner of Insurance for approval; and (2) respond to a request for prior
+6 authorization within 20 days after receiving the request. (NRS 687B.225) This bill
+7 establishes additional requirements relating to the use of prior authorization for
+8 health and dental care by health insurers, including Medicaid, the Children’s Health
+9 Insurance Program, insurance for public employees and certain entities designated
+10 by health insurers to perform utilization reviews.
+11 Specifically, sections 15 and 27 of this bill require that a procedure for
+12 obtaining prior authorization includes: (1) a list of the specific goods and services
+13 for which the insurer requires prior authorization; and (2) the clinical review
+14 criteria used by the insurer to evaluate requests for prior authorization. Sections 15
+15 and 27 also require an insurer to publish its procedure for obtaining prior
+16 authorization on its Internet website and update that website as necessary to
+-
+*AB470*
+– 2 –
+17 account for any changes in the procedure. Sections 15 and 27 prohibit an insurer
+18 from denying a claim for payment for medical or dental care because of the failure
+19 to obtain prior authorization if the insurer’s procedures for obtaining prior
+20 authorization in effect on the date that the care was provided did not require prior
+21 authorization for that care.
+22 Sections 15 and 28 of this bill revise the period for insurers to take action on a
+23 request for prior authorization by requiring an insurer to approve or make an
+24 adverse determination on such a request, or request additional, medically relevant
+25 information: (1) within 48 hours after receiving the request, for medical or dental
+26 care that is not urgent; or (2) within 24 hours after receiving the request, for care
+27 that is urgent. Sections 10 and 29 of this bill require an insurer, in certain
+28 circumstances, to allow the provider of health care who requested the prior
+29 authorization to discuss the issues involved in the request with a person who is
+30 responsible for making a determination on the request. Sections 10 and 29 require
+31 an insurer, upon making an adverse determination on a request for prior
+32 authorization, to transmit certain information to the insured to whom the request
+33 pertains, including information relating to the right of the insured to appeal the
+34 adverse determination.
+35 Sections 11 and 30 of this bill: (1) provide that a request for prior authorization
+36 that has been approved by the insurer remains valid for 12 months; and (2) require
+37 an insurer, for the first 90 days of the coverage period for a new insured, to honor a
+38 request for prior authorization that has been approved by the previous insurer of the
+39 new insured, under certain circumstances. Sections 11 and 30 prohibit an insurer
+40 from denying or imposing additional limits on a request for prior authorization that
+41 the insurer has previously approved if the care at issue in the request is provided
+42 within 45 business days after the date on which the insurer receives the request and
+43 certain other requirements are met.
+44 Sections 12 and 33 of this bill prohibit an insurer from requiring prior
+45 authorization for covered emergency services. Sections 12 and 33 also prohibit an
+46 insurer from requiring that an insured or provider of health care notify the insurer
+47 earlier than the end of the business day following the date of admission or the date
+48 on which the emergency services are provided. Finally, sections 12 and 33: (1)
+49 prohibit an insurer from denying coverage for covered medically necessary
+50 emergency services; and (2) establish a presumption of medical necessity under
+51 certain conditions.
+52 Sections 3-9 and 23-26 of this bill define certain terms relating to the process
+53 of obtaining and processing requests for prior authorization, and sections 2 and 22
+54 of this bill establish the applicability of those definitions. Sections 13 and 32 of
+55 this bill provide that if an insurer violates any provision of section 10-12, 15 or 27-
+56 31 of this bill with respect to a particular request for prior authorization, that the
+57 request is deemed approved. Sections 13 and 32 also clarify that nothing in the
+58 provisions of section 10-12, 15 or 27-31 require an insurer to provide coverage: (1)
+59 for care that the insurer does not cover, regardless of the medical necessity of the
+60 care; or (2) to persons to whom the insured is not obligated to provide coverage.
+61 Sections 14 and 33 of this bill require an insurer to annually publish on its
+62 Internet website certain information relating to requests for prior authorization that
+63 have been processed by the insurer during the immediately preceding year. Section
+64 16 of this bill requires a nonprofit hospital and medical or dental service
+65 corporation to comply with sections 2-14. Section 17 of this bill requires the
+66 Director of the Department of Health and Human Services to administer the
+67 provisions of sections 21-33 of this bill in the same manner as other provisions
+68 governing Medicaid. Sections 18, 19 and 35 of this bill require plans of self-
+69 insurance for employees of local governments, the Public Employees’ Benefits
+70 Program and plans of self-insurance for private employers, respectively, to comply
+71 with the requirements of sections 2-15 to the extent applicable. Section 21 provides
+-
+*AB470*
+– 3 –
+72 that a health maintenance organization or another managed care organization that
+73 provides services to recipients of Medicaid or the Children’s Health Insurance
+74 Program is not subject to sections 22-33, but must comply with sections 2-15.
+75 Section 34 of this bill requires the policies and procedures for coverage for
+76 prescription drugs under Medicaid to comply with sections 22-33.
+THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN
+SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:
+1 Section 1. Chapter 687B of NRS is hereby amended by adding
+2 thereto the provisions set forth as sections 2 to 14, inclusive, of this
+3 act.
+4 Sec. 2. As used in NRS 687B.225 and sections 2 to 14,
+5 inclusive, of this act, unless the context otherwise requires, the
+6 words and terms defined in sections 3 to 9, inclusive, of this act
+7 have the meanings ascribed to them in those sections.
+8 Sec. 3. “Adverse determination” means a determination by a
+9 health carrier that an admission, availability of care, continued
+10 stay or other medical care or dental care that is a covered benefit
+11 has been reviewed and, based upon the information provided, does
+12 not meet the health carrier’s requirements for medical necessity,
+13 appropriateness, health care setting, level of care or effectiveness,
+14 and the requested care or service or payment for the care or
+15 service is therefore denied, reduced or terminated.
+16 Sec. 4. “Health carrier” has the meaning ascribed to it in
+17 NRS 695G.024, and includes, without limitation:
+18 1. An organization for dental care, as defined in NRS
+19 695D.060; and
+20 2. A utilization review organization, as defined in
+21 NRS 695G.085.
+22 Sec. 5. “Insured” means a policyholder, subscriber, enrollee
+23 or other person covered by a health carrier.
+24 Sec. 6. “Medically necessary” has the meaning ascribed to it
+25 in NRS 695G.055.
+26 Sec. 7. “Network” means a defined set of providers of health
+27 care who are under contract with a health carrier to provide
+28 health care services pursuant to a network plan offered or issued
+29 by the health carrier.
+30 Sec. 8. “Network plan” means a contract or policy of
+31 insurance offered by a health carrier under which the financing
+32 and delivery of medical or dental care is provided, in whole or in
+33 part, through a defined set of providers under contract with the
+34 health carrier.
+35 Sec. 9. “Provider of health care” has the meaning ascribed
+36 to it in NRS 695G.070.
+-
+*AB470*
+– 4 –
+1 Sec. 10. 1. If a health carrier is considering making an
+2 adverse determination on a request for prior authorization on the
+3 basis that the medical or dental care involved in the request is not
+4 medically necessary, the health carrier that received the request
+5 shall:
+6 (a) Immediately notify the provider of health care who
+7 submitted the request that the medical necessity of the requested
+8 care is being questioned by the health carrier; and
+9 (b) Offer the provider of health care an opportunity to speak
+10 with a person responsible for making the determination over the
+11 telephone or by videoconference to discuss the clinical issues
+12 involved in the request before the health carrier renders an initial
+13 determination on the request.
+14 2. Upon rendering an adverse determination on a request for
+15 prior authorization, a health carrier shall immediately transmit to
+16 the insured to whom the request pertains a written notice that
+17 contains:
+18 (a) A specific description of all reasons that the health carrier
+19 made the adverse determination;
+20 (b) A description of any documentation that the health carrier
+21 requested from the insured or a provider of health care of the
+22 insured and did not receive or deemed insufficient, if the failure to
+23 receive sufficient documentation contributed to the adverse
+24 determination; and
+25 (c) A statement that the insured has the right to appeal the
+26 adverse determination.
+27 Sec. 11. 1. If a health carrier approves a request for prior
+28 authorization, the approval remains valid, including for any
+29 changes in the dosage of a medication:
+30 (a) Until 12 months after the date on which the request is
+31 approved; or
+32 (b) If the approval is for the treatment of a chronic or long
+33 term condition, for the length of the treatment and for any
+34 subsequent treatments of the same type and for the same
+35 condition.
+36 2. A health carrier shall not revoke or impose an additional
+37 limit, condition or restriction on a request for prior authorization
+38 that the health carrier has previously approved unless:
+39 (a) The care at issue in the request was not provided to the
+40 insured within 45 business days after the date on which the health
+41 carrier received the request;
+42 (b) The health carrier determines that an insured or a provider
+43 of health care procured the approval by fraud or material
+44 misrepresentation; or
+-
+*AB470*
+– 5 –
+1 (c) The health carrier determines that the care at issue in the
+2 request was not covered by the health carrier at the time the care
+3 was provided.
+4 3. A health carrier that has approved a request for prior
+5 authorization shall not deny or refuse to promptly pay a claim for
+6 the approved medical or dental care unless the health carrier
+7 determines that the insured or provider of health care procured
+8 the prior authorization by fraud or material misrepresentation.
+9 The claim must be paid at the same rate that the health carrier is
+10 contractually obligated to or would ordinarily pay a provider of
+11 health care for providing the specific type of care that was
+12 approved and provided to the insured.
+13 4. Within the first 90 days of the coverage period for an
+14 insured, a health carrier shall honor a request for prior
+15 authorization that has been approved by a health carrier or other
+16 entity that previously provided the insured with coverage for
+17 medical or dental care if:
+18 (a) The approval was issued within the 12 months immediately
+19 preceding the first day of the coverage period under the current
+20 contract or policy of insurance; and
+21 (b) The specific medical or dental care included within the
+22 request is not affirmatively excluded under the terms and
+23 conditions of the contract or policy of insurance issued by the
+24 health carrier.
+25 5. As used in this section, “coverage period” means the
+26 current term of a contract or policy of insurance issued by a
+27 health carrier.
+28 Sec. 12. 1. A health carrier shall not require prior
+29 authorization for emergency services covered by the health
+30 carrier, including, without limitation, where applicable,
+31 transportation by ambulance to a hospital or other medical
+32 facility.
+33 2. If a health carrier requires an insured or his or her
+34 provider of health care to notify the health carrier that the insured
+35 has been admitted to a hospital to receive emergency services or
+36 has received emergency services, the health carrier shall not
+37 require an insured or a provider of health care to transmit such a
+38 notice earlier than the end of the business day immediately
+39 following the day after the date on which the insured was admitted
+40 or the emergency services were provided, as applicable.
+41 3. A health carrier shall not deny coverage for emergency
+42 services covered by the health carrier that are medically necessary.
+43 Emergency services are presumed to be medically necessary if,
+44 within 72 hours after an insured is admitted to receive emergency
+45 services, the insured’s provider of health care transmits to the
+-
+*AB470*
+– 6 –
+1 health carrier a certification, in writing, that the condition of the
+2 insured required emergency services. The health carrier may rebut
+3 that presumption by establishing, by clear and convincing
+4 evidence, that the emergency services were not medically
+5 necessary.
+6 4. A health carrier shall make all determinations for whether
+7 emergency services are medically necessary without regard to
+8 whether a provider of health care that provided or billed for those
+9 services participates in the network of the health carrier.
+10 5. For emergency services which require immediate post
+11 evaluation or post stabilization services, a health carrier shall
+12 approve or make an adverse determination on any request for
+13 prior authorization for the post evaluation or post stabilization
+14 services submitted by or on behalf of the insured within 1 hour of
+15 the time the health carrier receives the request.
+16 6. As used in this section, “emergency services” means health
+17 care services that are provided by a provider of health care to
+18 screen and to stabilize an insured after the sudden onset of a
+19 medical condition that manifests itself by symptoms of such
+20 sufficient severity that a prudent person would believe that the
+21 absence of immediate medical attention could result in:
+22 (a) Serious jeopardy to the health of the insured;
+23 (b) Serious jeopardy to the health of an unborn child of the
+24 insured;
+25 (c) Serious impairment of a bodily function of the insured; or
+26 (d) Serious dysfunction of any bodily organ or part of the
+27 insured.
+28 Sec. 13. 1. If a health carrier violates NRS 687B.225 or
+29 section 10, 11 or 12 of this act with respect to a particular request
+30 for prior authorization, the request shall be deemed approved.
+31 2. Nothing in NRS 687B.225 or section 10, 11 or 12 of this
+32 act shall be construed to require a health carrier to provide
+33 coverage:
+34 (a) For medical or dental care that, regardless of whether such
+35 care is medically necessary, would not be a covered benefit under
+36 the terms and conditions of the contract or policy of insurance;
+37 (b) To a person who is not insured by the health carrier on the
+38 date on which medical or dental care is provided to the person; or
+39 (c) To an insured who, as a result of his or her failure to pay
+40 the applicable premiums required under the terms and conditions
+41 of a contract or policy of insurance, has no coverage under the
+42 contract or policy on the date on which medical or dental care is
+43 provided to the insured.
+44 Sec. 14. 1. On or before March 1 of each calendar year, a
+45 health carrier shall publish on an Internet website maintained by
+-
+*AB470*
+– 7 –
+1 the health carrier in an easily accessible format the following
+2 information for the immediately preceding calendar year, in
+3 aggregated form for all requests for prior authorization received
+4 by the insurer during the immediately preceding year and
+5 disaggregated in accordance with subsection 2:
+6 (a) The percentage of requests for prior authorization for
+7 medical or dental care in this State that were approved upon initial
+8 review;
+9 (b) The percentage of requests for prior authorization for
+10 medical or dental care in this State that resulted in an adverse
+11 determination upon initial review;
+12 (c) The percentage of the adverse determinations described in
+13 paragraph (b) that were appealed;
+14 (d) The percentage of appeals of adverse determinations
+15 described in paragraph (c) that resulted in a reversal of the
+16 adverse determination;
+17 (e) The five most common reasons for the adverse
+18 determinations described in paragraph (b); and
+19 (f) The average time between a request for prior authorization
+20 for medical or dental care in this State and the resolution of the
+21 request.
+22 2. The information described in subsection 1 must be
+23 disaggregated for the following categories:
+24 (a) The specialty of the provider of health care who submitted
+25 a request for prior authorization; and
+26 (b) The types of health or dental care at issue in the request for
+27 prior authorization, including, without limitation, the specific
+28 types of prescription drugs, procedures or diagnostic tests involved
+29 in the requests.
+30 3. A health carrier shall not include individually identifiable
+31 health information in the information published pursuant to
+32 subsection 1.
+33 4. As used in this section, “individually identifiable health
+34 information” means information relating to the provision of
+35 health care to an insured:
+36 (a) That specifically identifies the insured; or
+37 (b) For which there is a reasonable basis to believe that the
+38 information can be used to identify the insured.
+39 Sec. 15. NRS 687B.225 is hereby amended to read as follows:
+40 687B.225 1. Except as otherwise provided in NRS
+41 689A.0405, 689A.0412, 689A.0413, 689A.0418, 689A.0437,
+42 689A.044, 689A.0445, 689A.0459, 689B.031, 689B.0312,
+43 689B.0313, 689B.0315, 689B.0317, 689B.0319, 689B.0374,
+44 689B.0378, 689C.1665, 689C.1671, 689C.1675, 689C.1676,
+45 695A.1843, 695A.1856, 695A.1865, 695A.1874, 695B.1912,
+-
+*AB470*
+– 8 –
+1 695B.1913, 695B.1914, 695B.1919, 695B.19197, 695B.1924,
+2 695B.1925, 695B.1942, 695C.1696, 695C.1699, 695C.1713,
+3 695C.1735, 695C.1737, 695C.1743, 695C.1745, 695C.1751,
+4 695G.170, 695G.1705, 695G.171, 695G.1714, 695G.1715,
+5 695G.1719 and 695G.177, and section 12 of this act, any contract
+6 [for group, blanket or individual health] or policy of insurance [or
+7 any contract by a nonprofit hospital, medical or dental service
+8 corporation or organization for dental care] issued by a health
+9 carrier which provides for payment of a certain part of medical or
+10 dental care may require the insured [or member] to obtain prior
+11 authorization for that care from the [insurer or organization. The
+12 insurer or organization] health carrier in a manner consistent with
+13 this section and sections 2 to 14, inclusive, of this act.
+14 2. A health carrier that requires an insured to obtain prior
+15 authorization shall:
+16 (a) File its procedure for obtaining [approval of care] prior
+17 authorization pursuant to this section , including, without
+18 limitation, a list of the specific goods and services for which the
+19 health carrier requires prior authorization and the clinical review
+20 criteria used by the health carrier to evaluate requests for prior
+21 authorization, for approval by the Commissioner . [; and]
+22 (b) Unless a shorter time period is prescribed by a specific
+23 statute, including, without limitation, NRS 689A.0446, 689B.0361,
+24 689C.1688, 695A.1859, 695B.19087, 695C.16932 and 695G.1703,
+25 [respond to] and except as otherwise provided by paragraph (c),
+26 approve or make an adverse determination on any request for
+27 [approval by the insured or member] prior authorization submitted
+28 by or on behalf of the insured pursuant to this section [within 20
+29 days after it receives the request.] and notify the insured and his or
+30 her provider of health care of the approval or adverse
+31 determination:
+32 (1) For medical or dental care that is not urgent health
+33 care, within 48 hours after receiving the request.
+34 (2) For urgent health care, within 24 hours after receiving
+35 the request.
+36 (c) If the health carrier requires additional, medically relevant
+37 information or documentation in order to adequately evaluate a
+38 request for prior authorization:
+39 (1) Notify the insured and the provider of health care who
+40 submitted the request within the applicable amount of time
+41 described in paragraph (b) that additional information is required
+42 to evaluate the request;
+43 (2) Include within the notification sent pursuant to
+44 subparagraph (1) a description, with reasonable specificity, of the
+-
+*AB470*
+– 9 –
+1 information that the health carrier requires to make a
+2 determination on the request for prior authorization; and
+3 (3) Approve or make an adverse determination on the
+4 request:
+5 (I) For medical or dental care that is not urgent health
+6 care, within 48 hours after receiving the information.
+7 (II) For urgent health care, within 24 hours after
+8 receiving the information.
+9 [2.] 3. The procedure for prior authorization may not
+10 discriminate among persons licensed to provide the covered care.
+11 4. If a health carrier seeks to amend its procedure for
+12 obtaining prior authorization, including, without limitation,
+13 changing the goods and services for which the health carrier
+14 requires prior authorization or changing the clinical review
+15 criteria used by the health carrier, the health carrier:
+16 (a) Must file a request to amend the procedure for approval by
+17 the Commissioner.
+18 (b) May not allow the amended procedure to take effect until:
+19 (1) The Commissioner notifies the health carrier that the
+20 request is approved; and
+21 (2) The health carrier satisfies the requirements of
+22 subsection 5 after the health carrier receives a notice of approval
+23 from the Commissioner.
+24 5. A change to a health carrier’s procedure for obtaining
+25 prior authorization may not take effect until:
+26 (a) The health carrier transmits a notice that contains a
+27 summary of the changes to the procedure to each of its insureds
+28 and providers of health care who participate in the network of the
+29 health carrier;
+30 (b) The health carrier updates the information published on its
+31 Internet website pursuant to subsection 6 to reflect the amended
+32 procedure for obtaining prior authorization and the date on which
+33 the amended procedure takes effect; and
+34 (c) At least 60 days have passed after the later of:
+35 (1) The date on which the health carrier transmitted the
+36 notice to its insureds and providers of health care who participate
+37 in the network of the health carrier pursuant to paragraph (a); or
+38 (2) The date on which the health carrier updated the
+39 information published on its Internet website pursuant to
+40 paragraph (b).
+41 6. A health carrier shall publish its procedures for obtaining
+42 prior authorization, including, without limitation, the clinical
+43 review criteria, on its Internet website:
+44 (a) Using clear language that is understandable to an ordinary
+45 layperson, where practicable; and
+-
+*AB470*
+– 10 –
+1 (b) In a place that is readily accessible and conspicuous to
+2 insureds and the public.
+3 7. A health carrier shall not deny a claim based on the failure
+4 of an insured to obtain prior authorization for medical or dental
+5 care if the procedure for obtaining prior authorization established
+6 by the health carrier did not require the insured to obtain prior
+7 authorization for that medical or dental care on the date that the
+8 medical or dental care was provided to the insured.
+9 8. As used in this section:
+10 (a) “Clinical review criteria” means any written screening
+11 procedure, decision abstract, clinical protocol or practice
+12 guideline used by the health carrier to determine the necessity and
+13 appropriateness of medical or dental care.
+14 (b) “Emergency services” has the meaning ascribed to it in
+15 section 12 of this act.
+16 (c) “Urgent health care”:
+17 (1) Means health care that, in the opinion of a provider of
+18 health care with knowledge of an insured’s medical condition, if
+19 not rendered to the insured within 48 hours could:
+20 (I) Seriously jeopardize the life or health of the insured
+21 or the ability of the insured to regain maximum function; or
+22 (II) Subject the insured to severe pain that cannot be
+23 adequately managed without receiving such care.
+24 (2) Does not include emergency services.
+25 Sec. 16. NRS 695B.320 is hereby amended to read as follows:
+26 695B.320 1. Nonprofit hospital and medical or dental service
+27 corporations are subject to the provisions of this chapter, and to the
+28 provisions of chapters 679A and 679B of NRS, subsections 2, 4, 17,
+29 18 and 30 of NRS 680B.010, NRS 680B.025 to 680B.060,
+30 inclusive, chapter 681B of NRS, NRS 686A.010 to 686A.315,
+31 inclusive, 686B.010 to 686B.175, inclusive, 687B.010 to
+32 687B.040, inclusive, 687B.070 to 687B.140, inclusive, 687B.150,
+33 687B.160, 687B.180, 687B.200 to 687B.255, inclusive, and
+34 sections 2 to 14, inclusive, of this act, 687B.270, 687B.310 to
+35 687B.380, inclusive, 687B.410, 687B.420, 687B.430, 687B.500 and
+36 chapters 692B, 692C, 693A and 696B of NRS, to the extent
+37 applicable and not in conflict with the express provisions of this
+38 chapter.
+39 2. For the purposes of this section and the provisions set forth
+40 in subsection 1, a nonprofit hospital and medical or dental service
+41 corporation is included in the meaning of the term “insurer.”
+42 Sec. 17. NRS 232.320 is hereby amended to read as follows:
+43 232.320 1. The Director:
+-
+*AB470*
+– 11 –
+1 (a) Shall appoint, with the consent of the Governor,
+2 administrators of the divisions of the Department, who are
+3 respectively designated as follows:
+4 (1) The Administrator of the Aging and Disability Services
+5 Division;
+6 (2) The Administrator of the Division of Welfare and
+7 Supportive Services;
+8 (3) The Administrator of the Division of Child and Family
+9 Services;
+10 (4) The Administrator of the Division of Health Care
+11 Financing and Policy; and
+12 (5) The Administrator of the Division of Public and
+13 Behavioral Health.
+14 (b) Shall administer, through the divisions of the Department,
+15 the provisions of chapters 63, 424, 425, 427A, 432A to 442,
+16 inclusive, 446 to 450, inclusive, 458A and 656A of NRS, NRS
+17 127.220 to 127.310, inclusive, 422.001 to 422.410, inclusive, and
+18 sections 21 to 33, inclusive, of this act, 422.580, 432.010 to
+19 432.133, inclusive, 432B.6201 to 432B.626, inclusive, 444.002 to
+20 444.430, inclusive, and 445A.010 to 445A.055, inclusive, and all
+21 other provisions of law relating to the functions of the divisions of
+22 the Department, but is not responsible for the clinical activities of
+23 the Division of Public and Behavioral Health or the professional line
+24 activities of the other divisions.
+25 (c) Shall administer any state program for persons with
+26 developmental disabilities established pursuant to the
+27 Developmental Disabilities Assistance and Bill of Rights Act of
+28 2000, 42 U.S.C. §§ 15001 et seq.
+29 (d) Shall, after considering advice from agencies of local
+30 governments and nonprofit organizations which provide social
+31 services, adopt a master plan for the provision of human services in
+32 this State. The Director shall revise the plan biennially and deliver a
+33 copy of the plan to the Governor and the Legislature at the
+34 beginning of each regular session. The plan must:
+35 (1) Identify and assess the plans and programs of the
+36 Department for the provision of human services, and any
+37 duplication of those services by federal, state and local agencies;
+38 (2) Set forth priorities for the provision of those services;
+39 (3) Provide for communication and the coordination of those
+40 services among nonprofit organizations, agencies of local
+41 government, the State and the Federal Government;
+42 (4) Identify the sources of funding for services provided by
+43 the Department and the allocation of that funding;
+-
+*AB470*
+– 12 –
+1 (5) Set forth sufficient information to assist the Department
+2 in providing those services and in the planning and budgeting for the
+3 future provision of those services; and
+4 (6) Contain any other information necessary for the
+5 Department to communicate effectively with the Federal
+6 Government concerning demographic trends, formulas for the
+7 distribution of federal money and any need for the modification of
+8 programs administered by the Department.
+9 (e) May, by regulation, require nonprofit organizations and state
+10 and local governmental agencies to provide information regarding
+11 the programs of those organizations and agencies, excluding
+12 detailed information relating to their budgets and payrolls, which the
+13 Director deems necessary for the performance of the duties imposed
+14 upon him or her pursuant to this section.
+15 (f) Has such other powers and duties as are provided by law.
+16 2. Notwithstanding any other provision of law, the Director, or
+17 the Director’s designee, is responsible for appointing and removing
+18 subordinate officers and employees of the Department.
+19 Sec. 18. NRS 287.010 is hereby amended to read as follows:
+20 287.010 1. The governing body of any county, school
+21 district, municipal corporation, political subdivision, public
+22 corporation or other local governmental agency of the State of
+23 Nevada may:
+24 (a) Adopt and carry into effect a system of group life, accident
+25 or health insurance, or any combination thereof, for the benefit of its
+26 officers and employees, and the dependents of officers and
+27 employees who elect to accept the insurance and who, where
+28 necessary, have authorized the governing body to make deductions
+29 from their compensation for the payment of premiums on the
+30 insurance.
+31 (b) Purchase group policies of life, accident or health insurance,
+32 or any combination thereof, for the benefit of such officers and
+33 employees, and the dependents of such officers and employees, as
+34 have authorized the purchase, from insurance companies authorized
+35 to transact the business of such insurance in the State of Nevada,
+36 and, where necessary, deduct from the compensation of officers and
+37 employees the premiums upon insurance and pay the deductions
+38 upon the premiums.
+39 (c) Provide group life, accident or health coverage through a
+40 self-insurance reserve fund and, where necessary, deduct
+41 contributions to the maintenance of the fund from the compensation
+42 of officers and employees and pay the deductions into the fund. The
+43 money accumulated for this purpose through deductions from the
+44 compensation of officers and employees and contributions of the
+45 governing body must be maintained as an internal service fund as
+-
+*AB470*
+– 13 –
+1 defined by NRS 354.543. The money must be deposited in a state or
+2 national bank or credit union authorized to transact business in the
+3 State of Nevada. Any independent administrator of a fund created
+4 under this section is subject to the licensing requirements of chapter
+5 683A of NRS, and must be a resident of this State. Any contract
+6 with an independent administrator must be approved by the
+7 Commissioner of Insurance as to the reasonableness of
+8 administrative charges in relation to contributions collected and
+9 benefits provided. The provisions of NRS 439.581 to 439.597,
+10 inclusive, 686A.135, paragraphs (b) and (c) of subsection 2 of
+11 NRS 687B.225, subsections 1, 3, 5, 6 and 7 of NRS 687B.225,
+12 687B.352, 687B.408, 687B.692, 687B.723, 687B.725, 687B.805,
+13 689B.030 to 689B.0317, inclusive, paragraphs (b) and (c) of
+14 subsection 1 of NRS 689B.0319, subsections 2, 4, 6 and 7 of NRS
+15 689B.0319, 689B.033 to 689B.0369, inclusive, 689B.0375 to
+16 689B.050, inclusive, 689B.0675, 689B.265, 689B.287 and
+17 689B.500 and sections 2 to 14, inclusive, of this act apply to
+18 coverage provided pursuant to this paragraph, except that the
+19 provisions of NRS 689B.0378, 689B.03785 and 689B.500 only
+20 apply to coverage for active officers and employees of the
+21 governing body, or the dependents of such officers and employees.
+22 (d) Defray part or all of the cost of maintenance of a self-
+23 insurance fund or of the premiums upon insurance. The money for
+24 contributions must be budgeted for in accordance with the laws
+25 governing the county, school district, municipal corporation,
+26 political subdivision, public corporation or other local governmental
+27 agency of the State of Nevada.
+28 2. If a school district offers group insurance to its officers and
+29 employees pursuant to this section, members of the board of trustees
+30 of the school district must not be excluded from participating in the
+31 group insurance. If the amount of the deductions from compensation
+32 required to pay for the group insurance exceeds the compensation to
+33 which a trustee is entitled, the difference must be paid by the trustee.
+34 3. In any county in which a legal services organization exists,
+35 the governing body of the county, or of any school district,
+36 municipal corporation, political subdivision, public corporation or
+37 other local governmental agency of the State of Nevada in the
+38 county, may enter into a contract with the legal services
+39 organization pursuant to which the officers and employees of the
+40 legal services organization, and the dependents of those officers and
+41 employees, are eligible for any life, accident or health insurance
+42 provided pursuant to this section to the officers and employees, and
+43 the dependents of the officers and employees, of the county, school
+44 district, municipal corporation, political subdivision, public
+45 corporation or other local governmental agency.
+-
+*AB470*
+– 14 –
+1 4. If a contract is entered into pursuant to subsection 3, the
+2 officers and employees of the legal services organization:
+3 (a) Shall be deemed, solely for the purposes of this section, to be
+4 officers and employees of the county, school district, municipal
+5 corporation, political subdivision, public corporation or other local
+6 governmental agency with which the legal services organization has
+7 contracted; and
+8 (b) Must be required by the contract to pay the premiums or
+9 contributions for all insurance which they elect to accept or of which
+10 they authorize the purchase.
+11 5. A contract that is entered into pursuant to subsection 3:
+12 (a) Must be submitted to the Commissioner of Insurance for
+13 approval not less than 30 days before the date on which the contract
+14 is to become effective.
+15 (b) Does not become effective unless approved by the
+16 Commissioner.
+17 (c) Shall be deemed to be approved if not disapproved by the
+18 Commissioner within 30 days after its submission.
+19 6. As used in this section, “legal services organization” means
+20 an organization that operates a program for legal aid and receives
+21 money pursuant to NRS 19.031.
+22 Sec. 19. NRS 287.04335 is hereby amended to read as
+23 follows:
+24 287.04335 If the Board provides health insurance through a
+25 plan of self-insurance, it shall comply with the provisions of NRS
+26 439.581 to 439.597, inclusive, 686A.135, paragraphs (b) and (c) of
+27 subsection 2 of NRS 687B.225, subsections 1, 3, 5, 6 and 7 of NRS
+28 687B.225, 687B.352, 687B.409, 687B.692, 687B.723, 687B.725,
+29 687B.805, 689B.0353, 689B.255, 695C.1723, 695G.150, 695G.155,
+30 695G.160, 695G.162, 695G.1635, 695G.164, 695G.1645,
+31 695G.1665, 695G.167, 695G.1675, 695G.170 to 695G.1712,
+32 inclusive, 695G.1714 to 695G.174, inclusive, 695G.176, 695G.177,
+33 695G.200 to 695G.230, inclusive, 695G.241 to 695G.310, inclusive,
+34 695G.405 and 695G.415, and sections 2 to 14, inclusive, of this act
+35 in the same manner as an insurer that is licensed pursuant to title 57
+36 of NRS is required to comply with those provisions.
+37 Sec. 20. Chapter 422 of NRS is hereby amended by adding
+38 thereto the provisions set forth as sections 21 to 33, inclusive, of this
+39 act.
+40 Sec. 21. 1. The provisions of sections 22 to 33, inclusive, of
+41 this act and any policies developed pursuant thereto do not apply
+42 to the delivery of services to recipients of Medicaid or the
+43 Children’s Health Insurance Program through managed care in
+44 accordance with NRS 422.273.
+-
+*AB470*
+– 15 –
+1 2. A health maintenance organization or other managed care
+2 organization that enters into a contract with the Department or the
+3 Division pursuant to NRS 422.273 to provide health care services
+4 to recipients of Medicaid under the State Plan for Medicaid or the
+5 Children’s Health Insurance Program shall comply with NRS
+6 687B.225 and sections 2 to 14, inclusive, of this act.
+7 Sec. 22. As used in sections 22 to 33, inclusive, of this act,
+8 unless the context otherwise requires, the words and terms defined
+9 in sections 23 to 26, inclusive, of this act have the meanings
+10 ascribed to them in those sections.
+11 Sec. 23. “Adverse determination” means a determination by
+12 the Department that an admission, availability of care, continued
+13 stay or other medical care or dental care that is a covered benefit
+14 has been reviewed and, based upon the information provided, does
+15 not meet the Department’s requirements for medical necessity,
+16 appropriateness, health care setting, level of care or effectiveness,
+17 and the requested care or service or payment for the care or
+18 service is therefore denied, reduced or terminated.
+19 Sec. 24. “Medically necessary” has the meaning ascribed to
+20 it in NRS 695G.055.
+21 Sec. 25. “Provider of health care” has the meaning ascribed
+22 to it in NRS 695G.070.
+23 Sec. 26. “Recipient” means a natural person who receives
+24 benefits through Medicaid or the Children’s Health Insurance
+25 Program, as applicable.
+26 Sec. 27. 1. The Department, with respect to Medicaid and
+27 the Children’s Health Insurance Program, shall establish written
+28 procedures for obtaining prior authorization for medical or dental
+29 care which must include, without limitation:
+30 (a) A list of the specific goods and services for which the
+31 Department requires prior authorization; and
+32 (b) A description of the clinical review criteria used by the
+33 Department.
+34 2. The Department shall publish the written procedures for
+35 obtaining prior authorization established by the Department
+36 pursuant to subsection 1, including, without limitation, the clinical
+37 review criteria, on an Internet website maintained by the
+38 Department:
+39 (a) Using clear language that is understandable to an ordinary
+40 layperson, where practicable; and
+41 (b) In a place that is readily accessible and conspicuous to
+42 recipients and the public.
+43 3. If the Department amends the procedure for obtaining
+44 prior authorization adopted pursuant to subsection 1, including,
+45 without limitation, changing the goods and services for which the
+-
+*AB470*
+– 16 –
+1 Department requires prior authorization or changing the clinical
+2 review criteria used by the Department, the Department shall:
+3 (a) Transmit a notice containing a summary of the changes
+4 made to the procedure to each recipient and each provider of
+5 goods or services under Medicaid or the Children’s Health
+6 Insurance Program, as applicable; and
+7 (b) Update the information published on its Internet website
+8 pursuant to subsection 2 to reflect the amended procedure for
+9 obtaining prior authorization and the date on which the amended
+10 procedure takes effect.
+11 4. A change to the Department’s procedure for obtaining
+12 prior authorization may not take effect until 60 days have passed
+13 after the later of:
+14 (a) The date on which the Department transmitted the notice to
+15 recipients and providers of goods or services under Medicaid or
+16 the Children’s Health Insurance Program, as applicable, pursuant
+17 to paragraph (a) of subsection 3; or
+18 (b) The date on which the Department updated the
+19 information published on its Internet website pursuant to
+20 paragraph (b) of subsection 3.
+21 5. The Department shall not deny a claim based on the
+22 failure of a recipient to obtain prior authorization for medical or
+23 dental care if the procedure for obtaining prior authorization
+24 established by the Department pursuant to this section did not
+25 require the recipient to obtain prior authorization for that medical
+26 or dental care on the date that the medical or dental care was
+27 provided to the recipient.
+28 6. As used in this section, “clinical review criteria” means
+29 any written screening procedure, decision abstract, clinical
+30 protocol or practice guideline used by the Department to
+31 determine the necessity and appropriateness of medical or dental
+32 care.
+33 Sec. 28. 1. Unless a shorter time period is prescribed by a
+34 specific statute, and except as otherwise provided in subsection 2,
+35 the Department, with respect to Medicaid and the Children’s
+36 Health Insurance Program, shall approve or make an adverse
+37 determination on a request for prior authorization submitted by or
+38 on behalf of a recipient and notify the recipient and his or her
+39 provider of health care of the approval or adverse determination:
+40 (a) For medical or dental care that is not urgent health care,
+41 within 48 hours after receiving the request.
+42 (b) For urgent health care, within 24 hours after receiving the
+43 request.
+-
+*AB470*
+– 17 –
+1 2. If the Department requires additional, medically relevant
+2 information or documentation in order to adequately evaluate a
+3 request for prior authorization, the Department shall:
+4 (a) Notify the recipient and the provider of health care who
+5 submitted the request within the applicable amount of time
+6 described in subsection 1 that additional information is required to
+7 evaluate the request;
+8 (b) Include within the notification sent pursuant to paragraph
+9 (a) a description, with reasonable specificity, of the information
+10 that the Department requires to make a determination on the
+11 request for prior authorization; and
+12 (c) Approve or make an adverse determination on the request:
+13 (1) For medical or dental care that is not urgent health
+14 care, within 48 hours after receiving the information.
+15 (2) For urgent health care, within 24 hours after receiving
+16 the information.
+17 3. As used in this section, “urgent health care” has the
+18 meaning ascribed to it in section 15 of this act.
+19 Sec. 29. 1. If the Department is considering making an
+20 adverse determination on a request for prior authorization on the
+21 basis that the medical or dental care involved in the request is not
+22 medically necessary, the Department shall:
+23 (a) Immediately notify the provider of health care who
+24 submitted the request that the medical necessity of the requested
+25 care is being questioned by the Department; and
+26 (b) Offer the provider of health care an opportunity to speak
+27 with a person responsible for making the determination over the
+28 telephone or by videoconference to discuss the clinical issues
+29 involved in the request before the physician or dentist renders an
+30 initial determination on the request.
+31 2. Upon rendering an adverse determination on a request for
+32 prior authorization, the Department shall immediately transmit to
+33 the recipient to whom the request pertains a written notice that
+34 contains:
+35 (a) A specific description of all reasons that the Department
+36 made the adverse determination;
+37 (b) A description of any documentation that the Department
+38 requested from the recipient or a provider of health care of the
+39 recipient and did not receive or deemed insufficient, if the failure
+40 to receive sufficient documentation contributed to the adverse
+41 determination; and
+42 (c) A statement that the recipient has the right to appeal the
+43 adverse determination.
+-
+*AB470*
+– 18 –
+1 Sec. 30. 1. If the Department approves a request for prior
+2 authorization, the approval remains valid, including for any
+3 changes in the dosage of a medication:
+4 (a) Until 12 months after the date on which the request is
+5 approved; or
+6 (b) If the approval is for the treatment of a chronic or long
+7 term condition, for the length of the treatment and for any
+8 subsequent treatments of the same type and for the same
+9 condition.
+10 2. The Department shall not revoke or impose an additional
+11 limit, condition or restriction on a request for prior authorization
+12 that the Department has previously approved unless:
+13 (a) The care at issue in the request was not provided to the
+14 recipient within 45 business days after the date on which the
+15 Department received the request;
+16 (b) The Department determines that a recipient or a provider
+17 of health care procured the approval by fraud or material
+18 misrepresentation; or
+19 (c) The Department determines that the care at issue in the
+20 request was not covered by Medicaid or the Children’s Health
+21 Insurance Program, as applicable, at the time the care was
+22 provided.
+23 3. If the Department has approved a request for prior
+24 authorization, the Department shall not deny or refuse to promptly
+25 pay a claim for the approved medical or dental care unless the
+26 Department determines that the recipient or provider of health
+27 care procured the prior authorization by fraud or material
+28 misrepresentation. The claim must be paid at the same rate that
+29 the Department is contractually obligated to or would ordinarily
+30 pay a provider of health care for providing the specific type of care
+31 that was approved and provided to the recipient.
+32 4. Within the first 90 days that a recipient is enrolled in
+33 Medicaid or the Children’s Health Insurance Program, as
+34 applicable, the Department shall honor a request for prior
+35 authorization that has been approved by a health carrier or other
+36 entity that previously provided the recipient with coverage for
+37 medical or dental care if:
+38 (a) The approval was issued within the 12 months immediately
+39 preceding the first day of the enrollment of the recipient; and
+40 (b) The specific medical or dental care included within the
+41 request is not affirmatively excluded under the terms and
+42 conditions of Medicaid or the Children’s Health Insurance
+43 Program, as applicable.
+-
+*AB470*
+– 19 –
+1 5. As used in this section, “health carrier” has the meaning
+2 ascribed to it in NRS 695G.024 and includes, without limitation,
+3 an organization for dental care.
+4 Sec. 31. 1. The Department, with respect to Medicaid and
+5 the Children’s Health Insurance Program, shall not require prior
+6 authorization for covered emergency services, including, without
+7 limitation, where applicable, transportation by ambulance to a
+8 hospital or other medical facility.
+9 2. If the Department requires a recipient or his or her
+10 provider of health care to notify the Department that the recipient
+11 has been admitted to a hospital to receive emergency services or
+12 has received emergency services, the Department shall not require
+13 a recipient or a provider of health care to transmit such a notice
+14 earlier than the end of the business day immediately following the
+15 day after the date on which the recipient was admitted or the
+16 emergency services were provided, as applicable.
+17 3. The Department shall not deny coverage for emergency
+18 services covered by Medicaid or the Children’s Health Insurance
+19 Program that are medically necessary. Emergency services are
+20 presumed to be medically necessary if, within 72 hours after a
+21 recipient is admitted to receive emergency services, the recipient’s
+22 provider of health care transmits to the Department a certification,
+23 in writing, that the condition of the recipient required emergency
+24 services. The Department may rebut that presumption by
+25 establishing, by clear and convincing evidence, that the emergency
+26 services were not medically necessary.
+27 4. For emergency services which require immediate post
+28 evaluation or post stabilization services, the Department shall
+29 approve or make an adverse determination on any request for
+30 prior authorization for the post evaluation or post stabilization
+31 services submitted by or on behalf of the insured within 1 hour of
+32 the time the Department receives the request.
+33 5. As used in this section, “emergency services” has the
+34 meaning ascribed to it in section 12 of this act.
+35 Sec. 32. 1. If the Department violates sections 27 to 31,
+36 inclusive, of this act with respect to a particular request for prior
+37 authorization, the request shall be deemed approved.
+38 2. Nothing in sections 27 to 31, inclusive, of this act shall be
+39 construed to require the Department to provide coverage:
+40 (a) For medical or dental care that, regardless of whether such
+41 care is medically necessary, would not be a covered benefit under
+42 the terms and conditions of Medicaid or the Children’s Health
+43 Insurance Program, as applicable; or
+44 (b) To a person who is not a recipient or is not otherwise
+45 eligible to receive coverage under Medicaid or the Children’s
+-
+*AB470*
+– 20 –
+1 Health Insurance Program, as applicable, on the date on which
+2 medical or dental care is provided to the person.
+3 Sec. 33. 1. On or before March 1 of each calendar year, the
+4 Department shall publish on an Internet website maintained by
+5 the Department in an easily accessible format the following
+6 information for the immediately preceding calendar year, in
+7 aggregated form for all requests for prior authorization received
+8 by the insurer during the immediately preceding year and
+9 disaggregated in accordance with subsection 2:
+10 (a) The percentage of requests for prior authorization for
+11 medical or dental care that were approved upon initial review;
+12 (b) The percentage of requests for prior authorization for
+13 medical or dental care that resulted in an adverse determination
+14 upon initial review;
+15 (c) The percentage of the adverse determinations described in
+16 paragraph (b) that were appealed;
+17 (d) The percentage of appeals of adverse determinations
+18 described in paragraph (c) that resulted in a reversal of the
+19 adverse determination;
+20 (e) The five most common reasons for the adverse
+21 determinations described in paragraph (b); and
+22 (f) The average time between a request for prior authorization
+23 for medical or dental care in this State and the resolution of the
+24 request.
+25 2. The information described in subsection 1 must be
+26 disaggregated for the following categories:
+27 (a) The specialty of the provider of health care who submitted
+28 a request for prior authorization; and
+29 (b) The types of health or dental care at issue in the request for
+30 prior authorization, including, without limitation, the specific
+31 types of prescription drugs, procedures or diagnostic tests involved
+32 in the requests.
+33 3. The Department shall not include individually identifiable
+34 health information in the information published pursuant to
+35 subsection 1.
+36 4. As used in this section, “individually identifiable health
+37 information” means information relating to the provision of
+38 health care to an insured:
+39 (a) That specifically identifies the insured; or
+40 (b) For which there is a reasonable basis to believe that the
+41 information can be used to identify the insured.
+42 Sec. 34. NRS 422.403 is hereby amended to read as follows:
+43 422.403 1. The Department shall, by regulation, establish and
+44 manage the use by the Medicaid program of step therapy and prior
+45 authorization for prescription drugs.
+-
+*AB470*
+– 21 –
+1 2. The Drug Use Review Board shall:
+2 (a) Advise the Department concerning the use by the Medicaid
+3 program of step therapy and prior authorization for prescription
+4 drugs;
+5 (b) Develop step therapy protocols and prior authorization
+6 policies and procedures that comply with the provisions of sections
+7 22 to 33, inclusive, of this act for use by the Medicaid program for
+8 prescription drugs; and
+9 (c) Review and approve, based on clinical evidence and best
+10 clinical practice guidelines and without consideration of the cost of
+11 the prescription drugs being considered, step therapy protocols used
+12 by the Medicaid program for prescription drugs.
+13 3. The step therapy protocol established pursuant to this section
+14 must not apply to a drug approved by the Food and Drug
+15 Administration that is prescribed to treat a psychiatric condition of a
+16 recipient of Medicaid, if:
+17 (a) The drug has been approved by the Food and Drug
+18 Administration with indications for the psychiatric condition of the
+19 insured or the use of the drug to treat that psychiatric condition is
+20 otherwise supported by medical or scientific evidence;
+21 (b) The drug is prescribed by:
+22 (1) A psychiatrist;
+23 (2) A physician assistant under the supervision of a
+24 psychiatrist;
+25 (3) An advanced practice registered nurse who has the
+26 psychiatric training and experience prescribed by the State Board of
+27 Nursing pursuant to NRS 632.120; or
+28 (4) A primary care provider that is providing care to an
+29 insured in consultation with a practitioner listed in subparagraph (1),
+30 (2) or (3), if the closest practitioner listed in subparagraph (1), (2) or
+31 (3) who participates in Medicaid is located 60 miles or more from
+32 the residence of the recipient; and
+33 (c) The practitioner listed in paragraph (b) who prescribed the
+34 drug knows, based on the medical history of the recipient, or
+35 reasonably expects each alternative drug that is required to be used
+36 earlier in the step therapy protocol to be ineffective at treating the
+37 psychiatric condition.
+38 4. The Department shall not require the Drug Use Review
+39 Board to develop, review or approve prior authorization policies or
+40 procedures necessary for the operation of the list of preferred
+41 prescription drugs developed pursuant to NRS 422.4025.
+42 5. The Department shall accept recommendations from the
+43 Drug Use Review Board as the basis for developing or revising step
+44 therapy protocols and prior authorization policies and procedures
+45 used by the Medicaid program for prescription drugs.
+-
+*AB470*
+– 22 –
+1 6. As used in this section:
+2 (a) “Medical or scientific evidence” has the meaning ascribed to
+3 it in NRS 695G.053.
+4 (b) “Step therapy protocol” means a procedure that requires a
+5 recipient of Medicaid to use a prescription drug or sequence of
+6 prescription drugs other than a drug that a practitioner recommends
+7 for treatment of a psychiatric condition of the recipient before
+8 Medicaid provides coverage for the recommended drug.
+9 Sec. 35. NRS 608.1555 is hereby amended to read as follows:
+10 608.1555 Any employer who provides benefits for health care
+11 to his or her employees shall provide the same benefits and pay
+12 providers of health care in the same manner as a policy of insurance
+13 pursuant to chapters 689A and 689B of NRS, including, without
+14 limitation, as required by paragraphs (b) and (c) of subsection 2 of
+15 NRS 687B.225, subsections 1, 3, 5, 6 and 7 of NRS 687B.225,
+16 NRS 687B.409, 687B.723 and 687B.725 [.] and sections 2 to 14,
+17 inclusive, of this act.
+18 Sec. 36. 1. The amendatory provisions of this act do not
+19 apply to a request for prior authorization submitted:
+20 (a) Under a contract or policy of health insurance issued before
+21 October 1, 2025, but apply to any request for prior authorization
+22 submitted under any renewal of such a contract or policy.
+23 (b) To the Department of Health and Human Services before
+24 October 1, 2025, for medical or dental care provided to a recipient
+25 of Medicaid.
+26 2. A health carrier must, in order to continue requiring prior
+27 authorization in contracts or policies of health insurance issued or
+28 renewed after October 1, 2025:
+29 (a) Develop a procedure for obtaining prior authorization that
+30 complies with NRS 687B.225, as amended by section 15 of this act,
+31 and sections 2 to 14, inclusive, of this act; and
+32 (b) Obtain the approval of the Commissioner of Insurance
+33 pursuant to NRS 687B.225, as amended by section 15 of this act, for
+34 the procedure developed pursuant to paragraph (a).
+35 3. As used in this section, “health carrier” has the meaning
+36 ascribed to it in section 4 of this act.
+37 Sec. 37. The provisions of NRS 354.599 do not apply to any
+38 additional expenses of a local government that are related to the
+39 provisions of this act.
+40 Sec. 38. 1. This section and section 36 of this act become
+41 effective upon passage and approval.
+42 2. Sections 1 to 35, inclusive, and 37 of this act become
+43 effective:
+44 (a) Upon passage and approval for the purpose of adopting any
+45 regulations and performing any other preparatory administrative
+-
+*AB470*
+– 23 –
+1 tasks that are necessary to carry out the provisions of this act and
+2 approving procedures for obtaining prior authorization pursuant to
+3 NRS 687B.225, as amended by section 15 of this act, and section 36
+4 of this act; and
+5 (b) On October 1, 2025, for all other purposes.
+H
+-
+*AB470*
+[DELETED: BN.4AK I O S A1,2  EE  NRALG) E F O O A r t i i r g s o d c f c n e s r aE a i m r c f h a d c i c t ( f i p f o p a w tS s 1 a 2 o t b r t a p f w t i r p a a ( t c r 2 a r a i t p i p f o p o i I w a u t w a n t]
+[DELETED: – o p a i t i p f o pS f p a b r a i t a o m a i u S 1 a 2 o t b r a i i c t a t p o h c w r t p i u m a a d o a r f pSS 1 a 3 o t b p a i f r p a i f d c f c m nSS o t b r a n h a m o d s t c w s 2 S 1 o t b r t o t D o H a H S t a t f e o l g t B]
+[DELETED: – s t r o M o t C H I 3 o t b r t p a p f c fS 1  CS 2  A u i N 6 a s 2 t 1 o t a u t c o r tS 3  “ c a a o c c t r c o s o p f t c oS 4  “ c h t m a t i i1  A o f d c a d i N2  A u r o a d iS 5  “S 6  “S 7  “ w a u c w a h c t pS 8  “ p m a c o p oS 9  “]
+[DELETED: –S 1  1  I a h c i c m a( I n t p o h c w( O o b v t d t c i2  U i t w t r p a w n t( A( A f t i o a p o h c o t s d c t t a( A s t t i h t r t a tS 1  1  I t a r v i f a( U 1 m a t d o w t r i( I c f t l o t t a f a t o t s t a f t s2  A( T( T h c p t a b f o m]
+[DELETED: –( T3  A h c t h a a r f p a m o d c u t h c p a b f o m m c f p t s t o c t w4  W t f 9 d o t c p f a a h c s h a r f p t p p t i w c f( T( T s m o d c i w t i n a e u t t a o t c o p o i i b t5  A u i t s “ p m t t o a c o p o i i b aS 1  1  A h c s n r p f e s c b t h i w l w a b a t a h o o m2  I a h c r a i o h o h r e s t h c s n e t t e o t b d i3  A h c s n d c f e s a p t b m n i t i p o h c t t t]
+[DELETED: – p b e b c a c t t e s w n m4  A s a m n w r t5  F e s w r i p o p s s a h c s o m a a d o a r f a f t p e o p s6  A s t a p b a p o h c t a t s a i a t s o o a c t m i b s o s s t a p p w b t t( S( S( S( S d o a b o o p o tS 1  1  I a h c v N 6 o2  N s b c t r a h c t p( F( T( TS 1  1  O]
+[DELETED: – h c i a e a f t f f t i p c y i t i d t i p y a( T p o r f p a f( T p o r f p a f o d c t S t i a a( T( T p o a o a d i p ( t r i a r o t( T f m c r f t a( T2  T i d i s 1 m b( T( T a i w l t s3  A i i t i p p t4  A u i t s “ i h m i r t t p o( T( FS 1  N6  1  E a o p i N 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6]
+[DELETED: – 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 c b a n h m o d s o o f d c i b a h c m r t i [ m t o p f t c f t [ o o T2  A( F i p f o [ o c p p t t s , i w( U a s t p i p b a s o m a a d o a r f p o h c o t a o a ( F m o d c t i n u h ( F( I ( N t r w t a a o t ( I w t n s p t]
+[DELETED: – t t h c r t m a ( A o m a a d o t  ( F  ( F u h c w 2 h a[ 3  T p f p a m n4  I a h c s t a i p f p a i w l t g a s f w t h c p a o c t c r( M( M ( T C n h c t t ( T h c s t r o5  A c t a h c p f o( T h c t a n t c a( T( A ( T d o w t h c t t ( T d o w t h c u t p o i I w p t6  A a i w l t c( U]
+[DELETED: –( I a p t i r a a c t7  A8  A( “ r c m a w s d a c p o p( “ s h t m a t i i( “ ( M  ( S  ( S t i t s p t c b ( DS 1  N6  1  N a 3 o N 6 N 6 t 6 c 6 o N N 6 t 6 6 t 6 i 6 t 6 t 6 i 6 6 6 t 6 i a 2 t 1 i o t a 6 6 t 6 6 6 a 6 o N t t e a n i c w t e p o t2  FS 1  N2  1  T]
+[DELETED: –( S a w t c o t G o t d o t D w a ( T ( T A o t D o W a ( T ( T A o t D o H C ( T A o t D o P a( S a t d p o c 6 4 4 4 4 t 4 4 t 4 i 4 a 6 o N N 2 t 3 i o t a 4 4 t i 4 4 i a( S a a s p f p w d e p t t D A a B o R A o( S a c a f a o l a n o w p s o t p t t G a t L a t ( I a a t p a p o t f t p o h s a a ( S ( P a n o a o l ( I]
+[DELETED: – ( S ( C a o i n f t t c e w t F c d t f f t( M p o t o a a e( H2  NS 1  N2  1  T g b o a c s m c p s p o o l g a o t S o( A a e a t d o o a w e t a t i a w w t c f t p o p o t( P a c t f t b o s o a t p u i a p t d( P g l a o h c t a r f a w n d o o a e a c o t]
+[DELETED: – a i a m b a b t o I a t t r o c i r t c c a p T p o N 4 t 4 6 p ( a ( o s 2 o 6 s 1 3 5 6 a 7 o N 6 6 6 6 6 6 t 6 i p ( a ( o 6 t 6 i 6 t i 6 6 6 a a s 2 t 1 i o t a a t p p t t p e t t o N 6 6 a 6 o t c f a o a e o t( D p o a o t c o m o a s m b b f i a w t l t c s d m c2  I3  I g b o t c o o a s d c p p o l g a o t S o N i t m e i a c w t l s a e f a l a o h i m c p s p]
+[DELETED: –4  I a c i e i p t s 3 t( S a e o t c s d m( M b r b t c t p t p o5  A( M b s t t C o I f( D n b e u a b t( S6  AS 1  N 2 i h a t r a2  I t B p h i t a 6 6 6 6 6 6 6 6 6 6 6 6 t 6S 2  C 4 o N i h a b aS 2  1  T t d o s t r o M o t]
+[DELETED: –2  A H I P s c w NS 2  A s 2 t 2 i o t a h t mS 2  “ m t D r f m n t r c o s o p f t c oS 2  “S 2  “S 2  “ m a n p w r t M o t C H IS 2  1  T( A l o t s g a s f w t( A d o t c r c u b t2  T p a e b t D c o a I w m b t( U( I a p t i r a a c t3  I t D a t p f o]
+[DELETED: –( T a n c a s o c t t p t e r a e p o o s u M o t C H( U t i p i w t s 2 t r t a p f4  A c t t D p f o( T( T d o w t D u t p o i I w p t5  T D s n d a c b o t c i t p f o p a b t D p t t s d n d c o t d t t m o d c w6  A u i t s “ r c m w s p d a c o p g u b t D tS 2  1  U D w r t M a t C I P s a o m a a( F( F]
+[DELETED: –2  I( N t r a t p o h c w t r w t a a o t( I t D r t m a d o t( A ( F m o d c t i n u h ( F3  A u i t s “ h c h tS 2  1  I t D i c m a( I n t p o h c w( O o b v t d t c i2  U( A( A d o t D r s d c t t a( A]
+[DELETED: –S 3  1  I t a r v i f a( U 1 m a t d o w t r i( I c f t l o t t a f a t o t s t a f t s2  T( T w 4 b d a t d o w t( T h c p t a b f o m( T D d t t c a i i t w n c b M o t C H P a a a t t t c w3  I t D h a a r f p d t t r o p o h p t p a b f o m4  W t f 9 d t a r i e i o t C H I P a t D s h a r f p t p p t r w c f( T( T s m o d c i w t i n a e u t t a o M o t C H I]
+[DELETED: –5  AS 3  1  T w a t b a t a2  I t D r a r o h o h a t d o w t r w a o t3  T D s n d c f e t a m n E s a t b m n i w 7 h a a T D m r t p b4  F e s w r i p o p s s t D s o m a a d o a r f a f t p e o p s5  A u i t s “ s h tS 3  1  I t D v s 2 t 32  N( F t a c o M o t C H( T a p w i n a r o i n o t r c u M o t C]
+[DELETED: –S 3  1  O s p o a I w b D i a e a f t f f t i p c y i t i d t i p y a( T p o r f p a f( T p o r f p a f( T( T p o a o a d i p ( t r i a r o t( T f m c r f t a( T2  T i d i s 1 m b( T( T a i w l t s3  T i i t i p p t4  A u i t s “ i h m i r t t p o( T( FS 3  N4  1  T]
+[DELETED: –2  T( A o s t a p a f p( D s t p a p a( R a a b o c e a b3  T n a t a d a b t F a D( T d h b a b t F a D( T ( A ( A p a u t s o a ( A a p r n w h t ( A p c p t i p c t a( T k b o t m h o t r o4  T D s n r t D U R n f t o o t l o p5  T D s a r f t p a p a p a p]
+[DELETED: –6  A( “( “ o M t u a p d o s o t o a p c o t r bS 3  N6  A h o h e s p t s b a p t c 6 a 6 o N i w 6 s 1 3 5 6 a 7 o N 6S 3  1  T a p o t a d n( U 1 2 b a t a f a( T t D o H a H S b2  A( D a p f o p a t( O t a o t C o I3  A u i t s “ c h t mS 3  T e o a l g t a r t tS 3  1  T s a s 3 o t a b2  S 1 t 3 i a 3 o t a b( U a p a o p a]
+[DELETED: –( O]
+
+
+================================================================================
+
+Raw Text:
+A.B. 470
+ASSEMBLY BILL NO. 470–ASSEMBLYMEMBER KASAMA
+MARCH 17, 2025
+____________
+Referred to Committee on Commerce and Labor
+SUMMARY—Revises provisions relating to prior authorization for
+medical or dental care under health insurance plans.
+(BDR 57-883)
+FISCAL NOTE: Effect on Local Government: May have Fiscal Impact.
+Effect on the State: Yes.
+CONTAINS UNFUNDED MANDATE (§ 18)
+(NOT REQUESTED BY AFFECTED LOCAL GOVERNMENT)
+~
+EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+AN ACT relating to insurance; imposing requirements governing
+prior authorization for medical or dental care; prohibiting
+an insurer from requiring prior authorization for covered
+emergency services or denying coverage for covered,
+medically necessary emergency services; requiring an
+insurer to publish certain information relating to requests
+for prior authorization on the Internet; and providing other
+matters properly relating thereto.
+Legislative Counsel’s Digest:
+1 Existing law authorizes certain health insurers to require prior authorization
+2 before an insured may receive coverage for health and dental care in certain
+3 circumstances. If an insurer requires prior authorization, existing law requires the
+4 insurer to: (1) file its procedure for obtaining prior authorization with the
+5 Commissioner of Insurance for approval; and (2) respond to a request for prior
+6 authorization within 20 days after receiving the request. (NRS 687B.225) This bill
+7 establishes additional requirements relating to the use of prior authorization for
+8 health and dental care by health insurers, including Medicaid, the Children’s Health
+9 Insurance Program, insurance for public employees and certain entities designated
+10 by health insurers to perform utilization reviews.
+11 Specifically, sections 15 and 27 of this bill require that a procedure for
+12 obtaining prior authorization includes: (1) a list of the specific goods and services
+13 for which the insurer requires prior authorization; and (2) the clinical review
+14 criteria used by the insurer to evaluate requests for prior authorization. Sections 15
+15 and 27 also require an insurer to publish its procedure for obtaining prior
+16 authorization on its Internet website and update that website as necessary to
+-
+*AB470*
+
+– 2 –
+17 account for any changes in the procedure. Sections 15 and 27 prohibit an insurer
+18 from denying a claim for payment for medical or dental care because of the failure
+19 to obtain prior authorization if the insurer’s procedures for obtaining prior
+20 authorization in effect on the date that the care was provided did not require prior
+21 authorization for that care.
+22 Sections 15 and 28 of this bill revise the period for insurers to take action on a
+23 request for prior authorization by requiring an insurer to approve or make an
+24 adverse determination on such a request, or request additional, medically relevant
+25 information: (1) within 48 hours after receiving the request, for medical or dental
+26 care that is not urgent; or (2) within 24 hours after receiving the request, for care
+27 that is urgent. Sections 10 and 29 of this bill require an insurer, in certain
+28 circumstances, to allow the provider of health care who requested the prior
+29 authorization to discuss the issues involved in the request with a person who is
+30 responsible for making a determination on the request. Sections 10 and 29 require
+31 an insurer, upon making an adverse determination on a request for prior
+32 authorization, to transmit certain information to the insured to whom the request
+33 pertains, including information relating to the right of the insured to appeal the
+34 adverse determination.
+35 Sections 11 and 30 of this bill: (1) provide that a request for prior authorization
+36 that has been approved by the insurer remains valid for 12 months; and (2) require
+37 an insurer, for the first 90 days of the coverage period for a new insured, to honor a
+38 request for prior authorization that has been approved by the previous insurer of the
+39 new insured, under certain circumstances. Sections 11 and 30 prohibit an insurer
+40 from denying or imposing additional limits on a request for prior authorization that
+41 the insurer has previously approved if the care at issue in the request is provided
+42 within 45 business days after the date on which the insurer receives the request and
+43 certain other requirements are met.
+44 Sections 12 and 33 of this bill prohibit an insurer from requiring prior
+45 authorization for covered emergency services. Sections 12 and 33 also prohibit an
+46 insurer from requiring that an insured or provider of health care notify the insurer
+47 earlier than the end of the business day following the date of admission or the date
+48 on which the emergency services are provided. Finally, sections 12 and 33: (1)
+49 prohibit an insurer from denying coverage for covered medically necessary
+50 emergency services; and (2) establish a presumption of medical necessity under
+51 certain conditions.
+52 Sections 3-9 and 23-26 of this bill define certain terms relating to the process
+53 of obtaining and processing requests for prior authorization, and sections 2 and 22
+54 of this bill establish the applicability of those definitions. Sections 13 and 32 of
+55 this bill provide that if an insurer violates any provision of section 10-12, 15 or 27-
+56 31 of this bill with respect to a particular request for prior authorization, that the
+57 request is deemed approved. Sections 13 and 32 also clarify that nothing in the
+58 provisions of section 10-12, 15 or 27-31 require an insurer to provide coverage: (1)
+59 for care that the insurer does not cover, regardless of the medical necessity of the
+60 care; or (2) to persons to whom the insured is not obligated to provide coverage.
+61 Sections 14 and 33 of this bill require an insurer to annually publish on its
+62 Internet website certain information relating to requests for prior authorization that
+63 have been processed by the insurer during the immediately preceding year. Section
+64 16 of this bill requires a nonprofit hospital and medical or dental service
+65 corporation to comply with sections 2-14. Section 17 of this bill requires the
+66 Director of the Department of Health and Human Services to administer the
+67 provisions of sections 21-33 of this bill in the same manner as other provisions
+68 governing Medicaid. Sections 18, 19 and 35 of this bill require plans of self-
+69 insurance for employees of local governments, the Public Employees’ Benefits
+70 Program and plans of self-insurance for private employers, respectively, to comply
+71 with the requirements of sections 2-15 to the extent applicable. Section 21 provides
+-
+*AB470*
+
+– 3 –
+72 that a health maintenance organization or another managed care organization that
+73 provides services to recipients of Medicaid or the Children’s Health Insurance
+74 Program is not subject to sections 22-33, but must comply with sections 2-15.
+75 Section 34 of this bill requires the policies and procedures for coverage for
+76 prescription drugs under Medicaid to comply with sections 22-33.
+THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN
+SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:
+1 Section 1. Chapter 687B of NRS is hereby amended by adding
+2 thereto the provisions set forth as sections 2 to 14, inclusive, of this
+3 act.
+4 Sec. 2. As used in NRS 687B.225 and sections 2 to 14,
+5 inclusive, of this act, unless the context otherwise requires, the
+6 words and terms defined in sections 3 to 9, inclusive, of this act
+7 have the meanings ascribed to them in those sections.
+8 Sec. 3. “Adverse determination” means a determination by a
+9 health carrier that an admission, availability of care, continued
+10 stay or other medical care or dental care that is a covered benefit
+11 has been reviewed and, based upon the information provided, does
+12 not meet the health carrier’s requirements for medical necessity,
+13 appropriateness, health care setting, level of care or effectiveness,
+14 and the requested care or service or payment for the care or
+15 service is therefore denied, reduced or terminated.
+16 Sec. 4. “Health carrier” has the meaning ascribed to it in
+17 NRS 695G.024, and includes, without limitation:
+18 1. An organization for dental care, as defined in NRS
+19 695D.060; and
+20 2. A utilization review organization, as defined in
+21 NRS 695G.085.
+22 Sec. 5. “Insured” means a policyholder, subscriber, enrollee
+23 or other person covered by a health carrier.
+24 Sec. 6. “Medically necessary” has the meaning ascribed to it
+25 in NRS 695G.055.
+26 Sec. 7. “Network” means a defined set of providers of health
+27 care who are under contract with a health carrier to provide
+28 health care services pursuant to a network plan offered or issued
+29 by the health carrier.
+30 Sec. 8. “Network plan” means a contract or policy of
+31 insurance offered by a health carrier under which the financing
+32 and delivery of medical or dental care is provided, in whole or in
+33 part, through a defined set of providers under contract with the
+34 health carrier.
+35 Sec. 9. “Provider of health care” has the meaning ascribed
+36 to it in NRS 695G.070.
+-
+*AB470*
+
+– 4 –
+1 Sec. 10. 1. If a health carrier is considering making an
+2 adverse determination on a request for prior authorization on the
+3 basis that the medical or dental care involved in the request is not
+4 medically necessary, the health carrier that received the request
+5 shall:
+6 (a) Immediately notify the provider of health care who
+7 submitted the request that the medical necessity of the requested
+8 care is being questioned by the health carrier; and
+9 (b) Offer the provider of health care an opportunity to speak
+10 with a person responsible for making the determination over the
+11 telephone or by videoconference to discuss the clinical issues
+12 involved in the request before the health carrier renders an initial
+13 determination on the request.
+14 2. Upon rendering an adverse determination on a request for
+15 prior authorization, a health carrier shall immediately transmit to
+16 the insured to whom the request pertains a written notice that
+17 contains:
+18 (a) A specific description of all reasons that the health carrier
+19 made the adverse determination;
+20 (b) A description of any documentation that the health carrier
+21 requested from the insured or a provider of health care of the
+22 insured and did not receive or deemed insufficient, if the failure to
+23 receive sufficient documentation contributed to the adverse
+24 determination; and
+25 (c) A statement that the insured has the right to appeal the
+26 adverse determination.
+27 Sec. 11. 1. If a health carrier approves a request for prior
+28 authorization, the approval remains valid, including for any
+29 changes in the dosage of a medication:
+30 (a) Until 12 months after the date on which the request is
+31 approved; or
+32 (b) If the approval is for the treatment of a chronic or long
+33 term condition, for the length of the treatment and for any
+34 subsequent treatments of the same type and for the same
+35 condition.
+36 2. A health carrier shall not revoke or impose an additional
+37 limit, condition or restriction on a request for prior authorization
+38 that the health carrier has previously approved unless:
+39 (a) The care at issue in the request was not provided to the
+40 insured within 45 business days after the date on which the health
+41 carrier received the request;
+42 (b) The health carrier determines that an insured or a provider
+43 of health care procured the approval by fraud or material
+44 misrepresentation; or
+-
+*AB470*
+
+– 5 –
+1 (c) The health carrier determines that the care at issue in the
+2 request was not covered by the health carrier at the time the care
+3 was provided.
+4 3. A health carrier that has approved a request for prior
+5 authorization shall not deny or refuse to promptly pay a claim for
+6 the approved medical or dental care unless the health carrier
+7 determines that the insured or provider of health care procured
+8 the prior authorization by fraud or material misrepresentation.
+9 The claim must be paid at the same rate that the health carrier is
+10 contractually obligated to or would ordinarily pay a provider of
+11 health care for providing the specific type of care that was
+12 approved and provided to the insured.
+13 4. Within the first 90 days of the coverage period for an
+14 insured, a health carrier shall honor a request for prior
+15 authorization that has been approved by a health carrier or other
+16 entity that previously provided the insured with coverage for
+17 medical or dental care if:
+18 (a) The approval was issued within the 12 months immediately
+19 preceding the first day of the coverage period under the current
+20 contract or policy of insurance; and
+21 (b) The specific medical or dental care included within the
+22 request is not affirmatively excluded under the terms and
+23 conditions of the contract or policy of insurance issued by the
+24 health carrier.
+25 5. As used in this section, “coverage period” means the
+26 current term of a contract or policy of insurance issued by a
+27 health carrier.
+28 Sec. 12. 1. A health carrier shall not require prior
+29 authorization for emergency services covered by the health
+30 carrier, including, without limitation, where applicable,
+31 transportation by ambulance to a hospital or other medical
+32 facility.
+33 2. If a health carrier requires an insured or his or her
+34 provider of health care to notify the health carrier that the insured
+35 has been admitted to a hospital to receive emergency services or
+36 has received emergency services, the health carrier shall not
+37 require an insured or a provider of health care to transmit such a
+38 notice earlier than the end of the business day immediately
+39 following the day after the date on which the insured was admitted
+40 or the emergency services were provided, as applicable.
+41 3. A health carrier shall not deny coverage for emergency
+42 services covered by the health carrier that are medically necessary.
+43 Emergency services are presumed to be medically necessary if,
+44 within 72 hours after an insured is admitted to receive emergency
+45 services, the insured’s provider of health care transmits to the
+-
+*AB470*
+
+– 6 –
+1 health carrier a certification, in writing, that the condition of the
+2 insured required emergency services. The health carrier may rebut
+3 that presumption by establishing, by clear and convincing
+4 evidence, that the emergency services were not medically
+5 necessary.
+6 4. A health carrier shall make all determinations for whether
+7 emergency services are medically necessary without regard to
+8 whether a provider of health care that provided or billed for those
+9 services participates in the network of the health carrier.
+10 5. For emergency services which require immediate post
+11 evaluation or post stabilization services, a health carrier shall
+12 approve or make an adverse determination on any request for
+13 prior authorization for the post evaluation or post stabilization
+14 services submitted by or on behalf of the insured within 1 hour of
+15 the time the health carrier receives the request.
+16 6. As used in this section, “emergency services” means health
+17 care services that are provided by a provider of health care to
+18 screen and to stabilize an insured after the sudden onset of a
+19 medical condition that manifests itself by symptoms of such
+20 sufficient severity that a prudent person would believe that the
+21 absence of immediate medical attention could result in:
+22 (a) Serious jeopardy to the health of the insured;
+23 (b) Serious jeopardy to the health of an unborn child of the
+24 insured;
+25 (c) Serious impairment of a bodily function of the insured; or
+26 (d) Serious dysfunction of any bodily organ or part of the
+27 insured.
+28 Sec. 13. 1. If a health carrier violates NRS 687B.225 or
+29 section 10, 11 or 12 of this act with respect to a particular request
+30 for prior authorization, the request shall be deemed approved.
+31 2. Nothing in NRS 687B.225 or section 10, 11 or 12 of this
+32 act shall be construed to require a health carrier to provide
+33 coverage:
+34 (a) For medical or dental care that, regardless of whether such
+35 care is medically necessary, would not be a covered benefit under
+36 the terms and conditions of the contract or policy of insurance;
+37 (b) To a person who is not insured by the health carrier on the
+38 date on which medical or dental care is provided to the person; or
+39 (c) To an insured who, as a result of his or her failure to pay
+40 the applicable premiums required under the terms and conditions
+41 of a contract or policy of insurance, has no coverage under the
+42 contract or policy on the date on which medical or dental care is
+43 provided to the insured.
+44 Sec. 14. 1. On or before March 1 of each calendar year, a
+45 health carrier shall publish on an Internet website maintained by
+-
+*AB470*
+
+– 7 –
+1 the health carrier in an easily accessible format the following
+2 information for the immediately preceding calendar year, in
+3 aggregated form for all requests for prior authorization received
+4 by the insurer during the immediately preceding year and
+5 disaggregated in accordance with subsection 2:
+6 (a) The percentage of requests for prior authorization for
+7 medical or dental care in this State that were approved upon initial
+8 review;
+9 (b) The percentage of requests for prior authorization for
+10 medical or dental care in this State that resulted in an adverse
+11 determination upon initial review;
+12 (c) The percentage of the adverse determinations described in
+13 paragraph (b) that were appealed;
+14 (d) The percentage of appeals of adverse determinations
+15 described in paragraph (c) that resulted in a reversal of the
+16 adverse determination;
+17 (e) The five most common reasons for the adverse
+18 determinations described in paragraph (b); and
+19 (f) The average time between a request for prior authorization
+20 for medical or dental care in this State and the resolution of the
+21 request.
+22 2. The information described in subsection 1 must be
+23 disaggregated for the following categories:
+24 (a) The specialty of the provider of health care who submitted
+25 a request for prior authorization; and
+26 (b) The types of health or dental care at issue in the request for
+27 prior authorization, including, without limitation, the specific
+28 types of prescription drugs, procedures or diagnostic tests involved
+29 in the requests.
+30 3. A health carrier shall not include individually identifiable
+31 health information in the information published pursuant to
+32 subsection 1.
+33 4. As used in this section, “individually identifiable health
+34 information” means information relating to the provision of
+35 health care to an insured:
+36 (a) That specifically identifies the insured; or
+37 (b) For which there is a reasonable basis to believe that the
+38 information can be used to identify the insured.
+39 Sec. 15. NRS 687B.225 is hereby amended to read as follows:
+40 687B.225 1. Except as otherwise provided in NRS
+41 689A.0405, 689A.0412, 689A.0413, 689A.0418, 689A.0437,
+42 689A.044, 689A.0445, 689A.0459, 689B.031, 689B.0312,
+43 689B.0313, 689B.0315, 689B.0317, 689B.0319, 689B.0374,
+44 689B.0378, 689C.1665, 689C.1671, 689C.1675, 689C.1676,
+45 695A.1843, 695A.1856, 695A.1865, 695A.1874, 695B.1912,
+-
+*AB470*
+
+– 8 –
+1 695B.1913, 695B.1914, 695B.1919, 695B.19197, 695B.1924,
+2 695B.1925, 695B.1942, 695C.1696, 695C.1699, 695C.1713,
+3 695C.1735, 695C.1737, 695C.1743, 695C.1745, 695C.1751,
+4 695G.170, 695G.1705, 695G.171, 695G.1714, 695G.1715,
+5 695G.1719 and 695G.177, and section 12 of this act, any contract
+6 [for group, blanket or individual health] or policy of insurance [or
+7 any contract by a nonprofit hospital, medical or dental service
+8 corporation or organization for dental care] issued by a health
+9 carrier which provides for payment of a certain part of medical or
+10 dental care may require the insured [or member] to obtain prior
+11 authorization for that care from the [insurer or organization. The
+12 insurer or organization] health carrier in a manner consistent with
+13 this section and sections 2 to 14, inclusive, of this act.
+14 2. A health carrier that requires an insured to obtain prior
+15 authorization shall:
+16 (a) File its procedure for obtaining [approval of care] prior
+17 authorization pursuant to this section , including, without
+18 limitation, a list of the specific goods and services for which the
+19 health carrier requires prior authorization and the clinical review
+20 criteria used by the health carrier to evaluate requests for prior
+21 authorization, for approval by the Commissioner . [; and]
+22 (b) Unless a shorter time period is prescribed by a specific
+23 statute, including, without limitation, NRS 689A.0446, 689B.0361,
+24 689C.1688, 695A.1859, 695B.19087, 695C.16932 and 695G.1703,
+25 [respond to] and except as otherwise provided by paragraph (c),
+26 approve or make an adverse determination on any request for
+27 [approval by the insured or member] prior authorization submitted
+28 by or on behalf of the insured pursuant to this section [within 20
+29 days after it receives the request.] and notify the insured and his or
+30 her provider of health care of the approval or adverse
+31 determination:
+32 (1) For medical or dental care that is not urgent health
+33 care, within 48 hours after receiving the request.
+34 (2) For urgent health care, within 24 hours after receiving
+35 the request.
+36 (c) If the health carrier requires additional, medically relevant
+37 information or documentation in order to adequately evaluate a
+38 request for prior authorization:
+39 (1) Notify the insured and the provider of health care who
+40 submitted the request within the applicable amount of time
+41 described in paragraph (b) that additional information is required
+42 to evaluate the request;
+43 (2) Include within the notification sent pursuant to
+44 subparagraph (1) a description, with reasonable specificity, of the
+-
+*AB470*
+
+– 9 –
+1 information that the health carrier requires to make a
+2 determination on the request for prior authorization; and
+3 (3) Approve or make an adverse determination on the
+4 request:
+5 (I) For medical or dental care that is not urgent health
+6 care, within 48 hours after receiving the information.
+7 (II) For urgent health care, within 24 hours after
+8 receiving the information.
+9 [2.] 3. The procedure for prior authorization may not
+10 discriminate among persons licensed to provide the covered care.
+11 4. If a health carrier seeks to amend its procedure for
+12 obtaining prior authorization, including, without limitation,
+13 changing the goods and services for which the health carrier
+14 requires prior authorization or changing the clinical review
+15 criteria used by the health carrier, the health carrier:
+16 (a) Must file a request to amend the procedure for approval by
+17 the Commissioner.
+18 (b) May not allow the amended procedure to take effect until:
+19 (1) The Commissioner notifies the health carrier that the
+20 request is approved; and
+21 (2) The health carrier satisfies the requirements of
+22 subsection 5 after the health carrier receives a notice of approval
+23 from the Commissioner.
+24 5. A change to a health carrier’s procedure for obtaining
+25 prior authorization may not take effect until:
+26 (a) The health carrier transmits a notice that contains a
+27 summary of the changes to the procedure to each of its insureds
+28 and providers of health care who participate in the network of the
+29 health carrier;
+30 (b) The health carrier updates the information published on its
+31 Internet website pursuant to subsection 6 to reflect the amended
+32 procedure for obtaining prior authorization and the date on which
+33 the amended procedure takes effect; and
+34 (c) At least 60 days have passed after the later of:
+35 (1) The date on which the health carrier transmitted the
+36 notice to its insureds and providers of health care who participate
+37 in the network of the health carrier pursuant to paragraph (a); or
+38 (2) The date on which the health carrier updated the
+39 information published on its Internet website pursuant to
+40 paragraph (b).
+41 6. A health carrier shall publish its procedures for obtaining
+42 prior authorization, including, without limitation, the clinical
+43 review criteria, on its Internet website:
+44 (a) Using clear language that is understandable to an ordinary
+45 layperson, where practicable; and
+-
+*AB470*
+
+– 10 –
+1 (b) In a place that is readily accessible and conspicuous to
+2 insureds and the public.
+3 7. A health carrier shall not deny a claim based on the failure
+4 of an insured to obtain prior authorization for medical or dental
+5 care if the procedure for obtaining prior authorization established
+6 by the health carrier did not require the insured to obtain prior
+7 authorization for that medical or dental care on the date that the
+8 medical or dental care was provided to the insured.
+9 8. As used in this section:
+10 (a) “Clinical review criteria” means any written screening
+11 procedure, decision abstract, clinical protocol or practice
+12 guideline used by the health carrier to determine the necessity and
+13 appropriateness of medical or dental care.
+14 (b) “Emergency services” has the meaning ascribed to it in
+15 section 12 of this act.
+16 (c) “Urgent health care”:
+17 (1) Means health care that, in the opinion of a provider of
+18 health care with knowledge of an insured’s medical condition, if
+19 not rendered to the insured within 48 hours could:
+20 (I) Seriously jeopardize the life or health of the insured
+21 or the ability of the insured to regain maximum function; or
+22 (II) Subject the insured to severe pain that cannot be
+23 adequately managed without receiving such care.
+24 (2) Does not include emergency services.
+25 Sec. 16. NRS 695B.320 is hereby amended to read as follows:
+26 695B.320 1. Nonprofit hospital and medical or dental service
+27 corporations are subject to the provisions of this chapter, and to the
+28 provisions of chapters 679A and 679B of NRS, subsections 2, 4, 17,
+29 18 and 30 of NRS 680B.010, NRS 680B.025 to 680B.060,
+30 inclusive, chapter 681B of NRS, NRS 686A.010 to 686A.315,
+31 inclusive, 686B.010 to 686B.175, inclusive, 687B.010 to
+32 687B.040, inclusive, 687B.070 to 687B.140, inclusive, 687B.150,
+33 687B.160, 687B.180, 687B.200 to 687B.255, inclusive, and
+34 sections 2 to 14, inclusive, of this act, 687B.270, 687B.310 to
+35 687B.380, inclusive, 687B.410, 687B.420, 687B.430, 687B.500 and
+36 chapters 692B, 692C, 693A and 696B of NRS, to the extent
+37 applicable and not in conflict with the express provisions of this
+38 chapter.
+39 2. For the purposes of this section and the provisions set forth
+40 in subsection 1, a nonprofit hospital and medical or dental service
+41 corporation is included in the meaning of the term “insurer.”
+42 Sec. 17. NRS 232.320 is hereby amended to read as follows:
+43 232.320 1. The Director:
+-
+*AB470*
+
+– 11 –
+1 (a) Shall appoint, with the consent of the Governor,
+2 administrators of the divisions of the Department, who are
+3 respectively designated as follows:
+4 (1) The Administrator of the Aging and Disability Services
+5 Division;
+6 (2) The Administrator of the Division of Welfare and
+7 Supportive Services;
+8 (3) The Administrator of the Division of Child and Family
+9 Services;
+10 (4) The Administrator of the Division of Health Care
+11 Financing and Policy; and
+12 (5) The Administrator of the Division of Public and
+13 Behavioral Health.
+14 (b) Shall administer, through the divisions of the Department,
+15 the provisions of chapters 63, 424, 425, 427A, 432A to 442,
+16 inclusive, 446 to 450, inclusive, 458A and 656A of NRS, NRS
+17 127.220 to 127.310, inclusive, 422.001 to 422.410, inclusive, and
+18 sections 21 to 33, inclusive, of this act, 422.580, 432.010 to
+19 432.133, inclusive, 432B.6201 to 432B.626, inclusive, 444.002 to
+20 444.430, inclusive, and 445A.010 to 445A.055, inclusive, and all
+21 other provisions of law relating to the functions of the divisions of
+22 the Department, but is not responsible for the clinical activities of
+23 the Division of Public and Behavioral Health or the professional line
+24 activities of the other divisions.
+25 (c) Shall administer any state program for persons with
+26 developmental disabilities established pursuant to the
+27 Developmental Disabilities Assistance and Bill of Rights Act of
+28 2000, 42 U.S.C. §§ 15001 et seq.
+29 (d) Shall, after considering advice from agencies of local
+30 governments and nonprofit organizations which provide social
+31 services, adopt a master plan for the provision of human services in
+32 this State. The Director shall revise the plan biennially and deliver a
+33 copy of the plan to the Governor and the Legislature at the
+34 beginning of each regular session. The plan must:
+35 (1) Identify and assess the plans and programs of the
+36 Department for the provision of human services, and any
+37 duplication of those services by federal, state and local agencies;
+38 (2) Set forth priorities for the provision of those services;
+39 (3) Provide for communication and the coordination of those
+40 services among nonprofit organizations, agencies of local
+41 government, the State and the Federal Government;
+42 (4) Identify the sources of funding for services provided by
+43 the Department and the allocation of that funding;
+-
+*AB470*
+
+– 12 –
+1 (5) Set forth sufficient information to assist the Department
+2 in providing those services and in the planning and budgeting for the
+3 future provision of those services; and
+4 (6) Contain any other information necessary for the
+5 Department to communicate effectively with the Federal
+6 Government concerning demographic trends, formulas for the
+7 distribution of federal money and any need for the modification of
+8 programs administered by the Department.
+9 (e) May, by regulation, require nonprofit organizations and state
+10 and local governmental agencies to provide information regarding
+11 the programs of those organizations and agencies, excluding
+12 detailed information relating to their budgets and payrolls, which the
+13 Director deems necessary for the performance of the duties imposed
+14 upon him or her pursuant to this section.
+15 (f) Has such other powers and duties as are provided by law.
+16 2. Notwithstanding any other provision of law, the Director, or
+17 the Director’s designee, is responsible for appointing and removing
+18 subordinate officers and employees of the Department.
+19 Sec. 18. NRS 287.010 is hereby amended to read as follows:
+20 287.010 1. The governing body of any county, school
+21 district, municipal corporation, political subdivision, public
+22 corporation or other local governmental agency of the State of
+23 Nevada may:
+24 (a) Adopt and carry into effect a system of group life, accident
+25 or health insurance, or any combination thereof, for the benefit of its
+26 officers and employees, and the dependents of officers and
+27 employees who elect to accept the insurance and who, where
+28 necessary, have authorized the governing body to make deductions
+29 from their compensation for the payment of premiums on the
+30 insurance.
+31 (b) Purchase group policies of life, accident or health insurance,
+32 or any combination thereof, for the benefit of such officers and
+33 employees, and the dependents of such officers and employees, as
+34 have authorized the purchase, from insurance companies authorized
+35 to transact the business of such insurance in the State of Nevada,
+36 and, where necessary, deduct from the compensation of officers and
+37 employees the premiums upon insurance and pay the deductions
+38 upon the premiums.
+39 (c) Provide group life, accident or health coverage through a
+40 self-insurance reserve fund and, where necessary, deduct
+41 contributions to the maintenance of the fund from the compensation
+42 of officers and employees and pay the deductions into the fund. The
+43 money accumulated for this purpose through deductions from the
+44 compensation of officers and employees and contributions of the
+45 governing body must be maintained as an internal service fund as
+-
+*AB470*
+
+– 13 –
+1 defined by NRS 354.543. The money must be deposited in a state or
+2 national bank or credit union authorized to transact business in the
+3 State of Nevada. Any independent administrator of a fund created
+4 under this section is subject to the licensing requirements of chapter
+5 683A of NRS, and must be a resident of this State. Any contract
+6 with an independent administrator must be approved by the
+7 Commissioner of Insurance as to the reasonableness of
+8 administrative charges in relation to contributions collected and
+9 benefits provided. The provisions of NRS 439.581 to 439.597,
+10 inclusive, 686A.135, paragraphs (b) and (c) of subsection 2 of
+11 NRS 687B.225, subsections 1, 3, 5, 6 and 7 of NRS 687B.225,
+12 687B.352, 687B.408, 687B.692, 687B.723, 687B.725, 687B.805,
+13 689B.030 to 689B.0317, inclusive, paragraphs (b) and (c) of
+14 subsection 1 of NRS 689B.0319, subsections 2, 4, 6 and 7 of NRS
+15 689B.0319, 689B.033 to 689B.0369, inclusive, 689B.0375 to
+16 689B.050, inclusive, 689B.0675, 689B.265, 689B.287 and
+17 689B.500 and sections 2 to 14, inclusive, of this act apply to
+18 coverage provided pursuant to this paragraph, except that the
+19 provisions of NRS 689B.0378, 689B.03785 and 689B.500 only
+20 apply to coverage for active officers and employees of the
+21 governing body, or the dependents of such officers and employees.
+22 (d) Defray part or all of the cost of maintenance of a self-
+23 insurance fund or of the premiums upon insurance. The money for
+24 contributions must be budgeted for in accordance with the laws
+25 governing the county, school district, municipal corporation,
+26 political subdivision, public corporation or other local governmental
+27 agency of the State of Nevada.
+28 2. If a school district offers group insurance to its officers and
+29 employees pursuant to this section, members of the board of trustees
+30 of the school district must not be excluded from participating in the
+31 group insurance. If the amount of the deductions from compensation
+32 required to pay for the group insurance exceeds the compensation to
+33 which a trustee is entitled, the difference must be paid by the trustee.
+34 3. In any county in which a legal services organization exists,
+35 the governing body of the county, or of any school district,
+36 municipal corporation, political subdivision, public corporation or
+37 other local governmental agency of the State of Nevada in the
+38 county, may enter into a contract with the legal services
+39 organization pursuant to which the officers and employees of the
+40 legal services organization, and the dependents of those officers and
+41 employees, are eligible for any life, accident or health insurance
+42 provided pursuant to this section to the officers and employees, and
+43 the dependents of the officers and employees, of the county, school
+44 district, municipal corporation, political subdivision, public
+45 corporation or other local governmental agency.
+-
+*AB470*
+
+– 14 –
+1 4. If a contract is entered into pursuant to subsection 3, the
+2 officers and employees of the legal services organization:
+3 (a) Shall be deemed, solely for the purposes of this section, to be
+4 officers and employees of the county, school district, municipal
+5 corporation, political subdivision, public corporation or other local
+6 governmental agency with which the legal services organization has
+7 contracted; and
+8 (b) Must be required by the contract to pay the premiums or
+9 contributions for all insurance which they elect to accept or of which
+10 they authorize the purchase.
+11 5. A contract that is entered into pursuant to subsection 3:
+12 (a) Must be submitted to the Commissioner of Insurance for
+13 approval not less than 30 days before the date on which the contract
+14 is to become effective.
+15 (b) Does not become effective unless approved by the
+16 Commissioner.
+17 (c) Shall be deemed to be approved if not disapproved by the
+18 Commissioner within 30 days after its submission.
+19 6. As used in this section, “legal services organization” means
+20 an organization that operates a program for legal aid and receives
+21 money pursuant to NRS 19.031.
+22 Sec. 19. NRS 287.04335 is hereby amended to read as
+23 follows:
+24 287.04335 If the Board provides health insurance through a
+25 plan of self-insurance, it shall comply with the provisions of NRS
+26 439.581 to 439.597, inclusive, 686A.135, paragraphs (b) and (c) of
+27 subsection 2 of NRS 687B.225, subsections 1, 3, 5, 6 and 7 of NRS
+28 687B.225, 687B.352, 687B.409, 687B.692, 687B.723, 687B.725,
+29 687B.805, 689B.0353, 689B.255, 695C.1723, 695G.150, 695G.155,
+30 695G.160, 695G.162, 695G.1635, 695G.164, 695G.1645,
+31 695G.1665, 695G.167, 695G.1675, 695G.170 to 695G.1712,
+32 inclusive, 695G.1714 to 695G.174, inclusive, 695G.176, 695G.177,
+33 695G.200 to 695G.230, inclusive, 695G.241 to 695G.310, inclusive,
+34 695G.405 and 695G.415, and sections 2 to 14, inclusive, of this act
+35 in the same manner as an insurer that is licensed pursuant to title 57
+36 of NRS is required to comply with those provisions.
+37 Sec. 20. Chapter 422 of NRS is hereby amended by adding
+38 thereto the provisions set forth as sections 21 to 33, inclusive, of this
+39 act.
+40 Sec. 21. 1. The provisions of sections 22 to 33, inclusive, of
+41 this act and any policies developed pursuant thereto do not apply
+42 to the delivery of services to recipients of Medicaid or the
+43 Children’s Health Insurance Program through managed care in
+44 accordance with NRS 422.273.
+-
+*AB470*
+
+– 15 –
+1 2. A health maintenance organization or other managed care
+2 organization that enters into a contract with the Department or the
+3 Division pursuant to NRS 422.273 to provide health care services
+4 to recipients of Medicaid under the State Plan for Medicaid or the
+5 Children’s Health Insurance Program shall comply with NRS
+6 687B.225 and sections 2 to 14, inclusive, of this act.
+7 Sec. 22. As used in sections 22 to 33, inclusive, of this act,
+8 unless the context otherwise requires, the words and terms defined
+9 in sections 23 to 26, inclusive, of this act have the meanings
+10 ascribed to them in those sections.
+11 Sec. 23. “Adverse determination” means a determination by
+12 the Department that an admission, availability of care, continued
+13 stay or other medical care or dental care that is a covered benefit
+14 has been reviewed and, based upon the information provided, does
+15 not meet the Department’s requirements for medical necessity,
+16 appropriateness, health care setting, level of care or effectiveness,
+17 and the requested care or service or payment for the care or
+18 service is therefore denied, reduced or terminated.
+19 Sec. 24. “Medically necessary” has the meaning ascribed to
+20 it in NRS 695G.055.
+21 Sec. 25. “Provider of health care” has the meaning ascribed
+22 to it in NRS 695G.070.
+23 Sec. 26. “Recipient” means a natural person who receives
+24 benefits through Medicaid or the Children’s Health Insurance
+25 Program, as applicable.
+26 Sec. 27. 1. The Department, with respect to Medicaid and
+27 the Children’s Health Insurance Program, shall establish written
+28 procedures for obtaining prior authorization for medical or dental
+29 care which must include, without limitation:
+30 (a) A list of the specific goods and services for which the
+31 Department requires prior authorization; and
+32 (b) A description of the clinical review criteria used by the
+33 Department.
+34 2. The Department shall publish the written procedures for
+35 obtaining prior authorization established by the Department
+36 pursuant to subsection 1, including, without limitation, the clinical
+37 review criteria, on an Internet website maintained by the
+38 Department:
+39 (a) Using clear language that is understandable to an ordinary
+40 layperson, where practicable; and
+41 (b) In a place that is readily accessible and conspicuous to
+42 recipients and the public.
+43 3. If the Department amends the procedure for obtaining
+44 prior authorization adopted pursuant to subsection 1, including,
+45 without limitation, changing the goods and services for which the
+-
+*AB470*
+
+– 16 –
+1 Department requires prior authorization or changing the clinical
+2 review criteria used by the Department, the Department shall:
+3 (a) Transmit a notice containing a summary of the changes
+4 made to the procedure to each recipient and each provider of
+5 goods or services under Medicaid or the Children’s Health
+6 Insurance Program, as applicable; and
+7 (b) Update the information published on its Internet website
+8 pursuant to subsection 2 to reflect the amended procedure for
+9 obtaining prior authorization and the date on which the amended
+10 procedure takes effect.
+11 4. A change to the Department’s procedure for obtaining
+12 prior authorization may not take effect until 60 days have passed
+13 after the later of:
+14 (a) The date on which the Department transmitted the notice to
+15 recipients and providers of goods or services under Medicaid or
+16 the Children’s Health Insurance Program, as applicable, pursuant
+17 to paragraph (a) of subsection 3; or
+18 (b) The date on which the Department updated the
+19 information published on its Internet website pursuant to
+20 paragraph (b) of subsection 3.
+21 5. The Department shall not deny a claim based on the
+22 failure of a recipient to obtain prior authorization for medical or
+23 dental care if the procedure for obtaining prior authorization
+24 established by the Department pursuant to this section did not
+25 require the recipient to obtain prior authorization for that medical
+26 or dental care on the date that the medical or dental care was
+27 provided to the recipient.
+28 6. As used in this section, “clinical review criteria” means
+29 any written screening procedure, decision abstract, clinical
+30 protocol or practice guideline used by the Department to
+31 determine the necessity and appropriateness of medical or dental
+32 care.
+33 Sec. 28. 1. Unless a shorter time period is prescribed by a
+34 specific statute, and except as otherwise provided in subsection 2,
+35 the Department, with respect to Medicaid and the Children’s
+36 Health Insurance Program, shall approve or make an adverse
+37 determination on a request for prior authorization submitted by or
+38 on behalf of a recipient and notify the recipient and his or her
+39 provider of health care of the approval or adverse determination:
+40 (a) For medical or dental care that is not urgent health care,
+41 within 48 hours after receiving the request.
+42 (b) For urgent health care, within 24 hours after receiving the
+43 request.
+-
+*AB470*
+
+– 17 –
+1 2. If the Department requires additional, medically relevant
+2 information or documentation in order to adequately evaluate a
+3 request for prior authorization, the Department shall:
+4 (a) Notify the recipient and the provider of health care who
+5 submitted the request within the applicable amount of time
+6 described in subsection 1 that additional information is required to
+7 evaluate the request;
+8 (b) Include within the notification sent pursuant to paragraph
+9 (a) a description, with reasonable specificity, of the information
+10 that the Department requires to make a determination on the
+11 request for prior authorization; and
+12 (c) Approve or make an adverse determination on the request:
+13 (1) For medical or dental care that is not urgent health
+14 care, within 48 hours after receiving the information.
+15 (2) For urgent health care, within 24 hours after receiving
+16 the information.
+17 3. As used in this section, “urgent health care” has the
+18 meaning ascribed to it in section 15 of this act.
+19 Sec. 29. 1. If the Department is considering making an
+20 adverse determination on a request for prior authorization on the
+21 basis that the medical or dental care involved in the request is not
+22 medically necessary, the Department shall:
+23 (a) Immediately notify the provider of health care who
+24 submitted the request that the medical necessity of the requested
+25 care is being questioned by the Department; and
+26 (b) Offer the provider of health care an opportunity to speak
+27 with a person responsible for making the determination over the
+28 telephone or by videoconference to discuss the clinical issues
+29 involved in the request before the physician or dentist renders an
+30 initial determination on the request.
+31 2. Upon rendering an adverse determination on a request for
+32 prior authorization, the Department shall immediately transmit to
+33 the recipient to whom the request pertains a written notice that
+34 contains:
+35 (a) A specific description of all reasons that the Department
+36 made the adverse determination;
+37 (b) A description of any documentation that the Department
+38 requested from the recipient or a provider of health care of the
+39 recipient and did not receive or deemed insufficient, if the failure
+40 to receive sufficient documentation contributed to the adverse
+41 determination; and
+42 (c) A statement that the recipient has the right to appeal the
+43 adverse determination.
+-
+*AB470*
+
+– 18 –
+1 Sec. 30. 1. If the Department approves a request for prior
+2 authorization, the approval remains valid, including for any
+3 changes in the dosage of a medication:
+4 (a) Until 12 months after the date on which the request is
+5 approved; or
+6 (b) If the approval is for the treatment of a chronic or long
+7 term condition, for the length of the treatment and for any
+8 subsequent treatments of the same type and for the same
+9 condition.
+10 2. The Department shall not revoke or impose an additional
+11 limit, condition or restriction on a request for prior authorization
+12 that the Department has previously approved unless:
+13 (a) The care at issue in the request was not provided to the
+14 recipient within 45 business days after the date on which the
+15 Department received the request;
+16 (b) The Department determines that a recipient or a provider
+17 of health care procured the approval by fraud or material
+18 misrepresentation; or
+19 (c) The Department determines that the care at issue in the
+20 request was not covered by Medicaid or the Children’s Health
+21 Insurance Program, as applicable, at the time the care was
+22 provided.
+23 3. If the Department has approved a request for prior
+24 authorization, the Department shall not deny or refuse to promptly
+25 pay a claim for the approved medical or dental care unless the
+26 Department determines that the recipient or provider of health
+27 care procured the prior authorization by fraud or material
+28 misrepresentation. The claim must be paid at the same rate that
+29 the Department is contractually obligated to or would ordinarily
+30 pay a provider of health care for providing the specific type of care
+31 that was approved and provided to the recipient.
+32 4. Within the first 90 days that a recipient is enrolled in
+33 Medicaid or the Children’s Health Insurance Program, as
+34 applicable, the Department shall honor a request for prior
+35 authorization that has been approved by a health carrier or other
+36 entity that previously provided the recipient with coverage for
+37 medical or dental care if:
+38 (a) The approval was issued within the 12 months immediately
+39 preceding the first day of the enrollment of the recipient; and
+40 (b) The specific medical or dental care included within the
+41 request is not affirmatively excluded under the terms and
+42 conditions of Medicaid or the Children’s Health Insurance
+43 Program, as applicable.
+-
+*AB470*
+
+– 19 –
+1 5. As used in this section, “health carrier” has the meaning
+2 ascribed to it in NRS 695G.024 and includes, without limitation,
+3 an organization for dental care.
+4 Sec. 31. 1. The Department, with respect to Medicaid and
+5 the Children’s Health Insurance Program, shall not require prior
+6 authorization for covered emergency services, including, without
+7 limitation, where applicable, transportation by ambulance to a
+8 hospital or other medical facility.
+9 2. If the Department requires a recipient or his or her
+10 provider of health care to notify the Department that the recipient
+11 has been admitted to a hospital to receive emergency services or
+12 has received emergency services, the Department shall not require
+13 a recipient or a provider of health care to transmit such a notice
+14 earlier than the end of the business day immediately following the
+15 day after the date on which the recipient was admitted or the
+16 emergency services were provided, as applicable.
+17 3. The Department shall not deny coverage for emergency
+18 services covered by Medicaid or the Children’s Health Insurance
+19 Program that are medically necessary. Emergency services are
+20 presumed to be medically necessary if, within 72 hours after a
+21 recipient is admitted to receive emergency services, the recipient’s
+22 provider of health care transmits to the Department a certification,
+23 in writing, that the condition of the recipient required emergency
+24 services. The Department may rebut that presumption by
+25 establishing, by clear and convincing evidence, that the emergency
+26 services were not medically necessary.
+27 4. For emergency services which require immediate post
+28 evaluation or post stabilization services, the Department shall
+29 approve or make an adverse determination on any request for
+30 prior authorization for the post evaluation or post stabilization
+31 services submitted by or on behalf of the insured within 1 hour of
+32 the time the Department receives the request.
+33 5. As used in this section, “emergency services” has the
+34 meaning ascribed to it in section 12 of this act.
+35 Sec. 32. 1. If the Department violates sections 27 to 31,
+36 inclusive, of this act with respect to a particular request for prior
+37 authorization, the request shall be deemed approved.
+38 2. Nothing in sections 27 to 31, inclusive, of this act shall be
+39 construed to require the Department to provide coverage:
+40 (a) For medical or dental care that, regardless of whether such
+41 care is medically necessary, would not be a covered benefit under
+42 the terms and conditions of Medicaid or the Children’s Health
+43 Insurance Program, as applicable; or
+44 (b) To a person who is not a recipient or is not otherwise
+45 eligible to receive coverage under Medicaid or the Children’s
+-
+*AB470*
+
+– 20 –
+1 Health Insurance Program, as applicable, on the date on which
+2 medical or dental care is provided to the person.
+3 Sec. 33. 1. On or before March 1 of each calendar year, the
+4 Department shall publish on an Internet website maintained by
+5 the Department in an easily accessible format the following
+6 information for the immediately preceding calendar year, in
+7 aggregated form for all requests for prior authorization received
+8 by the insurer during the immediately preceding year and
+9 disaggregated in accordance with subsection 2:
+10 (a) The percentage of requests for prior authorization for
+11 medical or dental care that were approved upon initial review;
+12 (b) The percentage of requests for prior authorization for
+13 medical or dental care that resulted in an adverse determination
+14 upon initial review;
+15 (c) The percentage of the adverse determinations described in
+16 paragraph (b) that were appealed;
+17 (d) The percentage of appeals of adverse determinations
+18 described in paragraph (c) that resulted in a reversal of the
+19 adverse determination;
+20 (e) The five most common reasons for the adverse
+21 determinations described in paragraph (b); and
+22 (f) The average time between a request for prior authorization
+23 for medical or dental care in this State and the resolution of the
+24 request.
+25 2. The information described in subsection 1 must be
+26 disaggregated for the following categories:
+27 (a) The specialty of the provider of health care who submitted
+28 a request for prior authorization; and
+29 (b) The types of health or dental care at issue in the request for
+30 prior authorization, including, without limitation, the specific
+31 types of prescription drugs, procedures or diagnostic tests involved
+32 in the requests.
+33 3. The Department shall not include individually identifiable
+34 health information in the information published pursuant to
+35 subsection 1.
+36 4. As used in this section, “individually identifiable health
+37 information” means information relating to the provision of
+38 health care to an insured:
+39 (a) That specifically identifies the insured; or
+40 (b) For which there is a reasonable basis to believe that the
+41 information can be used to identify the insured.
+42 Sec. 34. NRS 422.403 is hereby amended to read as follows:
+43 422.403 1. The Department shall, by regulation, establish and
+44 manage the use by the Medicaid program of step therapy and prior
+45 authorization for prescription drugs.
+-
+*AB470*
+
+– 21 –
+1 2. The Drug Use Review Board shall:
+2 (a) Advise the Department concerning the use by the Medicaid
+3 program of step therapy and prior authorization for prescription
+4 drugs;
+5 (b) Develop step therapy protocols and prior authorization
+6 policies and procedures that comply with the provisions of sections
+7 22 to 33, inclusive, of this act for use by the Medicaid program for
+8 prescription drugs; and
+9 (c) Review and approve, based on clinical evidence and best
+10 clinical practice guidelines and without consideration of the cost of
+11 the prescription drugs being considered, step therapy protocols used
+12 by the Medicaid program for prescription drugs.
+13 3. The step therapy protocol established pursuant to this section
+14 must not apply to a drug approved by the Food and Drug
+15 Administration that is prescribed to treat a psychiatric condition of a
+16 recipient of Medicaid, if:
+17 (a) The drug has been approved by the Food and Drug
+18 Administration with indications for the psychiatric condition of the
+19 insured or the use of the drug to treat that psychiatric condition is
+20 otherwise supported by medical or scientific evidence;
+21 (b) The drug is prescribed by:
+22 (1) A psychiatrist;
+23 (2) A physician assistant under the supervision of a
+24 psychiatrist;
+25 (3) An advanced practice registered nurse who has the
+26 psychiatric training and experience prescribed by the State Board of
+27 Nursing pursuant to NRS 632.120; or
+28 (4) A primary care provider that is providing care to an
+29 insured in consultation with a practitioner listed in subparagraph (1),
+30 (2) or (3), if the closest practitioner listed in subparagraph (1), (2) or
+31 (3) who participates in Medicaid is located 60 miles or more from
+32 the residence of the recipient; and
+33 (c) The practitioner listed in paragraph (b) who prescribed the
+34 drug knows, based on the medical history of the recipient, or
+35 reasonably expects each alternative drug that is required to be used
+36 earlier in the step therapy protocol to be ineffective at treating the
+37 psychiatric condition.
+38 4. The Department shall not require the Drug Use Review
+39 Board to develop, review or approve prior authorization policies or
+40 procedures necessary for the operation of the list of preferred
+41 prescription drugs developed pursuant to NRS 422.4025.
+42 5. The Department shall accept recommendations from the
+43 Drug Use Review Board as the basis for developing or revising step
+44 therapy protocols and prior authorization policies and procedures
+45 used by the Medicaid program for prescription drugs.
+-
+*AB470*
+
+– 22 –
+1 6. As used in this section:
+2 (a) “Medical or scientific evidence” has the meaning ascribed to
+3 it in NRS 695G.053.
+4 (b) “Step therapy protocol” means a procedure that requires a
+5 recipient of Medicaid to use a prescription drug or sequence of
+6 prescription drugs other than a drug that a practitioner recommends
+7 for treatment of a psychiatric condition of the recipient before
+8 Medicaid provides coverage for the recommended drug.
+9 Sec. 35. NRS 608.1555 is hereby amended to read as follows:
+10 608.1555 Any employer who provides benefits for health care
+11 to his or her employees shall provide the same benefits and pay
+12 providers of health care in the same manner as a policy of insurance
+13 pursuant to chapters 689A and 689B of NRS, including, without
+14 limitation, as required by paragraphs (b) and (c) of subsection 2 of
+15 NRS 687B.225, subsections 1, 3, 5, 6 and 7 of NRS 687B.225,
+16 NRS 687B.409, 687B.723 and 687B.725 [.] and sections 2 to 14,
+17 inclusive, of this act.
+18 Sec. 36. 1. The amendatory provisions of this act do not
+19 apply to a request for prior authorization submitted:
+20 (a) Under a contract or policy of health insurance issued before
+21 October 1, 2025, but apply to any request for prior authorization
+22 submitted under any renewal of such a contract or policy.
+23 (b) To the Department of Health and Human Services before
+24 October 1, 2025, for medical or dental care provided to a recipient
+25 of Medicaid.
+26 2. A health carrier must, in order to continue requiring prior
+27 authorization in contracts or policies of health insurance issued or
+28 renewed after October 1, 2025:
+29 (a) Develop a procedure for obtaining prior authorization that
+30 complies with NRS 687B.225, as amended by section 15 of this act,
+31 and sections 2 to 14, inclusive, of this act; and
+32 (b) Obtain the approval of the Commissioner of Insurance
+33 pursuant to NRS 687B.225, as amended by section 15 of this act, for
+34 the procedure developed pursuant to paragraph (a).
+35 3. As used in this section, “health carrier” has the meaning
+36 ascribed to it in section 4 of this act.
+37 Sec. 37. The provisions of NRS 354.599 do not apply to any
+38 additional expenses of a local government that are related to the
+39 provisions of this act.
+40 Sec. 38. 1. This section and section 36 of this act become
+41 effective upon passage and approval.
+42 2. Sections 1 to 35, inclusive, and 37 of this act become
+43 effective:
+44 (a) Upon passage and approval for the purpose of adopting any
+45 regulations and performing any other preparatory administrative
+-
+*AB470*
+
+– 23 –
+1 tasks that are necessary to carry out the provisions of this act and
+2 approving procedures for obtaining prior authorization pursuant to
+3 NRS 687B.225, as amended by section 15 of this act, and section 36
+4 of this act; and
+5 (b) On October 1, 2025, for all other purposes.
+H
+-
+*AB470*
+
+[DELETED: BN.4AK I O S A1,2  EE  NRALG) E F O O A r t i i r g s o d c f c n e s r aE a i m r c f h a d c i c t ( f i p f o p a w tS s 1 a 2 o t b r t a p f w t i r p a a ( t c r 2 a r a i t p i p f o p o i I w a u t w a n t]
+[DELETED: – o p a i t i p f o pS f p a b r a i t a o m a i u S 1 a 2 o t b r a i i c t a t p o h c w r t p i u m a a d o a r f pSS 1 a 3 o t b p a i f r p a i f d c f c m nSS o t b r a n h a m o d s t c w s 2 S 1 o t b r t o t D o H a H S t a t f e o l g t B]
+[DELETED: – s t r o M o t C H I 3 o t b r t p a p f c fS 1  CS 2  A u i N 6 a s 2 t 1 o t a u t c o r tS 3  “ c a a o c c t r c o s o p f t c oS 4  “ c h t m a t i i1  A o f d c a d i N2  A u r o a d iS 5  “S 6  “S 7  “ w a u c w a h c t pS 8  “ p m a c o p oS 9  “]
+[DELETED: –S 1  1  I a h c i c m a( I n t p o h c w( O o b v t d t c i2  U i t w t r p a w n t( A( A f t i o a p o h c o t s d c t t a( A s t t i h t r t a tS 1  1  I t a r v i f a( U 1 m a t d o w t r i( I c f t l o t t a f a t o t s t a f t s2  A( T( T h c p t a b f o m]
+[DELETED: –( T3  A h c t h a a r f p a m o d c u t h c p a b f o m m c f p t s t o c t w4  W t f 9 d o t c p f a a h c s h a r f p t p p t i w c f( T( T s m o d c i w t i n a e u t t a o t c o p o i i b t5  A u i t s “ p m t t o a c o p o i i b aS 1  1  A h c s n r p f e s c b t h i w l w a b a t a h o o m2  I a h c r a i o h o h r e s t h c s n e t t e o t b d i3  A h c s n d c f e s a p t b m n i t i p o h c t t t]
+[DELETED: – p b e b c a c t t e s w n m4  A s a m n w r t5  F e s w r i p o p s s a h c s o m a a d o a r f a f t p e o p s6  A s t a p b a p o h c t a t s a i a t s o o a c t m i b s o s s t a p p w b t t( S( S( S( S d o a b o o p o tS 1  1  I a h c v N 6 o2  N s b c t r a h c t p( F( T( TS 1  1  O]
+[DELETED: – h c i a e a f t f f t i p c y i t i d t i p y a( T p o r f p a f( T p o r f p a f o d c t S t i a a( T( T p o a o a d i p ( t r i a r o t( T f m c r f t a( T2  T i d i s 1 m b( T( T a i w l t s3  A i i t i p p t4  A u i t s “ i h m i r t t p o( T( FS 1  N6  1  E a o p i N 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6]
+[DELETED: – 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 c b a n h m o d s o o f d c i b a h c m r t i [ m t o p f t c f t [ o o T2  A( F i p f o [ o c p p t t s , i w( U a s t p i p b a s o m a a d o a r f p o h c o t a o a ( F m o d c t i n u h ( F( I ( N t r w t a a o t ( I w t n s p t]
+[DELETED: – t t h c r t m a ( A o m a a d o t  ( F  ( F u h c w 2 h a[ 3  T p f p a m n4  I a h c s t a i p f p a i w l t g a s f w t h c p a o c t c r( M( M ( T C n h c t t ( T h c s t r o5  A c t a h c p f o( T h c t a n t c a( T( A ( T d o w t h c t t ( T d o w t h c u t p o i I w p t6  A a i w l t c( U]
+[DELETED: –( I a p t i r a a c t7  A8  A( “ r c m a w s d a c p o p( “ s h t m a t i i( “ ( M  ( S  ( S t i t s p t c b ( DS 1  N6  1  N a 3 o N 6 N 6 t 6 c 6 o N N 6 t 6 6 t 6 i 6 t 6 t 6 i 6 6 6 t 6 i a 2 t 1 i o t a 6 6 t 6 6 6 a 6 o N t t e a n i c w t e p o t2  FS 1  N2  1  T]
+[DELETED: –( S a w t c o t G o t d o t D w a ( T ( T A o t D o W a ( T ( T A o t D o H C ( T A o t D o P a( S a t d p o c 6 4 4 4 4 t 4 4 t 4 i 4 a 6 o N N 2 t 3 i o t a 4 4 t i 4 4 i a( S a a s p f p w d e p t t D A a B o R A o( S a c a f a o l a n o w p s o t p t t G a t L a t ( I a a t p a p o t f t p o h s a a ( S ( P a n o a o l ( I]
+[DELETED: – ( S ( C a o i n f t t c e w t F c d t f f t( M p o t o a a e( H2  NS 1  N2  1  T g b o a c s m c p s p o o l g a o t S o( A a e a t d o o a w e t a t i a w w t c f t p o p o t( P a c t f t b o s o a t p u i a p t d( P g l a o h c t a r f a w n d o o a e a c o t]
+[DELETED: – a i a m b a b t o I a t t r o c i r t c c a p T p o N 4 t 4 6 p ( a ( o s 2 o 6 s 1 3 5 6 a 7 o N 6 6 6 6 6 6 t 6 i p ( a ( o 6 t 6 i 6 t i 6 6 6 a a s 2 t 1 i o t a a t p p t t p e t t o N 6 6 a 6 o t c f a o a e o t( D p o a o t c o m o a s m b b f i a w t l t c s d m c2  I3  I g b o t c o o a s d c p p o l g a o t S o N i t m e i a c w t l s a e f a l a o h i m c p s p]
+[DELETED: –4  I a c i e i p t s 3 t( S a e o t c s d m( M b r b t c t p t p o5  A( M b s t t C o I f( D n b e u a b t( S6  AS 1  N 2 i h a t r a2  I t B p h i t a 6 6 6 6 6 6 6 6 6 6 6 6 t 6S 2  C 4 o N i h a b aS 2  1  T t d o s t r o M o t]
+[DELETED: –2  A H I P s c w NS 2  A s 2 t 2 i o t a h t mS 2  “ m t D r f m n t r c o s o p f t c oS 2  “S 2  “S 2  “ m a n p w r t M o t C H IS 2  1  T( A l o t s g a s f w t( A d o t c r c u b t2  T p a e b t D c o a I w m b t( U( I a p t i r a a c t3  I t D a t p f o]
+[DELETED: –( T a n c a s o c t t p t e r a e p o o s u M o t C H( U t i p i w t s 2 t r t a p f4  A c t t D p f o( T( T d o w t D u t p o i I w p t5  T D s n d a c b o t c i t p f o p a b t D p t t s d n d c o t d t t m o d c w6  A u i t s “ r c m w s p d a c o p g u b t D tS 2  1  U D w r t M a t C I P s a o m a a( F( F]
+[DELETED: –2  I( N t r a t p o h c w t r w t a a o t( I t D r t m a d o t( A ( F m o d c t i n u h ( F3  A u i t s “ h c h tS 2  1  I t D i c m a( I n t p o h c w( O o b v t d t c i2  U( A( A d o t D r s d c t t a( A]
+[DELETED: –S 3  1  I t a r v i f a( U 1 m a t d o w t r i( I c f t l o t t a f a t o t s t a f t s2  T( T w 4 b d a t d o w t( T h c p t a b f o m( T D d t t c a i i t w n c b M o t C H P a a a t t t c w3  I t D h a a r f p d t t r o p o h p t p a b f o m4  W t f 9 d t a r i e i o t C H I P a t D s h a r f p t p p t r w c f( T( T s m o d c i w t i n a e u t t a o M o t C H I]
+[DELETED: –5  AS 3  1  T w a t b a t a2  I t D r a r o h o h a t d o w t r w a o t3  T D s n d c f e t a m n E s a t b m n i w 7 h a a T D m r t p b4  F e s w r i p o p s s t D s o m a a d o a r f a f t p e o p s5  A u i t s “ s h tS 3  1  I t D v s 2 t 32  N( F t a c o M o t C H( T a p w i n a r o i n o t r c u M o t C]
+[DELETED: –S 3  1  O s p o a I w b D i a e a f t f f t i p c y i t i d t i p y a( T p o r f p a f( T p o r f p a f( T( T p o a o a d i p ( t r i a r o t( T f m c r f t a( T2  T i d i s 1 m b( T( T a i w l t s3  T i i t i p p t4  A u i t s “ i h m i r t t p o( T( FS 3  N4  1  T]
+[DELETED: –2  T( A o s t a p a f p( D s t p a p a( R a a b o c e a b3  T n a t a d a b t F a D( T d h b a b t F a D( T ( A ( A p a u t s o a ( A a p r n w h t ( A p c p t i p c t a( T k b o t m h o t r o4  T D s n r t D U R n f t o o t l o p5  T D s a r f t p a p a p a p]
+[DELETED: –6  A( “( “ o M t u a p d o s o t o a p c o t r bS 3  N6  A h o h e s p t s b a p t c 6 a 6 o N i w 6 s 1 3 5 6 a 7 o N 6S 3  1  T a p o t a d n( U 1 2 b a t a f a( T t D o H a H S b2  A( D a p f o p a t( O t a o t C o I3  A u i t s “ c h t mS 3  T e o a l g t a r t tS 3  1  T s a s 3 o t a b2  S 1 t 3 i a 3 o t a b( U a p a o p a]
+[DELETED: –( O]
