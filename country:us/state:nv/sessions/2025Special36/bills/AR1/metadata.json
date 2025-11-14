@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2025Special36",
+  "identifier": "AR1",
+  "title": "Provides for the appointment of the Assembly attaches. (BDR\u00a0R-27)",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Providing for the appointment of the Assembly attaches."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Prefiled.\rTo printer.",
+      "date": "2025-11-12T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T03:19:17Z"
+      }
+    },
+    {
+      "description": "From printer.\rResolution read and adopted.\rTo enrollment.",
+      "date": "2025-11-13T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T03:19:17Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Assembly Legislative Operations and Elections",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Assembly Legislative Operations and Elections\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/AR/AR1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Enrolled",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/AR/AR1_EN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/Bill/12991/Overview",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "R-27"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nv/government",
+    "name": "Nevada",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nv"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-14T03:19:17Z"
+  }
+}

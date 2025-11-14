@@ -1,0 +1,86 @@
+{
+  "legislative_session": "2025Special36",
+  "identifier": "SB1",
+  "title": "Revises provisions governing the short-term lease of a passenger car. (BDR\u00a043-26)",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT relating to motor vehicles; revising requirements that a short-term lessor require proof of certain insurance as a condition for the lease of a passenger car; and providing other matters properly relating thereto."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Prefiled.\rReferred to Committee on Public Safety and Security. To printer.",
+      "date": "2025-11-12T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T03:19:17Z"
+      }
+    },
+    {
+      "description": "From printer.\rRead first time. To committee.",
+      "date": "2025-11-13T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T03:19:17Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Senate Public Safety and Security",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Senate Public Safety and Security\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/SB/SB1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/Bill/12990/Overview",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "43-26"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nv/government",
+    "name": "Nevada",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nv"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-14T03:19:17Z"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "legislative_session": "2025Special36",
+  "identifier": "ACR5",
+  "title": "Directs the Joint Interim Standing Committee on Government Affairs to conduct an interim study on the activities of federal officials engaging in the investigation or enforcement of immigration laws in this State. (BDR\u00a0R-19)",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Directing the Joint Interim Standing Committee on Government Affairs to conduct an interim study on the activities of federal officials engaging in the investigation or enforcement of immigration laws in this State."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Prefiled.\rReferred to Select Committee on Health and Wellness. To printer.",
+      "date": "2025-11-12T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T03:19:17Z"
+      }
+    },
+    {
+      "description": "From printer.\rResolution read and adopted.\rTo committee.",
+      "date": "2025-11-13T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T03:19:17Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Assembly Health and Wellness",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Assembly Health and Wellness\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/ACR/ACR5.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/Bill/12986/Overview",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "R-19"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nv/government",
+    "name": "Nevada",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nv"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-14T03:19:17Z"
+  }
+}

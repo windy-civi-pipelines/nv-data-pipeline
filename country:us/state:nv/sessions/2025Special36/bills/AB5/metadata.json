@@ -1,0 +1,332 @@
+{
+  "legislative_session": "2025Special36",
+  "identifier": "AB5",
+  "title": "Enacts the Nevada Studio Infrastructure Jobs and Workforce Training Act. (BDR\u00a0S-13)",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT relating to economic development; enacting the Nevada Studio Infrastructure Jobs and Workforce Training Act; requiring the Office of Economic Development to enter into a development agreement to establish certain criteria for the development of infrastructure for the production of motion pictures and other qualified productions and other new capital investment in this State; establishing certain penalties if the development does not meet certain requirements for new capital investment and expenditures for the production of motion pictures and other qualified productions; establishing requirements for a production company located at such a development to be eligible for film infrastructure transferable tax credits for qualified productions produced at the development; providing for the calculation of the amount of film infrastructure transferable tax credits; requiring the creation of a production studio entertainment district; revising provisions governing noninfrastructure transferable tax credits for motion pictures and other qualified productions produced in this State; authorizing an additional amount of noninfrastructure transferable tax credits; establishing the Account for Nevada Film, Media and Related Technology Education and Vocational Training and a board to approve distributions from the Account; providing for the distribution of money from the Account to certain entities and organizations that provide education and vocational training to develop a workforce for the production of qualified productions in this State; and providing other matters properly relating thereto."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Prefiled. Referred to Select Committee on Jobs and Economy. To printer.",
+      "date": "2025-11-12T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T03:19:17Z"
+      }
+    },
+    {
+      "description": "From printer.\rRead first time. To committee.",
+      "date": "2025-11-13T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T03:19:17Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Assembly Jobs and Economy",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Assembly Jobs and Economy\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/AB/AB5.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "CCSD Pre-Kindergarten Proposed Expansion Handout submitted by Brad Keating",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79306&fileDownloadName=AB5_1113_Keating.Brad_informationalhandout.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 5 Letter in Opposition by Bari Levinson",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79303&fileDownloadName=AB5_1113_Levinson.B_ltrinopp.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 5 Letter in Opposition by Arthur Willis",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79336&fileDownloadName=AB5_1113_Willis.Arthur_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 5 Letter in Opposition by Blaine Harper",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79349&fileDownloadName=AB5_1113_Harper.Blaine_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 5 Letter in Opposition by Caren Royce Yap",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79322&fileDownloadName=AB5_1113_RoyceYap.Caren_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 5 Letter in Opposition by Chloe Mayer",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79333&fileDownloadName=AB5_1113_Mayer.Chloe_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 5 Letter in Opposition by City of Wells submitted by Jason Pengelly, City Manager",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79350&fileDownloadName=AB5_1113_Pengelly.Jason_CityofWells_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 5 Letter in Opposition by Community Impact Northern Nevada submitted by Jim and Deanne Davis",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79338&fileDownloadName=AB5_1113_CommunityImpactTeam_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 5 Letter in Opposition by Debbie Goodwill",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79344&fileDownloadName=AB5_1113_Goodwill.Debbie_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 5 Letter in Opposition by Eli Trimble",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79314&fileDownloadName=AB5_1113_Trimble.Eli_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 5 Letter in Opposition by the Elko County Board of Commissioners submitted by Amanda Osborne",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79308&fileDownloadName=AB5_1113_Osborne.Amanda_ElkoBoardofCommissioners_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 5 Letter in Opposition by Isaias Gallegos",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79345&fileDownloadName=AB5_1113_Gallegos.Isaias_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 5 Letter in Opposition by Isaura Garcia",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79305&fileDownloadName=AB5_1113_Garcia.Isaura_ltrinopp.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 5 Letter in Opposition by Jesse Cruz",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79343&fileDownloadName=AB5_1113_Cruz.Jesse_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 5 Letter in Opposition by Keira Fincher",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79339&fileDownloadName=AB5_1113_Fincher.Keira_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 5 Letter in Opposition by Kriselle Gabriel",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79302&fileDownloadName=AB5_1113_Gabriel.Kriselle_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 5 Letter in Opposition by The Libre Initiative Nevada submitted by Eddie Diaz",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79335&fileDownloadName=AB5_1113_Diaz.Eddie_TheLibreInitiative_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 5 Letter in Opposition by the Native Voters Alliance Nevada submitted by Mathilda Guerrero Miller",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79310&fileDownloadName=AB5_1113_GuerreroMiller.Mathilda_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 5 Letter in Opposition by Nevada Coalition to End Domestic and Sexual Violence submitted by Ryley Svendsen",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79342&fileDownloadName=AB5_1113_Svendsen.Ryley_NCEDSV_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 5 Letter in Opposition by Ron Aryel",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79341&fileDownloadName=AB5_1113_Aryel.Ron_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 5 Letter in Support by Sadia Carone",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79351&fileDownloadName=AB5_1113_Carone.Sadia_supltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 5 Letter in Support by Tyler Shiller",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79307&fileDownloadName=AB5_1113_Tyler.Shiller_emailinsup.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/Bill/12997/Overview",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "S-13"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nv/government",
+    "name": "Nevada",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nv"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-14T03:19:17Z"
+  }
+}

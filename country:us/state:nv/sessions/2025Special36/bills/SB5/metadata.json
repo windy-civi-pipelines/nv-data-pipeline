@@ -1,0 +1,120 @@
+{
+  "legislative_session": "2025Special36",
+  "identifier": "SB5",
+  "title": "Makes revisions relating to health care. (BDR\u00a040-32)",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT relating to health care; creating the Statewide Health Care Access and Recruitment Program Account; providing for certain transfers of money out of the Account; requiring a biennial assessment of the health care needs of this State; establishing the Statewide Health Care Access and Recruitment Grant Program to award grants of money to fund certain projects to address shortages of providers of health care or clinical services or expertise identified by the assessment; requiring a grantee to enter into a funding agreement with the Nevada Health Authority; providing for certain oversight of projects funded through the Program; authorizing the Authority to take certain actions in response to certain changes to a funded project or if a grantee fails to comply with a funding agreement or applicable law; prescribing certain requirements to expedite the credentialing and privileging of providers of health care; requiring the prioritization of certain applications for licensure as a physician or osteopathic physician; requiring certain reports of the Board of Medical Examiners and the State Board of Osteopathic Medicine to include certain information; making appropriations; and providing other matters properly relating thereto."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Prefiled.\rReferred to Committee on Health and Wellness. To printer.",
+      "date": "2025-11-12T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T03:19:17Z"
+      }
+    },
+    {
+      "description": "From printer.\rRead first time. To committee.",
+      "date": "2025-11-13T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T03:19:17Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Senate Health and Wellness",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Senate Health and Wellness\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/SB/SB5.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "SB5_ Support Letter_Casey Melvin_OTR L CEO",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79327&fileDownloadName=SB5_SupportLetter_CaseyMelvin_OTRLCEO.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB5_Support Testimony_One APIA Nevada",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79325&fileDownloadName=SB5_SupportTestimony_OneAPIANevada.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB5_Proposed Conceptual Amendment_Senator Cannizzaro",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79312&fileDownloadName=SB5_ProposedConceptualAmendment_SenatorCannizzaro.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/Bill/12996/Overview",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "40-32"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nv/government",
+    "name": "Nevada",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nv"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-14T03:19:17Z"
+  }
+}

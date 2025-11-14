@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "From printer.\rResolution read and adopted.\rTo committee.",
+    "date": "2025-11-13T08:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "ACR4"
+}

@@ -1,0 +1,211 @@
+{
+  "legislative_session": "2025Special36",
+  "identifier": "AB4",
+  "title": "Revises provisions relating to public safety. (BDR\u00a015-31)",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT relating to public safety; revising provisions relating to assault, battery, stalking, child sexual abuse material, domestic violence and driving under the influence of alcohol or a prohibited substance; requiring a compliance hearing after the issuance of certain orders to relinquish firearms; establishing certain unlawful acts relating to certain theft offenses involving property damage; revising provisions relating to offenders; establishing provisions relating to the creation of corridors and the adjudication and reporting of certain offenses committed within such corridors; making various changes relating to juvenile justice; prohibiting the construction of certain findings relating to actions for wrongful conviction; revising provisions relating to the sealing of records and specialty court programs; revising provisions relating to pretrial release; authorizing the Director of the Department of Corrections to establish an alternative correctional program; revising provisions relating to opioid use disorder; making appropriations; providing penalties; and providing other matters properly relating thereto."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Prefiled. Referred to Select Committee on Public Safety and Security. To printer.",
+      "date": "2025-11-12T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T03:19:17Z"
+      }
+    },
+    {
+      "description": "From printer.\rRead first time. To committee.",
+      "date": "2025-11-13T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-14T03:19:17Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Assembly Public Safety and Security",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Assembly Public Safety and Security\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/AB/AB4.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "AB4 Opposition Letter - submitted by Bryant Barrera Carmona, Private Citizen",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79348&fileDownloadName=AB4_1113_Carmona.B_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB4 Opposition Letter - submitted by Denise Bolanos, Private Citizen",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79347&fileDownloadName=AB4_1113_Bolanos.D_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB4 Opposition Letter - submitted by Isaias Gallegos, Private Citizen",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79346&fileDownloadName=AB4_1113_Gallegos.I_testopp.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB4 Opposition Letter - submitted by Arthur Willis, Private Citizen",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79340&fileDownloadName=AB4_1113_Willis.A_oppltr.pdf.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB4 Opposition Letter - submitted by Chloe Mayer, Private Citizen",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79337&fileDownloadName=AB4_1113_Mayer.C_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB4 Opposition Letter - submitted by Melody Judilla, Silver State Voices",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79331&fileDownloadName=AB4_1113_Judilla.M_testopp.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB4 Proposed Conceptual Amendment - submitted by Kaylah Maese, ACLU Nevada",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79330&fileDownloadName=AB4_1113_Maese.K_amend.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB4 Support Letter - submitted by Kenneth H. Tedford III, District Attorney of Mineral County",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79321&fileDownloadName=AB4_1113_Tedford.KH_supltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB4 Support Letter - submitted by Sheriff Michael S. Cullen, Storey County Sheriff's Office",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79319&fileDownloadName=AB4_1113_Cullen.M_supltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB4 Proposed Amendment - submitted by Clark and Washoe Public Defender's Offices",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79316&fileDownloadName=AB4_1113_CWPDPA_amend.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB4 Opposition Letter - submitted by D. Heredia, Return Strong",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79323&fileDownloadName=AB4_1113_Heredia.D_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/Bill/12994/Overview",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "15-31"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nv/government",
+    "name": "Nevada",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nv"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-14T03:19:17Z"
+  }
+}

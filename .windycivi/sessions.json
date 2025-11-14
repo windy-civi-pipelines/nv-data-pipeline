@@ -74,5 +74,9 @@
   "83": {
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
+  },
+  "2025Special36": {
+    "name": "36th (2026) Special Session",
+    "date_folder": "2025-2025"
   }
 }
