@@ -1,0 +1,828 @@
+A.B. 1
+ASSEMBLY BILL NO. 1–SELECT COMMITTEE
+ON HEALTH AND WELLNESS
+PREFILED NOVEMBER 12, 2025
+____________
+Referred to Select Committee on Health and Wellness
+SUMMARY—Revises provisions relating to governmental
+administration. (BDR 19-22)
+FISCAL NOTE: Effect on Local Government: May have Fiscal Impact.
+Effect on the State: Contains Appropriation not included
+in Executive Budget.
+~
+EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+AN ACT relating to governmental administration; creating and
+setting forth the duties of the Security Operations Center
+within the Office of Information Security and Cyber
+Defense within the Governor’s Technology Office within
+the Office of the Governor; creating the Account for the
+Security Operations Center and prescribing the use of
+money in the Account; requiring the Security Operations
+Center to prepare an annual report that assesses the
+effectiveness of the Security Operations Center; requiring
+the Security Operations Center, to the extent funding is
+available, to develop the Cybersecurity Talent Pipeline
+Program; revising the purpose of the Governor’s
+Technology Office; authorizing the board of trustees of a
+school district to use the services and equipment of the
+Governor’s Technology Office; making various other
+changes relating to the cybersecurity of governmental
+entities; making appropriations; and providing other
+matters properly relating thereto.
+Legislative Counsel’s Digest:
+1 Existing law provides that the Governor’s Technology Office within the Office
+2 of the Governor is composed of: (1) the Director’s Office; (2) the Client Services
+3 Division; (3) the Computing Services Division; (4) the Network Services Division,
+4 including a Network Transport Services Unit and a Unified Communications Unit;
+5 (5) the Office of Information Security and Cyber Defense; and (6) certain other
+6 units, groups, divisions or departments deemed necessary by the Chief Information
+-
+*AB1*
+
+– 2 –
+7 Officer. (NRS 242.080) Section 13 of this bill creates the Security Operations
+8 Center in the Office of Information Security and Cyber Defense.
+9 Existing law: (1) requires the Governor’s Technology Office to provide certain
+10 state agencies and elected officers with all their required design of information
+11 systems; (2) authorizes certain other state agencies to negotiate with the Office for
+12 its services or the use of its equipment; and (3) authorizes, upon request, the Office
+13 to provide certain services to state agencies not under the control of the Governor
+14 and local governmental agencies. (NRS 242.131, 242.141) Section 16 of this bill
+15 requires the Security Operations Center to provide each state agency and elected
+16 state officers with cybersecurity services, including real-time monitoring of
+17 cyberinfrastructure, threat mitigation, incident response and cybersecurity
+18 enforcement. Sections 16 and 30 of this bill reorganize provisions that authorize
+19 certain state agencies and local governmental agencies to use the equipment and
+20 services of the Governor’s Technology Office. Section 16 also requires any local
+21 governmental agency which has agreed to use the equipment or services of the
+22 Governor’s Technology Office to apply to the Chief to withdraw from such use.
+23 Section 10 of this bill revises the definition of “local governmental agency” to
+24 include the board of trustees of a school district, which has the effect of authorizing
+25 the board of trustees of a school district to use the services of the Governor’s
+26 Technology Office pursuant to section 16. Section 11 of this bill amends the
+27 definition of “using agency” so that the term includes any state agency, elected
+28 state officer or local governmental agency that uses the services or equipment of the
+29 Office.
+30 Section 2 of this bill requires the Security Operations Center to develop certain
+31 policies and procedures to: (1) combat the increasing threats to using agencies
+32 posed by cybercriminals; (2) protect sensitive data in the possession of a using
+33 agency; and (3) ensure a coordinated and rapid response to any cybersecurity
+34 incident that affects a using agency. Section 3 of this bill provides that if a using
+35 agency does not comply with the cybersecurity policies and protocols developed by
+36 the Security Operations Center, the Chief may impose additional oversight or audit
+37 requirements on the using agency relating to cybersecurity.
+38 Section 4 of this bill creates the Account for the Security Operations Center in
+39 the State General Fund to be administered by the Chief. Section 4 requires the
+40 money in the Account to be used for the purposes of supporting and carrying out
+41 the duties of the Security Operations Center. Section 4 also authorizes the Security
+42 Operations Center to serve as a fiscal agent to pool federal grant funds for the
+43 purposes of cybersecurity support and infrastructure development.
+44 Section 5 of this bill requires the Security Operations Center to collaborate
+45 with the Office of Information Security and Cyber Defense to enhance
+46 communication and coordination of incident responses to cyber threats or
+47 cyberattacks on information systems.
+48 Section 6 of this bill requires the Security Operations Center to prepare and
+49 submit an annual report to the Governor, Attorney General and the Director of the
+50 Legislative Counsel Bureau for transmission to the Legislature that includes certain
+51 information relating to the duties of the Security Operations Center.
+52 Section 7 of this bill provides that the provisions of the Nevada Revised
+53 Statutes relating to information services do not impair or affect existing agreements
+54 with a federally recognized Indian tribe and that any interlocal agreement entered
+55 into must respect the sovereign governance of the tribe and provide for jointly
+56 agreed upon data protocols.
+57 To the extent that funding is available, section 8 of this bill requires the
+58 Security Operations Center, in collaboration with the Nevada System of Higher
+59 Education, to develop the Cybersecurity Talent Pipeline Program.
+60 Section 9 of this bill amends the definition of “information service,” as
+61 provided by the Office to a using agency, to include the real-time monitoring of
+-
+*AB1*
+
+– 3 –
+62 cyberinfrastructure, threat mitigation, incident response and cybersecurity
+63 enforcement.
+64 Existing law makes certain legislative determinations and declarations relating
+65 to the purpose of the Governor’s Technology Office. (NRS 242.071) Section 12 of
+66 this bill revises these determinations and declarations to include performing
+67 information services for using agencies.
+68 Existing law provides that certain documents assembled, maintained, overseen
+69 or prepared by the Governor’s Technology Office to mitigate, prevent or respond to
+70 acts of terrorism are confidential. (NRS 242.105) Section 14 of this bill provides
+71 that certain documents relating to the cybersecurity of a using agency are also
+72 confidential.
+73 Existing law requires the Chief to adopt certain regulations relating to
+74 information systems of certain state agencies. (NRS 242.111) Section 15 of this bill
+75 instead requires the Chief to adopt certain regulations relating to information
+76 systems of using agencies.
+77 Existing law requires the Chief to advise using agencies regarding the policy
+78 for information services of the Executive Branch of Government. (NRS 242.151)
+79 Section 17 of this bill requires the Chief to instead advise the using agencies of the
+80 policy for information services of the Governor’s Technology Office.
+81 Existing law provides that all equipment of an agency or elected state officer
+82 which is owned or leased by the State must be under the managerial control of the
+83 Office. (NRS 242.161) Section 18 of this bill: (1) provides instead that all
+84 equipment of a using agency which is owned or leased by the State must be under
+85 the managerial control of the Office; (2) prohibits the Security Operations Center
+86 from assuming operational control of the equipment or software systems of a using
+87 agency; and (3) requires the Security Operations Center to provide to a using
+88 agency standards and policies for the equipment or software systems to be deployed
+89 by the Security Operations Center, which must be agreed upon in writing before the
+90 Security Operations Center provides services.
+91 Section 19 of this bill provides that the Office is responsible for any application
+92 of an information system which it furnishes to using agencies.
+93 Section 20 of this bill requires: (1) any using agency which uses the equipment
+94 or services of the Office to adhere to the regulations, standards, practices, policies
+95 and conventions of the Office; and (2) each using agency to report certain
+96 information relating to certain suspected incidents to the Office of Information
+97 Security and Cyber Defense and the Security Operations Center.
+98 Existing law requires the Deputy Director of the Office of Information Security
+99 and Cyber Defense to investigate and resolve any breach of an information system
+100 of a state agency or elected officer that uses the equipment or services of the
+101 Governor’s Technology Office. (NRS 242.183) Section 21 of this bill requires
+102 instead that the Deputy Director, in consultation with the Security Operations
+103 Center, investigate and resolve any breach of an information system of a using
+104 agency.
+105 Existing law authorizes the Governor to proclaim the existence of a state of
+106 emergency or a declaration of disaster if the Governor in his or her proclamation
+107 finds that certain events, including a technological or man-made emergency or
+108 disaster of major proportions, have actually occurred in this State and that the
+109 safety and welfare of the inhabitants of this State require such a proclamation.
+110 (NRS 414.070) If the Governor has made such a proclamation concerning a critical
+111 cybersecurity incident, section 21 authorizes the Governor to authorize the
+112 information technology personnel of using agencies of the Executive Branch to
+113 report directly to the Chief.
+114 Existing law provides that the amount receivable from a state agency or officer
+115 or local governmental agency which uses the services of the Governor’s
+116 Technology Office must be determined by the Chief. (NRS 242.191) Section 22 of
+-
+*AB1*
+
+– 4 –
+117 this bill provides instead that the amount receivable from a using agency which
+118 uses the services or equipment of the Office must be determined by the Chief.
+119 Section 23 of this bill requires each using agency using the services or
+120 equipment of the Office to pay a fee for such use to the Fund for Information
+121 Services.
+122 Section 24 of this bill makes an appropriation to the Office of Finance in the
+123 Office of the Governor for the Governor’s Technology Office within the Office of
+124 the Governor for investments related to cybersecurity. Sections 25-27 of this bill
+125 make appropriations to the Office of Finance in the Office of the Governor for a
+126 loan to the Governor’s Technology Office within the Office of the Governor to
+127 cover a shortfall in revenues for certain divisions and offices within the Governor’s
+128 Technology Office.
+THE PEOPLE OF THE STATE OF NEVADA, REPRESENTED IN
+SENATE AND ASSEMBLY, DO ENACT AS FOLLOWS:
+1 Section 1. Chapter 242 of NRS is hereby amended by adding
+2 thereto the provisions set forth as sections 2 to 8, inclusive, of this
+3 act.
+4 Sec. 2. 1. The Security Operations Center shall develop
+5 policies and procedures to:
+6 (a) Combat the increasing threats to using agencies posed by
+7 cybercriminals;
+8 (b) Protect sensitive data in the possession of a using agency;
+9 and
+10 (c) Ensure a coordinated and rapid response to any
+11 cybersecurity incident that affects a using agency.
+12 2. The policies and procedures developed pursuant to
+13 subsection 1 must include, without limitation:
+14 (a) A requirement that a using agency notify the Security
+15 Operations Center of any specific or immediate threat to the
+16 cybersecurity of an information system operated or maintained by
+17 the using agency;
+18 (b) A requirement that the Security Operations Center notify
+19 the appropriate law enforcement agency and prosecuting attorney
+20 and any other appropriate public or private entity of any specific
+21 threat to the cybersecurity of an information system of which the
+22 Security Operations Center has been notified;
+23 (c) A strategy for developing ongoing programs for
+24 professional development in cybersecurity for the employees of a
+25 using agency; and
+26 (d) The use of security orchestration automation and response
+27 systems to automate repetitive tasks, enhance operational
+28 efficiency and standardize procedures and responses for the
+29 various information technology support of using agencies.
+-
+*AB1*
+
+– 5 –
+1 Sec. 3. If a using agency does not comply with the
+2 cybersecurity policies and protocols developed by the Security
+3 Operations Center pursuant to section 2 of this act, the Chief may
+4 impose additional oversight or audit requirements on the using
+5 agency relating to cybersecurity.
+6 Sec. 4. 1. The Account for the Security Operations Center
+7 is hereby created in the State General Fund. The Chief must
+8 administer the Account.
+9 2. The money in the Account must only be used for the
+10 purposes of supporting and carrying out the duties of the Security
+11 Operations Center.
+12 3. The Chief may apply for and accept federal grants for the
+13 purposes of this section.
+14 4. The Security Operations Center may serve as a fiscal agent
+15 to pool federal grant funds for the purposes of cybersecurity
+16 support and infrastructure development. The Security Operations
+17 Center may establish criteria for using agencies to access shared
+18 resources which must ensure equitable distribution of the
+19 resources and maximize competiveness for federal opportunities.
+20 5. All interest earned on the money in the Account, after
+21 deducting any applicable charges, must be credited to the Account.
+22 6. All claims against the Account must be paid as other
+23 claims against the State are paid.
+24 7. Any money remaining in the Account at the end of a fiscal
+25 year does not revert to the State General Fund and must be carried
+26 forward to the next fiscal year.
+27 Sec. 5. The Security Operations Center shall collaborate with
+28 the Office of Information Security and Cyber Defense created by
+29 NRS 242.080 to enhance communication and coordination of
+30 incident responses to cyber threats or cyberattacks on information
+31 systems and to provide each using agency information relating to
+32 emerging cyber threats and best practices for cybersecurity.
+33 Sec. 6. 1. On or before January 1 of each year, the Security
+34 Operations Center shall prepare a report assessing the
+35 effectiveness of the Security Operations Center relating to its
+36 duties. The report must include, without limitation:
+37 (a) A summary of the progress made by the Security
+38 Operations Center during the immediately preceding year in
+39 performing its duties and exercising such powers as are conferred
+40 upon it;
+41 (b) A general description of any threats or attacks responded to
+42 by the Security Operations Center during the immediately
+43 preceding year, and a summary of the response to the threat;
+44 (c) A summary of the goals and objectives of the Security
+45 Operations Center for the upcoming year;
+-
+*AB1*
+
+– 6 –
+1 (d) A summary of any issues presenting challenges to the
+2 Security Operations Center; and
+3 (e) Any other information that the Chief determines is
+4 appropriate to include in the report.
+5 2. The report required pursuant to subsection 1 must be
+6 submitted not later than July 1 of each year to the Governor,
+7 Attorney General and Director of the Legislative Counsel Bureau
+8 for transmission to the Legislature.
+9 Sec. 7. Nothing in this chapter shall be construed to impair
+10 or affect existing agreements with a federally recognized Indian
+11 tribe. Any interlocal agreement entered into with the governing
+12 body of an Indian tribe, group of tribes, organized segment of a
+13 tribe or any organization representing two or more such entities
+14 must respect sovereign governance and provide for jointly agreed
+15 upon data protocols.
+16 Sec. 8. To the extent that funding is available:
+17 1. The Security Operations Center shall, in collaboration with
+18 the Nevada System of Higher Education, develop the
+19 Cybersecurity Talent Pipeline Program. The Program must
+20 develop a system for the career development of students in the
+21 field of computer science or cybersecurity.
+22 2. The Program must provide opportunities for students
+23 within the Nevada System of Higher Education who are majoring
+24 in a field related to cybersecurity to obtain working experience in
+25 the Security Operations Center.
+26 Sec. 9. NRS 242.055 is hereby amended to read as follows:
+27 242.055 “Information service” means any service provided by
+28 the Office to a using agency relating to the creation, maintenance,
+29 operation, security validation, testing, continuous monitoring or use
+30 of an information system. The term includes, without limitation,
+31 the real-time monitoring of cyberinfrastructure, threat mitigation,
+32 incident response and cybersecurity enforcement.
+33 Sec. 10. NRS 242.061 is hereby amended to read as follows:
+34 242.061 “Local governmental agency” means [any] :
+35 1. Any branch, agency, bureau, board, commission, department
+36 or division of a county, incorporated city or town in this State [.] ;
+37 or
+38 2. The board of trustees of a school district.
+39 Sec. 11. NRS 242.068 is hereby amended to read as follows:
+40 242.068 “Using agency” means [an agency of the State which
+41 has a function requiring the use of information technology,
+42 information services or an information system.] :
+43 1. A state agency or elected state officer who is required to
+44 use the services and equipment of the Office pursuant to
+45 subsection 1 of NRS 242.131.
+-
+*AB1*
+
+– 7 –
+1 2. Any other state agency or local governmental agency that
+2 has negotiated with the Office for its services or equipment
+3 pursuant to subsection 2 of NRS 242.131.
+4 Sec. 12. NRS 242.071 is hereby amended to read as follows:
+5 242.071 1. The Legislature hereby determines and declares
+6 that the creation of the Governor’s Technology Office within the
+7 Office of the Governor is necessary for the secure, coordinated,
+8 orderly and economical processing of data and information in State
+9 Government, to ensure the secure and economical use of
+10 information systems and to prevent the unnecessary proliferation of
+11 equipment and personnel among the various state agencies.
+12 2. The purposes of the Office are:
+13 (a) To perform information services for [state] using agencies.
+14 (b) To provide technical advice but not administrative control of
+15 the information systems within the [state] using agencies . [and, as
+16 authorized, of local governmental agencies.]
+17 Sec. 13. NRS 242.080 is hereby amended to read as follows:
+18 242.080 1. The Governor’s Technology Office is hereby
+19 created within the Office of the Governor.
+20 2. The Office consists of the Chief Information Officer and:
+21 (a) The Director’s Office. The Chief is the head of the Director’s
+22 Office.
+23 (b) The Client Services Division.
+24 (c) The Computing Services Division.
+25 (d) The Network Services Division.
+26 (e) The Office of Information Security and Cyber Defense.
+27 (f) Other units, groups, divisions or departments deemed
+28 necessary by the Chief to the extent such functions are supported by
+29 the appropriations allocated to the functions of the Office.
+30 3. A Network Transport Services Unit and a Unified
+31 Communications Unit are hereby created within the Network
+32 Services Division of the Office.
+33 4. The Security Operations Center is hereby created within
+34 the Office of Information Security and Cyber Defense.
+35 Sec. 14. NRS 242.105 is hereby amended to read as follows:
+36 242.105 1. Except as otherwise provided in subsection 3,
+37 records and portions of records that are assembled, maintained,
+38 overseen or prepared by the Office to mitigate, prevent or respond to
+39 cybersecurity incidents or acts of terrorism, the public disclosure of
+40 which would, in the determination of the Chief, create a substantial
+41 likelihood of threatening the cybersecurity of a using agency or the
+42 safety of the general public are confidential and not subject to
+43 inspection by the general public to the extent that such records and
+44 portions of records consist of or include:
+-
+*AB1*
+
+– 8 –
+1 (a) Information regarding the infrastructure and security of
+2 information systems, including, without limitation:
+3 (1) Access codes, passwords and programs used to ensure the
+4 security of an information system;
+5 (2) Access codes used to ensure the security of software
+6 applications;
+7 (3) Procedures and processes used to ensure the security of
+8 an information system; and
+9 (4) Plans used to re-establish security and service with
+10 respect to an information system after security has been breached or
+11 service has been interrupted.
+12 (b) Assessments and plans that relate specifically and uniquely
+13 to the vulnerability of an information system or to the measures
+14 which will be taken to respond to such vulnerability, including,
+15 without limitation, any compiled underlying data necessary to
+16 prepare such assessments and plans.
+17 (c) The results of tests of the security of an information system,
+18 insofar as those results reveal specific vulnerabilities relative to the
+19 information system.
+20 2. The Chief shall maintain or cause to be maintained a list of
+21 each record or portion of a record that the Chief has determined to
+22 be confidential pursuant to subsection 1. The list described in this
+23 subsection must be prepared and maintained so as to recognize the
+24 existence of each such record or portion of a record without
+25 revealing the contents thereof.
+26 3. At least once each biennium, the Chief shall review the list
+27 described in subsection 2 and shall, with respect to each record or
+28 portion of a record that the Chief has determined to be confidential
+29 pursuant to subsection 1:
+30 (a) Determine that the record or portion of a record remains
+31 confidential in accordance with the criteria set forth in subsection 1;
+32 (b) Determine that the record or portion of a record is no longer
+33 confidential in accordance with the criteria set forth in subsection 1;
+34 or
+35 (c) If the Chief determines that the record or portion of a record
+36 is obsolete, cause the record or portion of a record to be disposed of
+37 in the manner described in NRS 239.073 to 239.125, inclusive.
+38 4. On or before February 15 of each year, the Chief shall:
+39 (a) Prepare a report setting forth a detailed description of each
+40 record or portion of a record determined to be confidential pursuant
+41 to this section, if any, accompanied by an explanation of why each
+42 such record or portion of a record was determined to be confidential;
+43 and
+44 (b) Submit a copy of the report to the Director of the Legislative
+45 Counsel Bureau for transmittal to:
+-
+*AB1*
+
+– 9 –
+1 (1) If the Legislature is in session, the standing committees
+2 of the Legislature which have jurisdiction of the subject matter; or
+3 (2) If the Legislature is not in session, the Legislative
+4 Commission.
+5 5. As used in this section, “act of terrorism” has the meaning
+6 ascribed to it in NRS 239C.030.
+7 Sec. 15. NRS 242.111 is hereby amended to read as follows:
+8 242.111 The Chief shall adopt regulations necessary for the
+9 administration of this chapter, including:
+10 1. The policy for the information systems of [the Executive
+11 Branch of Government, excluding the Nevada System of Higher
+12 Education and the Nevada Criminal Justice Information System,]
+13 using agencies, as that policy relates, but is not limited, to such
+14 items as standards for systems and programming and criteria for
+15 selection, location and use of information systems to meet the
+16 requirements of [state] using agencies and officers [at] in the [least
+17 cost to] best interests of the State [;] and using agencies;
+18 2. The procedures of the Office in providing information
+19 services, which may include provision for the performance, by [an]
+20 a using agency which uses the services or equipment of the Office,
+21 of preliminary procedures, such as data recording and verification,
+22 within the using agency;
+23 3. The effective administration of the Office, including,
+24 without limitation, security to prevent unauthorized access to
+25 information systems and plans for the recovery of systems and
+26 applications after they have been disrupted;
+27 4. The development of standards to ensure the security of the
+28 information systems of the [Executive Branch of Government;]
+29 using agencies;
+30 5. Specifications and standards for the employment of all
+31 personnel of the Office; and
+32 6. The policies and procedures necessary to coordinate the
+33 cybersecurity activities of state agencies and local governments.
+34 Sec. 16. NRS 242.131 is hereby amended to read as follows:
+35 242.131 1. The Office shall provide state agencies and
+36 elected state officers with all their required design of information
+37 systems. The Security Operations Center shall provide each state
+38 agency and elected state officer with cybersecurity services,
+39 including, without limitation, real-time monitoring of
+40 cyberinfrastructure, threat mitigation, incident response and
+41 cybersecurity enforcement. All agencies and officers must use those
+42 services and equipment, except as otherwise provided in
+43 subsection 2.
+44 2. The following agencies may negotiate with the Office for its
+45 services , including, without limitation, cybersecurity services,
+-
+*AB1*
+
+– 10 –
+1 including, without limitation, real-time monitoring of
+2 cyberinfrastructure, threat mitigation, incident response and
+3 cybersecurity enforcement, or the use of its equipment, subject to
+4 the provisions of this chapter, and the Office shall provide those
+5 services and the use of that equipment as may be mutually agreed:
+6 (a) The Court Administrator;
+7 (b) The Department of Motor Vehicles;
+8 (c) The Department of Public Safety;
+9 (d) The Department of Transportation;
+10 (e) The Employment Security Division of the Department of
+11 Employment, Training and Rehabilitation;
+12 (f) The Department of Wildlife;
+13 (g) The Housing Division of the Department of Business and
+14 Industry;
+15 (h) The Legislative Counsel Bureau;
+16 (i) The State Controller;
+17 (j) The Nevada Gaming Control Board and Nevada Gaming
+18 Commission; [and]
+19 (k) The Nevada System of Higher Education [.] ; and
+20 (l) Any local governmental agency.
+21 3. Any state agency or elected state officer who uses the
+22 services of the Office and desires to withdraw substantially from
+23 that use must apply to the Chief for approval. The application must
+24 set forth justification for the withdrawal. If the Chief denies the
+25 application, the agency or officer must:
+26 (a) If the Legislature is in regular or special session, obtain the
+27 approval of the Legislature by concurrent resolution.
+28 (b) If the Legislature is not in regular or special session, obtain
+29 the approval of the Interim Finance Committee. The Chief shall,
+30 within 45 days after receipt of the application, forward the
+31 application together with his or her recommendation for approval or
+32 denial to the Interim Finance Committee. The Interim Finance
+33 Committee has 45 days after the application and recommendation
+34 are submitted to its Secretary within which to consider the
+35 application. Any application which is not considered by the
+36 Committee within the 45-day period shall be deemed approved.
+37 4. Any local governmental agency which has entered into an
+38 agreement to use the equipment or services of the Office and
+39 desires to withdraw substantially from that use must apply to the
+40 Chief for approval. The application must set forth the justification
+41 for the withdrawal.
+42 5. If the demand for services or use of equipment exceeds the
+43 capability of the Office to provide them, the Office may contract
+44 with other agencies or independent contractors to furnish the
+-
+*AB1*
+
+– 11 –
+1 required services or use of equipment and is responsible for the
+2 administration of the contracts.
+3 Sec. 17. NRS 242.151 is hereby amended to read as follows:
+4 242.151 The Chief shall advise the using agencies regarding:
+5 1. The policy for information services of the [Executive Branch
+6 of Government,] Office, as that policy relates, but is not limited, to
+7 such items as standards for systems and programming and criteria
+8 for the selection, location and use of information systems in order
+9 that the requirements of [state agencies and officers] using agencies
+10 may be met [at the least cost to] in the best interests of the State;
+11 2. The procedures in performing information services; and
+12 3. The effective administration and use of the computer
+13 facility, including security to prevent unauthorized access to data,
+14 information and plans for the recovery of systems and applications
+15 after they have been disrupted.
+16 Sec. 18. NRS 242.161 is hereby amended to read as follows:
+17 242.161 1. All equipment of [an agency or elected state
+18 officer] a using agency which is owned or leased by the State must
+19 be under the managerial control of the Office, except the equipment
+20 of the agencies and officers specified in subsection 2 of
+21 NRS 242.131.
+22 2. The Office may permit [an] a using agency which is
+23 required to use such equipment to operate it on the using agency’s
+24 premises.
+25 3. The Security Operations Center shall not assume
+26 operational control of the equipment or software systems of a
+27 using agency. Before providing services, the Security Operations
+28 Center shall provide to the using agency standards and policies for
+29 the equipment or software systems to be deployed by the Security
+30 Operations Center, which must be agreed upon in writing.
+31 Sec. 19. NRS 242.171 is hereby amended to read as follows:
+32 242.171 1. The Office is responsible for:
+33 (a) The applications of information systems;
+34 (b) Designing and placing those information systems in
+35 operation;
+36 (c) Any application of an information system which it furnishes
+37 to [state] using agencies [and officers] after negotiation; and
+38 (d) The security validation, testing, including, without
+39 limitation, penetration testing, and continuous monitoring of
+40 information systems,
+41  for using agencies . [and for state agencies and officers which use
+42 the equipment or services of the Office pursuant to subsection 2 of
+43 NRS 242.131.]
+44 2. The Chief shall review and approve or disapprove, pursuant
+45 to standards for justifying cost, any application of an information
+-
+*AB1*
+
+– 12 –
+1 system having an estimated developmental cost of $50,000 or more.
+2 No using agency may commence development work on any such
+3 applications until approval and authorization have been obtained
+4 from the Chief.
+5 3. As used in this section, “penetration testing” means a
+6 method of evaluating the security of an information system or
+7 application of an information system by simulating unauthorized
+8 access to the information system or application.
+9 Sec. 20. NRS 242.181 is hereby amended to read as follows:
+10 242.181 1. Any [state agency or elected state officer] using
+11 agency which uses the equipment or services of the Office shall
+12 adhere to the regulations, standards, practices, policies and
+13 conventions of the Office.
+14 2. Each [state] using agency [or elected state officer described
+15 in subsection 1] shall report any suspected incident of:
+16 (a) [Unauthorized access to an information system or application
+17 of an information system of the Office used by the state agency or
+18 elected state officer; and] A data breach;
+19 (b) A distributed denial of service incident;
+20 (c) A ransomware incident;
+21 (d) Any other incident that disrupts the delivery or essential
+22 services for more than 1 business day or directly affects life or
+23 property; or
+24 (e) Noncompliance with the regulations, standards, practices,
+25 policies and conventions of the Office that is identified by the Office
+26 as security-related,
+27  to the Office of Information Security and Cyber Defense of the
+28 Office and the Security Operations Center within 24 hours after
+29 discovery of the suspected incident. If the Office of Information
+30 Security and Cyber Defense , in consultation with the Security
+31 Operations Center, determines that an incident of unauthorized
+32 access or noncompliance occurred, it shall immediately report the
+33 incident to the Chief. The Chief shall assist in the investigation and
+34 resolution of any such incident.
+35 3. A report submitted by a using agency pursuant to
+36 subsection 2 must contain the following information:
+37 (a) The date and time of the incident;
+38 (b) The type of incident;
+39 (c) The type of information system or data affected by the
+40 incident;
+41 (d) The known and projected impact of the incident to the
+42 using agency;
+43 (e) Whether law enforcement, a regulatory body or any other
+44 entity that could be affected by the incident has been notified, as
+45 applicable; and
+-
+*AB1*
+
+– 13 –
+1 (f) Any additional resources needed by the using agency to
+2 respond to the incident, as applicable.
+3 4. The Chief may establish a uniform reporting system if the
+4 Office and Security Operations Center are organizationally
+5 collocated.
+6 5. The Office shall provide services to each [state] using
+7 agency [and elected state officer described in subsection 1]
+8 uniformly with respect to degree of service, priority of service,
+9 availability of service and cost of service.
+10 Sec. 21. NRS 242.183 is hereby amended to read as follows:
+11 242.183 1. The Deputy Director of the Office of Information
+12 Security and Cyber Defense , in consultation with the Security
+13 Operations Center, shall investigate and resolve any breach of an
+14 information system of a [state] using agency [or elected officer that
+15 uses the equipment or services of the Governor’s Technology
+16 Office] or an application of such an information system or
+17 unauthorized acquisition of computerized data that materially
+18 compromises the security, confidentiality or integrity of such an
+19 information system.
+20 2. The Chief Information Officer or Deputy Director of the
+21 Office of Information Security and Cyber Defense, at his or her
+22 discretion, may inform members of the Nevada Commission on
+23 Homeland Security created by NRS 239C.120 and the Information
+24 Technology Advisory Board created by NRS 242.122 of any breach
+25 of an information system of a [state] using agency [or elected
+26 officer] or application of such an information system or
+27 unauthorized acquisition of computerized data or information that
+28 materially compromises the security, confidentiality or integrity of
+29 such an information system.
+30 3. If a state of emergency or declaration of disaster is
+31 proclaimed by the Governor pursuant to NRS 414.070 concerning
+32 a critical cybersecurity incident, the Governor may authorize the
+33 information technology personnel of using agencies of the
+34 Executive Branch to report directly to the Chief.
+35 Sec. 22. NRS 242.191 is hereby amended to read as follows:
+36 242.191 1. Except as otherwise provided in subsection 3, the
+37 amount receivable from a [state] using agency [or officer or local
+38 governmental agency] which uses the services or equipment of the
+39 Office must be determined by the Chief in each case and include:
+40 (a) The annual expense, including depreciation, of operating and
+41 maintaining the Network Services Division [,] and the cybersecurity
+42 services provided by the Security Operations Center, distributed
+43 among the agencies in proportion to the services performed for each
+44 agency.
+-
+*AB1*
+
+– 14 –
+1 (b) A service charge in an amount determined by distributing the
+2 monthly installment for the construction costs of the computer
+3 facility among the agencies in proportion to the services performed
+4 for each agency.
+5 2. The Chief shall prepare and submit monthly to the [state
+6 agencies and officers and local governmental] using agencies for
+7 which services of the Office have been performed an itemized
+8 statement of the amount receivable from each [state] using agency .
+9 [or officer or local governmental agency.]
+10 3. The Chief may authorize, if in his or her judgment the
+11 circumstances warrant, a fixed cost billing, including a factor for
+12 depreciation, for services rendered to a [state] using agency . [or
+13 officer or local governmental agency.]
+14 Sec. 23. NRS 242.211 is hereby amended to read as follows:
+15 242.211 1. The Fund for Information Services is hereby
+16 created as an internal service fund. Money from the Fund must be
+17 paid out on claims as other claims against the State are paid. The
+18 claims must be made in accordance with budget allotments and are
+19 subject to postaudit examination and approval.
+20 2. All operating, maintenance, rental, repair and replacement
+21 costs of equipment and all salaries of personnel assigned to the
+22 Office must be paid from the Fund.
+23 3. Each using agency using the services or equipment of the
+24 Office shall pay a fee for that use to the Fund, which must be set by
+25 the Chief in an amount sufficient to reimburse the Office for the
+26 entire cost of providing those services, including overhead. Each
+27 using agency shall budget for those services. All fees, proceeds from
+28 the sale of equipment and any other money received by the Office
+29 must be deposited with the State Treasurer for credit to the Fund.
+30 Sec. 24. 1. There is hereby appropriated from the State
+31 General Fund to the Office of Finance in the Office of the Governor
+32 for the Governor’s Technology Office within the Office of the
+33 Governor for investments related to cybersecurity the following
+34 sums:
+35 For the Fiscal Year 2025-2026 ............................... $6,573,067
+36 For the Fiscal Year 2026-2027 ............................... $3,420,682
+37 2. Any balance of the sums appropriated by subsection 1
+38 remaining at the end of the respective fiscal years must not be
+39 committed for expenditure after June 30 of the respective fiscal
+40 years by the entity to which the appropriation is made or any entity
+41 to which money from the appropriation is granted or otherwise
+42 transferred in any manner, and any portion of the appropriated
+43 money remaining must not be spent for any purpose after
+44 September 18, 2026, and September 17, 2027, respectively, by
+45 either the entity to which the money was appropriated or the entity
+-
+*AB1*
+
+– 15 –
+1 to which the money was subsequently granted or transferred, and
+2 must be reverted to the State General Fund on or before
+3 September 18, 2026, and September 17, 2027, respectively.
+4 Sec. 25. 1. There is hereby appropriated from the State
+5 General Fund to the Office of Finance in the Office of the Governor
+6 for a loan to the Governor’s Technology Office within the Office of
+7 the Governor to cover a shortfall in revenues for the Client Services
+8 Division within the Governor’s Technology Office the following
+9 sums:
+10 For the Fiscal Year 2025-2026 ............................... $1,005,840
+11 For the Fiscal Year 2026-2027 ............................... $1,359,317
+12 2. The amounts appropriated by subsection 1 are loans.
+13 Commencing on July 1, 2027, the Chief Information Officer shall
+14 use revenues from intergovernmental transfers to repay the loan in
+15 annual installments to the State Treasurer for deposit in the State
+16 General Fund. Each annual installment must be 25 percent of the
+17 loan, and the loan must be fully repaid not later than the end of
+18 Fiscal Year 2030-2031.
+19 3. Any balance of the sums appropriated by subsection 1
+20 remaining at the end of the respective fiscal years must not be
+21 committed for expenditure after June 30 of the respective fiscal
+22 years by the entity to which the appropriation is made or any entity
+23 to which money from the appropriation is granted or otherwise
+24 transferred in any manner, and any portion of the appropriated
+25 money remaining must not be spent for any purpose after
+26 September 18, 2026, and September 17, 2027, respectively, by
+27 either the entity to which the money was appropriated or the entity
+28 to which the money was subsequently granted or transferred, and
+29 must be reverted to the State General Fund on or before
+30 September 18, 2026, and September 17, 2027, respectively.
+31 Sec. 26. 1. There is hereby appropriated from the State
+32 General Fund to the Office of Finance in the Office of the Governor
+33 for a loan to the Governor’s Technology Office within the Office of
+34 the Governor to cover a shortfall in revenues for the Computing
+35 Services Division within the Governor’s Technology Office the
+36 following sums:
+37 For the Fiscal Year 2025-2026 ............................... $1,063,637
+38 For the Fiscal Year 2026-2027 ............................... $1,063,637
+39 2. The amounts appropriated by subsection 1 are loans.
+40 Commencing on July 1, 2027, the Chief Information Officer shall
+41 use revenues from intergovernmental transfers to repay the loan in
+42 annual installments to the State Treasurer for deposit in the State
+43 General Fund. Each annual installment must be 25 percent of the
+44 loan, and the loan must be fully repaid not later than the end of
+45 Fiscal Year 2030-2031.
+-
+*AB1*
+
+– 16 –
+1 3. Any balance of the sums appropriated by subsection 1
+2 remaining at the end of the respective fiscal years must not be
+3 committed for expenditure after June 30 of the respective fiscal
+4 years by the entity to which the appropriation is made or any entity
+5 to which money from the appropriation is granted or otherwise
+6 transferred in any manner, and any portion of the appropriated
+7 money remaining must not be spent for any purpose after
+8 September 18, 2026, and September 17, 2027, respectively, by
+9 either the entity to which the money was appropriated or the entity
+10 to which the money was subsequently granted or transferred, and
+11 must be reverted to the State General Fund on or before
+12 September 18, 2026, and September 17, 2027, respectively.
+13 Sec. 27. 1. There is hereby appropriated from the State
+14 General Fund to the Office of Finance in the Office of the Governor
+15 for a loan to the Governor’s Technology Office within the Office of
+16 the Governor to cover a shortfall in revenues for the Office of
+17 Information Security and Cyber Defense within the Governor’s
+18 Technology Office the following sums:
+19 For the Fiscal Year 2025-2026 .................................. $184,018
+20 For the Fiscal Year 2026-2027 .................................... $70,431
+21 2. The amounts appropriated by subsection 1 are loans.
+22 Commencing on July 1, 2027, the Chief Information Officer shall
+23 use revenues from intergovernmental transfers to repay the loan in
+24 annual installments to the State Treasurer for deposit in the State
+25 General Fund. Each annual installment must be 25 percent of the
+26 loan, and the loan must be fully repaid not later than the end of
+27 Fiscal Year 2030-2031.
+28 3. Any balance of the sums appropriated by subsection 1
+29 remaining at the end of the respective fiscal years must not be
+30 committed for expenditure after June 30 of the respective fiscal
+31 years by the entity to which the appropriation is made or any entity
+32 to which money from the appropriation is granted or otherwise
+33 transferred in any manner, and any portion of the appropriated
+34 money remaining must not be spent for any purpose after
+35 September 18, 2026, and September 17, 2027, respectively, by
+36 either the entity to which the money was appropriated or the entity
+37 to which the money was subsequently granted or transferred, and
+38 must be reverted to the State General Fund on or before
+39 September 18, 2026, and September 17, 2027, respectively.
+40 Sec. 28. The provisions of NRS 218D.380 do not apply to any
+41 provision of this act which adds or revises a requirement to submit a
+42 report to the Legislature.
+43 Sec. 29. Notwithstanding the provisions of NRS 218D.430 and
+44 218D.435, a committee may vote on this act before the expiration of
+45 the period prescribed for the return of a fiscal note in
+-
+*AB1*
+
+– 17 –
+1 NRS 218D.475. This section applies retroactively from and after
+2 November 13, 2025.
+3 Sec. 30. NRS 242.141 is hereby repealed.
+4 Sec. 31. This act becomes effective upon passage and
+5 approval.
+TEXT OF REPEALED SECTION
+242.141 Services provided for agencies not under
+Governor’s control and local governmental agencies. To
+facilitate the economical processing of data or information
+throughout the State Government, the Office may provide service
+for agencies not under the control of the Governor, upon the request
+of any such agency. The Office may provide services, including,
+without limitation, purchasing services, to a local governmental
+agency upon request, if provision of such services will result in
+reduced costs to the State for equipment and services.
+H
+-
+*AB1*
+
+[DELETED: BN.1SC I O E O E EWN1,2 O  p r t g ( EE A r t g a c a t O o I S a C O C a p t u o t p a a r t a t t d t C T P r t p o t G T O m v o r t t c o g m a a p oE]
+[DELETED: – ( 2 S 1 t c t S OE o w c s i r m o t m i r a c O p t s 1 S 1 o t b a tS a ( e a c a r r t a cSS t O o I S a C D t e a c o i r t c t oSS 7 o t b p t t p o t N RT t e t f i a s 8 o t b r tS 9 o t b a t d o “ s a]
+[DELETED: – t m i r a cE b r t d a d t i pEE l r t C t a c r r t r t C t a c r r t iEE ( 2 S 1 o t b ( p i t a a ( r t S O C t p t a uSS c o t O a ( e u a t r c r t c s i t t O o IE a s a o e o t t e s o t T O ( 2 S 2 t r t t D D i c w t S OE t c e i a t o m e o m a i s 2 a t G t a tE l g a w u t s o t G]
+[DELETED: –S 2 o t b r e u a u t s oSS 1  CS 2  1  T S O C s d( C( P( E a c a r r t a2  T p a p d p t( A r t a u a n t S C o a s o i t t t( A( A s f d o p f( T t a r t e o a s p a r f t]
+[DELETED: –S 3  I a u a d n c w t p a p d b t S a o o a r o t uS 4  1  T h c i t S G F T C m2  T m i t A m o b u f t3  T4  T p f g f f t p o c w m e e d o t5  A i e o t m i t A a6  A c a t A m b p a o7  AS 5  T 2 t e c a c oS 6  1  O C s p a r a t o t S O C r t i( A s o t p m b t S C d t i p y i( A t S O C d t i( A s o t g a o o t S]
+[DELETED: –( A s o a i p c t t( A o i t t C d i2  T r r p t s 1 m b n l t J 1 o e y t t GS 7  N A i a e i w t gS 8  T1  T N S o H E d t T P P T P m a s f t c d o s i t2  T P m p o f sS 9  N2  “ TS 1  N2  “1  A2  TS 1  N2  “ a f r t u o i t1  A t s a e o t O p t]
+[DELETED: –2  A n w t O f i s o eS 1  N2  1  T L h d a d o t G i n f t s c t e t s a e u o2  T( T( TS 1  N2  1  T G T O i h2  T( T( T( T( T( T( O u g d o d d3  A N T S U a a U U a h c w t N4  T S O C i h c wS 1  N2  1  E a o p i s 3 a p o r t a a m o t g p a c a n s t]
+[DELETED: –( I r t i a s o ( A ( A c u t e t s o s ( P ( P u t r s a s w( A t v o a i s o t t m w b t t r t s v i l a c u d n t( T2  T o e s r o p o a r w3  A( D t t r o p o a r r( D( I4  O( P( S]
+[DELETED: – ( I ( I t L i n i s t L5  AS 1  N2  T C s a r n f t1  T p f t i s o [ E o G e t N S o H a t N C J I S a a p r b i n l t s a s f s a p a c f l a u o i s t m t2  T p o t O i p i3  T e a o t O i l s t p u a t s a p f t r o s a4  T s o t [ B o G5  S a s f t e o a6  T p a p n t c tS 1  N2  1  T O s p s a a a e s o w c s w l r m o t m i r a a e e a o p i2  T , i w l c s]
+[DELETED: – w l r m o t m i r a p o t c a t O s t( T( T( T( T( T E S D o t D o( T( T H D o t D o B a( T( T( T N G C B a N G( T( A3  A s a o e s o w u t o t O a d t w f f j f t w I t C d t( I( I a o t I F C T C s 4 d a r o t a f t t t I F C T I F s t i S w w t c t A a w i n c b t4  A t u t e o s o t O a5  I o a o i c t f t]
+[DELETED: – s o u o e a i r f tS 1  N2  T1  T2  T3  T e a a u o t cS 1  N2  1  A e o [ a o e s t a a o s i s 2 o2  T O m p [ a u a w i3  T S O C s n a c o t e o s s o aS 1  N2  1  T( T( D a p t i s i( A( T s v t i w p t a c m o2  T]
+[DELETED: – u a a a h b o3  A u i t s “ t m a o e t s o a i s o o a i s b s uS 2  N2  1  A w u t e o s o t O s t t r s p p a2  E( [( A( A( A o i t d t d o e 1 o a l o( N w t r s p o t s i I t O o I a C D , i c w t S C d t a i o u3  A r s b a u a p t( T( T( T t o i s o d a b t( T k a p i o t i t t( W]
+[DELETED: –( A a r n b t u a t4  T a S O C a o5  T O s p s t e [ u [ e s o d i s 1 w r t d o s p o sS 2  N2  1  T a C D , i c w t S t e o s o t G T o a a o s a i s o a o c d t m t s c o i o s a2  T C I O o D D o t o I S a C D a h o h m i m o t N C o a i s o a [ u a [ e o a o s a i s o3  I a s o e o d o d i t p o u a o tS 2  N2  1  E( T p b t S O C d]
+[DELETED: –( A i f t c c o t c2  T C s p a s m t t [ a a g u a f s o t O h b p a i3  T C m a i i h o h j t [S 2  N2  1  T F f I S i h2  A o m r r a r o e a a s o p a t t3  E c o p t s i o ES 2  1  T i h a f t S t G T O w t O o t f i r t c t f2  A b o t s a b s 1 a t e o t r f y m n b f e a J 3 o t r f w m f t a i g o o i a m a a p o t a r m n b s f a p a 1 2 a S 1 2 r b]
+[DELETED: – b r t t S G F o o bS 2  1  T i h a f t S w t G T O t f2  T a a b s 1 a l a t m b f r l t3  A b o t s a b s 1 a t e o t r f y m n b f e a J 3 o t r f w m f t a i g o o i a m a a p o t a r m n b s f a p a 1 2 a S 1 2 r b b r t t S G F o o bS 2  1  T i h a f t S G t c a s i r f t C D w t G T O t2  T a a b s 1 a l a t m b f r l t]
+[DELETED: –3  A b o t s a b s 1 a t e o t r f y m n b f e a J 3 o t r f w m f t a i g o o i a m a a p o t a r m n b s f a p a 1 2 a S 1 2 r b b r t t S G F o o bS 2  1  T i h a f t S G t c a s i r f t O o S a C D w t G2  T a a b s 1 a l a t m b f r l t3  A b o t s a b s 1 a t e o t r f y m n b f e a J 3 o t r f w m f t a i g o o i a m a a p o t a r m n b s f a p a 1 2 a S 1 2 r b b r t t S G F o o bS 2  TS 2  N p p f t r o a f n i]
+[DELETED: – 2 T s a r f a aS 3  NS 3  T a b e u p a2  S p f a n u c a l g a  T t e p o d o i a s a T m p s i l p s t a l g u r i p o s s w r i]
