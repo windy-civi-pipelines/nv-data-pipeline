@@ -1,0 +1,16 @@
+{
+  "action": {
+    "description": "From printer.\rRead first time. To committee.\rFrom committee: Amend, and do pass as amended.\rPlaced on Second Reading File.\rDeclared an emergency measure under the Constitution.\rRead second time. Amended. (Amend. No. 1.)\rReprinting dispensed with.\rPlaced on General File.\rRead third time. Passed, as amended. Title approved, as amended. (Yeas:\u00a021, Nays:\u00a0None.) To printer.",
+    "date": "2025-11-13T08:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage",
+      "passage",
+      "reading-1",
+      "reading-2",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB3"
+}

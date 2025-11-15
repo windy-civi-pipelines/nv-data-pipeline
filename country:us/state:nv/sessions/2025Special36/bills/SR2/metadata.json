@@ -27,6 +27,18 @@
       "_processing": {
         "log_file_created": "2025-11-14T03:19:17Z"
       }
+    },
+    {
+      "description": "From printer. To enrollment.",
+      "date": "2025-11-14T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-15T03:13:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -59,6 +71,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Enrolled",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/SR/SR2_EN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -79,7 +102,7 @@
     "division_id": "ocd-division/country:us/state:nv"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-14T03:19:17Z",
+    "logs_latest_update": "2025-11-15T03:13:18Z",
     "text_extraction_latest_update": "2025-11-14T08:16:20.214658Z"
   }
 }

@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Read first time. Referred to Committee on Public Safety and Security. To printer.\rFrom printer. To committee.",
+    "date": "2025-11-14T08:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB6"
+}

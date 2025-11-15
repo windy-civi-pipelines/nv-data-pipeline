@@ -11,7 +11,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "AN ACT relating to public assistance; establishing the Silver State General Assistance Program within the Division of Social Services of the Department of Human Services; setting forth the powers and duties of the Administrator of the Division relating to the Program; creating the Account for the Silver State General Assistance Program; authorizing a transfer to that Account from the unrestricted balance of the State General Fund under certain circumstances; making appropriations; and providing other matters properly relating thereto."
+      "title": "AN ACT relating to public assistance; establishing the Silver State General Assistance Program within the Division of Social Services of the Department of Human Services; setting forth the powers and duties of the Administrator of the Division relating to the Program; creating the Account for the Silver State General Assistance Program; authorizing a transfer to that Account from the unrestricted balance of the State General Fund under certain circumstances; and providing other matters properly relating thereto."
     }
   ],
   "other_identifiers": [],
@@ -27,15 +27,29 @@
       }
     },
     {
-      "description": "From printer.\rRead first time. To committee.",
+      "description": "From printer.\rRead first time. To committee.\rFrom committee: Amend, and do pass as amended.\rPlaced on Second Reading File.\rDeclared an emergency measure under the Constitution.\rRead second time. Amended. (Amend. No. 1.)\rReprinting dispensed with.\rPlaced on General File.\rRead third time. Passed, as amended. Title approved, as amended. (Yeas:\u00a021, Nays:\u00a0None.) To printer.",
       "date": "2025-11-13T08:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "reading-1"
+        "committee-passage",
+        "passage",
+        "reading-1",
+        "reading-2",
+        "reading-3"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-14T03:19:17Z"
+        "log_file_created": "2025-11-15T03:13:18Z"
+      }
+    },
+    {
+      "description": "From printer. To engrossment. Engrossed. First reprint.\rTo Assembly.",
+      "date": "2025-11-14T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-15T03:13:18Z"
       }
     }
   ],
@@ -56,6 +70,28 @@
       "links": [
         {
           "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/SB/SB3.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 1",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/Amendments/A_SB3_1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reprint 1",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/SB/SB3_R1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -93,7 +129,7 @@
     "division_id": "ocd-division/country:us/state:nv"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-14T03:19:17Z",
+    "logs_latest_update": "2025-11-15T03:13:18Z",
     "text_extraction_latest_update": "2025-11-14T08:17:27.523052Z"
   }
 }
