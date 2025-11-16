@@ -11,7 +11,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "AN ACT relating to governmental administration; creating and setting forth the duties of the Security Operations Center within the Office of Information Security and Cyber Defense within the Governor's Technology Office within the Office of the Governor; creating the Account for the Security Operations Center and prescribing the use of money in the Account; requiring the Security Operations Center to prepare an annual report that assesses the effectiveness of the Security Operations Center; requiring the Security Operations Center, to the extent funding is available, to develop the Cybersecurity Talent Pipeline Program; revising the purpose of the Governor's Technology Office; authorizing the board of trustees of a school district to use the services and equipment of the Governor's Technology Office; making various other changes relating to the cybersecurity of governmental entities; making appropriations; and providing other matters properly relating thereto."
+      "title": "AN ACT relating to governmental administration; providing that a meeting between an agency or officer of the Executive Department of the State Government and the Legislature concerning certain topics relating to cybersecurity is not subject to the Open Meeting Law; prohibiting the disclosure of certain information and materials received during or prepared for such a meeting; creating and setting forth the duties of the Security Operations Center within the Office of Information Security and Cyber Defense within the Governor's Technology Office within the Office of the Governor; creating the Account for the Security Operations Center and prescribing the use of money in the Account; requiring the Security Operations Center to prepare an annual report that assesses the effectiveness of the Security Operations Center; requiring the Security Operations Center, to the extent funding is available, to develop the Cybersecurity Talent Pipeline Program; revising the purpose of the Governor's Technology Office; authorizing the board of trustees of a school district to use the services and equipment of the Governor's Technology Office; making various other changes relating to the cybersecurity of governmental entities; making appropriations; and providing other matters properly relating thereto."
     }
   ],
   "other_identifiers": [],
@@ -40,6 +40,22 @@
       "_processing": {
         "log_file_created": "2025-11-14T03:19:17Z"
       }
+    },
+    {
+      "description": "From committee: Amend, and do pass as amended.\rDeclared an emergency measure under the Constitution.\rRead third time. Amended. (Amend. No. 11.)\rDispensed with reprinting.\rRead third time. Passed, as amended. Title approved, as amended. (Yeas:\u00a042, Nays:\u00a0None.)\rTo printer.\rFrom printer. To engrossment. Engrossed. First reprint.\rTo Senate.\rIn Senate.\rRead first time. Referred to Committee on Public Safety and Security. To committee.",
+      "date": "2025-11-15T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "passage",
+        "reading-1",
+        "reading-3",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-16T03:25:07Z"
+      }
     }
   ],
   "sponsorships": [
@@ -64,9 +80,76 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment 11",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/Amendments/A_AB1_11.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reprint 1",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/AB/AB1_R1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "AB1 Work Session Document and Amendment",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79366&fileDownloadName=AB1_WS_doc.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Securing & Modernizing \"One Nevada\" 2026 Special Session Briefing - submitted by Governor's Technology Office",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79320&fileDownloadName=AB1_1113_GTOSPECIAL_pres.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "After Action Report 2025 Statewide Cyber Incident - submitted by Governor's Technology Office",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79318&fileDownloadName=AB1_1113_GTOStatewideCyberEventAARFinal.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB1 Support Letter - submitted by Kivanc Oner, Vice President for Digital Transformation and Chief Informational Officer at UNLV (AB1)",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79328&fileDownloadName=AB1_1113_Oner.K_supltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -84,7 +167,7 @@
     "division_id": "ocd-division/country:us/state:nv"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-14T03:19:17Z",
+    "logs_latest_update": "2025-11-16T03:25:07Z",
     "text_extraction_latest_update": "2025-11-14T08:16:36.299999Z"
   }
 }

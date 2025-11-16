@@ -11,7 +11,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "AN ACT relating to public safety; revising provisions relating to assault, battery, stalking, child sexual abuse material, domestic violence and driving under the influence of alcohol or a prohibited substance; requiring a compliance hearing after the issuance of certain orders to relinquish firearms; establishing certain unlawful acts relating to certain theft offenses involving property damage; revising provisions relating to offenders; establishing provisions relating to the creation of corridors and the adjudication and reporting of certain offenses committed within such corridors; making various changes relating to juvenile justice; prohibiting the construction of certain findings relating to actions for wrongful conviction; revising provisions relating to the sealing of records and specialty court programs; revising provisions relating to pretrial release; authorizing the Director of the Department of Corrections to establish an alternative correctional program; revising provisions relating to opioid use disorder; making appropriations; providing penalties; and providing other matters properly relating thereto."
+      "title": "AN ACT relating to public safety; revising provisions relating to assault, battery, stalking, child sexual abuse material, domestic violence and driving under the influence of alcohol or a prohibited substance; requiring a compliance hearing after the issuance of certain orders to relinquish firearms; establishing certain unlawful acts relating to certain theft offenses involving property damage; revising provisions relating to offenders; establishing provisions relating to the creation of corridors and the adjudication and reporting of certain offenses committed within such corridors; making various changes relating to juvenile justice; prohibiting the construction of certain findings relating to actions for wrongful conviction; revising provisions relating to the sealing of records and specialty court programs; revising provisions relating to pretrial release; authorizing the Director of the Department of Corrections to establish an alternative correctional program; requiring certain city and county jails and detention centers to automatically notify consular posts regarding the detention of certain prisoners; revising provisions relating to opioid use disorder; making appropriations; providing penalties; and providing other matters properly relating thereto."
     }
   ],
   "other_identifiers": [],
@@ -40,6 +40,19 @@
       "_processing": {
         "log_file_created": "2025-11-14T03:19:17Z"
       }
+    },
+    {
+      "description": "From committee: Amend, and do pass as amended.\rPlaced on Second Reading File.\rRead second time. Amended. (Amend. No. 13.) To printer.",
+      "date": "2025-11-15T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-16T03:25:07Z"
+      }
     }
   ],
   "sponsorships": [
@@ -64,9 +77,251 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment 13",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/Amendments/A_AB4_13.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 5",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/Amendments/A_AB4_5.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reprint 1",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/AB/AB4_R1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "AB4 Work Session Document",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79419&fileDownloadName=AB4_WS_doc.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB4 Opposition Letter - submitted by Alicia L. Lerud, District Court Administrator, Second Judicial District Court",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79420&fileDownloadName=AB4_1113_Ferrato.J_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB4 Opposition Letter - submitted by Liz Hernandez, Private Citizen",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79415&fileDownloadName=AB4_1113_Hernandez.L_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB4 Support Letter - submitted by Alberto Gonzalez, Private Citizen",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79414&fileDownloadName=AB4_1113_Gonzalez.A_supltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB4 Opposition Letter - submitted by Erika Marquez, Private Citizen",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79395&fileDownloadName=AB4_1113_Marquez.E_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB4 Opposition Letter - submitted by Timothy Havens Jr. Esq., Private Citizen",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79394&fileDownloadName=AB4_1113_Havens.T_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB4 Opposition Letter - submitted by Caitlin Gatchalian, Private Citizen",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79385&fileDownloadName=AB4_1113_Gatchalian.C_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB4 Opposition Letter - submitted by Zarinah Washington, Private Citizen",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79382&fileDownloadName=AB4_1113_Washington.Z_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB4 Opposition Letter - submitted by Lesly Silva, Private Citizen",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79381&fileDownloadName=AB4_1113_Silva.L_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB4 Opposition Letter - submitted by Angeles Reyes, Private Citizen",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79380&fileDownloadName=AB4_1113_Reyes.A_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB4 Opposition Letter - submitted by Thomas L. Qualls, Deputy Alternate Public Defender, Washoe County",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79379&fileDownloadName=AB4_1113_Qualls.T_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB4 Opposition Letter - submitted by Maria Navarrete, Private Citizen",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79378&fileDownloadName=AB4_1113_Navarette.M_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB4 Opposition Letter - submitted by Natalie Muratalla, Private Citizen",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79377&fileDownloadName=AB4_1113_Muratalla.N_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB4 Testimony in Support - submitted by William Horne on behalf of SafeNest",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79376&fileDownloadName=AB4_1113_Horne.W_testsup.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB4 Opposition Letter - submitted by Karen L. Hanks, Private Citizen",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79375&fileDownloadName=AB4_1113_Hanks.K_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB4 Opposition Letter - submitted by Juanito H., Private Citizen",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79374&fileDownloadName=AB4_1113_H.J_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB4 Opposition Letter - submitted by Yvonne Efverlund, Private Citizen",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79373&fileDownloadName=AB4_1113_Efverlund.Y_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB4 Support Letter - submitted by Darin Balaam, Sheriff, Washoe County Sheriff's Office",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79372&fileDownloadName=AB4_1113_Colacurcio.J_supltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB4 Opposition Letter - submitted by Kelly Brill, Private Citizen",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79371&fileDownloadName=AB4_1113_Brill.K_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "AB4 Opposition Letter - submitted by Bryant Barrera Carmona, Private Citizen",
       "links": [
@@ -206,7 +461,7 @@
     "division_id": "ocd-division/country:us/state:nv"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-14T03:19:17Z",
+    "logs_latest_update": "2025-11-16T03:25:07Z",
     "text_extraction_latest_update": "2025-11-14T08:17:07.986104Z"
   }
 }

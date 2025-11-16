@@ -1,7 +1,7 @@
 {
   "action": {
-    "description": "From printer.\rResolution read and adopted. To Senate.\rIn Senate.\rResolution read and adopted. To Assembly.",
-    "date": "2025-11-13T08:00:00+00:00",
+    "description": "In Assembly. To enrollment.",
+    "date": "2025-11-14T08:00:00+00:00",
     "organization_id": "~{\"classification\": \"lower\"}",
     "classification": [
       "passage"

@@ -43,13 +43,29 @@
       }
     },
     {
-      "description": "From printer. To engrossment. Engrossed. First reprint.\rTo Assembly.",
+      "description": "From printer. To engrossment. Engrossed. First reprint.\rTo Assembly.\rIn Assembly.\rRead first time.\rReferred to Select Committee on Health and Wellness.\rTo committee.",
       "date": "2025-11-14T08:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
+      "classification": [
+        "reading-1"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-15T03:13:18Z"
+        "log_file_created": "2025-11-16T03:25:07Z"
+      }
+    },
+    {
+      "description": "From committee: Do pass.\rDeclared an emergency measure under the Constitution.\rRead third time. Passed. Title approved. (Yeas:\u00a042, Nays:\u00a0None.) To Senate.",
+      "date": "2025-11-15T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-16T03:25:07Z"
       }
     }
   ],
@@ -101,6 +117,61 @@
   ],
   "documents": [
     {
+      "note": "SB3 Support Letter - submitted by Amber Falgout, Communications Director, Battle Born Progress",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79503&fileDownloadName=SB3_1115_Falgout.A_supltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB3 Support Letter - Submitted by Children's Advocacy Alliance",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79515&fileDownloadName=SB3_1115_CAA_supltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB3 Support Letter - submitted by Nevada State Education Association",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79502&fileDownloadName=SB3_1115_NSEA_supltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB3 Support Letter - submitted by One APIA Nevada",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79499&fileDownloadName=SB3_1115_OneAPIA_supltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB3 Opposition Letter - submitted by Reva Crump",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79464&fileDownloadName=SB3_1115_Crump.R_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "SB3_Proposed Conceptual Amendment_Senator Cannizzaro",
       "links": [
         {
@@ -129,7 +200,7 @@
     "division_id": "ocd-division/country:us/state:nv"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-15T03:13:18Z",
+    "logs_latest_update": "2025-11-16T03:25:07Z",
     "text_extraction_latest_update": "2025-11-15T08:14:35.073460Z"
   }
 }

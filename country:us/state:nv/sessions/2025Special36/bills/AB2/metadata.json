@@ -40,6 +40,36 @@
       "_processing": {
         "log_file_created": "2025-11-14T03:19:17Z"
       }
+    },
+    {
+      "description": "From committee: Do pass.\rDeclared an emergency measure under the Constitution.\rRead third time. Passed. Title approved. (Yeas:\u00a040, Nays:\u00a02.) To Senate.",
+      "date": "2025-11-14T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-16T03:25:07Z"
+      }
+    },
+    {
+      "description": "In Senate.\rRead first time. Referred to Committee on Public Safety and Security. To committee.\rFrom committee: Do pass.\rDeclared an emergency measure under the Constitution. Placed on General File.\rRead third time. Passed. Title approved. (Yeas:\u00a019, Nays:\u00a01, Excused:\u00a01.) To Assembly.\rIn Assembly.\rTo enrollment.",
+      "date": "2025-11-15T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "passage",
+        "reading-1",
+        "reading-3",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-16T03:25:07Z"
+      }
     }
   ],
   "sponsorships": [
@@ -64,9 +94,65 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Enrolled",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/AB/AB2_EN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "AB 2 Work Session Document",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79400&fileDownloadName=AB236thSSWorkSessionDocument_SP_cmu_revised.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 2 Proposed Amendment by Retail Association of Nevada submitted by Brian Wachter",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79364&fileDownloadName=AB2_1114_Wachter.Brian_RetailAssocofNV_Amend.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 2 Letter in Opposition by Marc Suciu",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79363&fileDownloadName=AB2_1114_Suciu.Marc_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 2 Letter in Opposition by Nevada Restaurant Association submitted by Peter Saba",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79361&fileDownloadName=AB2OppositionNevadaRestaurantAssociation1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -84,7 +170,7 @@
     "division_id": "ocd-division/country:us/state:nv"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-14T03:19:17Z",
+    "logs_latest_update": "2025-11-16T03:25:07Z",
     "text_extraction_latest_update": "2025-11-14T08:16:22.515221Z"
   }
 }

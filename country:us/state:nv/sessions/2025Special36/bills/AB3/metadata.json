@@ -40,6 +40,22 @@
       "_processing": {
         "log_file_created": "2025-11-14T03:19:17Z"
       }
+    },
+    {
+      "description": "From committee: Do pass.\rDeclared an emergency measure under the Constitution.\rRead third time. Passed. Title approved. (Yeas:\u00a040, Nays:\u00a02.) To Senate.\rIn Senate.\rRead first time. Referred to Committee on Health and Wellness. To committee.",
+      "date": "2025-11-15T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "passage",
+        "reading-1",
+        "reading-3",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-16T03:25:07Z"
+      }
     }
   ],
   "sponsorships": [
@@ -66,7 +82,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "AB3 Various Reports - submitted by Mark Wlaschin, Deputy Secretary of State for Elections",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79469&fileDownloadName=AB3_1113_Wlaschin.M_combinedrpts.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB3 Conceptual Amendment - submitted by Mark Wlaschin, Deputy Secretary of State for Elections",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79465&fileDownloadName=AB3_1113_Wlaschin.M_amend.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -84,7 +123,7 @@
     "division_id": "ocd-division/country:us/state:nv"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-14T03:19:17Z",
+    "logs_latest_update": "2025-11-16T03:25:07Z",
     "text_extraction_latest_update": "2025-11-14T08:16:44.576340Z"
   }
 }

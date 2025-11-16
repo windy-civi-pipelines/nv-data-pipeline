@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "In Senate.\rResolution read and adopted. To Assembly.\rIn Assembly.\rTo enrollment.",
+    "date": "2025-11-15T08:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "ACR4"
+}

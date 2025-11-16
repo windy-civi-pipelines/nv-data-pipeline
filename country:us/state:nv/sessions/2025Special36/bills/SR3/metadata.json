@@ -39,6 +39,18 @@
       "_processing": {
         "log_file_created": "2025-11-15T03:13:18Z"
       }
+    },
+    {
+      "description": "Enrolled and delivered to Secretary of State.\rFile No. 5.",
+      "date": "2025-11-15T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-16T03:25:07Z"
+      }
     }
   ],
   "sponsorships": [
@@ -102,7 +114,7 @@
     "division_id": "ocd-division/country:us/state:nv"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-15T03:13:18Z",
+    "logs_latest_update": "2025-11-16T03:25:07Z",
     "text_extraction_latest_update": "2025-11-15T08:14:01.943554Z"
   }
 }

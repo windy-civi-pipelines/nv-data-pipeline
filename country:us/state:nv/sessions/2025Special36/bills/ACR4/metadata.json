@@ -27,15 +27,38 @@
       }
     },
     {
-      "description": "From printer.\rResolution read and adopted.\rTo committee.",
+      "description": "From printer.\rResolution read.\rTo committee.",
       "date": "2025-11-13T08:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-16T03:25:07Z"
+      }
+    },
+    {
+      "description": "From committee: Amend, and be adopted as amended.\rResolution read. Amended. (Amend. No. 7.)\rDispensed with reprinting.\rResolution read and adopted, as amended.\rTo printer.\rFrom printer. To engrossment. Engrossed. First reprint.\rTo Senate.",
+      "date": "2025-11-14T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-16T03:25:07Z"
+      }
+    },
+    {
+      "description": "In Senate.\rResolution read and adopted. To Assembly.\rIn Assembly.\rTo enrollment.",
+      "date": "2025-11-15T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "passage"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-14T03:19:17Z"
+        "log_file_created": "2025-11-16T03:25:07Z"
       }
     }
   ],
@@ -61,9 +84,54 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment 7",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/Amendments/A_ACR4_7.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reprint 1",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/ACR/ACR4_R1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Enrolled",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/ACR/ACR4_EN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "ACR4 Amendment - submitted by Fines and Fees Justice Center and The City of Henderson",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79365&fileDownloadName=ACR4_1114_FinesFees.CityofHendersen_amend.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -81,7 +149,7 @@
     "division_id": "ocd-division/country:us/state:nv"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-14T03:19:17Z",
+    "logs_latest_update": "2025-11-16T03:25:07Z",
     "text_extraction_latest_update": "2025-11-14T08:17:10.349393Z"
   }
 }

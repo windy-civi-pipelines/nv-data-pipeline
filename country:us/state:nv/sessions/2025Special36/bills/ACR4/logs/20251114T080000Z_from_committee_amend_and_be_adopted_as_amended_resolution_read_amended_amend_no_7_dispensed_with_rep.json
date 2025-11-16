@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "From committee: Amend, and be adopted as amended.\rResolution read. Amended. (Amend. No. 7.)\rDispensed with reprinting.\rResolution read and adopted, as amended.\rTo printer.\rFrom printer. To engrossment. Engrossed. First reprint.\rTo Senate.",
+    "date": "2025-11-14T08:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage",
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "ACR4"
+}

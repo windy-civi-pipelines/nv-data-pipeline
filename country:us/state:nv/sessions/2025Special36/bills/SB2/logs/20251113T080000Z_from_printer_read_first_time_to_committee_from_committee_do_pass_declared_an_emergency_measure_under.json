@@ -1,0 +1,15 @@
+{
+  "action": {
+    "description": "From printer.\rRead first time. To committee.\rFrom committee: Do pass.\rDeclared an emergency measure under the Constitution. Placed on General File.\rRead third time. Passed. Title approved. (Yeas:\u00a021, Nays:\u00a0None.) To Assembly.",
+    "date": "2025-11-13T08:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage",
+      "passage",
+      "reading-1",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB2"
+}
