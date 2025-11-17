@@ -55,7 +55,7 @@
       }
     },
     {
-      "description": "From committee: Do pass.\rDeclared an emergency measure under the Constitution.\rRead third time. Passed. Title approved. (Yeas:\u00a042, Nays:\u00a0None.) To Senate.",
+      "description": "From committee: Do pass.\rDeclared an emergency measure under the Constitution.\rRead third time. Passed. Title approved. (Yeas:\u00a042, Nays:\u00a0None.) To Senate.\rIn Senate. To enrollment.",
       "date": "2025-11-15T08:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -65,7 +65,20 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-16T03:25:07Z"
+        "log_file_created": "2025-11-17T03:23:17Z"
+      }
+    },
+    {
+      "description": "Enrolled and delivered to Governor.",
+      "date": "2025-11-16T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "enrolled",
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-17T03:23:17Z"
       }
     }
   ],
@@ -108,6 +121,17 @@
       "links": [
         {
           "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/SB/SB3_R1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Enrolled",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/SB/SB3_EN.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -200,7 +224,7 @@
     "division_id": "ocd-division/country:us/state:nv"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-16T03:25:07Z",
+    "logs_latest_update": "2025-11-17T03:23:17Z",
     "text_extraction_latest_update": "2025-11-16T08:16:50.644646Z"
   }
 }

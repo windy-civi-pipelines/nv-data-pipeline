@@ -11,7 +11,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "AN ACT relating to state financial administration; making supplemental appropriations for the support of the civil government of the State for the 2025-2027 biennium; increasing the maximum annual salary of the State Chief Information Officer of the Governor's Technology Office within the Office of the Governor; revising the membership of the Commission on Innovation and Excellence in Education; and providing other matters properly relating thereto."
+      "title": "AN ACT relating to state financial administration; making supplemental appropriations and authorizing the expenditure of money for the support of the civil government of the State for the 2025-2027 biennium; increasing the maximum annual salary of the State Chief Information Officer of the Governor's Technology Office within the Office of the Governor; revising the membership of the Commission on Innovation and Excellence in Education; and providing other matters properly relating thereto."
     }
   ],
   "other_identifiers": [],
@@ -52,6 +52,19 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-16T03:25:07Z"
+      }
+    },
+    {
+      "description": "From committee: Amend, and do pass as amended.\rPlaced on Second Reading File.\rRead second time. Amended. (Amend. No. 17.) To printer.",
+      "date": "2025-11-16T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-17T03:23:17Z"
       }
     }
   ],
@@ -110,9 +123,42 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment 17",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/Amendments/A_SB4_R1_17.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reprint 2",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/SB/SB4_R2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "SB 4 Work Session Document",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79523&fileDownloadName=SB4_1116_WS_doc.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "SB 4 Conceptual Amendment by the Governor's Finance Office",
       "links": [
@@ -505,7 +551,7 @@
     "division_id": "ocd-division/country:us/state:nv"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-16T03:25:07Z",
+    "logs_latest_update": "2025-11-17T03:23:17Z",
     "text_extraction_latest_update": "2025-11-16T08:15:10.121718Z"
   }
 }

@@ -11,7 +11,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "AN ACT relating to public safety; revising provisions governing regulation and designation of school zones and school crossing zones; revising provisions relating to signs in school zones and school crossing zones; providing for enhanced penalties for certain traffic violations in active school zones and school crossing zones; providing penalties; and providing other matters properly relating thereto."
+      "title": "AN ACT relating to public safety; revising provisions governing regulation and designation of school zones and school crossing zones; revising provisions relating to signs in school zones and school crossing zones; providing for enhanced penalties for certain traffic violations in active school zones and school crossing zones; prohibiting the inclusion of certain information concerning pupils within a directory of pupils; prohibiting the provision of certain information concerning pupils to third parties; setting forth the method for a third party to request certain information concerning pupils; requiring the compilation of lists containing certain information included in such requests for information; providing penalties; and providing other matters properly relating thereto."
     }
   ],
   "other_identifiers": [],
@@ -40,6 +40,22 @@
       "_processing": {
         "log_file_created": "2025-11-14T03:19:17Z"
       }
+    },
+    {
+      "description": "From committee: Amend, and do pass as amended.\rDeclared an emergency measure under the Constitution.\rRead third time. Amended. (Amend. No. 6.) Dispensed with reprinting.\rRead third time. Passed, as amended. Title approved, as amended. (Yeas:\u00a042, Nays:\u00a0None.)\rTo printer.\rFrom printer. To engrossment. Engrossed. First reprint.\rTo Senate.\rIn Senate.\rRead first time. Referred to Committee on Health and Wellness. To committee.",
+      "date": "2025-11-16T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "passage",
+        "reading-1",
+        "reading-3",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-17T03:23:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -64,9 +80,142 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment 6",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/Amendments/A_AB6_6.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reprint 1",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/AB/AB6_R1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "AB6_Clark County Enhanced Penalty In School Zone Crossing Zone_Joanna Jacobs_Clark County",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79552&fileDownloadName=AB6_ClarkCountyEnhancedPenaltyInSchoolZoneCrossingZone_JoannaJacobs_ClarkCounty.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB6 Work Session Document",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79521&fileDownloadName=AB6_WS_doc.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB6 Support Letter - submitted by Pamela Del Porto, Executive Director, Nevada Sheriffs' and Chiefs' Association",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79498&fileDownloadName=AB6_1114_DelPorto.P_supltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB6 Testimony in Support - submitted by One APIA Nevada",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79421&fileDownloadName=AB6_1114_Srichndr.J_testsup.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB6 Support Letter - submitted by Darin Balaam, Sheriff, Washoe County Sheriff's Office",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79370&fileDownloadName=AB6_1114_Colacurcio.J_supltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB6 Support Letter - submitted by Warren B. Hardy, Nevada Urban Consortium",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79369&fileDownloadName=AB6_1114_Hardy.W_supltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB6 Chart - submitted by Joanna Jacob, Clark County",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79368&fileDownloadName=AB6_1114_Jacob.J_chart.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB6 Proposed Amendment - submitted by Clark County",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79367&fileDownloadName=AB6_1114_ClarkCounty_amend.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB6 Support Letter - submitted by Vincent Guthreau, Nevada Association of Counties",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79358&fileDownloadName=AB6_Date_Berthiaume.J_supltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB6 Conceptual Amendment - submitted by Assemblymember Brittney Miller",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79357&fileDownloadName=AB6_1114_Miller.B_amend.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -84,7 +233,7 @@
     "division_id": "ocd-division/country:us/state:nv"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-14T03:19:17Z",
+    "logs_latest_update": "2025-11-17T03:23:17Z",
     "text_extraction_latest_update": "2025-11-14T08:16:52.508867Z"
   }
 }

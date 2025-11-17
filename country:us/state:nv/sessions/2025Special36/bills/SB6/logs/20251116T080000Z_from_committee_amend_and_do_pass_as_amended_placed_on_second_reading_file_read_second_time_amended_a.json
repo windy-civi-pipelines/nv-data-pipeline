@@ -1,0 +1,17 @@
+{
+  "action": {
+    "description": "From committee: Amend, and do pass as amended.\rPlaced on Second Reading File.\rRead second time. Amended. (Amend. No. 12.)\rDeclared an emergency measure under the Constitution.\rReprinting dispensed with.\rPlaced on General File.\rRead third time. Passed, as amended. Title approved, as amended. (Yeas:\u00a019, Nays:\u00a02.) To printer.\rFrom printer. To engrossment. Engrossed. First reprint. To Assembly.\rIn Assembly.\rRead first time. Referred to Select Committee on Jobs and Economy. To committee.\rFrom committee: Do pass.",
+    "date": "2025-11-16T08:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage",
+      "passage",
+      "reading-1",
+      "reading-2",
+      "reading-3",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB6"
+}

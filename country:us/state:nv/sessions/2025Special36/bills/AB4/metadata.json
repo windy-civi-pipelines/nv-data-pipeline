@@ -11,7 +11,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "AN ACT relating to public safety; revising provisions relating to assault, battery, stalking, child sexual abuse material, domestic violence and driving under the influence of alcohol or a prohibited substance; requiring a compliance hearing after the issuance of certain orders to relinquish firearms; establishing certain unlawful acts relating to certain theft offenses involving property damage; revising provisions relating to offenders; establishing provisions relating to the creation of corridors and the adjudication and reporting of certain offenses committed within such corridors; making various changes relating to juvenile justice; prohibiting the construction of certain findings relating to actions for wrongful conviction; revising provisions relating to the sealing of records and specialty court programs; revising provisions relating to pretrial release; authorizing the Director of the Department of Corrections to establish an alternative correctional program; requiring certain city and county jails and detention centers to automatically notify consular posts regarding the detention of certain prisoners; revising provisions relating to opioid use disorder; making appropriations; providing penalties; and providing other matters properly relating thereto."
+      "title": "AN ACT relating to public safety; revising provisions relating to assault, battery, stalking, child sexual abuse material, domestic violence and driving under the influence of alcohol or a prohibited substance; establishing certain unlawful acts relating to certain theft offenses involving property damage; revising provisions relating to offenders; establishing provisions relating to the creation of corridors and the adjudication and reporting of certain offenses committed within such corridors; making various changes relating to juvenile justice; prohibiting the construction of certain findings relating to actions for wrongful conviction; revising provisions relating to the sealing of records and specialty court programs; revising provisions relating to pretrial release; authorizing the Director of the Department of Corrections to establish an alternative correctional program; revising provisions relating to opioid use disorder; making appropriations; providing penalties; and providing other matters properly relating thereto."
     }
   ],
   "other_identifiers": [],
@@ -52,6 +52,21 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-16T03:25:07Z"
+      }
+    },
+    {
+      "description": "From printer. To engrossment. Engrossed. First reprint.\rRead third time. Amended. (Amend. No. 15.)\rDispensed with reprinting.\rRead third time. Passed, as amended. Title approved, as amended. (Yeas:\u00a031, Nays:\u00a011.)\rTo printer.\rFrom printer. To reengrossment. Reengrossed. Second reprint.\rTo Senate.\rIn Senate.\rRead first time. Referred to Committee on Public Safety and Security. To committee.",
+      "date": "2025-11-16T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-1",
+        "reading-3",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-17T03:23:17Z"
       }
     }
   ],
@@ -110,9 +125,108 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment 15",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/Amendments/A_AB4_R1_15.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reprint 2",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/AB/AB4_R2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "AB 4_Proposed Conceptual Amendment_Clark and Washoe Public Defenders",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79559&fileDownloadName=AB4_ProposedConceptualAmendment_ClarkandWashoePublicDefendersProposedAmendmentSenate.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB_4_Proposed Conceptual Amendment_Nevada Judges of Limited Jurisdiction",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79550&fileDownloadName=AB_4_ProposedConceptualAmendment_NevadaJudgesofLimitedJurisdiction.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 4_Support letter_Jill Douglass_Chairwoman_Clark County Republican Party",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79548&fileDownloadName=AB4_Supportletter_JillDouglass_Chairwoman_ClarkCountyRepublicanParty.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB4_Support Letter_Reva Crump",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79551&fileDownloadName=AB4_SupportLetter_RevaCrump2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 4_Opposition Letter_Isaias Gallegos",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79569&fileDownloadName=AB4_OppositionLetter_IsaiasGallegos.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB 4_Opposition Letter_ Anchored Perspectives",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79568&fileDownloadName=AB4_OppositionLetter_AnchoredPerspectives.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB4_Opposition letter_Yvonne Efverlund",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79549&fileDownloadName=SB4_Oppositionletter_YvonneEfverlund.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "AB4 Work Session Document",
       "links": [
@@ -461,7 +575,7 @@
     "division_id": "ocd-division/country:us/state:nv"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-16T03:25:07Z",
+    "logs_latest_update": "2025-11-17T03:23:17Z",
     "text_extraction_latest_update": "2025-11-16T08:15:56.919888Z"
   }
 }

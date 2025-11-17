@@ -42,7 +42,7 @@
       }
     },
     {
-      "description": "From committee: Amend, and do pass as amended.\rDeclared an emergency measure under the Constitution.\rRead third time. Amended. (Amend. No. 11.)\rDispensed with reprinting.\rRead third time. Passed, as amended. Title approved, as amended. (Yeas:\u00a042, Nays:\u00a0None.)\rTo printer.\rFrom printer. To engrossment. Engrossed. First reprint.\rTo Senate.\rIn Senate.\rRead first time. Referred to Committee on Public Safety and Security. To committee.",
+      "description": "From committee: Amend, and do pass as amended.\rDeclared an emergency measure under the Constitution.\rRead third time. Amended. (Amend. No. 11.)\rDispensed with reprinting.\rRead third time. Passed, as amended. Title approved, as amended. (Yeas:\u00a042, Nays:\u00a0None.)\rTo printer.\rFrom printer. To engrossment. Engrossed. First reprint.\rTo Senate.\rIn Senate.\rRead first time. Referred to Committee on Public Safety and Security. To committee.\rFrom committee: Amend, and do pass as amended.\rDeclared an emergency measure under the Constitution. Placed on General File.\rRead third time. Amended. (Amend. No. 14.)\rReprinting dispensed with.\rRead third time. Passed, as amended. Title approved. (Yeas:\u00a019, Nays:\u00a0None, Excused:\u00a02.) To printer.",
       "date": "2025-11-15T08:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -54,7 +54,19 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-16T03:25:07Z"
+        "log_file_created": "2025-11-17T03:23:17Z"
+      }
+    },
+    {
+      "description": "From printer. To Assembly.\rIn Assembly.\rSenate Amendment No. 14 concurred in.\rTo enrollment.",
+      "date": "2025-11-16T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-17T03:23:17Z"
       }
     }
   ],
@@ -97,6 +109,39 @@
       "links": [
         {
           "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/AB/AB1_R1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 14",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/Amendments/A_AB1_R1_14.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reprint 2",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/AB/AB1_R2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Enrolled",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/AB/AB1_EN.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -167,7 +212,7 @@
     "division_id": "ocd-division/country:us/state:nv"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-16T03:25:07Z",
+    "logs_latest_update": "2025-11-17T03:23:17Z",
     "text_extraction_latest_update": "2025-11-16T08:14:37.687157Z"
   }
 }

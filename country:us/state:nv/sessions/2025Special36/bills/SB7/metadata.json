@@ -31,6 +31,19 @@
       "_processing": {
         "log_file_created": "2025-11-16T03:25:07Z"
       }
+    },
+    {
+      "description": "From committee: Do pass.\rPlaced on Second Reading File.\rRead second time.",
+      "date": "2025-11-16T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-17T03:23:17Z"
+      }
     }
   ],
   "sponsorships": [
@@ -57,7 +70,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "SB7 Opposition Letter - submitted by Lea Cartwright on behalf of America Property Casualty Insurance Association",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79547&fileDownloadName=SB7_1115_Cartwright.L_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB7 Support Letter - submitted by Shelly Capurro on behalf of the Nevada Police Union",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79545&fileDownloadName=SB7_1115_Capurro.S_supltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -75,7 +111,7 @@
     "division_id": "ocd-division/country:us/state:nv"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-16T03:25:07Z",
+    "logs_latest_update": "2025-11-17T03:23:17Z",
     "text_extraction_latest_update": "2025-11-16T08:14:21.979325Z"
   }
 }

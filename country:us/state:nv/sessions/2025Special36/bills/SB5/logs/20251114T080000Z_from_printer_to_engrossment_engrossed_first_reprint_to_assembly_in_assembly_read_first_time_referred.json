@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "From printer. To engrossment. Engrossed. First reprint.\rTo Assembly.\rIn Assembly.\rRead first time.\rReferred to Select Committee on Health and Wellness.\rTo committee.",
+    "date": "2025-11-14T08:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-1"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB5"
+}

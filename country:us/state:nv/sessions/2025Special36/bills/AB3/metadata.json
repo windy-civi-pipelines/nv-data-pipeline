@@ -42,7 +42,7 @@
       }
     },
     {
-      "description": "From committee: Do pass.\rDeclared an emergency measure under the Constitution.\rRead third time. Passed. Title approved. (Yeas:\u00a040, Nays:\u00a02.) To Senate.\rIn Senate.\rRead first time. Referred to Committee on Health and Wellness. To committee.",
+      "description": "From committee: Do pass.\rDeclared an emergency measure under the Constitution.\rRead third time. Passed. Title approved. (Yeas:\u00a040, Nays:\u00a02.) To Senate.\rIn Senate.\rRead first time. Referred to Committee on Health and Wellness. To committee.\rFrom committee: Do pass.\rDeclared an emergency measure under the Constitution. Placed on General File.\rRead third time. Passed. Title approved. (Yeas:\u00a019, Nays:\u00a0None, Excused:\u00a02.) To Assembly.",
       "date": "2025-11-15T08:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -54,7 +54,19 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-16T03:25:07Z"
+        "log_file_created": "2025-11-17T03:23:17Z"
+      }
+    },
+    {
+      "description": "In Assembly.\rTo enrollment.",
+      "date": "2025-11-16T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-17T03:23:17Z"
       }
     }
   ],
@@ -75,6 +87,17 @@
       "links": [
         {
           "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/AB/AB3.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Enrolled",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/AB/AB3_EN.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -123,7 +146,7 @@
     "division_id": "ocd-division/country:us/state:nv"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-16T03:25:07Z",
+    "logs_latest_update": "2025-11-17T03:23:17Z",
     "text_extraction_latest_update": "2025-11-16T08:14:49.629335Z"
   }
 }

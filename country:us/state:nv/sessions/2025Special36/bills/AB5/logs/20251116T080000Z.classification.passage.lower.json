@@ -1,0 +1,15 @@
+{
+  "action": {
+    "description": "From printer. To engrossment. Engrossed. First reprint.\rRead third time. Amended. (Amend. No. 16.)\rDispensed with reprinting.\rRead third time. Passed, as amended. Title approved. (Yeas:\u00a022, Nays:\u00a020.)\rRead third time. Passed, as amended. Title approved, as amended. (Yeas:\u00a021, Nays:\u00a021.)\rTo printer.\rFrom printer. To reengrossment. Reengrossed. Second reprint.\rTo Senate.\rIn Senate.\rRead first time. Referred to Committee on Jobs and Economy. To committee.",
+    "date": "2025-11-16T08:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage",
+      "reading-1",
+      "reading-3",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB5"
+}
