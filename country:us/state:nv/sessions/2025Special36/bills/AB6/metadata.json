@@ -56,6 +56,18 @@
       "_processing": {
         "log_file_created": "2025-11-17T03:23:17Z"
       }
+    },
+    {
+      "description": "From committee: Do pass.\rDeclared an emergency measure under the Constitution. Placed on General File.",
+      "date": "2025-11-17T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T03:19:23Z"
+      }
     }
   ],
   "sponsorships": [
@@ -233,7 +245,7 @@
     "division_id": "ocd-division/country:us/state:nv"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-17T03:23:17Z",
+    "logs_latest_update": "2025-11-18T03:19:23Z",
     "text_extraction_latest_update": "2025-11-17T08:19:38.168470Z"
   }
 }

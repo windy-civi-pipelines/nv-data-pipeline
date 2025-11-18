@@ -55,7 +55,7 @@
       }
     },
     {
-      "description": "From committee: Amend, and do pass as amended.\rPlaced on Second Reading File.\rRead second time. Amended. (Amend. No. 8.) To printer.",
+      "description": "From committee: Amend, and do pass as amended.\rPlaced on Second Reading File.\rRead second time. Amended. (Amend. No. 8.) To printer.\rFrom printer. To reengrossment. Reengrossed. Second reprint.",
       "date": "2025-11-16T08:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -64,7 +64,17 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-17T03:23:17Z"
+        "log_file_created": "2025-11-18T03:19:23Z"
+      }
+    },
+    {
+      "description": "Taken from General File. Placed on General File for next legislative day.",
+      "date": "2025-11-17T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T03:19:23Z"
       }
     }
   ],
@@ -303,6 +313,17 @@
       "classification": ""
     },
     {
+      "note": "SB5 Testimony in Opposition - submitted by Debbie Casey",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79580&fileDownloadName=SB5_1115_Casey.D_opp.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "SB5 Testimony in Opposition - submitted by Teri De Castro",
       "links": [
         {
@@ -439,6 +460,17 @@
       "links": [
         {
           "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79524&fileDownloadName=SB5_1116_Gaestel.J_opp.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB5 Testimony in Opposition - submitted by Whitney Farnworth",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79581&fileDownloadName=SB5_1115_Farnworth.W_opp.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -732,6 +764,17 @@
       "classification": ""
     },
     {
+      "note": "SB5 Testimony in Opposition - submitted by Lauraine Rimbey",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79582&fileDownloadName=SB5_1115_Rimbey.L_opp.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "SB5 Testimony in Opposition - submitted by N Rowland",
       "links": [
         {
@@ -969,7 +1012,7 @@
     "division_id": "ocd-division/country:us/state:nv"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-17T03:23:17Z",
+    "logs_latest_update": "2025-11-18T03:19:23Z",
     "text_extraction_latest_update": "2025-11-17T08:18:20.899544Z"
   }
 }

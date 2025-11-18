@@ -1,0 +1,15 @@
+{
+  "action": {
+    "description": "From committee: Amend, and do pass as amended.\rPlaced on Second Reading File.\rRead second time. Amended. (Amend. No. 21.)\rDeclared an emergency measure under the Constitution.\rReprinting dispensed with.\rPlaced on General File.\rRead third time. Passed, as amended. Title approved. (Yeas:\u00a019, Nays:\u00a02.) To printer.\rFrom printer. To engrossment. Engrossed. First reprint. To Assembly.",
+    "date": "2025-11-16T08:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage",
+      "passage",
+      "reading-2",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB8"
+}

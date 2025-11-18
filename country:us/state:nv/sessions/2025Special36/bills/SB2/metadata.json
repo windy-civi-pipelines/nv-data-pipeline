@@ -11,7 +11,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "AN ACT relating to the Legislative Department; clarifying that proceeds of sales of certain items approved by the Director of the Legislative Counsel Bureau must be deposited in the Legislative Fund; clarifying that the organization of the Nevada Revised Statutes into titles by the Legislative Counsel does not constitute a legislative determination for certain constitutional purposes; placing a certain parcel of land under the exclusive supervision and control of the Legislature; and providing other matters properly relating thereto."
+      "title": "AN ACT relating to the Legislative Department; clarifying that proceeds of sales of certain items approved by the Director of the Legislative Counsel Bureau must be deposited in the Legislative Fund; clarifying that the organization of the Nevada Revised Statutes into titles by the Legislative Counsel does not constitute a legislative determination for certain constitutional purposes; placing a certain parcel of land under the exclusive supervision and control of the Legislature; making an appropriation; and providing other matters properly relating thereto."
     }
   ],
   "other_identifiers": [],
@@ -65,6 +65,19 @@
       "_processing": {
         "log_file_created": "2025-11-17T03:23:17Z"
       }
+    },
+    {
+      "description": "Read third time. Amended. (Amend. No. 18.) To printer.\rFrom printer. To engrossment. Engrossed. First reprint.\rRead third time. Passed, as amended. Title approved, as amended. (Yeas:\u00a039, Nays:\u00a0None, Excused:\u00a03.) To Senate.",
+      "date": "2025-11-17T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T03:19:23Z"
+      }
     }
   ],
   "sponsorships": [
@@ -89,9 +102,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment 18",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/Amendments/A_SB2_18.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reprint 1",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/SB/SB2_R1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "SB 2_Support testimony_Anahit Baghshetsyan_Policy Analyst_Nevada Policy",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79609&fileDownloadName=SB2_Supporttestimony_AnahitBaghshetsyan_PolicyAnalyst_NevadaPolicy.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -109,7 +156,7 @@
     "division_id": "ocd-division/country:us/state:nv"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-17T03:23:17Z",
+    "logs_latest_update": "2025-11-18T03:19:23Z",
     "text_extraction_latest_update": "2025-11-17T08:18:26.526923Z"
   }
 }

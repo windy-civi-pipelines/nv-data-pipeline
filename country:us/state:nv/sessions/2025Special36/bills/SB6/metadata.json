@@ -45,6 +45,19 @@
       "_processing": {
         "log_file_created": "2025-11-17T03:23:17Z"
       }
+    },
+    {
+      "description": "Declared an emergency measure under the Constitution.\rRead third time. Amended. (Amend. No. 22.)\rDispensed with reprinting.\rRead third time. Passed, as amended. Title approved. (Yeas:\u00a038, Nays:\u00a0None, Excused:\u00a03, Not voting:\u00a01.)\rTo printer.\rFrom printer. To reengrossment. Reengrossed. Second reprint.\rTo Senate.",
+      "date": "2025-11-17T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T03:19:23Z"
+      }
     }
   ],
   "sponsorships": [
@@ -91,9 +104,97 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment 22",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/Amendments/A_SB6_R1_22.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reprint 2",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/SB/SB6_R2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "SB 6 Letter of Support by Brenda Williams",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79603&fileDownloadName=SB6_1116_Williams.Brenda_supltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB 6 Letter of Support by Jeff Jones",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79602&fileDownloadName=SB6_1116_Jones.Jeff_supltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB 6 Letter of Support by the Nevada Environmental Justice Coalition submitted by Jackie Spicer",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79601&fileDownloadName=SB6_1116_Spicer.Jackie_NevadaEnvironmentalJusticeCoalition_supltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB 6 Letter of Support by Ann Sweder",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79600&fileDownloadName=SB6_1116_Sweder.Ann_supltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB 6 Letter of Support by Jennifer Stepp",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79590&fileDownloadName=SB6_1116_Stepp.Jennifer_supltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB 6 Letter of Support by Karen Anderson",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79589&fileDownloadName=SB6_1116_Anderson.Karen_supltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "SB6 Letter of Support by Gerald Mayes",
       "links": [
@@ -167,7 +268,7 @@
     "division_id": "ocd-division/country:us/state:nv"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-17T03:23:17Z",
+    "logs_latest_update": "2025-11-18T03:19:23Z",
     "text_extraction_latest_update": "2025-11-17T08:19:49.610630Z"
   }
 }

@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Read third time. Amended. (Amend. No. 18.) To printer.\rFrom printer. To engrossment. Engrossed. First reprint.\rRead third time. Passed, as amended. Title approved, as amended. (Yeas:\u00a039, Nays:\u00a0None, Excused:\u00a03.) To Senate.",
+    "date": "2025-11-17T08:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB2"
+}

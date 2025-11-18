@@ -44,6 +44,19 @@
       "_processing": {
         "log_file_created": "2025-11-17T03:23:17Z"
       }
+    },
+    {
+      "description": "Read third time. Passed. Title approved. (Yeas:\u00a033, Nays:\u00a06, Excused:\u00a03.)\rTo Senate.",
+      "date": "2025-11-17T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T03:19:23Z"
+      }
     }
   ],
   "sponsorships": [
@@ -111,7 +124,7 @@
     "division_id": "ocd-division/country:us/state:nv"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-17T03:23:17Z",
+    "logs_latest_update": "2025-11-18T03:19:23Z",
     "text_extraction_latest_update": "2025-11-17T08:18:33.788228Z"
   }
 }

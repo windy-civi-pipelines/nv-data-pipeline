@@ -55,10 +55,11 @@
       }
     },
     {
-      "description": "From printer. To engrossment. Engrossed. First reprint.\rRead third time. Amended. (Amend. No. 16.)\rDispensed with reprinting.\rRead third time. Passed, as amended. Title approved. (Yeas:\u00a022, Nays:\u00a020.)\rRead third time. Passed, as amended. Title approved, as amended. (Yeas:\u00a021, Nays:\u00a021.)\rTo printer.\rFrom printer. To reengrossment. Reengrossed. Second reprint.\rTo Senate.\rIn Senate.\rRead first time. Referred to Committee on Jobs and Economy. To committee.",
+      "description": "From printer. To engrossment. Engrossed. First reprint.\rRead third time. Amended. (Amend. No. 16.)\rDispensed with reprinting.\rRead third time. Passed, as amended. Title approved. (Yeas:\u00a022, Nays:\u00a020.)\rTo printer.\rFrom printer. To reengrossment. Reengrossed. Second reprint.\rTo Senate.\rIn Senate.\rRead first time. Referred to Committee on Jobs and Economy. To committee.\rFrom committee: Do pass.",
       "date": "2025-11-16T08:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
+        "committee-passage",
         "passage",
         "reading-1",
         "reading-3",
@@ -66,7 +67,19 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-17T03:23:17Z"
+        "log_file_created": "2025-11-18T03:19:23Z"
+      }
+    },
+    {
+      "description": "Read second time.",
+      "date": "2025-11-17T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T03:19:23Z"
       }
     }
   ],
@@ -674,7 +687,7 @@
     "division_id": "ocd-division/country:us/state:nv"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-17T03:23:17Z",
+    "logs_latest_update": "2025-11-18T03:19:23Z",
     "text_extraction_latest_update": "2025-11-17T08:22:03.684440Z"
   }
 }

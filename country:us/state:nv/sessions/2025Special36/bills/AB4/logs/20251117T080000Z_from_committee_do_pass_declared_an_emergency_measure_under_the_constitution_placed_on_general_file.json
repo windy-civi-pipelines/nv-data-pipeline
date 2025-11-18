@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "From committee: Do pass.\rDeclared an emergency measure under the Constitution. Placed on General File.",
+    "date": "2025-11-17T08:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB4"
+}

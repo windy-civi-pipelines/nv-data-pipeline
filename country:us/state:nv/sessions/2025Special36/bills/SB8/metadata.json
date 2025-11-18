@@ -28,6 +28,34 @@
       "_processing": {
         "log_file_created": "2025-11-16T03:25:07Z"
       }
+    },
+    {
+      "description": "From committee: Amend, and do pass as amended.\rPlaced on Second Reading File.\rRead second time. Amended. (Amend. No. 21.)\rDeclared an emergency measure under the Constitution.\rReprinting dispensed with.\rPlaced on General File.\rRead third time. Passed, as amended. Title approved. (Yeas:\u00a019, Nays:\u00a02.) To printer.\rFrom printer. To engrossment. Engrossed. First reprint. To Assembly.",
+      "date": "2025-11-16T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "passage",
+        "reading-2",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T03:19:23Z"
+      }
+    },
+    {
+      "description": "In Assembly.\rRead first time. Referred to Committee on Public Safety and Security. To committee.",
+      "date": "2025-11-17T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-18T03:19:23Z"
+      }
     }
   ],
   "sponsorships": [
@@ -52,9 +80,98 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment 21",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/Amendments/A_SB8_21.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reprint 1",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/SB/SB8_R1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "SB8 Work Session Document",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79610&fileDownloadName=SB8_WS_Doc.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB8 United States Court of Appeals, Sixth Circuit decision submitted by Leon Greenberg",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79607&fileDownloadName=SB8_1117_GreenbergL_CourtofAppeals.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB8 Support Letter - submitted by Miranda Hoover on behalf of Energy and Convenience Association of Nevada",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79606&fileDownloadName=SB8_1117_Hoover.M_supltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB8 United States District Court Western District of Kentucky Court Documents submitted by Leon Greenberg",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79605&fileDownloadName=SB8_1117_GreenbergL_CourtCase.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB8 Proposed Amendment Options - submitted by Misha Ray on behalf of Nevada Justice Association",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79599&fileDownloadName=SB8_1117_Ray.M_amend.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB8 Opposition Letter - submitted by Susie Martinez on behalf of Nevada State AFL-CIO",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79598&fileDownloadName=SB8_1117_Martinez.S_oppltr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -72,7 +189,7 @@
     "division_id": "ocd-division/country:us/state:nv"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-16T03:25:07Z",
+    "logs_latest_update": "2025-11-18T03:19:23Z",
     "text_extraction_latest_update": "2025-11-16T08:14:52.363434Z"
   }
 }
