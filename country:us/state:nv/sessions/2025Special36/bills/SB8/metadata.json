@@ -56,6 +56,20 @@
       "_processing": {
         "log_file_created": "2025-11-18T03:19:23Z"
       }
+    },
+    {
+      "description": "From committee: Amend, and do pass as amended.\rDeclared an emergency measure under the Constitution.\rRead third time. Amended. (Amend. No. 27.)\rDispensed with reprinting.\rRead third time. Passed, as amended. Title approved. (Yeas:\u00a033, Nays:\u00a04, Excused:\u00a05.)\rTo printer.\rFrom printer. To reengrossment. Reengrossed. Second reprint.\rTo Senate.",
+      "date": "2025-11-18T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-19T03:18:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -97,6 +111,39 @@
       "links": [
         {
           "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/SB/SB8_R1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 26",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/Amendments/A_SB8_R1_26.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 27",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/Amendments/A_SB8_R1_27.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reprint 2",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/SB/SB8_R2.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -189,7 +236,7 @@
     "division_id": "ocd-division/country:us/state:nv"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-18T03:19:23Z",
+    "logs_latest_update": "2025-11-19T03:18:41Z",
     "text_extraction_latest_update": "2025-11-18T08:18:14.373425Z"
   }
 }

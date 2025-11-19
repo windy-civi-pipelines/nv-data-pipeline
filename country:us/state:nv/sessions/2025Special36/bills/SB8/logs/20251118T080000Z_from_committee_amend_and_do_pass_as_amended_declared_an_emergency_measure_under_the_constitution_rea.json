@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "From committee: Amend, and do pass as amended.\rDeclared an emergency measure under the Constitution.\rRead third time. Amended. (Amend. No. 27.)\rDispensed with reprinting.\rRead third time. Passed, as amended. Title approved. (Yeas:\u00a033, Nays:\u00a04, Excused:\u00a05.)\rTo printer.\rFrom printer. To reengrossment. Reengrossed. Second reprint.\rTo Senate.",
+    "date": "2025-11-18T08:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage",
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB8"
+}
