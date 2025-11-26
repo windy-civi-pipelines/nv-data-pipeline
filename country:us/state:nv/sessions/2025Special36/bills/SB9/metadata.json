@@ -81,6 +81,7 @@
     "division_id": "ocd-division/country:us/state:nv"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-26T03:22:12Z"
+    "logs_latest_update": "2025-11-26T03:22:12Z",
+    "text_extraction_latest_update": "2025-11-26T08:23:07.121426Z"
   }
 }
