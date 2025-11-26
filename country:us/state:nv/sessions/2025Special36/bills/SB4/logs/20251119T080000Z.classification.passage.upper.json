@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Read third time. Passed, as amended. Title approved, as amended. (Yeas:\u00a030, Nays:\u00a07, Excused:\u00a05.)\rTo Senate.\rIn Senate.\rAssembly Amendment No. 17 concurred in. To enrollment.",
+    "date": "2025-11-19T08:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB4"
+}

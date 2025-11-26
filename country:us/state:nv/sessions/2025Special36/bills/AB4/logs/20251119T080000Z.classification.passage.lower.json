@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "From printer. To re-engrossment. Re-engrossed. Third reprint. To Assembly.\rIn Assembly.\rReturned from Assembly in accordance with motion of the body.\rReturned to Senate.\rIn Senate.\rAction of passage rescinded.\rPlaced on General File.\rRead third time. Amended. (Amend. No. 34.)\rReprinting dispensed with.\rRead third time. Passed, as amended. Title approved, as amended. (Yeas:\u00a016, Nays:\u00a02, Excused:\u00a03.) To printer.\rFrom printer. To re-engrossment. Re-engrossed. Fourth reprint. To Assembly.\rIn Assembly.\rSenate Amendment Nos. 31 and 34 concurred in. To enrollment.",
+    "date": "2025-11-19T08:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "AB4"
+}

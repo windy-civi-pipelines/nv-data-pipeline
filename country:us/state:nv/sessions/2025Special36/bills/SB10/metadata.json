@@ -1,0 +1,126 @@
+{
+  "legislative_session": "2025Special36",
+  "identifier": "SB10",
+  "title": "Revises provisions relating to real property. (BDR\u00a010-38)",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "AN ACT relating to real property; limiting, with certain exceptions, the total aggregate number of units of residential real property in this State that may be purchased in any 1 calendar year by certain corporate investors; requiring, with certain exceptions, certain corporate investors in residential real property in this State to register with the Securities Division of the Office of the Secretary of State before purchasing a unit of residential real property; requiring the Securities Division to create and maintain a database that tracks the aggregate number of units of residential real property purchased by certain corporate investors; requiring certain corporate investors to report to the Secretary of State certain information concerning each purchase of a unit of residential real property; providing that certain purchases of residential real property are void; authorizing the Attorney General to bring certain actions; requiring the Secretary of State to establish requirements for the form and contents of an instrument that creates a life estate; prohibiting a county recorder from recording certain deeds and documents under certain circumstances; and providing other matters properly relating thereto."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Read first time. Referred to Committee on Jobs and Economy. To printer.\rFrom printer. To committee.\rFrom committee: Do pass.\rDeclared an emergency measure under the Constitution. Placed on General File.\rRead third time. Amended. (Amend. No. 32.)\rReprinting dispensed with.\rRead third time. Passed, as amended. Title approved, as amended. (Yeas:\u00a018, Nays:\u00a0None, Excused:\u00a03.) To printer.\rFrom printer. To engrossment. Engrossed. First reprint. To Assembly.\rIn Assembly.\rRead first time.\rDeclared an emergency measure under the Constitution.\rRead third time. Amended. (Amend. No. 35.)\rDispensed with reprinting.\rRead third time. Lost. (Yeas:\u00a027, Nays:\u00a010, Excused:\u00a05.)",
+      "date": "2025-11-19T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "failure",
+        "passage",
+        "reading-1",
+        "reading-3",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:22:12Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nicole Cannizzaro",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nicole Cannizzaro\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/SB/SB10.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 32",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/Amendments/A_SB10_32.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reprint 1",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/SB/SB10_R1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 35",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/Amendments/A_SB10_R1_35.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "SB10_Letter in Support_Childrens Advocay Alliance",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79624&fileDownloadName=SB10_LetterinSupport_ChildrensAdvocayAlliance.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/Bill/13008/Overview",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "10-38"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nv/government",
+    "name": "Nevada",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nv"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-26T03:22:12Z"
+  }
+}

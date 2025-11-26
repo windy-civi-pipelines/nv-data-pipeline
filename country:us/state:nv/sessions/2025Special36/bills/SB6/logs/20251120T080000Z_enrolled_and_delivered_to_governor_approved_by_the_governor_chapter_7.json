@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "Enrolled and delivered to Governor.\rApproved by the Governor. Chapter 7.",
+    "date": "2025-11-20T08:00:00+00:00",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "enrolled",
+      "executive-receipt",
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB6"
+}

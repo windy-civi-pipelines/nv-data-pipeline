@@ -81,6 +81,18 @@
       "_processing": {
         "log_file_created": "2025-11-18T03:19:23Z"
       }
+    },
+    {
+      "description": "Approved by the Governor. Chapter 3.",
+      "date": "2025-11-20T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:22:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -119,6 +131,17 @@
     }
   ],
   "documents": [
+    {
+      "note": "AB3 Work Session Document",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79611&fileDownloadName=AB3_WS_doc.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "AB3 Various Reports - submitted by Mark Wlaschin, Deputy Secretary of State for Elections",
       "links": [
@@ -159,7 +182,7 @@
     "division_id": "ocd-division/country:us/state:nv"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-18T03:19:23Z",
+    "logs_latest_update": "2025-11-26T03:22:12Z",
     "text_extraction_latest_update": "2025-11-18T08:17:44.212892Z"
   }
 }

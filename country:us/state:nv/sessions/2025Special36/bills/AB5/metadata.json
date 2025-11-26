@@ -81,6 +81,29 @@
       "_processing": {
         "log_file_created": "2025-11-18T03:19:23Z"
       }
+    },
+    {
+      "description": "Taken from General File. Placed on General File for next legislative day.",
+      "date": "2025-11-18T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:22:12Z"
+      }
+    },
+    {
+      "description": "Read third time. Lost. (Yeas:\u00a010, Nays:\u00a08, Excused:\u00a03.)",
+      "date": "2025-11-19T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:22:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -152,6 +175,28 @@
     }
   ],
   "documents": [
+    {
+      "note": "AB5_Letter in Support_Brad Keating_CCSD",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79625&fileDownloadName=AB5_LetterinSupport_BradKeating_CCSD.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB5_Testimony in support_Barbara McFadden",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79623&fileDownloadName=AB5_Testimonyinsupport_BarbaraMcFadden.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "AB 5 Work Session Document with Amendments",
       "links": [
@@ -687,7 +732,7 @@
     "division_id": "ocd-division/country:us/state:nv"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-18T03:19:23Z",
+    "logs_latest_update": "2025-11-26T03:22:12Z",
     "text_extraction_latest_update": "2025-11-18T08:20:38.544257Z"
   }
 }

@@ -11,7 +11,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "AN ACT relating to public safety; revising provisions relating to assault, battery, stalking, child sexual abuse material, domestic violence and driving under the influence of alcohol or a prohibited substance; establishing certain unlawful acts relating to certain theft offenses involving property damage; revising provisions relating to offenders; establishing provisions relating to the creation of corridors and the adjudication and reporting of certain offenses committed within such corridors; making various changes relating to juvenile justice; prohibiting the construction of certain findings relating to actions for wrongful conviction; revising provisions relating to the sealing of records and specialty court programs; revising provisions relating to pretrial release; authorizing the Director of the Department of Corrections to establish an alternative correctional program; revising provisions relating to opioid use disorder; making appropriations; providing penalties; and providing other matters properly relating thereto."
+      "title": "AN ACT relating to public safety; revising provisions relating to assault, battery, stalking, child sexual abuse material, domestic violence and driving under the influence of alcohol or a prohibited substance; establishing certain unlawful acts relating to certain theft offenses involving property damage; revising provisions relating to offenders; establishing provisions relating to the creation of corridors and the adjudication and reporting of certain offenses committed within such corridors; making various changes relating to juvenile justice; prohibiting the construction of certain findings relating to actions for wrongful conviction; revising provisions relating to the sealing of records and specialty court programs; revising provisions relating to pretrial release; requiring certain facilities that hold persons to maintain and provide certain information relating to persons held at the facility; authorizing the Director of the Department of Corrections to establish an alternative correctional program; prohibiting school districts, public schools and their employees from providing certain information and access to school property under certain circumstances; revising provisions relating to opioid use disorder; making appropriations; providing penalties; and providing other matters properly relating thereto."
     }
   ],
   "other_identifiers": [],
@@ -70,7 +70,7 @@
       }
     },
     {
-      "description": "From committee: Do pass.\rDeclared an emergency measure under the Constitution. Placed on General File.",
+      "description": "From committee: Do pass.\rDeclared an emergency measure under the Constitution. Placed on General File.\rTaken from General File. Placed on General File for next legislative day.",
       "date": "2025-11-17T08:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -78,7 +78,46 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-18T03:19:23Z"
+        "log_file_created": "2025-11-26T03:22:12Z"
+      }
+    },
+    {
+      "description": "Read third time. Amended. (Amend. No. 31.)\rReprinting dispensed with.\rPlaced on General File.\rRead third time. Passed, as amended. Title approved, as amended. (Yeas:\u00a016, Nays:\u00a02, Excused:\u00a03.) To printer.",
+      "date": "2025-11-18T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:22:12Z"
+      }
+    },
+    {
+      "description": "From printer. To re-engrossment. Re-engrossed. Third reprint. To Assembly.\rIn Assembly.\rReturned from Assembly in accordance with motion of the body.\rReturned to Senate.\rIn Senate.\rAction of passage rescinded.\rPlaced on General File.\rRead third time. Amended. (Amend. No. 34.)\rReprinting dispensed with.\rRead third time. Passed, as amended. Title approved, as amended. (Yeas:\u00a016, Nays:\u00a02, Excused:\u00a03.) To printer.\rFrom printer. To re-engrossment. Re-engrossed. Fourth reprint. To Assembly.\rIn Assembly.\rSenate Amendment Nos. 31 and 34 concurred in. To enrollment.",
+      "date": "2025-11-19T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:22:12Z"
+      }
+    },
+    {
+      "description": "Enrolled and delivered to Governor.",
+      "date": "2025-11-21T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "enrolled",
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:22:12Z"
       }
     }
   ],
@@ -106,10 +145,10 @@
       "classification": ""
     },
     {
-      "note": "Amendment 13",
+      "note": "Amendment 5",
       "links": [
         {
-          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/Amendments/A_AB4_13.pdf",
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/Amendments/A_AB4_5.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -117,10 +156,10 @@
       "classification": ""
     },
     {
-      "note": "Amendment 5",
+      "note": "Amendment 13",
       "links": [
         {
-          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/Amendments/A_AB4_5.pdf",
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/Amendments/A_AB4_13.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -154,6 +193,61 @@
       "links": [
         {
           "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/AB/AB4_R2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 31",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/Amendments/A_AB4_R2_31.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reprint 3",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/AB/AB4_R3.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment 34",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/Amendments/A_AB4_R3_34.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reprint 4",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/AB/AB4_R4.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Enrolled",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/AB/AB4_EN.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -233,6 +327,17 @@
       "links": [
         {
           "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79419&fileDownloadName=AB4_WS_doc.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "AB4 Opposition Testimony - submitted by Brennan Bartley, Private Citizen",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79612&fileDownloadName=AB4_1113_Bartley.B_opptest.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -576,7 +681,7 @@
     "division_id": "ocd-division/country:us/state:nv"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-18T03:19:23Z",
+    "logs_latest_update": "2025-11-26T03:22:12Z",
     "text_extraction_latest_update": "2025-11-18T08:19:55.199855Z"
   }
 }

@@ -46,7 +46,7 @@
       }
     },
     {
-      "description": "Read third time. Passed. Title approved. (Yeas:\u00a033, Nays:\u00a06, Excused:\u00a03.)\rTo Senate.",
+      "description": "Read third time. Passed. Title approved. (Yeas:\u00a033, Nays:\u00a06, Excused:\u00a03.)\rTo Senate.\rIn Senate. To enrollment.",
       "date": "2025-11-17T08:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -55,7 +55,20 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-18T03:19:23Z"
+        "log_file_created": "2025-11-26T03:22:12Z"
+      }
+    },
+    {
+      "description": "Enrolled and delivered to Governor.",
+      "date": "2025-11-20T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "enrolled",
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:22:12Z"
       }
     }
   ],
@@ -76,6 +89,17 @@
       "links": [
         {
           "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/SB/SB7.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Enrolled",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/SB/SB7_EN.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -124,7 +148,7 @@
     "division_id": "ocd-division/country:us/state:nv"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-18T03:19:23Z",
+    "logs_latest_update": "2025-11-26T03:22:12Z",
     "text_extraction_latest_update": "2025-11-18T08:17:03.994258Z"
   }
 }

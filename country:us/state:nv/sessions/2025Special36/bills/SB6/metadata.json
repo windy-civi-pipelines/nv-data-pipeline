@@ -47,7 +47,7 @@
       }
     },
     {
-      "description": "Declared an emergency measure under the Constitution.\rRead third time. Amended. (Amend. No. 22.)\rDispensed with reprinting.\rRead third time. Passed, as amended. Title approved. (Yeas:\u00a038, Nays:\u00a0None, Excused:\u00a03, Not voting:\u00a01.)\rTo printer.\rFrom printer. To reengrossment. Reengrossed. Second reprint.\rTo Senate.",
+      "description": "Declared an emergency measure under the Constitution.\rRead third time. Amended. (Amend. No. 22.)\rDispensed with reprinting.\rRead third time. Passed, as amended. Title approved. (Yeas:\u00a038, Nays:\u00a0None, Excused:\u00a03, Not voting:\u00a01.)\rTo printer.\rFrom printer. To reengrossment. Reengrossed. Second reprint.\rTo Senate.\rIn Senate.\rAssembly Amendment No. 22 concurred in. To enrollment.",
       "date": "2025-11-17T08:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -56,7 +56,21 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-18T03:19:23Z"
+        "log_file_created": "2025-11-26T03:22:12Z"
+      }
+    },
+    {
+      "description": "Enrolled and delivered to Governor.\rApproved by the Governor. Chapter 7.",
+      "date": "2025-11-20T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "enrolled",
+        "executive-receipt",
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:22:12Z"
       }
     }
   ],
@@ -126,9 +140,64 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Enrolled",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/SB/SB6_EN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "SB6 American Bar Association Journal Vol 50 Oct. 2024 Article \"Carrying the Past Forward: Segregation, Housing Justice, and Black Families\" written and submitted by Senator Dina Neal",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79555&fileDownloadName=SB6_1116_ABAJournal_NealD.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB6 City View Park Conversion Final Environmental Assessment, September 2019, submitted by Senator Dina Neal",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79556&fileDownloadName=SB6_1116_Neal.D_report.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB6 Map of Windsor Park purchased land submitted by Senator Dina Neal",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79554&fileDownloadName=SB6_1116_Map_NealD.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB6 Video Link, \"Windsor Park: The Sinking Streets\" submitted by Senator Dina Neal",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/ExhibitDocument/OpenExhibitDocument?exhibitId=79553&fileDownloadName=SB6_1116_VideoLink_NealD.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "SB 6 Letter of Support by Brenda Williams",
       "links": [
@@ -268,7 +337,7 @@
     "division_id": "ocd-division/country:us/state:nv"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-18T03:19:23Z",
+    "logs_latest_update": "2025-11-26T03:22:12Z",
     "text_extraction_latest_update": "2025-11-18T08:18:33.290432Z"
   }
 }

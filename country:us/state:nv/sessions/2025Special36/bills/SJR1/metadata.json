@@ -1,0 +1,99 @@
+{
+  "legislative_session": "2025Special36",
+  "identifier": "SJR1",
+  "title": "Proposes to amend the Nevada Constitution to enact various requirements relating to the distribution and submission of mail ballots. (BDR\u00a0C-7)",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Proposing to amend the Nevada Constitution to enact various requirements relating to the distribution and submission of mail ballots."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Resolution read. Passed. Title approved. (Yeas:\u00a012, Nays:\u00a04, Excused:\u00a05.)\rTo printer.\rFrom printer. To Assembly.\rIn Assembly.\rResolution read. Passed. Title approved. (Yeas:\u00a026, Nays:\u00a09, Excused:\u00a07.) To Senate.\rIn Senate. To enrollment.",
+      "date": "2025-11-19T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:22:12Z"
+      }
+    },
+    {
+      "description": "Enrolled and delivered to Secretary of State.\rFile No. 10.",
+      "date": "2025-11-21T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:22:12Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Senate Jobs and Economy",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Senate Jobs and Economy\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/SJR/SJR1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Enrolled",
+      "links": [
+        {
+          "url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/SJR/SJR1_EN.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/Bill/13009/Overview",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "BDR": "C-7"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nv/government",
+    "name": "Nevada",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nv"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-26T03:22:12Z"
+  }
+}

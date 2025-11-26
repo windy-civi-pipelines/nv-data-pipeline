@@ -27,15 +27,23 @@
       }
     },
     {
-      "description": "From printer.\rResolution read and adopted.\rTo committee.",
+      "description": "From printer.\rResolution read.\rTo committee.",
       "date": "2025-11-13T08:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "passage"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-14T03:19:17Z"
+        "log_file_created": "2025-11-26T03:22:12Z"
+      }
+    },
+    {
+      "description": "(No further action taken.)",
+      "date": "2025-11-19T08:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T03:22:12Z"
       }
     }
   ],
@@ -81,7 +89,7 @@
     "division_id": "ocd-division/country:us/state:nv"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-14T03:19:17Z",
+    "logs_latest_update": "2025-11-26T03:22:12Z",
     "text_extraction_latest_update": "2025-11-14T08:16:08.636135Z"
   }
 }

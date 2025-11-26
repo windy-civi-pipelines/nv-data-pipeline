@@ -1,0 +1,17 @@
+{
+  "action": {
+    "description": "Read first time. Referred to Committee on Jobs and Economy. To printer.\rFrom printer. To committee.\rFrom committee: Do pass.\rDeclared an emergency measure under the Constitution. Placed on General File.\rRead third time. Amended. (Amend. No. 32.)\rReprinting dispensed with.\rRead third time. Passed, as amended. Title approved, as amended. (Yeas:\u00a018, Nays:\u00a0None, Excused:\u00a03.) To printer.\rFrom printer. To engrossment. Engrossed. First reprint. To Assembly.\rIn Assembly.\rRead first time.\rDeclared an emergency measure under the Constitution.\rRead third time. Amended. (Amend. No. 35.)\rDispensed with reprinting.\rRead third time. Lost. (Yeas:\u00a027, Nays:\u00a010, Excused:\u00a05.)",
+    "date": "2025-11-19T08:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage",
+      "failure",
+      "passage",
+      "reading-1",
+      "reading-3",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB10"
+}

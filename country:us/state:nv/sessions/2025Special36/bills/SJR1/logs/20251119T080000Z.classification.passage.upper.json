@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Resolution read. Passed. Title approved. (Yeas:\u00a012, Nays:\u00a04, Excused:\u00a05.)\rTo printer.\rFrom printer. To Assembly.\rIn Assembly.\rResolution read. Passed. Title approved. (Yeas:\u00a026, Nays:\u00a09, Excused:\u00a07.) To Senate.\rIn Senate. To enrollment.",
+    "date": "2025-11-19T08:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJR1"
+}
